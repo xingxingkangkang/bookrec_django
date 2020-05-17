@@ -1,0 +1,213 @@
+程序员修炼之道,AndrewHunt,https://img9.doubanio.com/view/subject/s/public/s3957204.jpg,48.00,2005-1,8.6,2262,1051,931,256,15,9,2652,826,8972,https://book.douban.com/subject/1152111/,程序
+编程.建筑,保罗·科茨,https://img1.doubanio.com/view/subject/s/public/s26095649.jpg,45.00,2012-9,7.0,13,4,4,2,1,2,15,8,40,https://book.douban.com/subject/19978430/,程序
+UNIX教程,(美)SyedMansoor,https://img3.doubanio.com/view/subject/s/public/s5739632.jpg,49.00,2006-1,7.7,14,1,7,4,1,1,14,2,7,https://book.douban.com/subject/1446666/,程序
+Dive Into Python 3,MarkPilgrim,https://img3.doubanio.com/view/subject/s/public/s4059293.jpg,44.99,2009-11-6,8.5,188,69,96,20,1,2,196,73,325,https://book.douban.com/subject/3628911/,程序
+Ajax实战,DaveCraneEricPascarello,https://img1.doubanio.com/view/subject/s/public/s1636149.jpg,69,2006年4月,8.0,390,117,172,93,7,1,624,200,659,https://book.douban.com/subject/1764900/,程序
+Pro Git,ScottChacon,https://img9.doubanio.com/view/subject/s/public/s4245786.jpg,34.99,2009-8-27,9.0,1105,663,383,57,1,1,1129,413,1367,https://book.douban.com/subject/3420144/,程序
+Ruby Cookbook,LucasCarlson,https://img1.doubanio.com/view/subject/s/public/s10309789.jpg,49.99,2006-7-29,8.3,54,13,32,7,1,1,82,24,71,https://book.douban.com/subject/1770051/,程序
+电脑报（上下册）,电脑报社,https://img9.doubanio.com/view/subject/s/public/s2176416.jpg,45.00,2006-12-01,7.7,61,12,31,16,1,1,82,5,21,https://book.douban.com/subject/1950173/,程序
+像计算机科学家一样思考Python,(美)AllenB.Downey,https://img9.doubanio.com/view/subject/s/public/s27053465.jpg,49,2013-8,8.1,203,74,86,35,5,3,204,63,659,https://book.douban.com/subject/25728189/,程序
+JAVASCRIPT语言精髓与编程实践,周爱民,https://img3.doubanio.com/view/subject/s/public/s2970031.jpg,68.00,2008-3,8.4,269,122,112,32,2,1,298,142,849,https://book.douban.com/subject/3012828/,程序
+Java语言精粹,JimWaldo,https://img1.doubanio.com/view/subject/s/public/s6520527.jpg,39.00,2011-6,7.3,38,12,15,9,1,1,46,7,72,https://book.douban.com/subject/6516576/,程序
+可爱的Python,哲思社区,https://img1.doubanio.com/view/subject/s/public/s3901817.jpg,55.00,2009-9,7.4,723,128,332,221,34,8,757,295,1239,https://book.douban.com/subject/3884108/,程序
+Big C++中文版,霍斯特曼,https://img3.doubanio.com/view/subject/s/public/s2504172.jpg,85.00,2007-3,7.9,17,9,4,2,1,1,20,5,28,https://book.douban.com/subject/2054896/,程序
+征服Ajax Web 2.0快速入门与项目实践,张桂元,https://img3.doubanio.com/view/subject/s/public/s10040562.jpg,36.00,2006-6,6.4,15,1,2,7,4,1,30,6,14,https://book.douban.com/subject/1835397/,程序
+Python网络编程基础,JohnGoerzen,https://img9.doubanio.com/view/subject/s/public/s2604186.jpg,68.00,2007,7.1,302,34,130,118,17,3,366,136,809,https://book.douban.com/subject/2152386/,程序
+BSD Hacks,DruLavigne,https://img1.doubanio.com/view/subject/s/public/s1640529.jpg,24.95,2004-05-24,7.7,12,3,6,1,1,1,10,6,26,https://book.douban.com/subject/1769295/,程序
+时间管理,ThomasA·Limoncelli,https://img3.doubanio.com/view/subject/s/public/s2917003.jpg,26.00,2007,8.2,621,201,307,99,11,3,750,209,3928,https://book.douban.com/subject/2253513/,程序
+Java编程思想 （第4版）,[美]BruceEckel,https://img9.doubanio.com/view/subject/s/public/s27243455.jpg,108.00,2007-6,9.1,3723,2443,1013,219,26,22,3625,2057,6569,https://book.douban.com/subject/2130190/,程序
+司法的过程,(美)亨利·J.亚伯拉罕,https://img3.doubanio.com/view/subject/s/public/s3908492.jpg,58.00,2009-07-28,7.3,13,2,7,2,1,1,20,13,227,https://book.douban.com/subject/3892178/,程序
+程序员2006精华本,《程序员》杂志社,https://img9.doubanio.com/view/subject/s/public/s1982224.jpg,45,2007,7.4,26,3,13,8,1,1,39,3,10,https://book.douban.com/subject/1958256/,程序
+编程卓越之道,HydeR,https://img9.doubanio.com/view/subject/s/public/s24448786.jpg,49.80,2006-4-1,8.3,170,52,85,31,1,1,216,53,633,https://book.douban.com/subject/1760738/,程序
+高效程序员的45个习惯,[美]VenkatSubramaniam,https://img1.doubanio.com/view/subject/s/public/s4073509.jpg,35.00,2010-01,8.2,1129,340,551,221,13,4,1278,233,2811,https://book.douban.com/subject/4164024/,程序
+Ajax基础教程,（美）阿斯利森,https://img3.doubanio.com/view/subject/s/public/s1559481.jpg,35.00,2006-02-01,7.1,390,54,164,152,19,1,668,119,469,https://book.douban.com/subject/1472607/,程序
+ASP.NET 2.0入门经典,[美]哈特,https://img1.doubanio.com/view/subject/s/public/s2008298.jpg,78.00,2006-8,7.2,21,3,8,6,3,1,28,5,20,https://book.douban.com/subject/1879443/,程序
+Series 60 应用程序开发,巴克,https://img9.doubanio.com/view/subject/s/public/s9974756.jpg,75.0,2005-7,7.1,15,1,6,6,1,1,18,8,12,https://book.douban.com/subject/1420424/,程序
+世界是平的,[美]托马斯·弗里德曼,https://img9.doubanio.com/view/subject/s/public/s1801825.jpg,56.00,2006-11,7.6,14140,3164,6315,4026,508,127,19501,4184,19782,https://book.douban.com/subject/1867642/,程序
+Ajax设计模式,MichaelMahemoff,https://img3.doubanio.com/view/subject/s/public/s9024530.jpg,78.00,2007-5,8.4,38,15,13,8,1,1,48,30,129,https://book.douban.com/subject/2121078/,程序
+编程之魂,FedericoBiancuzzi,https://img3.doubanio.com/view/subject/s/public/s4305983.jpg,59.80,2010-04,7.5,294,51,133,89,18,3,327,116,1994,https://book.douban.com/subject/4719230/,程序
+The Little Schemer - 4th Edition,DanielP.Friedman,https://img3.doubanio.com/view/subject/s/public/s27160742.jpg,40.00,1995-12-21,9.3,520,384,115,19,1,1,533,195,2038,https://book.douban.com/subject/1632977/,程序
+UML基础、案例与应用,施穆勒,https://img1.doubanio.com/view/subject/s/public/s8908008.jpg,42.00,2004-7-1,8.2,63,16,28,16,2,1,78,20,302,https://book.douban.com/subject/1231142/,程序
+梦断代码,ScottRosenberg,https://img9.doubanio.com/view/subject/s/public/s10403125.jpg,49.00,2008.06,7.8,882,208,423,221,23,7,1012,175,3032,https://book.douban.com/subject/3142280/,程序
+PHP程序设计,KevinTatroe,https://img3.doubanio.com/view/subject/s/public/s1395222.jpg,68.00,2003-7-1,7.9,136,39,68,24,4,1,206,83,402,https://book.douban.com/subject/1230448/,程序
+Linux内核设计与实现,拉芙,https://img3.doubanio.com/view/subject/s/public/s11272832.jpg,38.00,2006-1,8.7,568,260,259,46,2,1,643,184,1120,https://book.douban.com/subject/1503819/,程序
+代码整洁之道,[美]RobertC.Martin,https://img3.doubanio.com/view/subject/s/public/s4103991.jpg,59.00,2010-1-1,8.6,1638,718,702,201,11,6,1719,700,4967,https://book.douban.com/subject/4199741/,程序
+Visual C#2005从入门到精通,夏普,https://img3.doubanio.com/view/subject/s/public/s5747612.jpg,49.00,2006-6,7.4,25,6,13,3,2,1,36,7,30,https://book.douban.com/subject/1827723/,程序
+Beautiful Code,GregWilson,https://img9.doubanio.com/view/subject/s/public/s2653286.jpg,35.99,2007-7-6,8.0,120,30,66,18,5,1,136,115,756,https://book.douban.com/subject/2023370/,程序
+高效程序的奥秘,沃瑞恩,https://img9.doubanio.com/view/subject/s/public/s1119156.jpg,28.00,2004-5,8.6,205,82,91,29,1,2,308,106,1519,https://book.douban.com/subject/1159177/,程序
+正当法律程序简史,(美)约翰·V.奥尔特,https://img3.doubanio.com/view/subject/s/public/s2358022.jpg,14.00,2006-8,7.3,27,5,8,12,1,1,44,3,54,https://book.douban.com/subject/1897846/,程序
+C程序设计语言,BrianW.Kernighan,https://img1.doubanio.com/view/subject/s/public/s5779827.jpg,35.00,2006-8-1,9.6,568,475,80,10,2,1,554,199,1024,https://book.douban.com/subject/1882483/,程序
+Haskell,SimonThompson,https://img9.doubanio.com/view/subject/s/public/s7030944.jpg,40.99,1999-3-16,8.1,31,8,11,10,1,1,37,10,157,https://book.douban.com/subject/1794389/,程序
+Perl语言编程,[美]LarryWall,https://img1.doubanio.com/view/subject/s/public/s6092199.jpg,129.00,2001-12,8.7,256,116,111,27,1,1,306,116,430,https://book.douban.com/subject/1231697/,程序
+理解专业程序员,[美]杰拉尔德·温伯格,https://img1.doubanio.com/view/subject/s/public/s1805438.jpg,25.00,2006-7,8.1,355,122,162,63,7,1,453,42,1000,https://book.douban.com/subject/1866824/,程序
+Linux从入门到精通,刘忆智,https://img3.doubanio.com/view/subject/s/public/s4119681.jpg,59.00,2010-1-1,8.5,81,26,35,16,3,1,97,17,147,https://book.douban.com/subject/4189498/,程序
+游戏之旅,云风,https://img9.doubanio.com/view/subject/s/public/s24444264.jpg,46.00,2005-12-01,8.2,627,200,293,123,8,3,748,138,1488,https://book.douban.com/subject/1441780/,程序
+JavaScript入门经典,PaulWilton,https://img3.doubanio.com/view/subject/s/public/s5995653.jpg,98.00,2009-2,7.8,22,2,13,5,1,1,23,6,29,https://book.douban.com/subject/3576066/,程序
+Twisted Network Programming Essentials,AbeFettig,https://img9.doubanio.com/view/subject/s/public/s3832445.jpg,29.95,2005-10-20,6.7,44,4,14,20,5,1,57,19,121,https://book.douban.com/subject/1452125/,程序
+高质量程序设计艺术,斯皮内利斯,https://img3.doubanio.com/view/subject/s/public/s3395373.jpg,55.00,2008-1,8.1,56,19,24,11,1,1,58,21,362,https://book.douban.com/subject/2354769/,程序
+集体智慧编程,TobySegaran,https://img3.doubanio.com/view/subject/s/public/s3350961.jpg,59.80,2009-1,9.0,1468,843,506,110,8,1,1439,932,9489,https://book.douban.com/subject/3288908/,程序
+Ajax模式与最佳实践,ChristianGross,https://img1.doubanio.com/view/subject/s/public/s3561889.jpg,49.80,2007-3,7.1,32,3,13,13,2,1,52,15,74,https://book.douban.com/subject/2058456/,程序
+LEMON语法分析生成器,虞森林,https://img3.doubanio.com/view/subject/s/public/s5779671.jpg,58.00,2006-7,7.7,22,3,9,8,1,1,20,19,240,https://book.douban.com/subject/1954135/,程序
+程序员的思维修炼,[美]AndyHunt,https://img1.doubanio.com/view/subject/s/public/s4548399.jpg,39.00,2010-12-10,8.4,1844,707,801,293,36,7,2065,492,5599,https://book.douban.com/subject/5372651/,程序
+The Seasoned Schemer,DanielP.Friedman,https://img3.doubanio.com/view/subject/s/public/s7412483.jpg,38.00,1995-12-21,9.0,74,48,21,3,1,1,77,32,579,https://book.douban.com/subject/1726083/,程序
+单元测试之道Java版,DavidThomas,https://img1.doubanio.com/view/subject/s/public/s1874809.jpg,25.00,2005-1,7.5,151,17,79,51,3,1,213,24,370,https://book.douban.com/subject/1239651/,程序
+七周七语言,[美]BruceA·Tate,https://img3.doubanio.com/view/subject/s/public/s9046771.jpg,59.00,2012-5-8,8.1,777,233,365,165,10,4,828,417,3095,https://book.douban.com/subject/10555435/,程序
+黑客,StevenLevy,https://img3.doubanio.com/view/subject/s/public/s6951030.jpg,69.00,2011-10-31,8.2,899,360,358,158,17,6,977,336,5082,https://book.douban.com/subject/6860890/,程序
+软件测试,乔根森,https://img1.doubanio.com/view/subject/s/public/s8858368.jpg,35.00,2003-12-1,7.1,40,6,16,14,2,2,63,12,73,https://book.douban.com/subject/1126084/,程序
+鸟哥的Linux私房菜 基础学习篇(第二版),鸟哥,https://img9.doubanio.com/view/subject/s/public/s22777586.jpg,65.00,2007-9,8.9,920,510,346,62,1,1,991,305,713,https://book.douban.com/subject/2208530/,程序
+编程珠玑,JonBentley,https://img3.doubanio.com/view/subject/s/public/s4687321.jpg,39.00,2008-10,9.1,2057,1315,613,111,12,6,2145,1255,8727,https://book.douban.com/subject/3227098/,程序
+Java5.0Tiger程序高手秘笈,BrettMclaughlin,https://img3.doubanio.com/view/subject/s/public/s5739921.jpg,28.00,2005-10,7.8,27,4,13,8,1,1,35,2,9,https://book.douban.com/subject/1446810/,程序
+产品经理必懂的技术那点事儿：成为全栈产品经理,唐韧,https://img1.doubanio.com/view/subject/s/public/s29666647.jpg,59,2018-1,6.7,128,12,57,48,10,1,137,28,188,https://book.douban.com/subject/27666334/,程序
+程序开发心理学,[美]杰拉尔德·温伯格,https://img3.doubanio.com/view/subject/s/public/s1280051.jpg,39.00,2004-1-1,8.3,258,96,112,47,2,1,342,74,1712,https://book.douban.com/subject/1141154/,程序
+C专家编程,徐波,https://img9.doubanio.com/view/subject/s/public/s1457934.jpg,40.00,2002-12,9.2,477,295,155,25,1,1,650,90,894,https://book.douban.com/subject/1232029/,程序
+Effective STL中文版,[美]ScottMeyers,https://img1.doubanio.com/view/subject/s/public/s1669748.jpg,30.00,2006-1,8.9,419,221,158,37,2,1,535,89,876,https://book.douban.com/subject/1792179/,程序
+C++ Primer 中文版（第 4 版）,StanleyB.Lippman,https://img9.doubanio.com/view/subject/s/public/s1638975.jpg,99.00,2006,9.2,4283,2859,1185,205,17,17,4676,1900,5053,https://book.douban.com/subject/1767741/,程序
+交易系统,武剑锋,https://img9.doubanio.com/view/subject/s/public/s6519945.jpg,32.00,2011-1,7.7,14,2,6,4,1,1,21,8,160,https://book.douban.com/subject/5918414/,程序
+软件预构艺术（中文版）,KenPugh,https://img1.doubanio.com/view/subject/s/public/s2918328.jpg,26.00,2010-6,7.7,41,7,23,9,1,1,48,15,108,https://book.douban.com/subject/2281373/,程序
+重构,MartinFowler,https://img3.doubanio.com/view/subject/s/public/s4157180.jpg,69.00,2010,9.0,1812,1113,570,121,5,3,1850,837,4520,https://book.douban.com/subject/4262627/,程序
+Ruby for Rails中文版,DavidBlack,https://img1.doubanio.com/view/subject/s/public/s2556608.jpg,59.00,2007年06月,7.8,103,24,53,24,1,1,158,45,180,https://book.douban.com/subject/2123090/,程序
+C语言深度解剖,陈正冲,https://img9.doubanio.com/view/subject/s/public/s6500416.jpg,29.00,2010-7,7.4,125,29,51,35,4,6,150,32,143,https://book.douban.com/subject/4924419/,程序
+UML和模式应用,拉曼,https://img3.doubanio.com/view/subject/s/public/s1919002.jpg,66.00,2006-5,8.1,371,146,140,68,13,4,424,169,1082,https://book.douban.com/subject/1792387/,程序
+Ruby语言入门,Yugui,https://img3.doubanio.com/view/subject/s/public/s4368130.jpg,32.00,2010 年4月,6.7,68,9,23,21,12,3,87,19,47,https://book.douban.com/subject/4833653/,程序
+C Primer Plus,StephenPrata,https://img9.doubanio.com/view/subject/s/public/s1308874.jpg,60.00,2005-2-1,9.1,1821,1219,501,89,9,3,1759,843,3156,https://book.douban.com/subject/1240002/,程序
+法律程序的意义:对中国法制建设的另一种思考,季卫东,https://img3.doubanio.com/view/subject/s/public/s1576201.jpg,10.0,2005-1,8.8,65,32,27,4,1,1,93,9,83,https://book.douban.com/subject/1195791/,程序
+计算机算法设计与分析,王晓东,https://img3.doubanio.com/view/subject/s/public/s23132370.jpg,29.50,2007-5,6.3,130,17,36,51,14,12,180,37,110,https://book.douban.com/subject/2147362/,程序
+具体数学（英文版第2版）,[美]RonaldL.Graham,https://img9.doubanio.com/view/subject/s/public/s24396506.jpg,49.00,2002-8,9.5,834,653,143,34,1,3,750,737,4725,https://book.douban.com/subject/1231910/,程序
+数据挖掘技术,[美]MichaelJ.A.B,https://img1.doubanio.com/view/subject/s/public/s1827957.jpg,49.00,2006-7,8.1,93,33,40,18,1,1,116,81,1780,https://book.douban.com/subject/1843100/,程序
+计算机程序设计艺术（第1卷）,[美]唐纳德·E.克努特,https://img9.doubanio.com/view/subject/s/public/s9055036.jpg,98.00,2002-9,9.5,172,133,29,8,1,1,129,141,1441,https://book.douban.com/subject/1231933/,程序
+Programming Python,[美]MarkLutz,https://img9.doubanio.com/view/subject/s/public/s2976674.jpg,59.99,2006-8-30,8.0,75,19,37,16,2,1,90,46,200,https://book.douban.com/subject/1797513/,程序
+Programming From The Ground Up,JonathanBartlett,https://img3.doubanio.com/view/subject/s/public/s1659283.jpg,34.95,2004-07-31,9.3,72,44,24,2,1,1,74,39,373,https://book.douban.com/subject/1787855/,程序
+无懈可击的Web设计,DanCederholm,https://img1.doubanio.com/view/subject/s/public/s1953759.jpg,49.80,2006,8.1,400,135,184,77,2,2,565,126,886,https://book.douban.com/subject/1937913/,程序
+CSS禅意花园,[美]DaveShea,https://img9.doubanio.com/view/subject/s/public/s2406764.jpg,49.00,2007-6,8.4,1657,701,645,282,21,8,2268,480,3252,https://book.douban.com/subject/2052176/,程序
+Effective C# 中文版,BillWagner,https://img9.doubanio.com/view/subject/s/public/s28353756.jpg,49.00,2007-5,8.0,144,36,82,24,1,1,179,37,281,https://book.douban.com/subject/2054931/,程序
+Google API开发详解,江宽，龚小鹏等编,https://img3.doubanio.com/view/subject/s/public/s26716302.jpg,59.80,2008-1,7.0,25,7,7,9,1,1,31,5,58,https://book.douban.com/subject/2858461/,程序
+Swift语言实战入门,伍星,https://img1.doubanio.com/view/subject/s/public/s27708189.jpg,79,2014-10-23,6.3,36,6,12,9,6,3,37,21,73,https://book.douban.com/subject/26201913/,程序
+程序员修炼之道,AndrewHunt,https://img9.doubanio.com/view/subject/s/public/s4646956.jpg,55.00,2011-1,8.8,1025,544,373,99,5,4,1037,391,2769,https://book.douban.com/subject/5387402/,程序
+程序员2005精华本,《程序员》杂志社,https://img1.doubanio.com/view/subject/s/public/s8446187.jpg,45.00,2006-1,7.3,23,1,13,7,1,1,35,9,21,https://book.douban.com/subject/1476032/,程序
+MATLAB高效编程技巧与应用,吴鹏,https://img3.doubanio.com/view/subject/s/public/s4655513.jpg,39.00,2010-6,8.3,23,6,11,4,1,1,18,11,97,https://book.douban.com/subject/4865667/,程序
+Linux内核设计的艺术,新设计团队,https://img1.doubanio.com/view/subject/s/public/s6387198.jpg,79.00,2011-6-20,6.3,126,29,34,35,19,9,138,98,436,https://book.douban.com/subject/6433169/,程序
+精通Spring,罗时飞,https://img3.doubanio.com/view/subject/s/public/s1341340.jpg,39.0,2005-4,6.4,22,1,6,8,6,1,43,6,11,https://book.douban.com/subject/1312929/,程序
+法律论证理论,罗伯特·阿列克西,https://img1.doubanio.com/view/subject/s/public/s5692849.jpg,30.00,2002-12-01,7.8,48,21,19,6,1,1,76,24,273,https://book.douban.com/subject/1465781/,程序
+编程原本,AlexanderStepanov,https://img3.doubanio.com/view/subject/s/public/s7027640.jpg,59.00,2012-1-10,8.6,77,33,33,9,1,1,71,76,1351,https://book.douban.com/subject/7564093/,程序
+Linux Device Drivers,JonathanCorbet,https://img3.doubanio.com/view/subject/s/public/s7665471.jpg,39.95,2005-2-17,9.0,117,72,35,8,1,1,113,83,285,https://book.douban.com/subject/1493443/,程序
+MATLAB在数学建模中的应用,卓金武编,https://img1.doubanio.com/view/subject/s/public/s22778797.jpg,34.80,2011-4,8.1,101,33,51,15,1,1,107,36,240,https://book.douban.com/subject/6052205/,程序
+Java编程思想,[美]BruceEckel,https://img1.doubanio.com/view/subject/s/public/s1320039.jpg,95.00,2005-9,9.0,623,391,177,51,3,1,718,238,653,https://book.douban.com/subject/1313042/,程序
+PYTHON技术手册,马特利,https://img1.doubanio.com/view/subject/s/public/s3395418.jpg,78.00,2006-11,7.7,128,30,65,23,9,1,125,63,136,https://book.douban.com/subject/2005622/,程序
+JavaScript高级程序设计,[美]尼古拉斯·泽卡斯,https://img1.doubanio.com/view/subject/s/public/s1888787.jpg,59.00,2006年9月,8.6,981,445,427,102,6,1,1315,403,1418,https://book.douban.com/subject/1869705/,程序
+操作系统设计与实现（上册）,AndrewS.Tanenbaum,https://img1.doubanio.com/view/subject/s/public/s5811568.jpg,49.80,2007-3,9.1,219,139,60,18,1,1,229,114,1113,https://book.douban.com/subject/2044818/,程序
+疯狂的程序员,绝影,https://img1.doubanio.com/view/subject/s/public/s3325997.jpg,35.00,2008,7.8,1871,533,867,410,48,13,2149,164,1046,https://book.douban.com/subject/3267945/,程序
+Visual C++/Turbo C串口通信编程实践,熊光明,https://img9.doubanio.com/view/subject/s/public/s9912826.jpg,55.0,2004-10,7.5,14,2,7,3,1,1,18,3,14,https://book.douban.com/subject/1239416/,程序
+ASP.NET 2.0电子商务开发实战,戴瑞,https://img1.doubanio.com/view/subject/s/public/s2739798.jpg,59.00,2007-7,7.9,12,5,2,3,1,1,17,2,28,https://book.douban.com/subject/2128437/,程序
+PHP和MySQL Web开发,LukeWelling,https://img9.doubanio.com/view/subject/s/public/s1627655.jpg,78.00,2005-12,8.6,467,209,196,58,3,1,625,216,794,https://book.douban.com/subject/1340507/,程序
+程序员2010精华本,程序员杂志社,https://img9.doubanio.com/view/subject/s/public/s6277724.jpg,49.00,2011-1,6.9,22,1,7,12,1,1,30,3,23,https://book.douban.com/subject/5922756/,程序
+Beginning JavaScript with DOM Scripting and Ajax,ChristianHeilmann,https://img3.doubanio.com/view/subject/s/public/s3521573.jpg,39.99,2006-07-14,8.0,16,7,4,3,1,1,14,7,47,https://book.douban.com/subject/1757853/,程序
+Dive Into Python,MarkPilgrim,https://img3.doubanio.com/view/subject/s/public/s29694522.jpg,31.49,2004-11-5,8.2,1105,357,569,160,15,4,1301,398,948,https://book.douban.com/subject/1440658/,程序
+现代体系结构的优化编译器,[美]RandyAllen，（,https://img3.doubanio.com/view/subject/s/public/s8470840.jpg,69.00,2004-1,9.0,14,8,1,3,1,1,17,9,177,https://book.douban.com/subject/1171448/,程序
+彩色UML建模,PeterCoad,https://img3.doubanio.com/view/subject/s/public/s5967340.jpg,55.00,2008-12,7.4,28,6,12,8,1,1,37,19,162,https://book.douban.com/subject/3354137/,程序
+UML用户指南,[美]GradyBooch,https://img9.doubanio.com/view/subject/s/public/s1764934.jpg,49.00,2006-6,7.5,71,17,34,17,2,1,89,19,132,https://book.douban.com/subject/1837454/,程序
+JSP 2.0技术手册,杜远君,https://img1.doubanio.com/view/subject/s/public/s1248978.jpg,59.0,2004-5-1,7.3,46,9,18,17,1,1,61,12,47,https://book.douban.com/subject/1223239/,程序
+Java JDK6学习笔记,林信良,https://img1.doubanio.com/view/subject/s/public/s5765807.jpg,59.90,2007-4,8.5,96,36,48,9,2,1,117,31,142,https://book.douban.com/subject/2057790/,程序
+莱昂氏UNIX源代码分析,(澳)JohnLions,https://img1.doubanio.com/view/subject/s/public/s1203808.jpg,49.00,2000-7-1,8.9,106,55,30,19,1,1,137,59,573,https://book.douban.com/subject/1231822/,程序
+Spring技术手册,林信良,https://img3.doubanio.com/view/subject/s/public/s1732073.jpg,48.00,2006-07,7.8,75,15,32,25,2,1,104,16,88,https://book.douban.com/subject/1830509/,程序
+Flash ActionScript 3殿堂之路,孙颖,https://img1.doubanio.com/view/subject/s/public/s2692179.jpg,53.80,2007-09,8.1,396,122,202,64,7,1,423,176,485,https://book.douban.com/subject/2249511/,程序
+Pro JavaScript Techniques,JohnResig,https://img9.doubanio.com/view/subject/s/public/s3021624.jpg,44.99,2006-12-13,8.9,131,61,64,4,1,1,146,44,278,https://book.douban.com/subject/1949853/,程序
+About Face 2.0,AlanCooper,https://img3.doubanio.com/view/subject/s/public/s1319831.jpg,35.00,2003-3-17,8.9,92,40,39,11,1,1,148,68,476,https://book.douban.com/subject/1313472/,程序
+Core Python Programming,WesleyJ.Chun,https://img1.doubanio.com/view/subject/s/public/s4244637.jpg,49.99,2006-09-18,8.0,158,41,92,23,1,1,151,82,362,https://book.douban.com/subject/1874839/,程序
+ACM图灵奖演讲集,阿申豪斯特,https://img9.doubanio.com/view/subject/s/public/s2040504.jpg,55.0,2005-4,7.9,80,25,36,12,5,2,105,33,423,https://book.douban.com/subject/1283244/,程序
+面向对象分析与设计,GradyBooch,https://img9.doubanio.com/view/subject/s/public/s6052824.jpg,79.00,2009-8,8.4,134,58,58,14,2,2,141,71,999,https://book.douban.com/subject/3892590/,程序
+征服Python,孙广磊,https://img1.doubanio.com/view/subject/s/public/s2856468.jpg,59.0,2007年9月,6.4,119,11,29,61,15,3,144,32,45,https://book.douban.com/subject/2240226/,程序
+深入浅出Ajax,（美）BrettMcLaughlin,https://img1.doubanio.com/view/subject/s/public/s5659437.jpg,98.00,2006-5,8.4,66,28,28,7,2,1,77,16,153,https://book.douban.com/subject/1819768/,程序
+圣殿祭司的ASP.NET 2.0开发详解,奚江华,https://img1.doubanio.com/view/subject/s/public/s1977288.jpg,88.00,2006-11-1,7.4,39,9,18,9,2,1,70,12,44,https://book.douban.com/subject/1936917/,程序
+UML基础与Rose建模教程,人民邮电出版社,https://img9.doubanio.com/view/subject/s/public/s5640114.jpg,36.00,2006-1,6.8,19,3,3,9,3,1,27,2,35,https://book.douban.com/subject/1504641/,程序
+精通正则表达式,弗里德尔,https://img9.doubanio.com/view/subject/s/public/s1514636.jpg,72.00,2005-9,8.5,58,25,19,12,1,1,59,27,118,https://book.douban.com/subject/1450763/,程序
+程序员修炼之道（影印版）,AndrewHunt,https://img9.doubanio.com/view/subject/s/public/s9810516.jpg,39.00,2003-8-1,9.0,80,51,21,6,1,1,100,22,275,https://book.douban.com/subject/1119873/,程序
+重构,MartinFowler,https://img3.doubanio.com/view/subject/s/public/s1669771.jpg,68.00,2003-8-1,9.0,2063,1192,694,161,12,4,2807,698,5163,https://book.douban.com/subject/1229923/,程序
+Pragmatic Thinking and Learning,[美]AndyHunt,https://img1.doubanio.com/view/subject/s/public/s3409719.jpg,34.95,2008,8.4,126,51,59,13,2,1,128,52,461,https://book.douban.com/subject/3049085/,程序
+网页艺术设计,彭钢,https://img3.doubanio.com/view/subject/s/public/s1995412.jpg,39.00,2006-9,7.0,10,2,4,2,1,1,14,0,8,https://book.douban.com/subject/1962216/,程序
+iBATIS实战,(加)ClintonBegin,https://img1.doubanio.com/view/subject/s/public/s25000689.jpg,45.00,2008-5,7.2,50,4,26,18,1,1,64,12,42,https://book.douban.com/subject/3062105/,程序
+SQL必知必会（第3版）,(英)BenForta,https://img9.doubanio.com/view/subject/s/public/s2593426.jpg,29.0,2007-07-01,8.1,379,126,187,64,1,1,481,76,676,https://book.douban.com/subject/2124377/,程序
+UNIX编程艺术,[美]EricS·Raymond,https://img3.doubanio.com/view/subject/s/public/s1631790.jpg,59.00,2006-2,9.0,2113,1264,668,167,10,4,2464,794,6045,https://book.douban.com/subject/1467587/,程序
+C语言的科学和艺术,[美]罗伯茨,https://img3.doubanio.com/view/subject/s/public/s1318503.jpg,55.00,2005-3,8.8,120,56,55,7,1,1,142,34,419,https://book.douban.com/subject/1289136/,程序
+ASP.NET 2.0开发指南,郝刚,https://img3.doubanio.com/view/subject/s/public/s1661780.jpg,88.0,2006,6.9,42,6,14,18,3,1,68,21,53,https://book.douban.com/subject/1790308/,程序
+Perl语言入门,[美]RandalL.Schwartz,https://img1.doubanio.com/view/subject/s/public/s1455528.jpg,48.00,2002-8,8.6,167,87,56,22,1,1,208,42,120,https://book.douban.com/subject/1231934/,程序
+Beginning Java Objects中文版从概念到代码,巴克,https://img9.doubanio.com/view/subject/s/public/s5801794.jpg,78.00,2007-1,8.7,39,15,20,2,1,1,44,9,77,https://book.douban.com/subject/1972754/,程序
+现代操作系统（第3版）,[美]AndrewS·Tanenbaum,https://img3.doubanio.com/view/subject/s/public/s3895413.jpg,75.00,2009-7,8.9,744,432,244,55,8,5,701,421,2888,https://book.douban.com/subject/3852290/,程序
+Linux内核完全剖析,赵炯,https://img1.doubanio.com/view/subject/s/public/s1720039.jpg,79.00,2006-1,8.6,98,44,39,11,3,1,105,47,370,https://book.douban.com/subject/1481173/,程序
+程序员的数学思维修炼（趣味解读）,周颖,https://img3.doubanio.com/view/subject/s/public/s27247453.jpg,45.00,2014-4-1,5.5,93,6,11,48,14,14,100,20,170,https://book.douban.com/subject/25854719/,程序
+Programming Collective Intelligence,TobySegaran,https://img3.doubanio.com/view/subject/s/public/s2653941.jpg,39.99,2007-8-26,8.9,422,250,141,28,2,1,386,321,1489,https://book.douban.com/subject/2209702/,程序
+从问题到程序,裘宗燕,https://img1.doubanio.com/view/subject/s/public/s1448558.jpg,36.00,2005-9-1,8.3,57,27,23,5,1,1,74,15,264,https://book.douban.com/subject/1431996/,程序
+链接,[美]巴拉巴西,https://img3.doubanio.com/view/subject/s/public/s2614522.jpg,28.00,2007-04-01,8.6,537,257,212,63,3,2,719,140,2482,https://book.douban.com/subject/2149971/,程序
+UML风格,布格勒,https://img3.doubanio.com/view/subject/s/public/s8458103.jpg,35.00,2008-12,7.7,12,5,4,1,1,1,13,3,17,https://book.douban.com/subject/3349773/,程序
+松本行弘的程序世界,[日]松本行弘,https://img9.doubanio.com/view/subject/s/public/s11290956.jpg,75.00,2011-8,8.4,1004,360,463,165,13,3,1099,426,2623,https://book.douban.com/subject/6756090/,程序
+敏捷软件开发,[美]RobertC·Martin,https://img9.doubanio.com/view/subject/s/public/s1671095.jpg,59.00,2003-09-01,9.0,1396,896,387,106,6,1,1682,578,4525,https://book.douban.com/subject/1140457/,程序
+UML精粹:标准对象建模语言简明指南(第3版)(英文影印版),福勒,https://img1.doubanio.com/view/subject/s/public/s2139568.jpg,26.00,2006年3月1日,8.7,27,13,10,2,1,1,34,12,262,https://book.douban.com/subject/1754490/,程序
+网站重构,[美]JeffreyZeldman,https://img9.doubanio.com/view/subject/s/public/s2162724.jpg,38.00,2005-4,7.8,834,236,355,220,20,3,1503,202,1229,https://book.douban.com/subject/1230451/,程序
+机械设计实践,村洋太郎(日),https://img1.doubanio.com/view/subject/s/public/s1283037.jpg,36.00,1998-08,9.0,42,27,12,1,1,1,36,41,610,https://book.douban.com/subject/1278482/,程序
+.NET设计规范,克瓦林纳,https://img1.doubanio.com/view/subject/s/public/s1994088.jpg,49.00,2006-7,8.6,145,61,59,22,2,1,189,53,254,https://book.douban.com/subject/1829262/,程序
+哥德尔、艾舍尔、巴赫,[美]侯世达,https://img1.doubanio.com/view/subject/s/public/s1789059.jpg,88.00,1997-5,9.4,6181,4717,1119,278,37,30,5198,6061,56027,https://book.douban.com/subject/1291204/,程序
+The Definitive Guide to Django,AdrianHolovaty,https://img3.doubanio.com/view/subject/s/public/s3021613.jpg,45.14,2007-12-06,8.6,160,63,76,19,1,1,161,58,243,https://book.douban.com/subject/1798896/,程序
+咨询的奥秘,[美]杰拉尔德·温伯格,https://img9.doubanio.com/view/subject/s/public/s1220064.jpg,29.00,2004,8.1,513,194,182,113,22,2,650,196,3680,https://book.douban.com/subject/1230437/,程序
+Effective Programming,JeffAtwood,https://img1.doubanio.com/view/subject/s/public/s11338309.jpg,9.95,2012-7-4,7.8,18,4,9,3,1,1,22,5,83,https://book.douban.com/subject/11639780/,程序
+嵌入式Linux应用程序开发详解,孙琼,https://img9.doubanio.com/view/subject/s/public/s24549954.jpg,46.00,2006-7,7.0,21,1,11,6,2,1,29,9,38,https://book.douban.com/subject/1844778/,程序
+Hacker&#39;s Delight,HenryS.WarrenJr.,https://img3.doubanio.com/view/subject/s/public/s2405972.jpg,59.99,2002-7-27,9.3,61,42,15,2,1,1,58,52,1404,https://book.douban.com/subject/1784887/,程序
+JavaScript DOM编程艺术,[英]JeremyKeith,https://img3.doubanio.com/view/subject/s/public/s1958902.jpg,39.00,2006年12月,8.7,1148,560,440,140,3,5,1500,336,2090,https://book.douban.com/subject/1921890/,程序
+面向模式的软件体系结构(卷1) (平装),FrankBuschmann,https://img9.doubanio.com/view/subject/s/public/s1959726.jpg,45.0,2003-1,7.7,84,30,28,20,2,4,115,26,385,https://book.douban.com/subject/1232017/,程序
+软件研发之道,JimMcCarthy,https://img1.doubanio.com/view/subject/s/public/s6864198.jpg,45.00,2011-8,8.5,13,6,2,2,2,1,18,6,153,https://book.douban.com/subject/6713152/,程序
+Head First 设计模式（中文版）,[美]弗里曼,https://img9.doubanio.com/view/subject/s/public/s2686916.jpg,98.00,2007-9,9.2,3033,2070,788,154,12,9,3114,1288,5371,https://book.douban.com/subject/2243615/,程序
+.NET本质论 第1卷:公共语言运行库,博克斯(BoxDon),https://img1.doubanio.com/view/subject/s/public/s9864419.jpg,48.00,2004-1,8.9,50,26,14,8,1,1,69,14,155,https://book.douban.com/subject/1151348/,程序
+Scalable Internet Architectures,TheoSchlossnagle,https://img3.doubanio.com/view/subject/s/public/s4314461.jpg,49.99,2006-7-31,7.4,18,5,5,6,1,1,38,7,232,https://book.douban.com/subject/1868178/,程序
+C陷阱与缺陷,凯尼格,https://img3.doubanio.com/view/subject/s/public/s2870233.jpg,30.00,2008-2-1,8.9,1342,698,528,102,13,1,1642,283,1774,https://book.douban.com/subject/2778632/,程序
+30天自制操作系统,[日]川合秀实,https://img1.doubanio.com/view/subject/s/public/s11138117.jpg,99.00,2012-8,8.3,299,121,118,43,12,5,244,257,3276,https://book.douban.com/subject/11530329/,程序
+计算机科学概论,(美)J.GlennBrookshear,https://img9.doubanio.com/view/subject/s/public/s2739764.jpg,49.00,2007-8,9.4,76,56,13,5,1,1,82,22,251,https://book.douban.com/subject/2171700/,程序
+高性能网站建设指南,SteveSouders,https://img9.doubanio.com/view/subject/s/public/s5914296.jpg,35.00,2008年,8.5,976,408,442,124,1,1,1335,247,2743,https://book.douban.com/subject/3132277/,程序
+组成论,张学文,https://img1.doubanio.com/view/subject/s/public/s8967109.jpg,35.00,2003-12,8.1,16,4,7,3,1,1,22,3,92,https://book.douban.com/subject/1584327/,程序
+金融计算与建模,朱世武,https://img3.doubanio.com/view/subject/s/public/s9011672.jpg,40.00,2007-8,7.3,11,1,5,3,1,1,13,7,54,https://book.douban.com/subject/2254254/,程序
+Haskell函数式编程基础,SimonThompson,https://img9.doubanio.com/view/subject/s/public/s27014645.jpg,129.00,2013-7-1,7.0,14,4,4,4,1,1,14,5,69,https://book.douban.com/subject/25702414/,程序
+UML风格,[英]安布勒,https://img3.doubanio.com/view/subject/s/public/s1221031.jpg,18.00,2004-7,8.0,16,6,4,4,1,1,21,3,41,https://book.douban.com/subject/1174976/,程序
+JAVASCRIPT权威指南(第四版),[美]DavidFlanagan,https://img3.doubanio.com/view/subject/s/public/s1504052.jpg,99.00,2003-1-1,8.6,771,377,295,87,9,3,1206,398,1461,https://book.douban.com/subject/1232061/,程序
+机器学习系统设计,[德]WilliRichert,https://img3.doubanio.com/view/subject/s/public/s27296520.jpg,49.00,2014-7-1,7.5,97,18,48,29,1,1,92,47,469,https://book.douban.com/subject/25899625/,程序
+Fortran95程序设计,彭国伦,https://img3.doubanio.com/view/subject/s/public/s6627693.jpg,59.00,2002-9,8.4,135,65,56,12,1,1,151,40,69,https://book.douban.com/subject/1241039/,程序
+Perl语言入门,RandalL.Schwartz,https://img3.doubanio.com/view/subject/s/public/s3395382.jpg,42.00,2007-1,8.7,265,132,107,24,1,1,306,83,241,https://book.douban.com/subject/2030712/,程序
+黑客与画家,[美]保罗·格雷厄姆,https://img9.doubanio.com/view/subject/s/public/s4669554.jpg,49.00,2011-4,8.7,17929,8822,7011,1900,161,35,20796,3792,27223,https://book.douban.com/subject/6021440/,程序
+面向对象的系统设计,邵维忠,https://img9.doubanio.com/view/subject/s/public/s5822635.jpg,29.00,2007-5,7.0,17,2,6,7,1,1,16,2,14,https://book.douban.com/subject/2115245/,程序
+Web Caching,DuaneWessels,https://img9.doubanio.com/view/subject/s/public/s20895205.jpg,39.95,2001-6,8.0,19,5,7,5,1,1,34,10,309,https://book.douban.com/subject/1486020/,程序
+Compilers,AlfredV.Aho,https://img3.doubanio.com/view/subject/s/public/s9041690.jpg,186.80,2006-9-10,8.7,157,89,48,17,2,1,144,89,615,https://book.douban.com/subject/1866231/,程序
+编程人生,[美]PeterSeibel,https://img9.doubanio.com/view/subject/s/public/s4549954.jpg,79.00,2011-1-1,8.5,587,232,262,83,8,2,665,278,3945,https://book.douban.com/subject/5355285/,程序
+学习bash,CameronNewham,https://img1.doubanio.com/view/subject/s/public/s24430749.jpg,45.00,2003-1-1,7.6,130,23,69,34,3,1,190,49,374,https://book.douban.com/subject/1241361/,程序
+PERL學習手札.,簡信昌,https://img3.doubanio.com/view/subject/s/public/s1470792.jpg,390,20040816,7.9,12,4,5,1,1,1,15,1,37,https://book.douban.com/subject/1363643/,程序
+The  C Programming Language,BrianW.Kernighan,https://img3.doubanio.com/view/subject/s/public/s29586132.jpg,67.00,1988-4-1,9.6,1285,1063,192,28,1,1,1466,367,2173,https://book.douban.com/subject/1236999/,程序
+Head First EJB（中文版）,KathySierra，Ber,https://img3.doubanio.com/view/subject/s/public/s5788531.jpg,79.00,2006-9,8.0,23,7,10,4,1,1,31,9,56,https://book.douban.com/subject/1911557/,程序
+JUnit Recipes中文版,陈浩等译,https://img1.doubanio.com/view/subject/s/public/s6529069.jpg,69.00,2006-9,7.2,29,4,15,8,1,1,31,8,36,https://book.douban.com/subject/1922986/,程序
+《电脑报》2005年合订本（上下）,电脑报社主编,https://img9.doubanio.com/view/subject/s/public/s5638815.jpg,45.00,2006-1,7.7,32,6,16,8,1,1,47,2,13,https://book.douban.com/subject/1488824/,程序
+复杂网络理论及其应用,汪小帆,https://img1.doubanio.com/view/subject/s/public/s1679618.jpg,45.00,2006,7.8,127,28,68,29,1,1,164,53,410,https://book.douban.com/subject/1808611/,程序
+计算机程序设计艺术（第3卷）,[美]DonaldKnuth,https://img9.doubanio.com/view/subject/s/public/s26278395.jpg,98.00,2002-9,9.9,47,39,5,1,1,1,86,32,566,https://book.douban.com/subject/1241037/,程序
+Effective java 中文版（第2版）,[美]JoshuaBloch,https://img3.doubanio.com/view/subject/s/public/s3479802.jpg,52.00,2009-1-1,9.1,1630,1067,452,81,19,11,1687,703,2993,https://book.douban.com/subject/3360807/,程序
+设计模式,[美]ErichGamma,https://img3.doubanio.com/view/subject/s/public/s1074361.jpg,35.00,2000-9,9.0,2870,1793,832,206,25,14,3837,1182,7861,https://book.douban.com/subject/1052241/,程序
+C语言参考手册,SamuelP.Harbison,https://img9.doubanio.com/view/subject/s/public/s3395374.jpg,55.00,2007,9.1,36,21,12,1,1,1,32,14,330,https://book.douban.com/subject/2132084/,程序
+人月神话,[美]弗雷德里克·布鲁克斯,https://img9.doubanio.com/view/subject/s/public/s1086045.jpg,29.80,2002-11,8.4,3208,1272,1420,475,35,6,4390,966,8921,https://book.douban.com/subject/1102259/,程序
+程序与民主,皮罗·克拉玛德雷,https://img9.doubanio.com/view/subject/s/public/s5720865.jpg,8.20,2005-3,8.1,19,5,9,3,1,1,19,4,38,https://book.douban.com/subject/1649817/,程序
+Apache Tomcat 6高级编程,VivekChopra,https://img1.doubanio.com/view/subject/s/public/s5992597.jpg,79.00,2009-3,7.4,17,3,5,6,2,1,19,7,39,https://book.douban.com/subject/3565840/,程序
+Flash第一步,陈冰,https://img3.doubanio.com/view/subject/s/public/s1678250.jpg,45.00,2006-3,8.0,36,10,12,12,1,1,46,17,44,https://book.douban.com/subject/1804020/,程序
+ActionScript 3.0 Cookbook中文版,JoeyLott,https://img9.doubanio.com/view/subject/s/public/s23110585.jpg,78.00,2007-11-01,8.1,130,40,65,23,1,1,155,54,208,https://book.douban.com/subject/2367867/,程序
+算法导论（原书第2版）,[美]ThomasH.Cormen,https://img1.doubanio.com/view/subject/s/public/s1959967.jpg,85.00,2006-9,9.3,4951,3621,1089,208,19,14,4578,3664,12540,https://book.douban.com/subject/1885170/,程序
+JavaScript高级程序设计（第3版）,[美]尼古拉斯·泽卡斯,https://img3.doubanio.com/view/subject/s/public/s8958650.jpg,99.00,2012-3-29,9.3,2300,1662,545,85,4,4,2065,1236,4446,https://book.douban.com/subject/10546125/,程序
+TCP/IP详解 卷1：协议,[美]W·RichardStevens,https://img9.doubanio.com/view/subject/s/public/s1543906.jpg,45.00,2000-4-1,9.2,2087,1435,518,104,16,14,2309,1034,5286,https://book.douban.com/subject/1088054/,程序
+Text Processing in Python,DavidMertz,https://img3.doubanio.com/view/subject/s/public/s4304243.jpg,54.99,2003-6-12,7.5,35,5,12,16,1,1,41,16,176,https://book.douban.com/subject/1748395/,程序
+JavaScript权威指南,弗拉纳根,https://img3.doubanio.com/view/subject/s/public/s5860151.jpg,109.00,2007-8,8.9,734,404,253,64,8,5,761,470,1547,https://book.douban.com/subject/2228378/,程序
+STL源码剖析,侯捷,https://img9.doubanio.com/view/subject/s/public/s1092076.jpg,68.00,2002-6,8.7,1312,702,470,127,6,7,1503,534,2969,https://book.douban.com/subject/1110934/,程序
+数据结构与算法分析,[美]MarkAllenWeiss,https://img3.doubanio.com/view/subject/s/public/s28015501.jpg,35.00,2004-1-1,8.9,1883,1082,629,139,20,13,1882,1144,7407,https://book.douban.com/subject/1139426/,程序
+The Little Schemer,[美]DanielP.Friedman,https://img1.doubanio.com/view/subject/s/public/s29486759.jpg,65.00,2017-7,8.9,81,57,14,8,1,1,87,49,561,https://book.douban.com/subject/27080946/,程序
+深入理解计算机系统,RandalE.Bryant,https://img3.doubanio.com/view/subject/s/public/s1470003.jpg,85.00,2004-5-1,9.5,2735,2179,473,76,5,2,2789,1767,12178,https://book.douban.com/subject/1230413/,程序
+Imperfect C++中文版,威尔逊,https://img1.doubanio.com/view/subject/s/public/s1525567.jpg,75.0,2006-1,8.2,53,20,18,11,3,1,59,21,266,https://book.douban.com/subject/1470838/,程序
+程序设计语言,[英]斯科特,https://img1.doubanio.com/view/subject/s/public/s5673118.jpg,88.00,2005-1,8.6,32,10,17,3,1,1,39,20,131,https://book.douban.com/subject/1231298/,程序
+轻快的Java,(美)塔特、杰兰德/国别：中国大陆,https://img9.doubanio.com/view/subject/s/public/s5780154.jpg,29.00,2006-7,7.4,22,4,7,9,1,1,25,7,63,https://book.douban.com/subject/1911882/,程序
+Web协议与实践,克里希纳穆尔蒂(KrishnamurthyBalachander),https://img3.doubanio.com/view/subject/s/public/s1095643.jpg,46.0,2003-7,8.6,19,7,9,1,1,1,20,9,186,https://book.douban.com/subject/1119944/,程序
+JavaScript DOM编程艺术 （第2版）,[英]JeremyKeith,https://img3.doubanio.com/view/subject/s/public/s4677623.jpg,49.00,2011-4,8.7,1585,769,641,158,11,6,1683,419,2147,https://book.douban.com/subject/6038371/,程序
+C++程序设计教程,钱能,https://img9.doubanio.com/view/subject/s/public/s5802545.jpg,39.50,2005-9,7.3,185,34,85,54,9,3,210,44,170,https://book.douban.com/subject/1444656/,程序
+编程之美,《编程之美》小组编,https://img3.doubanio.com/view/subject/s/public/s2992671.jpg,40.00,2008-3,8.4,3153,1123,1559,422,34,15,3404,1637,8513,https://book.douban.com/subject/3004255/,程序
+系统程序员成长计划,李先静,https://img1.doubanio.com/view/subject/s/public/s4342419.jpg,45.00,2010-04,7.9,226,88,83,46,7,2,226,97,1029,https://book.douban.com/subject/4722708/,程序
+How to Think Like a Computer Scientist: Learning with Python,AllenB.Downey,https://img9.doubanio.com/view/subject/s/public/s1498716.jpg,24.95,2002-1-4,8.5,139,56,60,19,3,1,156,79,494,https://book.douban.com/subject/1481058/,程序
+How to Design Programs,MatthiasFelleisen,https://img9.doubanio.com/view/subject/s/public/s2577325.jpg,71.00,2001-2-12,9.1,144,88,44,10,1,1,138,102,1218,https://book.douban.com/subject/1787103/,程序
+C++编程风格,卡吉尔,https://img1.doubanio.com/view/subject/s/public/s2177547.jpg,25.00,2007-1,7.8,27,4,15,6,1,1,34,6,51,https://book.douban.com/subject/1967180/,程序
+Linux程序设计,马修,https://img3.doubanio.com/view/subject/s/public/s8886970.jpg,89.00,2007-7,8.4,344,139,156,47,1,1,389,123,458,https://book.douban.com/subject/2073826/,程序
+程序设计实践,[美]BrianW.Kernighan,https://img3.doubanio.com/view/subject/s/public/s24431930.jpg,20.00,2000-8,9.1,473,295,144,32,1,1,576,145,2950,https://book.douban.com/subject/1173548/,程序

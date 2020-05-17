@@ -1,0 +1,212 @@
+用户界面设计,施奈德曼(ShneidermanBen),https://img3.doubanio.com/view/subject/s/public/s1781821.jpg,38.0,2004年1月1日,6.9,88,12,24,46,5,1,197,64,384,https://book.douban.com/subject/1237890/,交互
+Designing Visual Interfaces,KevinMullet,https://img9.doubanio.com/view/subject/s/public/s4214045.jpg,84.99,1994-12-15,7.9,45,14,13,16,1,1,77,39,127,https://book.douban.com/subject/1478928/,交互
+A Project Guide to UX Design,RussUnger,https://img1.doubanio.com/view/subject/s/public/s4255069.jpg,39.99,2009-3-23,8.9,34,14,14,4,1,1,88,46,305,https://book.douban.com/subject/3421275/,交互
+建筑计划学,邹广天,https://img1.doubanio.com/view/subject/s/public/s6165839.jpg,29.00,2010-5,7.3,30,6,11,11,1,1,47,22,27,https://book.douban.com/subject/4836373/,交互
+Designing Interactions,BillMoggridge,https://img1.doubanio.com/view/subject/s/public/s7037768.jpg,30.95,2006-11-24,9.0,501,261,166,72,1,1,774,505,4391,https://book.douban.com/subject/1894206/,交互
+交互设计：原理与方法,顾振宇,https://img3.doubanio.com/view/subject/s/public/s32324032.jpg,88,2016-11-1,8.8,27,16,7,2,1,1,32,14,381,https://book.douban.com/subject/26978939/,交互
+GUI设计禁忌2.0,JeffJohnson,https://img9.doubanio.com/view/subject/s/public/s3321524.jpg,49.00,2008,7.7,220,59,91,64,5,1,355,116,828,https://book.douban.com/subject/3263946/,交互
+移动应用UI设计模式,[美]TheresaNeil,https://img9.doubanio.com/view/subject/s/public/s24230856.jpg,49.00,2013-1-1,7.3,364,51,157,136,16,4,438,125,1373,https://book.douban.com/subject/20381558/,交互
+交互的未来,[美]AmberCase,https://img3.doubanio.com/view/subject/s/public/s29537110.jpg,39.00,2017-9,7.3,41,7,15,12,6,1,37,11,143,https://book.douban.com/subject/27133266/,交互
+Best iPhone Apps,JDBiersdorferJ.D.,https://img1.doubanio.com/view/subject/s/public/s4669639.jpg,19.99,2010-9-27,7.7,12,6,2,2,1,1,11,7,27,https://book.douban.com/subject/5315203/,交互
+神一样的产品经理,闫荣,https://img3.doubanio.com/view/subject/s/public/s27586970.jpg,79.00,2012-6-1,7.2,412,96,132,141,26,17,460,163,997,https://book.douban.com/subject/10769591/,交互
+为什么大猩猩比专家高明,[美]乔纳·莱勒,https://img1.doubanio.com/view/subject/s/public/s4158047.jpg,29.00,2010年1月,8.4,691,285,285,106,11,4,822,223,4652,https://book.douban.com/subject/4263247/,交互
+Designing Interfaces,JeniferTidwell,https://img3.doubanio.com/view/subject/s/public/s7411251.jpg,49.95,2005-11-28,8.7,95,39,45,9,1,1,183,42,319,https://book.douban.com/subject/1455616/,交互
+Processing互动编程艺术,谭亮,https://img1.doubanio.com/view/subject/s/public/s6514269.jpg,39.00,2011-6,7.0,187,43,62,63,14,5,235,105,991,https://book.douban.com/subject/6517501/,交互
+交互设计指南,DanSaffer,https://img3.doubanio.com/view/subject/s/public/s4388772.jpg,33.00,2010年7月,7.7,283,60,133,84,5,1,402,142,1034,https://book.douban.com/subject/4881989/,交互
+Learning Processing,DanielShiffman,https://img3.doubanio.com/view/subject/s/public/s3177453.jpg,49.95,2008-08-15,9.0,186,109,60,15,1,1,336,165,591,https://book.douban.com/subject/3143256/,交互
+Designing Social Interfaces,ChristianCrumlish,https://img3.doubanio.com/view/subject/s/public/s7113751.jpg,49.99,2009-10-8,7.9,26,4,17,3,1,1,57,29,166,https://book.douban.com/subject/3787852/,交互
+语音用户界面设计：对话式体验设计原则,【美】CathyPearl（凯瑟彼尔）,https://img9.doubanio.com/view/subject/s/public/s29597794.jpg,79.00,2017-10-1,7.7,80,14,46,17,2,1,90,31,330,https://book.douban.com/subject/27188306/,交互
+About Face 2.0,AlanCooper,https://img3.doubanio.com/view/subject/s/public/s1319831.jpg,35.00,2003-3-17,8.9,92,40,39,11,1,1,148,68,476,https://book.douban.com/subject/1313472/,交互
+社交网站界面设计,ChristianCrumlish,https://img3.doubanio.com/view/subject/s/public/s4630990.jpg,69.00,2010-9-1,7.6,299,68,134,89,6,2,497,241,2006,https://book.douban.com/subject/4909176/,交互
+用户体验百家谈,DDF.UXPA中国,https://img1.doubanio.com/view/subject/s/public/s27142597.jpg,49.00,2014-1,7.1,31,15,4,6,4,2,33,12,141,https://book.douban.com/subject/25773225/,交互
+Inside Facebook,KarelM.Baloun,https://img1.doubanio.com/view/subject/s/public/s4384068.jpg,14.50,2007-04-25,7.3,21,3,8,8,1,1,25,6,102,https://book.douban.com/subject/2155227/,交互
+无懈可击的Web设计,DanCederholm,https://img1.doubanio.com/view/subject/s/public/s1953759.jpg,49.80,2006,8.1,400,135,184,77,2,2,565,126,886,https://book.douban.com/subject/1937913/,交互
+Rapid Contextual Design,KarenHoltzblatt,https://img3.doubanio.com/view/subject/s/public/s4356100.jpg,59.95,2004-12-28,8.1,30,16,8,4,1,1,59,24,242,https://book.douban.com/subject/1997584/,交互
+圖解設計思考,艾琳•路佩登,https://img1.doubanio.com/view/subject/s/public/s23115328.jpg,110.00,2012-4-1,8.4,64,24,30,8,1,1,67,31,418,https://book.douban.com/subject/10779515/,交互
+Gamification by Design,GabeZichermann,https://img1.doubanio.com/view/subject/s/public/s6832697.jpg,24.99,2011-8-19,7.4,19,1,12,4,1,1,26,13,177,https://book.douban.com/subject/6726962/,交互
+A Touch of Code,RobertKlanten,https://img3.doubanio.com/view/subject/s/public/s6761852.jpg,40.00,2011-4,8.6,23,12,8,1,1,1,29,11,103,https://book.douban.com/subject/5960812/,交互
+设计师要懂心理学2,[美]SusanM.Weinschenk,https://img1.doubanio.com/view/subject/s/public/s28866307.jpg,59.00,2016-7,7.9,77,13,34,26,2,2,91,23,268,https://book.douban.com/subject/26830207/,交互
+Mental Models,IndiYoung,https://img3.doubanio.com/view/subject/s/public/s7617870.jpg,39.00,2008-2-15,6.6,68,15,19,32,1,1,69,52,221,https://book.douban.com/subject/3052851/,交互
+工程和设计中的人因学,MarkSanders,https://img3.doubanio.com/view/subject/s/public/s4135453.jpg,78.00,2009-5,8.4,16,4,9,1,1,1,16,8,89,https://book.douban.com/subject/3746065/,交互
+自然用户界面设计,[加]DanielWigdor,https://img3.doubanio.com/view/subject/s/public/s22701380.jpg,49.00,2012-11-3,6.2,36,4,7,20,4,1,46,20,278,https://book.douban.com/subject/19961110/,交互
+Information Architecture for the World Wide Web,PeterMorville,https://img3.doubanio.com/view/subject/s/public/s7113771.jpg,39.99,2006-12-4,8.3,78,29,36,10,2,1,178,45,382,https://book.douban.com/subject/1878625/,交互
+搜索模式,PeterMorville,https://img3.doubanio.com/view/subject/s/public/s4547013.jpg,35.00,2010-10,7.2,154,30,70,46,6,2,210,75,770,https://book.douban.com/subject/5319798/,交互
+Don&#39;t Make Me Think,[美]SteveKrug,https://img9.doubanio.com/view/subject/s/public/s1879564.jpg,35.00,2000-10-13,8.5,184,75,86,20,2,1,254,39,260,https://book.douban.com/subject/1901208/,交互
+GUI设计禁忌,约翰逊,https://img9.doubanio.com/view/subject/s/public/s1403365.jpg,49.00,2005-2-1,7.3,209,36,89,73,10,1,567,127,1176,https://book.douban.com/subject/1268619/,交互
+交互设计概论,李四达,https://img3.doubanio.com/view/subject/s/public/s4077890.jpg,35.00,2009-9,6.4,45,10,10,21,3,1,68,27,77,https://book.douban.com/subject/4037608/,交互
+动静之美 Sketch移动UI与交互动效设计详解,黄方闻,https://img3.doubanio.com/view/subject/s/public/s29448763.jpg,88.00,2016-7-1,7.6,63,17,20,16,9,1,53,23,186,https://book.douban.com/subject/26847053/,交互
+Communicating Design,[美]丹·布朗,https://img9.doubanio.com/view/subject/s/public/s4234256.jpg,44.99,2006-09-16,8.7,42,20,15,5,1,1,191,38,617,https://book.douban.com/subject/1861298/,交互
+众妙之门,德国Smashing杂志,https://img3.doubanio.com/view/subject/s/public/s27259912.jpg,49.00,2014-2-1,6.8,13,1,4,6,1,1,22,2,72,https://book.douban.com/subject/25866560/,交互
+工业设计心理学,李乐山,https://img3.doubanio.com/view/subject/s/public/s6314030.jpg,25.70,2004-1,7.7,60,15,22,21,1,1,78,20,176,https://book.douban.com/subject/1615055/,交互
+服务设计思维,雅各布施耐德,https://img1.doubanio.com/view/subject/s/public/s29111658.jpg,88.00,2015-12,7.3,67,12,24,26,4,1,73,18,286,https://book.douban.com/subject/26898405/,交互
+用户体验设计,[瑞典]乔尔·马什,https://img1.doubanio.com/view/subject/s/public/s29767879.jpg,59.00,2018-5,7.6,25,7,12,4,1,1,25,11,179,https://book.douban.com/subject/30221659/,交互
+游戏UI设计：修炼之道,师维,https://img9.doubanio.com/view/subject/s/public/s29680505.jpg,79.00,2018-1-1,7.7,33,15,8,8,1,1,30,10,127,https://book.douban.com/subject/30133192/,交互
+Interaction of Color,JosefAlbers,https://img3.doubanio.com/view/subject/s/public/s3536592.jpg,16.00,2006-5-15,9.4,29,21,5,1,1,1,45,20,469,https://book.douban.com/subject/2128991/,交互
+Axure RP7网站和APP原型制作从入门到精通,金乌,https://img3.doubanio.com/view/subject/s/public/s28024063.jpg,69.00,2015-3,6.4,54,3,14,33,3,1,61,25,145,https://book.douban.com/subject/26341966/,交互
+体验与挑战产品交互设计,李世国,https://img9.doubanio.com/view/subject/s/public/s5875534.jpg,40.00,2008-1,7.1,105,31,31,34,7,2,178,23,158,https://book.douban.com/subject/2998873/,交互
+版面设计的原理,[日]伊达千代,https://img1.doubanio.com/view/subject/s/public/s7646999.jpg,45.00,2011-10,8.2,707,239,328,129,10,1,801,163,2351,https://book.douban.com/subject/6718283/,交互
+精益设计,[美]JeffGothelf,https://img1.doubanio.com/view/subject/s/public/s29708068.jpg,49.00,2018-2,7.5,18,4,6,6,1,1,21,2,78,https://book.douban.com/subject/30162090/,交互
+Emotional Design,DonNorman,https://img9.doubanio.com/view/subject/s/public/s4247614.jpg,16.95,2005-5-11,8.2,124,40,58,24,1,1,166,61,409,https://book.douban.com/subject/1465328/,交互
+破茧成蝶2,刘津,https://img3.doubanio.com/view/subject/s/public/s29821272.jpg,79,2018-8-1,8.4,234,110,83,31,6,4,225,83,529,https://book.douban.com/subject/30276274/,交互
+集创思维设计矩阵,慈思远,https://img3.doubanio.com/view/subject/s/public/s29461310.jpg,72.00,2017-4,8.3,62,46,8,6,1,1,52,16,208,https://book.douban.com/subject/27055156/,交互
+无界面交互,[美]GoldenKrishna,https://img9.doubanio.com/view/subject/s/public/s29259415.jpg,49.00,2017-1,7.0,174,27,63,61,19,4,184,15,402,https://book.douban.com/subject/26947799/,交互
+德国设计图典,李菲,https://img3.doubanio.com/view/subject/s/public/s3764231.jpg,99.00,2009-4,7.9,38,7,23,6,1,1,62,4,78,https://book.douban.com/subject/3521444/,交互
+Web导航设计,JamesKalbach,https://img3.doubanio.com/view/subject/s/public/s3378240.jpg,69.80,2009 年3月,8.1,250,81,120,43,4,2,456,167,1571,https://book.douban.com/subject/3313897/,交互
+Making Things Talk,TomIgoe,https://img1.doubanio.com/view/subject/s/public/s6900469.jpg,29.99,2007-10-5,8.6,101,41,42,14,3,1,289,94,601,https://book.douban.com/subject/2278644/,交互
+设计方法与策略,[荷]代尔夫特理工大学工业设计工程学院,https://img3.doubanio.com/view/subject/s/public/s27325492.jpg,89.9,2014-8-25,8.3,350,162,123,55,8,2,362,161,1807,https://book.douban.com/subject/25927569/,交互
+CSS禅意花园（修订版）,[美]DaveShea,https://img1.doubanio.com/view/subject/s/public/s11087399.jpg,59.00,2012-7,7.6,38,12,15,9,1,1,45,16,130,https://book.douban.com/subject/10956515/,交互
+Designing for Small Screens Studio,CarolaZwick,https://img3.doubanio.com/view/subject/s/public/s1953122.jpg,29.95,2006-04,7.9,60,23,20,15,1,1,89,69,106,https://book.douban.com/subject/1946247/,交互
+User-Centered Web Design,JohnCato,https://img9.doubanio.com/view/subject/s/public/s1995286.jpg,39.99,2001,7.5,35,7,14,12,1,1,169,44,29,https://book.douban.com/subject/1967469/,交互
+认知心理学,(英)艾森克,https://img1.doubanio.com/view/subject/s/public/s3885299.jpg,88.00,2009-7-1,8.4,125,40,59,23,2,1,153,68,1263,https://book.douban.com/subject/3854718/,交互
+About Face 3 交互设计精髓,AlanCooper,https://img3.doubanio.com/view/subject/s/public/s3340712.jpg,72.00,2008-11,8.6,1312,619,518,156,14,5,1501,926,6956,https://book.douban.com/subject/3279105/,交互
+谈判力,[美]罗杰·费希尔,https://img1.doubanio.com/view/subject/s/public/s4424889.jpg,22.00,2009-4,7.7,1153,279,502,322,39,11,1320,516,10677,https://book.douban.com/subject/3682751/,交互
+方寸指间,无线工坊,https://img3.doubanio.com/view/subject/s/public/s27216062.jpg,48,2014-3,7.9,291,79,123,68,19,2,332,44,584,https://book.douban.com/subject/25817261/,交互
+心理与行为科学统计,甘怡群,https://img9.doubanio.com/view/subject/s/public/s29367404.jpg,28.8,2005,8.3,474,190,197,78,8,1,605,83,1532,https://book.douban.com/subject/1493780/,交互
+Axure RP 6原型设计精髓,EzraSchwartz,https://img3.doubanio.com/view/subject/s/public/s26377833.jpg,88.00,2013-5,7.8,156,45,66,36,6,3,182,95,862,https://book.douban.com/subject/24325849/,交互
+微交互,塞弗(DanSaffer),https://img9.doubanio.com/view/subject/s/public/s27261016.jpg,35.00,2013-11-1,7.5,342,57,188,85,8,4,386,69,929,https://book.douban.com/subject/25744600/,交互
+一目了然,[美]Jr·RobertHoekman,https://img3.doubanio.com/view/subject/s/public/s8933811.jpg,59.00,2012-3-19,7.8,81,19,40,20,1,1,86,26,368,https://book.douban.com/subject/10537875/,交互
+触动人心,JoshClark,https://img1.doubanio.com/view/subject/s/public/s6951937.jpg,79.00,2011-10,8.4,1049,389,472,173,12,3,1242,427,4366,https://book.douban.com/subject/6864391/,交互
+可视化数据,弗莱,https://img1.doubanio.com/view/subject/s/public/s6005597.jpg,65.00,2009-3,7.6,120,36,42,36,5,1,138,63,1055,https://book.douban.com/subject/3661214/,交互
+思考，快与慢,[美]丹尼尔·卡尼曼,https://img1.doubanio.com/view/subject/s/public/s10345719.jpg,69.00,2012-7,8.2,12616,4989,4850,2172,416,189,13090,7585,51970,https://book.douban.com/subject/10785583/,交互
+用户体验要素,JesseJamesGarrett,https://img1.doubanio.com/view/subject/s/public/s6519128.jpg,39.00,2011-7-1,8.3,2978,1164,1301,443,56,14,3436,537,5931,https://book.douban.com/subject/6523997/,交互
+争论点：用户体验设计师的交互指南,王争,https://img3.doubanio.com/view/subject/s/public/s32325711.jpg,99.90,2019-6,7.1,33,11,2,9,6,5,38,3,33,https://book.douban.com/subject/33454283/,交互
+走出软件作坊,阿朱,https://img9.doubanio.com/view/subject/s/public/s4026944.jpg,39.80,2009-1,8.2,1849,642,851,316,29,11,2207,497,3499,https://book.douban.com/subject/3319935/,交互
+设计心理学2,[美]唐纳德·A·诺曼,https://img1.doubanio.com/view/subject/s/public/s6860869.jpg,38.00,2011-8-1,7.9,816,187,405,202,19,3,949,261,1564,https://book.douban.com/subject/6750510/,交互
+一个证券分析师的醒悟,张化桥,https://img3.doubanio.com/view/subject/s/public/s4489882.jpg,30.00,2010-9,7.9,1973,455,947,505,49,17,2487,341,3286,https://book.douban.com/subject/5029372/,交互
+贴心的设计,IndiYoung,https://img3.doubanio.com/view/subject/s/public/s29456632.jpg,59.00,2017-1-1,7.8,17,5,7,3,1,1,18,9,137,https://book.douban.com/subject/27050614/,交互
+Talk to Me,JamerHunt(Author),https://img1.doubanio.com/view/subject/s/public/s7017968.jpg,35.00,2011-7-31,8.3,27,9,12,4,1,1,36,12,113,https://book.douban.com/subject/6796583/,交互
+身體評估之OSCE臨床能力鑑定,蔡秀鸞總校閱,https://img3.doubanio.com/view/subject/s/public/s29184610.jpg,500,2009-11-20,8.4,98,54,26,16,1,1,128,72,1873,https://book.douban.com/subject/3182082/,交互
+移动设计,傅小贞,https://img3.doubanio.com/view/subject/s/public/s26714692.jpg,69.00,2013-7-1,7.7,489,121,218,115,18,17,507,176,1013,https://book.douban.com/subject/24753137/,交互
+Objective-C基础教程,MarkDalrymple,https://img9.doubanio.com/view/subject/s/public/s3885296.jpg,49.00,2009-8,7.3,548,107,232,161,30,18,595,211,721,https://book.douban.com/subject/3864073/,交互
+界面设计模式,JeniferTidwell,https://img1.doubanio.com/view/subject/s/public/s8838707.jpg,99.00,2011-5,8.3,47,15,22,8,1,1,43,46,229,https://book.douban.com/subject/6710641/,交互
+实验室.庙宇.市场-对科学.宗教和发展的交互作用的反思,沙伦·M.P.哈珀编,https://img1.doubanio.com/view/subject/s/public/s8446658.jpg,20.00,2006-3,7.5,21,4,10,4,2,1,42,13,57,https://book.douban.com/subject/1895451/,交互
+信息设计,简·维索基·欧格雷迪(O＇Grady.J.V.),https://img3.doubanio.com/view/subject/s/public/s6131433.jpg,98.00,2009-12,8.5,224,94,81,47,1,1,307,120,1326,https://book.douban.com/subject/4308069/,交互
+交互设计之路,库帕,https://img9.doubanio.com/view/subject/s/public/s1517284.jpg,38.00,2006-3,7.9,1050,288,468,270,18,6,1711,388,5369,https://book.douban.com/subject/1493316/,交互
+Web界面设计,BillScott,https://img1.doubanio.com/view/subject/s/public/s3857678.jpg,80.00,2009年7月,8.7,614,265,227,112,6,4,925,386,4045,https://book.douban.com/subject/3821157/,交互
+Sketching User Experiences,BillBuxton,https://img3.doubanio.com/view/subject/s/public/s4356540.jpg,49.95,2007-4-11,8.1,88,21,50,15,1,1,113,72,645,https://book.douban.com/subject/2079208/,交互
+Making Things See,GregBorenstein,https://img3.doubanio.com/view/subject/s/public/s9110243.jpg,39.99,2012-2-3,7.6,19,7,4,6,1,1,28,7,79,https://book.douban.com/subject/6875294/,交互
+Designing the iPhone User Experience,SuzanneGinsburg,https://img3.doubanio.com/view/subject/s/public/s4384861.jpg,44.99,2010-08-23,7.6,18,5,6,5,1,1,25,24,62,https://book.douban.com/subject/4783322/,交互
+网站交互设计模式,杜月(DouglasK.VanDuyne),https://img9.doubanio.com/view/subject/s/public/s4078085.jpg,108.00,2009-10,7.2,155,38,58,53,4,2,235,139,968,https://book.douban.com/subject/3948372/,交互
+以匠心，致设计：网易 UEDC 用户体验设计,网易用户体验设计中心,https://img3.doubanio.com/view/subject/s/public/s29847631.jpg,95.00,2018-8,7.9,116,29,57,27,2,1,122,30,344,https://book.douban.com/subject/30302327/,交互
+人机交互,董建明,https://img9.doubanio.com/view/subject/s/public/s2529925.jpg,29.0,2007-5,6.8,104,23,28,42,9,2,193,42,223,https://book.douban.com/subject/2115239/,交互
+Web表单设计,[美]LukeWroblewski,https://img9.doubanio.com/view/subject/s/public/s11230326.jpg,49.00,2010-6,8.6,610,266,235,104,4,1,950,230,2658,https://book.douban.com/subject/4886100/,交互
+多设备体验设计,[美]MichalLevin,https://img3.doubanio.com/view/subject/s/public/s29092721.jpg,59.00,2016-10,6.9,17,2,5,7,2,1,17,6,101,https://book.douban.com/subject/26891252/,交互
+锦绣蓝图,[美]沃德科(ChristinaWodtke),https://img3.doubanio.com/view/subject/s/public/s4395753.jpg,59.00,2009-11-01,8.0,1041,285,488,250,13,5,1449,473,3594,https://book.douban.com/subject/4076216/,交互
+Designing with the Mind in Mind,JeffJohnson,https://img3.doubanio.com/view/subject/s/public/s7665012.jpg,30.99,2010-06-09,8.9,89,41,30,16,1,1,102,50,259,https://book.douban.com/subject/4741480/,交互
+設計&amp;未來生活,[美]唐纳德·诺曼,https://img1.doubanio.com/view/subject/s/public/s3181988.jpg,300,2008/07/11,7.6,20,6,6,6,1,1,34,15,83,https://book.douban.com/subject/3147412/,交互
+用户体验草图设计工具手册（全彩）,BillBuxton(比尔•巴克斯顿),https://img3.doubanio.com/view/subject/s/public/s27277941.jpg,79.00,2014-6,7.7,84,12,34,30,6,2,95,29,345,https://book.douban.com/subject/25882647/,交互
+在你身边，为你设计,腾讯公司用户研究与体验设计部,https://img1.doubanio.com/view/subject/s/public/s24522948.jpg,69.00,2013-1,7.2,1232,225,445,450,80,32,1416,371,3943,https://book.douban.com/subject/20471302/,交互
+原动画基础教程,[英]理查德·威廉姆斯,https://img9.doubanio.com/view/subject/s/public/s2012844.jpg,128.00,2006-1,9.6,1645,1323,294,26,1,1,1763,592,4938,https://book.douban.com/subject/1485731/,交互
+设计调研,戴力农,https://img3.doubanio.com/view/subject/s/public/s27233680.jpg,49.00,2014-4,7.4,213,55,83,59,13,3,233,86,896,https://book.douban.com/subject/25842108/,交互
+Web信息架构(第3版),PeterMorville,https://img9.doubanio.com/view/subject/s/public/s3431996.jpg,85.00,2008年8月,8.2,880,286,402,156,29,7,1146,576,4949,https://book.douban.com/subject/3169342/,交互
+Designing for Interaction,DanSaffer,https://img9.doubanio.com/view/subject/s/public/s4672035.jpg,45.00,2006-7-28,8.3,61,20,27,12,1,1,171,53,729,https://book.douban.com/subject/1868081/,交互
+情感化设计,[美]唐纳德·诺曼,https://img3.doubanio.com/view/subject/s/public/s2170151.jpg,36.00,2005-5,8.1,2242,626,1092,483,33,8,3593,805,8812,https://book.douban.com/subject/1314262/,交互
+踏進互動科技世界,MASSIMOBANZI,https://img9.doubanio.com/view/subject/s/public/s4553314.jpg,83.00,2009-8-1,7.8,13,6,3,2,1,1,12,8,32,https://book.douban.com/subject/5382710/,交互
+Designing Interfaces,JeniferTidwell,https://img3.doubanio.com/view/subject/s/public/s4612133.jpg,49.99,2011-1-6,8.4,50,16,24,8,1,1,54,40,133,https://book.douban.com/subject/5948757/,交互
+三双鞋,[美]谢家华,https://img1.doubanio.com/view/subject/s/public/s4499697.jpg,32.90,2011-1,8.3,2564,943,1110,456,38,17,3119,607,8073,https://book.douban.com/subject/5302113/,交互
+游戏的人,[荷]约翰·赫伊津哈,https://img9.doubanio.com/view/subject/s/public/s2725584.jpg,28.00,2007-9,7.8,297,69,147,71,9,1,372,106,2381,https://book.douban.com/subject/2269047/,交互
+Maeda @ Media,JohnMaeda,https://img3.doubanio.com/view/subject/s/public/s1454100.jpg,45.00,2001-9-8,9.1,29,19,7,1,1,1,121,5,224,https://book.douban.com/subject/1437443/,交互
+Now You See It,StephenFew,https://img1.doubanio.com/view/subject/s/public/s4241928.jpg,45.00,2009-4-1,7.6,23,10,4,7,1,1,36,14,173,https://book.douban.com/subject/3815834/,交互
+Algorithms for Visual Design Using the Processing Language,KostasTerzidis,https://img3.doubanio.com/view/subject/s/public/s3858760.jpg,60.00,2009,7.8,30,8,14,6,1,1,30,41,122,https://book.douban.com/subject/3226935/,交互
+About Face 4: 交互设计精髓,[美]艾伦·库伯,https://img9.doubanio.com/view/subject/s/public/s29011584.jpg,118.00,2015-10,8.6,716,361,256,74,10,15,557,574,3019,https://book.douban.com/subject/26642302/,交互
+设计沟通十器,DanielM·Brown,https://img1.doubanio.com/view/subject/s/public/s3443957.jpg,49.00,2008-12,7.6,349,78,149,107,12,3,584,176,1616,https://book.douban.com/subject/3348282/,交互
+Understanding Your Users,CatherineCourage,https://img3.doubanio.com/view/subject/s/public/s1663670.jpg,59.95,2004-12-28,8.3,97,35,38,22,1,1,207,120,238,https://book.douban.com/subject/1793267/,交互
+见微知著-WEB用户体验解构,李清,https://img9.doubanio.com/view/subject/s/public/s4324385.jpg,36.00,2010-4,7.3,229,33,103,82,10,1,293,66,368,https://book.douban.com/subject/4766571/,交互
+Tapworthy,JoshClark,https://img3.doubanio.com/view/subject/s/public/s5543223.jpg,30.99,2010-6-25,8.5,41,13,22,4,1,1,63,21,182,https://book.douban.com/subject/4254166/,交互
+上瘾,[美]尼尔·埃亚尔,https://img3.doubanio.com/view/subject/s/public/s29436163.jpg,49.00,2017-5,7.4,2730,462,1337,839,82,10,2891,447,5450,https://book.douban.com/subject/27030507/,交互
+好用型设计,[美]唐纳德·A·诺曼,https://img3.doubanio.com/view/subject/s/public/s26237520.jpg,36.00,2007-10,8.3,260,108,98,49,2,3,373,69,768,https://book.douban.com/subject/2262838/,交互
+交互设计,李世国,https://img3.doubanio.com/view/subject/s/public/s7658522.jpg,52.00,2012-1,6.9,12,3,3,3,2,1,19,0,27,https://book.douban.com/subject/10435874/,交互
+可用性工程,尼尔森,https://img3.doubanio.com/view/subject/s/public/s1607782.jpg,28.00,2004-1,8.1,321,94,150,69,7,1,587,139,1420,https://book.douban.com/subject/1185932/,交互
+交互式系统原理与设计,奥沙利文,https://img1.doubanio.com/view/subject/s/public/s1815558.jpg,45.0,2006-7,8.3,68,27,23,16,1,1,181,50,314,https://book.douban.com/subject/1844685/,交互
+Getting Started with Arduino,MassimoBanzi,https://img9.doubanio.com/view/subject/s/public/s6780485.jpg,12.99,2008-10-15,7.6,213,37,38,135,2,1,295,42,196,https://book.douban.com/subject/3257711/,交互
+User Interface Design for Programmers,AvramJoelSpolsky,https://img3.doubanio.com/view/subject/s/public/s4173552.jpg,29.95,2006-1-23,8.3,39,15,18,4,1,1,66,27,129,https://book.douban.com/subject/1463950/,交互
+Change by Design,TimBrown,https://img9.doubanio.com/view/subject/s/public/s4245234.jpg,27.99,2009-10-1,7.8,82,23,40,17,1,1,98,53,577,https://book.douban.com/subject/3712207/,交互
+Observing the User Experience,ElizabethGoodmanPh.D.SchoolofInformationUniversityofCaliforniaBerkeley,https://img3.doubanio.com/view/subject/s/public/s29549953.jpg,59.95,2012-9-21,8.7,16,9,4,1,1,1,15,10,74,https://book.douban.com/subject/11543181/,交互
+应需而变,PeterMerholz,https://img3.doubanio.com/view/subject/s/public/s3722651.jpg,29.00,2009,7.6,341,66,159,108,6,2,513,138,1630,https://book.douban.com/subject/3665205/,交互
+设计心理学,[美]唐纳德·A·诺曼,https://img1.doubanio.com/view/subject/s/public/s9491387.jpg,30.00,2010-03,8.1,2966,939,1429,546,44,8,3489,1155,8455,https://book.douban.com/subject/4606471/,交互
+用户体验与可用性测试,［日］樽本徹也,https://img1.doubanio.com/view/subject/s/public/s28022367.jpg,42.00,2015-3,7.7,137,28,71,35,2,1,156,38,548,https://book.douban.com/subject/26340381/,交互
+交互系统新概念设计(用户绩效和用户体验设计准则)/UI\UE系列丛书,阿维·法利赛(AviParush),https://img3.doubanio.com/view/subject/s/public/s29837501.jpg,79.00,2017-4-1,8.4,17,6,8,1,1,1,16,5,70,https://book.douban.com/subject/27023063/,交互
+Designing for the Digital Age,KimGoodwin,https://img3.doubanio.com/view/subject/s/public/s4277812.jpg,57.50,2009-3-13,8.9,32,22,7,1,1,1,56,24,520,https://book.douban.com/subject/3792134/,交互
+信息架构学,E·莫洛根,https://img3.doubanio.com/view/subject/s/public/s6632442.jpg,29.80,2008-1,6.1,20,1,6,8,4,1,55,11,114,https://book.douban.com/subject/3419173/,交互
+易用为王,[美]EricReiss,https://img9.doubanio.com/view/subject/s/public/s26835964.jpg,59.00,2013-8,7.1,35,4,17,12,1,1,48,7,143,https://book.douban.com/subject/24858505/,交互
+Web视觉设计,PennyMcIntire,https://img9.doubanio.com/view/subject/s/public/s3254594.jpg,56.00,2008-08,6.9,61,14,12,27,7,1,91,41,122,https://book.douban.com/subject/3208401/,交互
+好设计不简单Ⅱ,［日］古贺直树,https://img3.doubanio.com/view/subject/s/public/s27327282.jpg,39.00,2014-8,6.1,59,4,13,31,7,4,61,8,81,https://book.douban.com/subject/25928776/,交互
+The Visual Miscellaneum,DavidMcCandless,https://img9.doubanio.com/view/subject/s/public/s4256424.jpg,26.99,2009-11-10,8.8,69,35,18,14,1,1,86,31,745,https://book.douban.com/subject/4135234/,交互
+设计败道：来自著名用户体验案例的教训,【美】VictorLombardi（维克多•隆巴迪）,https://img3.doubanio.com/view/subject/s/public/s28692101.jpg,75.00,2016-4,7.3,17,2,8,4,2,1,15,3,89,https://book.douban.com/subject/26786776/,交互
+Programming Interactivity,JoshuaNoble,https://img9.doubanio.com/view/subject/s/public/s3772945.jpg,49.99,2009-7-28,8.2,76,41,22,10,2,1,111,74,275,https://book.douban.com/subject/3710133/,交互
+简单法则,[美]前田约翰,https://img3.doubanio.com/view/subject/s/public/s2595180.jpg,25.00,2007,7.7,640,155,264,191,21,9,884,151,3059,https://book.douban.com/subject/2144413/,交互
+胜于言传,[英]瑞蒂希(Redish.J.),https://img1.doubanio.com/view/subject/s/public/s3825019.jpg,65.00,2009-5,8.3,145,53,56,32,3,1,351,71,679,https://book.douban.com/subject/3742366/,交互
+全景探秘游戏设计艺术,[美]JesseSchell,https://img1.doubanio.com/view/subject/s/public/s4399209.jpg,69.00,2010-6,9.0,449,285,119,40,4,1,444,199,3203,https://book.douban.com/subject/4837351/,交互
+交互设计那些事儿,阿西UED,https://img3.doubanio.com/view/subject/s/public/s28825560.jpg,59.00,2016-7,5.7,62,2,15,20,18,7,62,9,47,https://book.douban.com/subject/26820877/,交互
+写给大家看的设计书（第3版）,[美]RobinWilliams,https://img9.doubanio.com/view/subject/s/public/s23486434.jpg,49.00,2009-1,8.6,11496,5140,4875,1379,80,22,13097,2543,26324,https://book.douban.com/subject/3323633/,交互
+Contextual Design,HughBeyer,https://img3.doubanio.com/view/subject/s/public/s4172131.jpg,85.95,1997-9-15,8.4,19,7,9,1,1,1,29,15,221,https://book.douban.com/subject/1484389/,交互
+亲爱的界面,[瑞士]LukasMathis,https://img9.doubanio.com/view/subject/s/public/s23128765.jpg,49.00,2012-11,8.0,299,80,145,68,5,1,358,123,1539,https://book.douban.com/subject/20278578/,交互
+视觉可用性,斯克莱特(TaniaSchlatter),https://img1.doubanio.com/view/subject/s/public/s28103517.jpg,99.00,2015-3-1,6.8,13,3,1,6,2,1,17,3,39,https://book.douban.com/subject/26418698/,交互
+信息可视化,（英）RobertSpence,https://img9.doubanio.com/view/subject/s/public/s7037304.jpg,59.00,2012-1,7.2,56,10,19,25,1,1,72,20,300,https://book.douban.com/subject/10427877/,交互
+国际经典交互设计教程:用户体验设计,GavinAllanwood,https://img1.doubanio.com/view/subject/s/public/s28321479.jpg,52.4,2015-8-1,5.1,32,2,5,13,9,3,35,13,57,https://book.douban.com/subject/26646243/,交互
+网页设计解析,周陟,https://img1.doubanio.com/view/subject/s/public/s3680719.jpg,62.00,2009-3,6.8,84,14,26,28,10,6,95,34,198,https://book.douban.com/subject/3618849/,交互
+国际经典交互设计教程:界面设计,DaveWood,https://img3.doubanio.com/view/subject/s/public/s28321480.jpg,52.4,2015-8,5.5,14,1,1,4,7,1,15,7,37,https://book.douban.com/subject/26646244/,交互
+设计未来,JonathanFollett,https://img1.doubanio.com/view/subject/s/public/s29105087.jpg,119.00,2016-1-1,7.4,38,9,18,7,2,2,44,10,256,https://book.douban.com/subject/26712707/,交互
+合作的复杂性,[美]阿克塞尔罗德,https://img9.doubanio.com/view/subject/s/public/s3123724.jpg,30.00,2008年4月,8.5,151,58,67,24,1,1,197,63,1204,https://book.douban.com/subject/3094759/,交互
+工程心理学笔记,张侃,https://img9.doubanio.com/view/subject/s/public/s26810714.jpg,29.80,2013-5,8.5,14,3,8,1,1,1,13,3,20,https://book.douban.com/subject/24839085/,交互
+Building Social Web Applications,GavinBell,https://img1.doubanio.com/view/subject/s/public/s7044177.jpg,34.99,2009-10-1,7.2,11,3,3,1,3,1,56,11,92,https://book.douban.com/subject/3433034/,交互
+The Lean Startup,EricRies,https://img9.doubanio.com/view/subject/s/public/s23109115.jpg,28.00,2011-9-13,8.6,528,231,215,69,12,1,618,268,2420,https://book.douban.com/subject/6779576/,交互
+关键设计报告,[美]比尔·莫格里奇,https://img1.doubanio.com/view/subject/s/public/s6537277.jpg,218.00,2011-6,8.4,255,111,99,35,5,5,297,170,2137,https://book.douban.com/subject/6024020/,交互
+交互式培训,HaroldD.Stolovitch,https://img3.doubanio.com/view/subject/s/public/s8849182.jpg,35.00,2012-1,8.1,165,66,62,29,7,1,180,53,717,https://book.douban.com/subject/6965435/,交互
+交互设计沉思录,JonKolko,https://img9.doubanio.com/view/subject/s/public/s17505146.jpg,49.00,2012-10-1,7.8,676,172,292,185,23,4,838,319,5446,https://book.douban.com/subject/19934344/,交互
+Processing: Creative Coding and Computational Art,IraGreenberg,https://img3.doubanio.com/view/subject/s/public/s8365683.jpg,59.99,2008-2-25,8.1,101,32,48,17,3,1,257,103,635,https://book.douban.com/subject/1474114/,交互
+瞬间之美,[美]Jr·RobertHoekman,https://img9.doubanio.com/view/subject/s/public/s4190255.jpg,45.00,2009-7,8.0,2112,558,1064,463,23,4,2721,580,4205,https://book.douban.com/subject/3886044/,交互
+调查研究手册,阿尔瑞,https://img3.doubanio.com/view/subject/s/public/s5857431.jpg,36.00,2008-1,7.9,21,6,8,4,2,1,28,21,43,https://book.douban.com/subject/2700948/,交互
+认知与设计,JeffJohnson,https://img3.doubanio.com/view/subject/s/public/s28035813.jpg,59.00,2011-9-1,8.7,1525,684,624,201,12,4,1797,605,6426,https://book.douban.com/subject/6792322/,交互
+细节决定交互设计的成败,张亮,https://img1.doubanio.com/view/subject/s/public/s3720349.jpg,49.00,2009-3,7.1,106,23,31,45,6,1,232,50,345,https://book.douban.com/subject/3639503/,交互
+技术时代的人类心灵,盖伦,https://img3.doubanio.com/view/subject/s/public/s3180263.jpg,18.00,2008-4,8.0,93,21,42,26,3,1,116,29,421,https://book.douban.com/subject/3121178/,交互
+数字化成长3.0版,[加拿大]唐·泰普斯科特,https://img3.doubanio.com/view/subject/s/public/s4063011.jpg,39.80,2009-11,6.4,48,6,21,11,9,1,64,9,205,https://book.douban.com/subject/4141730/,交互
+设计网事,千鸟,https://img3.doubanio.com/view/subject/s/public/s4368013.jpg,38.00,2010-1,7.6,433,106,174,135,12,6,619,176,1209,https://book.douban.com/subject/4233474/,交互
+界面设计模式（第2版）,泰德维尔(JeniferTidwell),https://img9.doubanio.com/view/subject/s/public/s27979205.jpg,119.00,2013-9-1,8.5,121,49,53,17,1,1,136,57,1382,https://book.douban.com/subject/25716088/,交互
+设计之下,搜狐新闻客户端UED团队,https://img9.doubanio.com/view/subject/s/public/s27274164.jpg,69.00,2014-1-1,7.5,512,124,195,167,22,4,589,132,1401,https://book.douban.com/subject/25817190/,交互
+Interactive Architecture,MichaelFox,https://img9.doubanio.com/view/subject/s/public/s6481944.jpg,50.00,20090901,8.3,34,14,12,6,1,1,41,23,113,https://book.douban.com/subject/4101914/,交互
+The Elements of User Experience,JesseJamesGarrett,https://img1.doubanio.com/view/subject/s/public/s4256987.jpg,39.99,2002-10-21,8.3,100,43,43,12,1,1,255,24,358,https://book.douban.com/subject/1428942/,交互
+赢在设计,[美]洛芙迪(LanceLoveday),https://img3.doubanio.com/view/subject/s/public/s4428821.jpg,55.00,2010-8,8.0,117,36,49,27,4,1,311,65,575,https://book.douban.com/subject/4924293/,交互
+與設計向前行,[日]田中一光,https://img9.doubanio.com/view/subject/s/public/s3755435.jpg,550,2009-04-25,8.4,184,64,84,34,1,1,242,133,1613,https://book.douban.com/subject/3701687/,交互
+软件创新之路,[美]AlanCooper,https://img9.doubanio.com/view/subject/s/public/s1430015.jpg,28.00,2001-2,8.5,155,67,48,38,1,1,276,134,400,https://book.douban.com/subject/1237849/,交互
+GUI Bloopers,JeffJohnson,https://img3.doubanio.com/view/subject/s/public/s4338842.jpg,63.95,2000-03-31,8.3,85,38,32,13,1,1,150,69,120,https://book.douban.com/subject/1690890/,交互
+Generative Art,MattPearson,https://img3.doubanio.com/view/subject/s/public/s8774943.jpg,25.99,2011-7-10,8.5,61,23,26,10,1,1,63,38,263,https://book.douban.com/subject/6004474/,交互
+Diagrams,JessicaGlaser,https://img9.doubanio.com/view/subject/s/public/s4495914.jpg,40.00,2009-11-1,8.7,17,5,7,3,1,1,22,5,78,https://book.douban.com/subject/4125520/,交互
+别具光芒,王觯程,https://img9.doubanio.com/view/subject/s/public/s4391126.jpg,49.00,2010-5,8.4,32,10,17,3,1,1,50,32,26,https://book.douban.com/subject/4817741/,交互
+设计道,杭间,https://img1.doubanio.com/view/subject/s/public/s3609089.jpg,49.00,2009-1,7.3,81,11,37,31,1,1,92,41,178,https://book.douban.com/subject/3450437/,交互
+颜色的故事,[英]维多利亚·芬利,https://img3.doubanio.com/view/subject/s/public/s3362062.jpg,38.00,2008-9,8.0,1738,455,908,341,29,5,2118,791,6745,https://book.douban.com/subject/3223917/,交互
+精益创业实战,AshMaurya,https://img9.doubanio.com/view/subject/s/public/s24610736.jpg,39.00,2013-1,8.8,765,405,277,74,6,3,858,255,4257,https://book.douban.com/subject/20505765/,交互
+一个APP的诞生,Carol炒炒,https://img1.doubanio.com/view/subject/s/public/s29017368.jpg,79,2016-7-1,6.3,100,16,34,36,10,4,120,11,187,https://book.douban.com/subject/26865230/,交互
+创意的构想,[日]大前研一,https://img3.doubanio.com/view/subject/s/public/s2641671.jpg,22.00,2007年06月,7.4,269,40,113,101,14,1,407,46,772,https://book.douban.com/subject/2128082/,交互
+Communicating Design中文版:高效设计沟通之道(原书第2版),DanM.Brown,https://img3.doubanio.com/view/subject/s/public/s6959743.jpg,59.00,2011-10-15,6.9,45,6,18,15,3,3,44,25,333,https://book.douban.com/subject/6872932/,交互
+游戏改变世界,[美]简·麦戈尼格尔,https://img3.doubanio.com/view/subject/s/public/s11136690.jpg,59.90,2012-9,7.9,4599,1334,2024,1048,161,32,4891,1190,17336,https://book.douban.com/subject/10828002/,交互
+怪诞行为学,[美]丹·艾瑞里,https://img3.doubanio.com/view/subject/s/public/s10909903.jpg,39.00,2008-10,8.1,14624,4172,7437,2796,190,29,17643,3593,30991,https://book.douban.com/subject/3223711/,交互
+移动应用的设计与开发,[美]弗林,https://img9.doubanio.com/view/subject/s/public/s4356806.jpg,59.80,2010-5,7.7,277,65,119,89,3,1,435,202,1491,https://book.douban.com/subject/4827960/,交互
+CSS网站布局实录（第2版）,李超,https://img9.doubanio.com/view/subject/s/public/s2899424.jpg,39.00,2007-9,8.1,385,133,179,69,3,1,462,131,596,https://book.douban.com/subject/2175995/,交互
+交互设计,黄琦,https://img3.doubanio.com/view/subject/s/public/s22780901.jpg,45.00,2012-7,6.5,33,2,9,19,2,1,41,5,14,https://book.douban.com/subject/11608826/,交互
+动机心理学,皮特里,https://img9.doubanio.com/view/subject/s/public/s2759824.jpg,52.00,2005-10,7.6,133,29,66,32,5,1,198,77,1754,https://book.douban.com/subject/1712350/,交互
+启示录,[美]MartyCagan,https://img3.doubanio.com/view/subject/s/public/s6474670.jpg,36.00,2011-5,8.5,6542,2768,2755,922,78,19,7539,1813,17912,https://book.douban.com/subject/5914587/,交互
+一目了然,RobertHoekman,https://img1.doubanio.com/view/subject/s/public/s2758177.jpg,39.00,2008-1,7.7,683,141,328,204,8,2,1046,295,2231,https://book.douban.com/subject/2298856/,交互
+Physical Computing,DanO&#39;Sullivan,https://img1.doubanio.com/view/subject/s/public/s28380928.jpg,18.95,2004-5-28,8.7,18,7,8,1,1,1,23,10,153,https://book.douban.com/subject/1876196/,交互
+Search Patterns,PeterMorville,https://img3.doubanio.com/view/subject/s/public/s4606590.jpg,39.99,2010-2-2,8.0,16,4,4,6,1,1,36,11,105,https://book.douban.com/subject/4016085/,交互
+Convivial Toolbox,LizSanders,https://img3.doubanio.com/view/subject/s/public/s28912002.jpg,49.00,2013-1-8,8.3,14,4,7,1,1,1,15,1,56,https://book.douban.com/subject/19851051/,交互
+The Visual Display of Quantitative Information,EdwardR.Tufte,https://img3.doubanio.com/view/subject/s/public/s3535412.jpg,40.00,2001-1,9.1,183,104,64,13,1,1,225,119,2176,https://book.douban.com/subject/1316642/,交互
+顾客体验管理,贝恩特·施密特,https://img3.doubanio.com/view/subject/s/public/s1221392.jpg,20.00,2004-05-01,8.2,30,14,11,3,1,1,55,33,377,https://book.douban.com/subject/1159662/,交互
+WWW &amp; DESIGN,AzurCorporation,https://img1.doubanio.com/view/subject/s/public/s4615859.jpg,280,2008-4,8.3,22,6,11,3,1,1,26,1,16,https://book.douban.com/subject/2158544/,交互
+软件开发的创新思维,库伯,https://img9.doubanio.com/view/subject/s/public/s1679595.jpg,30.0,2003-1,8.6,39,15,19,3,1,1,117,15,106,https://book.douban.com/subject/1241266/,交互
+数字图形界面艺术设计,鲁晓波,https://img3.doubanio.com/view/subject/s/public/s5658940.jpg,38.00,2006-2,7.0,52,12,17,21,1,1,81,41,79,https://book.douban.com/subject/1737363/,交互
+人人都是产品经理,苏杰,https://img1.doubanio.com/view/subject/s/public/s4241529.jpg,45.00,2010年4月,7.6,8131,1675,3879,2260,252,65,9330,2754,11446,https://book.douban.com/subject/4723970/,交互
+参与感,黎万强,https://img1.doubanio.com/view/subject/s/public/s27359667.jpg,56.00,2014-8,7.5,9237,1589,4231,3021,304,92,10447,859,8373,https://book.douban.com/subject/25942507/,交互
+Art and Electronic Media,EdwardA.Shanken,https://img9.doubanio.com/view/subject/s/public/s3956004.jpg,560.00,2009-02-21,8.2,13,5,3,3,1,1,24,4,40,https://book.douban.com/subject/2814373/,交互
+用户体验草图设计,巴克斯顿(BillBuxton),https://img9.doubanio.com/view/subject/s/public/s27979206.jpg,188.00,2012-3-1,7.9,81,25,29,22,4,1,97,41,468,https://book.douban.com/subject/10542579/,交互
+认知与设计,JeffJohnson,https://img1.doubanio.com/view/subject/s/public/s27338939.jpg,69.00,2014-8-1,8.8,414,219,149,43,1,2,441,105,1636,https://book.douban.com/subject/25932290/,交互
+UI进化论,周陟,https://img9.doubanio.com/view/subject/s/public/s4132386.jpg,88.00,2010-1,6.0,207,23,39,84,40,21,256,80,538,https://book.douban.com/subject/4223580/,交互
+简约至上,[英]贾尔斯·科尔伯恩,https://img1.doubanio.com/view/subject/s/public/s29798038.jpg,59.00,2018-6,8.7,144,62,64,16,1,1,147,37,494,https://book.douban.com/subject/30253370/,交互
+设计师要懂心理学,[美]SusanWeinschenk,https://img9.doubanio.com/view/subject/s/public/s26251595.jpg,49.00,2013-5-1,7.6,1453,337,630,429,46,11,1632,372,5902,https://book.douban.com/subject/23708491/,交互
+破茧成蝶,刘津,https://img9.doubanio.com/view/subject/s/public/s27312255.jpg,69.00,2014-7,8.5,1578,640,725,184,20,9,1703,333,3324,https://book.douban.com/subject/25915629/,交互
+Axure RP8 实战手册 网站和APP原型制作案例精粹,小楼一夜听春语,https://img3.doubanio.com/view/subject/s/public/s29043453.jpg,79,2016-9-1,7.5,39,6,18,12,2,1,30,22,112,https://book.douban.com/subject/26874796/,交互
+浪潮之巅,吴军,https://img9.doubanio.com/view/subject/s/public/s6807265.jpg,55.00,2011-8,9.0,25283,15449,8015,1618,126,75,29623,4916,52422,https://book.douban.com/subject/6709783/,交互
+未来产品的设计,[美]唐纳德·诺曼,https://img1.doubanio.com/view/subject/s/public/s4362618.jpg,39.00,2009-06,7.5,371,75,164,117,11,4,505,133,1077,https://book.douban.com/subject/3817241/,交互
+人本界面,（美）拉斯基,https://img1.doubanio.com/view/subject/s/public/s4635437.jpg,39.00,2011-2-10,7.4,29,6,11,9,2,1,39,19,139,https://book.douban.com/subject/5416997/,交互
+妙手回春,[美]SteveKrug,https://img9.doubanio.com/view/subject/s/public/s4428826.jpg,39.00,2010-7,7.5,202,43,95,56,6,2,325,65,632,https://book.douban.com/subject/4926083/,交互
+Measuring the User Experience,ThomasTullis,https://img3.doubanio.com/view/subject/s/public/s3394431.jpg,49.95,2008-03-31,8.5,113,37,44,30,1,1,158,74,344,https://book.douban.com/subject/3326182/,交互

@@ -1,0 +1,567 @@
+小程序时代,刘向南,https://img9.doubanio.com/view/subject/s/public/s29383805.jpg,49.00,2017-2-1,5.7,19,1,6,8,3,1,20,11,53,https://book.douban.com/subject/26990334/,科技
+代码整洁之道,[美]RobertC.Martin,https://img3.doubanio.com/view/subject/s/public/s4103991.jpg,59.00,2010-1-1,8.6,1638,718,702,201,11,6,1719,700,4967,https://book.douban.com/subject/4199741/,科技
+东京大学通识讲座：贯通篇,（日）东京大学教养学部,https://img1.doubanio.com/view/subject/s/public/s28496629.jpg,42.00,2016-3,8.3,36,9,20,5,1,1,36,3,164,https://book.douban.com/subject/26741785/,科技
+极简宇宙史,[法]克里斯托弗·加尔法德,https://img9.doubanio.com/view/subject/s/public/s28453934.jpg,49.50,2016-3,9.1,6381,4172,1744,389,57,19,5986,1990,43907,https://book.douban.com/subject/26697350/,科技
+科学的诞生,[美]戴维·伍顿,https://img9.doubanio.com/view/subject/s/public/s29748994.jpg,128.00,2018-4-23,8.3,66,28,24,10,2,2,89,48,1078,https://book.douban.com/subject/27662712/,科技
+The Idea Factory,JonGertner,https://img1.doubanio.com/view/subject/s/public/s8936127.jpg,18.75,2012-3-15,8.3,44,18,18,6,1,1,46,17,360,https://book.douban.com/subject/6901098/,科技
+物理学中的理论概念,MalcolmLongair,https://img9.doubanio.com/view/subject/s/public/s29622605.jpg,99.00,2017-8,8.6,12,5,3,2,1,1,6,7,164,https://book.douban.com/subject/27107849/,科技
+從0到1,PeterThiel,https://img3.doubanio.com/view/subject/s/public/s27864213.jpg,360.00,2014-10-7,7.7,539,149,244,129,10,7,599,132,880,https://book.douban.com/subject/26236449/,科技
+没有思想的世界,[美]富兰克林·福尔（FranklinFoer）,https://img3.doubanio.com/view/subject/s/public/s33523853.jpg,58,2019-12-15,7.4,127,24,50,47,5,1,143,34,1059,https://book.douban.com/subject/34868006/,科技
+天高歌长,程不时,https://img3.doubanio.com/view/subject/s/public/s1403362.jpg,18.0,2004-2-1,9.1,42,20,18,2,1,1,40,2,117,https://book.douban.com/subject/1155602/,科技
+5G+：5G如何改变社会,李正茂,https://img3.doubanio.com/view/subject/s/public/s33476553.jpg,69.00,2019-8-1,6.4,178,18,46,79,28,7,180,30,141,https://book.douban.com/subject/34805583/,科技
+创新启示,[美]杰伊•哈曼,https://img3.doubanio.com/view/subject/s/public/s28362690.jpg,45.00,2015-12,7.3,65,11,32,17,4,1,71,13,194,https://book.douban.com/subject/26686475/,科技
+创新者,[美]沃尔特·艾萨克森,https://img1.doubanio.com/view/subject/s/public/s29414569.jpg,88.00,2017-4,8.5,539,250,201,74,10,4,548,196,4828,https://book.douban.com/subject/27009472/,科技
+黑客与画家,[美]保罗·格雷厄姆,https://img9.doubanio.com/view/subject/s/public/s27043406.jpg,69.00,2013-10,8.9,647,328,258,55,3,3,708,156,2209,https://book.douban.com/subject/25724948/,科技
+星空词典,[法]郑春顺著,https://img3.doubanio.com/view/subject/s/public/s33451653.jpg,98.00,2019-9,9.2,18,10,5,1,1,1,13,16,536,https://book.douban.com/subject/34783252/,科技
+浪潮之巅（第2版）（套装上下册）,吴军,https://img3.doubanio.com/view/subject/s/public/s27932441.jpg,80.00,2013-7,9.2,3089,2055,893,126,9,6,3306,572,4894,https://book.douban.com/subject/24738302/,科技
+未来地图,[美]蒂姆·奥莱利,https://img3.doubanio.com/view/subject/s/public/s30026560.jpg,98.00,2018-6,8.6,127,49,46,23,7,2,116,64,1188,https://book.douban.com/subject/30282615/,科技
+人工智能的未来,JeffHawkins,https://img1.doubanio.com/view/subject/s/public/s10039198.jpg,18.5,2006.1,8.8,850,453,308,76,12,1,976,273,6117,https://book.douban.com/subject/1834728/,科技
+线性代数及其应用,（美）莱（LayD.C.）,https://img3.doubanio.com/view/subject/s/public/s27291003.jpg,59.00,2005-8-1,9.2,901,626,221,38,9,7,817,473,4391,https://book.douban.com/subject/1425950/,科技
+生命与新物理学,[英]保罗·戴维斯（PaulDavies）,https://img3.doubanio.com/view/subject/s/public/s33438492.jpg,59,2019-8-15,9.0,78,40,30,6,1,1,103,28,1480,https://book.douban.com/subject/33590444/,科技
+当代大数学家画传,玛丽安娜·库克编,https://img3.doubanio.com/view/subject/s/public/s27986512.jpg,58.00,2015-1-1,9.0,48,30,12,3,2,1,54,5,245,https://book.douban.com/subject/26304641/,科技
+数字黄金,【美】纳撒尼尔•波普尔,https://img1.doubanio.com/view/subject/s/public/s29384898.jpg,56,2017-3,8.0,229,67,111,45,5,1,258,45,924,https://book.douban.com/subject/26990640/,科技
+维多利亚时代的互联网,[英]汤姆·斯丹迪奇,https://img9.doubanio.com/view/subject/s/public/s29483946.jpg,38.00,2017-8,7.7,305,60,167,73,3,2,322,46,892,https://book.douban.com/subject/27078260/,科技
+必然,凱文．凱利,https://img9.doubanio.com/view/subject/s/public/s29459894.jpg,450,2017-6-3,8.6,30,14,10,4,1,1,30,9,180,https://book.douban.com/subject/26998201/,科技
+无所遁形,吕铮,https://img9.doubanio.com/view/subject/s/public/s33518506.jpg,45.00,2019-11-7,7.6,70,20,37,11,1,1,69,2,344,https://book.douban.com/subject/34872553/,科技
+我是阿尔法,冯象,https://img9.doubanio.com/view/subject/s/public/s29920265.jpg,59.00,2018-10,8.4,75,39,21,10,3,2,84,16,311,https://book.douban.com/subject/30324023/,科技
+科学精英,《自然辩证法通讯》杂志社主编,https://img9.doubanio.com/view/subject/s/public/s28331925.jpg,99.80,2015-12,6.9,16,2,4,8,1,1,20,3,195,https://book.douban.com/subject/26656539/,科技
+线上幽灵,凯文•米特尼克(KevinMitnick),https://img3.doubanio.com/view/subject/s/public/s27273252.jpg,69.00,2014-1-1,7.8,112,44,45,18,2,3,113,44,554,https://book.douban.com/subject/25788945/,科技
+失控,[美]凯文·凯利,https://img3.doubanio.com/view/subject/s/public/s28504961.jpg,89.00,2016-1,8.2,738,332,268,108,16,14,684,436,1761,https://book.douban.com/subject/26652329/,科技
+概率论与数理统计,陈希孺,https://img3.doubanio.com/view/subject/s/public/s8899433.jpg,38.00,2009-2,9.3,840,613,168,47,8,4,764,474,4844,https://book.douban.com/subject/2201479/,科技
+IBM SPSS数据分析与挖掘实战案例精粹,张文彤,https://img1.doubanio.com/view/subject/s/public/s25802569.jpg,64.00,2013-2-22,9.0,102,64,31,5,1,1,91,64,937,https://book.douban.com/subject/21477429/,科技
+孵化Twitter,[美]尼克·比尔顿(NickBilton),https://img3.doubanio.com/view/subject/s/public/s27160480.jpg,49.90,2014-1,7.5,508,94,235,145,32,2,573,64,1299,https://book.douban.com/subject/25763770/,科技
+大图景,[美]肖恩·卡罗尔,https://img3.doubanio.com/view/subject/s/public/s33536021.jpg,89,2019-12,8.9,102,68,26,6,1,1,93,73,1415,https://book.douban.com/subject/34908495/,科技
+AI的25种可能,[美]约翰·布罗克曼,https://img1.doubanio.com/view/subject/s/public/s33505758.jpg,79.90,2019-10-25,8.4,40,15,15,7,2,1,47,27,409,https://book.douban.com/subject/34866814/,科技
+再创世纪,〔美〕乔治·丘奇（GeorgeChurch）,https://img9.doubanio.com/view/subject/s/public/s29333805.jpg,68.00,2017-1,8.5,63,25,30,6,1,1,70,28,777,https://book.douban.com/subject/26943913/,科技
+最寒冷的冬天,[美]大卫·哈伯斯塔姆,https://img1.doubanio.com/view/subject/s/public/s29507639.jpg,86.00,2017-8-1,8.4,835,339,369,104,14,9,790,265,4210,https://book.douban.com/subject/27102845/,科技
+小波与傅里叶分析基础,(美)博格斯//马科维奇|译者,https://img1.doubanio.com/view/subject/s/public/s4534359.jpg,39.00,2010-2,9.1,27,8,16,1,1,1,26,14,109,https://book.douban.com/subject/4705969/,科技
+How Google Works,EricSchmidt,https://img3.doubanio.com/view/subject/s/public/s27493540.jpg,30.00,2014-9-23,8.0,591,189,268,117,13,4,637,176,1495,https://book.douban.com/subject/26008422/,科技
+铸造《自然》,[美]梅林达•鲍德温,https://img3.doubanio.com/view/subject/s/public/s29899431.jpg,88,2018-11,8.5,40,18,15,5,1,1,48,14,536,https://book.douban.com/subject/30355428/,科技
+暗时间,刘未鹏,https://img9.doubanio.com/view/subject/s/public/s6586365.jpg,35.00,2011-7,8.4,13994,5677,5816,2195,237,69,15148,3314,26754,https://book.douban.com/subject/6709809/,科技
+信息论基础,[美]ThomasM.Cove,https://img9.doubanio.com/view/subject/s/public/s5772174.jpg,58.00,2008-1,9.1,148,89,46,8,4,1,128,125,1705,https://book.douban.com/subject/2305237/,科技
+被算法操控的生活,[瑞典]大卫•萨普特（DavidSumpter）,https://img3.doubanio.com/view/subject/s/public/s33568351.jpg,59.8,2020-1,7.0,16,6,6,2,1,1,19,8,1049,https://book.douban.com/subject/34927752/,科技
+硅谷帝国,[美]露西·格林,https://img1.doubanio.com/view/subject/s/public/s32327588.jpg,68.00,2019-5-1,7.1,41,4,13,17,6,1,44,11,409,https://book.douban.com/subject/33402278/,科技
+月亮,[德]贝恩德·布伦纳,https://img1.doubanio.com/view/subject/s/public/s29460648.jpg,60.00,2017-8,7.8,246,72,104,59,7,4,253,52,1404,https://book.douban.com/subject/27054641/,科技
+极端的未来,詹姆斯·坎顿,https://img1.doubanio.com/view/subject/s/public/s5963707.jpg,38.00,2008-8,6.4,26,2,5,15,3,1,36,5,46,https://book.douban.com/subject/3247128/,科技
+黑科技,顾志强等著,https://img9.doubanio.com/view/subject/s/public/s29216506.jpg,58.00,2017-3,7.0,185,31,71,74,7,2,194,34,380,https://book.douban.com/subject/26934489/,科技
+Jony Ive,LeanderKahney,https://img3.doubanio.com/view/subject/s/public/s29067000.jpg,27.95,2013-11-14,7.6,182,38,78,55,9,2,190,55,411,https://book.douban.com/subject/24661635/,科技
+中国文化的根本精神,楼宇烈,https://img3.doubanio.com/view/subject/s/public/s28978332.jpg,38.00,2016-7-1,7.0,144,24,54,47,17,2,155,25,171,https://book.douban.com/subject/26839214/,科技
+随意搜寻,[美]PeterMorville,https://img1.doubanio.com/view/subject/s/public/s27091978.jpg,68.00,2013-10-1,8.2,223,90,81,45,6,1,251,61,2205,https://book.douban.com/subject/25746680/,科技
+The Age of Surveillance Capitalism,ShoshanaZuboff,https://img1.doubanio.com/view/subject/s/public/s29977837.jpg,26.99,2019-1-15,8.0,22,8,8,4,1,1,18,31,244,https://book.douban.com/subject/30432252/,科技
+奇点来临,索恩(TonyThorneMBE),https://img1.doubanio.com/view/subject/s/public/s28835669.jpg,39.00,2016-6-1,4.0,34,1,1,9,13,10,39,4,25,https://book.douban.com/subject/26794265/,科技
+人人都在说谎,赛思·斯蒂芬斯--达维多维茨,https://img9.doubanio.com/view/subject/s/public/s29928515.jpg,58,2018-11,7.5,534,74,284,158,16,2,541,105,1020,https://book.douban.com/subject/30384189/,科技
+技术体系,[加]安德鲁·芬伯格,https://img9.doubanio.com/view/subject/s/public/s29896456.jpg,65.00,2018-7,7.4,12,6,3,1,1,1,16,9,166,https://book.douban.com/subject/30289142/,科技
+集体智慧编程,TobySegaran,https://img1.doubanio.com/view/subject/s/public/s28031189.jpg,79.00,2015-3,8.7,84,42,30,8,2,2,73,56,461,https://book.douban.com/subject/26348921/,科技
+糖史（全二册）,季羡林,https://img3.doubanio.com/view/subject/s/public/s4473992.jpg,71.00,2009年9月1日,8.3,67,34,26,5,1,1,67,34,908,https://book.douban.com/subject/4286956/,科技
+玻璃笼子,[美]尼古拉斯·卡尔,https://img1.doubanio.com/view/subject/s/public/s28332108.jpg,49.00,2015-11,6.7,267,39,79,113,28,8,288,58,623,https://book.douban.com/subject/26644961/,科技
+机器崛起,托马斯·瑞德,https://img3.doubanio.com/view/subject/s/public/s29445450.jpg,75.00,2017-5-31,7.6,109,32,36,33,7,1,121,28,656,https://book.douban.com/subject/27039464/,科技
+众病之王,李虎,https://img1.doubanio.com/view/subject/s/public/s24598159.jpg,42.00,2013-2-4,9.1,7648,4819,2241,497,61,30,8267,1831,25697,https://book.douban.com/subject/20507206/,科技
+新经济，新规则,[美]KevinKelly,https://img3.doubanio.com/view/subject/s/public/s28376191.jpg,45.00,2014-7,8.5,1046,461,416,147,18,4,1180,262,3968,https://book.douban.com/subject/25908079/,科技
+遥感导论,梅安新,https://img9.doubanio.com/view/subject/s/public/s26038435.jpg,35.40,2001-7,6.3,86,5,33,41,5,2,107,13,37,https://book.douban.com/subject/1117391/,科技
+七堂极简物理课,文铮,https://img9.doubanio.com/view/subject/s/public/s28627105.jpg,39.00,2016-5,8.3,9368,3654,4038,1443,187,46,10182,606,15040,https://book.douban.com/subject/26772731/,科技
+创业维艰,杨晓红,https://img9.doubanio.com/view/subject/s/public/s28007966.jpg,49,2015-2,8.3,7693,2993,3224,1269,161,46,8380,1372,27791,https://book.douban.com/subject/26306686/,科技
+芯事,谢志峰,https://img3.doubanio.com/view/subject/s/public/s33494110.jpg,58.00,2018-7,6.6,92,12,26,39,12,3,96,30,129,https://book.douban.com/subject/30303192/,科技
+零边际成本社会,[美]杰里米·里夫金,https://img9.doubanio.com/view/subject/s/public/s27666836.jpg,49.00,2014-11-1,7.5,724,161,307,214,32,10,786,220,2204,https://book.douban.com/subject/25986746/,科技
+后人类文化,曹荣湘,https://img1.doubanio.com/view/subject/s/public/s1047699.jpg,22.00,2004-07,6.1,43,9,17,13,2,2,47,26,70,https://book.douban.com/subject/1061741/,科技
+语音与语言处理,DanielJurafsky,https://img1.doubanio.com/view/subject/s/public/s4546857.jpg,138.00,2010-12-5,9.3,53,36,13,2,1,1,42,42,1017,https://book.douban.com/subject/5373023/,科技
+区块链：定义未来金融与经济新格局,张健,https://img1.doubanio.com/view/subject/s/public/s28873098.jpg,49.00,2016-6-18,6.5,521,28,149,281,55,8,565,74,257,https://book.douban.com/subject/26831424/,科技
+删除,[英]维克托·迈尔-舍恩伯格,https://img9.doubanio.com/view/subject/s/public/s24525564.jpg,49.90,2013-1,6.8,626,69,210,278,59,10,735,155,3262,https://book.douban.com/subject/20429704/,科技
+物理学的未来,[美]加来道雄,https://img3.doubanio.com/view/subject/s/public/s11335131.jpg,53.80,2012-6,8.1,329,123,135,62,2,7,361,85,940,https://book.douban.com/subject/10578495/,科技
+2040大预言：高科技引擎与社会新秩序,PeterB.Scott-Morgan,https://img1.doubanio.com/view/subject/s/public/s29479358.jpg,49.00,2017-6-26,7.3,14,1,7,4,1,1,16,3,18,https://book.douban.com/subject/27073474/,科技
+大智能时代,[日]松尾丰,https://img3.doubanio.com/view/subject/s/public/s28378142.jpg,39.80,2016-1,7.2,29,4,8,15,1,1,30,5,42,https://book.douban.com/subject/26703230/,科技
+Game Programming Patterns,RobertNystrom,https://img3.doubanio.com/view/subject/s/public/s27850483.jpg,39.95,2014-11-2,9.6,83,63,16,2,1,1,66,47,252,https://book.douban.com/subject/26266378/,科技
+The Victorian Internet,TomStandage,https://img9.doubanio.com/view/subject/s/public/s2175605.jpg,14.00,1999-10-15,8.4,22,11,6,3,1,1,27,5,227,https://book.douban.com/subject/2003901/,科技
+我的美丽基因组,隆娜·弗兰克,https://img9.doubanio.com/view/subject/s/public/s28389656.jpg,48.00,2015-12-1,8.1,17,2,12,1,1,1,17,3,82,https://book.douban.com/subject/26714666/,科技
+鄉民都來了,克雷．薛基,https://img9.doubanio.com/view/subject/s/public/s6985816.jpg,350,2011-11-1,7.8,12,3,3,4,1,1,18,3,64,https://book.douban.com/subject/6904788/,科技
+人类的未来,[美]加来道雄（MichioKaku）,https://img3.doubanio.com/view/subject/s/public/s33306990.jpg,68.00,2019-7,8.4,114,47,48,17,1,1,117,30,435,https://book.douban.com/subject/34429934/,科技
+Future Shock,AlvinToffler,https://img9.doubanio.com/view/subject/s/public/s4310936.jpg,7.99,1971-1-1,9.3,18,12,2,2,1,1,25,11,171,https://book.douban.com/subject/1464381/,科技
+别逗了，费曼先生,R•P•费曼,https://img9.doubanio.com/view/subject/s/public/s33494425.jpg,35.00,2012-9-1,8.3,1186,525,445,160,34,22,1277,216,1445,https://book.douban.com/subject/19989296/,科技
+西藏之水救中国,李伶,https://img9.doubanio.com/view/subject/s/public/s1460395.jpg,29.80,2005-12,6.3,53,11,11,19,3,9,73,9,55,https://book.douban.com/subject/1442363/,科技
+解谜茑屋,（日）川岛蓉子,https://img1.doubanio.com/view/subject/s/public/s33438077.jpg,48,2019-5,7.3,65,13,26,21,4,1,67,12,116,https://book.douban.com/subject/34442757/,科技
+数学的源与流,张顺燕,https://img1.doubanio.com/view/subject/s/public/s3070567.jpg,23.9,2003-12,8.2,62,21,30,9,1,1,84,20,144,https://book.douban.com/subject/1170518/,科技
+生命的未来,[美]J.CraigVenter,https://img3.doubanio.com/view/subject/s/public/s28872472.jpg,69.9,2016-7,8.1,155,49,68,35,2,1,162,53,610,https://book.douban.com/subject/26831320/,科技
+量子魔术师,[加]德里克·昆什肯,https://img3.doubanio.com/view/subject/s/public/s29758350.jpg,48,2018-5,8.2,250,77,116,49,7,1,261,48,767,https://book.douban.com/subject/30192878/,科技
+“芯”想事成 中国芯片产业的博弈与突围,陈芳,https://img9.doubanio.com/view/subject/s/public/s29874054.jpg,59.00,2018-8-1,7.1,205,71,69,51,12,2,219,12,176,https://book.douban.com/subject/30318178/,科技
+人类2.0,皮埃罗∙斯加鲁菲（PieroScaruffi),https://img3.doubanio.com/view/subject/s/public/s29341293.jpg,68.00,2017-2,7.4,191,40,87,57,6,1,188,37,352,https://book.douban.com/subject/26973408/,科技
+Mindfire,[美]ScottBerkun,https://img3.doubanio.com/view/subject/s/public/s26011910.jpg,14.95,2011-10-26,8.6,36,12,19,3,1,1,44,13,82,https://book.douban.com/subject/6906445/,科技
+谷歌时代的柏拉图,[美]丽贝卡·戈尔茨坦,https://img3.doubanio.com/view/subject/s/public/s29631860.jpg,69.00,2017-12-10,8.1,123,43,48,24,7,1,127,60,2194,https://book.douban.com/subject/27187132/,科技
+科技与和平,[美]皮埃罗·斯加鲁菲(PieroScaruffi),https://img3.doubanio.com/view/subject/s/public/s32326701.jpg,49.00,2019-6,7.0,14,1,6,4,2,1,15,3,46,https://book.douban.com/subject/33455659/,科技
+文明之光,吴军,https://img3.doubanio.com/view/subject/s/public/s29698461.jpg,246.00,2017-5-1,9.5,59,47,9,1,1,1,57,14,162,https://book.douban.com/subject/30151207/,科技
+The Virtual Community,HowardRheingold,https://img1.doubanio.com/view/subject/s/public/s7076137.jpg,34.00,2000-11-1,8.4,26,6,12,6,1,1,32,15,59,https://book.douban.com/subject/1912952/,科技
+人类思维如何与互联网共同进化,[美]约翰·布罗克曼,https://img1.doubanio.com/view/subject/s/public/s29414757.jpg,79.90,2017-3,7.6,80,14,26,34,5,1,83,30,546,https://book.douban.com/subject/26990888/,科技
+生存实验,刘慈欣,https://img3.doubanio.com/view/subject/s/public/s29363052.jpg,35.00,2016-11,7.8,108,20,57,29,1,1,115,11,29,https://book.douban.com/subject/26896844/,科技
+三位一体,[美]迈克尔·马隆,https://img1.doubanio.com/view/subject/s/public/s28022718.jpg,98.90,2015-4,8.8,130,65,45,18,1,1,142,38,1196,https://book.douban.com/subject/26340695/,科技
+魔鬼物理学1,[美]詹姆斯•卡卡里奥斯,https://img1.doubanio.com/view/subject/s/public/s29703247.jpg,49,2018-3,7.3,38,12,7,17,1,1,40,27,177,https://book.douban.com/subject/30156439/,科技
+黑洞与时间弯曲,[美]基普·S.索恩,https://img1.doubanio.com/view/subject/s/public/s29690237.jpg,89,2018-3-5,9.0,60,43,11,4,1,1,57,36,310,https://book.douban.com/subject/30145132/,科技
+隐藏的行为,[美]托马斯·科洛波洛斯,https://img3.doubanio.com/view/subject/s/public/s30010711.jpg,59,2019-1-1,8.4,33,10,12,8,2,1,35,5,132,https://book.douban.com/subject/30421234/,科技
+跨界,腾讯科技频道,https://img1.doubanio.com/view/subject/s/public/s27508069.jpg,39.00,2014-10-1,6.5,1047,85,309,490,137,26,1224,120,1185,https://book.douban.com/subject/26022186/,科技
+世界因何美妙而优雅地运行,[美]约翰·布罗克曼,https://img9.doubanio.com/view/subject/s/public/s29466724.jpg,79.90,2017-6,7.9,89,22,38,22,6,1,89,46,480,https://book.douban.com/subject/27060685/,科技
+你一定爱读的人工智能简史,【日】山本一成,https://img3.doubanio.com/view/subject/s/public/s32278323.jpg,45.00,2019-5,7.1,134,19,67,43,4,1,135,7,525,https://book.douban.com/subject/33381164/,科技
+脑机穿越,（巴西）米格尔•尼科莱利斯（MiguelA.Nicolelis）著,https://img3.doubanio.com/view/subject/s/public/s28000030.jpg,59.90,2015-3,8.3,153,54,76,20,2,1,165,64,819,https://book.douban.com/subject/26318103/,科技
+禅与摩托车维修艺术,(美)罗伯特·M.波西格,https://img9.doubanio.com/view/subject/s/public/s6927676.jpg,36.00,2011-9,8.3,13610,5145,5730,2300,313,122,13741,4989,36037,https://book.douban.com/subject/6811366/,科技
+费马大定理,(英)西蒙﹒辛格,https://img1.doubanio.com/view/subject/s/public/s1331728.jpg,33.00,2005-05-01,9.0,2751,1717,862,157,13,2,3279,357,10434,https://book.douban.com/subject/1322358/,科技
+三体Ⅲ,刘慈欣,https://img9.doubanio.com/view/subject/s/public/s26012674.jpg,38.00,2010-11,9.2,208884,148727,48670,9817,1044,626,244468,9201,78582,https://book.douban.com/subject/5363767/,科技
+ASO优化道与术,ASO100研究院,https://img3.doubanio.com/view/subject/s/public/s29480543.jpg,49,2017-6,5.6,36,12,6,9,6,3,40,5,181,https://book.douban.com/subject/27074578/,科技
+材料简史及材料未来,[加]瓦茨拉夫·斯米尔,https://img1.doubanio.com/view/subject/s/public/s28107598.jpg,65.00,2015-6-1,6.7,27,4,10,10,2,1,31,7,221,https://book.douban.com/subject/26418544/,科技
+成为乔布斯,[美]布伦特·施兰德,https://img9.doubanio.com/view/subject/s/public/s28948876.jpg,69.00,2016-10,8.9,1666,946,596,110,8,6,1723,227,3369,https://book.douban.com/subject/26849305/,科技
+Cool Tools,[美]KevinKelly,https://img9.doubanio.com/view/subject/s/public/s27096785.jpg,28.37,2013-12-17,9.1,15,9,3,1,1,1,15,11,210,https://book.douban.com/subject/25748991/,科技
+智能机器的未来,戴维•明德尔（DavidMindell）,https://img1.doubanio.com/view/subject/s/public/s29480869.jpg,59.00,2017-7-1,7.3,30,4,6,15,3,2,34,7,91,https://book.douban.com/subject/27074880/,科技
+五角大楼之脑,(美)安妮·雅各布森,https://img1.doubanio.com/view/subject/s/public/s29345059.jpg,58.00,2017-3,8.3,199,56,105,30,6,2,209,53,916,https://book.douban.com/subject/26974867/,科技
+Life After Google,GeorgeGilder,https://img9.doubanio.com/view/subject/s/public/s29824524.jpg,21.80,2018-8-2,6.6,13,1,4,6,1,1,17,4,29,https://book.douban.com/subject/30279213/,科技
+腾讯传,吴晓波,https://img9.doubanio.com/view/subject/s/public/s29653026.jpg,58.00,2017-1-1,7.8,13679,3037,7155,3160,259,68,14254,1261,9750,https://book.douban.com/subject/26929955/,科技
+人类消失后的地球,《飞碟探索》杂志社,https://img1.doubanio.com/view/subject/s/public/s26372129.jpg,49.80,2013-4,5.2,28,3,6,13,3,3,37,2,54,https://book.douban.com/subject/23134288/,科技
+法律人的明天会怎样？,〔英〕理查德·萨斯坎德,https://img3.doubanio.com/view/subject/s/public/s33315292.jpg,49,2019-7-1,8.6,25,7,12,4,1,1,25,3,50,https://book.douban.com/subject/33440215/,科技
+DT时代：从“互联网+”到“大数据×”,大数据战略重点实验室著；连玉明编,https://img1.doubanio.com/view/subject/s/public/s28108059.jpg,59.00,2015-5-1,4.8,40,1,6,15,7,11,52,8,51,https://book.douban.com/subject/26390745/,科技
+为什么有的人特別招蚊子?,[美]罗布•奈特,https://img9.doubanio.com/view/subject/s/public/s29085956.jpg,36,2016-7-1,7.1,303,48,134,108,12,1,336,25,220,https://book.douban.com/subject/26859082/,科技
+冷浪漫,科学松鼠会,https://img9.doubanio.com/view/subject/s/public/s4654014.jpg,28.00,2011-3,7.7,6328,1152,3140,1854,151,31,7423,1455,9368,https://book.douban.com/subject/5975576/,科技
+数字命运,肖恩·杜布拉瓦茨(ShawnDuBravac),https://img3.doubanio.com/view/subject/s/public/s28073820.jpg,66.00,2015-6-1,7.6,44,7,19,13,4,1,50,10,154,https://book.douban.com/subject/26391243/,科技
+从0到1,彼得·蒂尔,https://img9.doubanio.com/view/subject/s/public/s28299265.jpg,45.00,2015-1-1,7.5,23776,5302,10153,7038,1022,261,26330,2918,30030,https://book.douban.com/subject/26297606/,科技
+巫师、外星人和星舰,[美]查尔斯·阿德勒,https://img9.doubanio.com/view/subject/s/public/s28263924.jpg,59,2015-8-10,8.6,303,147,117,34,2,3,333,86,2670,https://book.douban.com/subject/26320244/,科技
+区块链领导干部读本,任仲文,https://img1.doubanio.com/view/subject/s/public/s29860929.jpg,28,2018-7,5.8,92,9,30,41,10,2,92,22,83,https://book.douban.com/subject/30316536/,科技
+极限创新：35岁之前改变世界的全球科技精英,麻省理工科技评论,https://img9.doubanio.com/view/subject/s/public/s29632166.jpg,69.80,2017-12,7.3,92,44,32,14,1,1,88,6,75,https://book.douban.com/subject/27599340/,科技
+贝尔实验室与美国革新大时代,[美]乔恩·格特纳,https://img1.doubanio.com/view/subject/s/public/s28519108.jpg,58.00,2015-12,7.8,48,16,15,9,7,1,47,12,326,https://book.douban.com/subject/26681345/,科技
+知识的拱门,奥尔德罗伊德,https://img1.doubanio.com/view/subject/s/public/s3395249.jpg,42.00,2008,9.2,23,12,8,1,1,1,21,18,258,https://book.douban.com/subject/3237786/,科技
+怎样解题,[美]G·波利亚,https://img3.doubanio.com/view/subject/s/public/s27168353.jpg,29.00,2011-11-1,7.8,201,72,81,43,3,2,198,96,578,https://book.douban.com/subject/6983584/,科技
+创新者的窘境,[美]克莱顿·克里斯坦森,https://img9.doubanio.com/view/subject/s/public/s4409486.jpg,38.00,2010-6,8.5,2656,1249,999,356,39,13,3072,933,17689,https://book.douban.com/subject/4243770/,科技
+新一轮产业革命,亚力克·罗斯(AlecRoss),https://img9.doubanio.com/view/subject/s/public/s28915464.jpg,49.00,2016-8-1,7.1,114,17,54,33,9,1,128,19,160,https://book.douban.com/subject/26841622/,科技
+The Industries of the Future,AlecRoss,https://img3.doubanio.com/view/subject/s/public/s28911603.jpg,28.00,2016-2-2,8.2,42,10,25,5,1,1,46,10,148,https://book.douban.com/subject/26711411/,科技
+无人读过的书,欧文·金格里奇,https://img3.doubanio.com/view/subject/s/public/s29274651.jpg,45.00,2017-1,8.2,45,12,21,10,1,1,53,15,215,https://book.douban.com/subject/26952334/,科技
+上帝掷骰子吗?,曹天元,https://img9.doubanio.com/view/subject/s/public/s29997015.jpg,45.00,2013-8-1,9.2,3757,2544,1060,135,15,3,3697,794,3072,https://book.douban.com/subject/25742211/,科技
+Deep Simplicity,JohnGribbin,https://img9.doubanio.com/view/subject/s/public/s4238946.jpg,16.50,2005-01-27,9.0,28,15,10,1,1,1,24,15,175,https://book.douban.com/subject/1381307/,科技
+无人驾驶,[美]胡迪·利普森,https://img3.doubanio.com/view/subject/s/public/s29464920.jpg,58,2017-6-15,7.9,404,103,193,90,16,2,419,69,795,https://book.douban.com/subject/27058912/,科技
+魔鬼物理学2：迷人又有趣的量子力学,[美]詹姆斯•卡卡里奥斯,https://img1.doubanio.com/view/subject/s/public/s29703249.jpg,56,2018-3-10,8.4,33,16,8,7,1,1,29,21,125,https://book.douban.com/subject/30156442/,科技
+人工智能全球格局,国务院发展研究中心国际技术经济研究所,https://img9.doubanio.com/view/subject/s/public/s33486626.jpg,59.00,2019-9,7.7,13,6,3,2,1,1,14,1,76,https://book.douban.com/subject/34836254/,科技
+Superintelligence,NickBostrom,https://img9.doubanio.com/view/subject/s/public/s27371244.jpg,29.95,2014-9-3,7.6,60,16,24,15,4,1,64,36,363,https://book.douban.com/subject/25945179/,科技
+蒂姆·库克,金大源,https://img1.doubanio.com/view/subject/s/public/s26717459.jpg,32.00,2013-7,6.7,22,1,8,10,2,1,30,0,21,https://book.douban.com/subject/24732534/,科技
+DK超级数学小玩家,[英]卡罗尔·沃德曼编著,https://img3.doubanio.com/view/subject/s/public/s33545460.jpg,69.80,2019-10-1,9.3,13,6,4,1,1,1,12,0,230,https://book.douban.com/subject/34926959/,科技
+啊哈！原来如此,[美]马丁·伽德纳,https://img3.doubanio.com/view/subject/s/public/s4639612.jpg,28.00,2008-9,8.0,495,162,214,104,12,3,561,112,1153,https://book.douban.com/subject/3235797/,科技
+科学技术学导论,瑟乔·西斯蒙多,https://img3.doubanio.com/view/subject/s/public/s5756351.jpg,25.50,2007-8,7.8,46,8,28,8,1,1,68,17,105,https://book.douban.com/subject/2273766/,科技
+5G NR标准：下一代无线通信技术,[瑞典]埃里克•达尔曼（ErikDahlman）,https://img3.doubanio.com/view/subject/s/public/s32314152.jpg,119,2019-5-1,8.7,26,18,4,2,1,1,27,10,188,https://book.douban.com/subject/33439392/,科技
+黎明之前,[美]尼古拉斯·韦德（NicholasWade）,https://img9.doubanio.com/view/subject/s/public/s28117136.jpg,50.00,2015-3,8.4,106,34,52,18,1,1,117,31,705,https://book.douban.com/subject/26321190/,科技
+802.11无线网络权威指南,加斯特,https://img3.doubanio.com/view/subject/s/public/s29368951.jpg,79.00,2007-12,8.3,31,8,14,7,1,1,31,18,76,https://book.douban.com/subject/2974431/,科技
+极客物理学,[美]瑞特·阿莱恩（RhettAllain）,https://img1.doubanio.com/view/subject/s/public/s28944239.jpg,42.00,2016-8,7.5,162,49,67,44,1,1,154,31,329,https://book.douban.com/subject/26848006/,科技
+Google,托马斯·舒尔茨(Thomas·Schulz),https://img3.doubanio.com/view/subject/s/public/s29095142.jpg,49.80,2016-11-1,6.9,204,26,86,81,10,1,224,43,272,https://book.douban.com/subject/26892520/,科技
+创投42章经,曲凯,https://img1.doubanio.com/view/subject/s/public/s29908638.jpg,58.00,2018-10-20,8.2,214,61,107,44,1,1,209,43,322,https://book.douban.com/subject/30364484/,科技
+硅谷之火,保罗·弗赖伯格,https://img9.doubanio.com/view/subject/s/public/s27988606.jpg,39.80,2014-11-1,7.5,124,21,45,47,6,5,122,36,318,https://book.douban.com/subject/26306584/,科技
+跨越鴻溝,GeoffreyA.Moore,https://img9.doubanio.com/view/subject/s/public/s1374144.jpg,300,2000-3,7.0,11,2,3,4,1,1,10,3,45,https://book.douban.com/subject/1341238/,科技
+时间的秩序,杨光,https://img3.doubanio.com/view/subject/s/public/s32332471.jpg,56.00,2019-6,9.0,7052,3939,2424,563,70,56,6914,1927,67291,https://book.douban.com/subject/33424487/,科技
+林肯的DNA以及遗传学上的其他冒险,[美]菲利普·R·赖利,https://img9.doubanio.com/view/subject/s/public/s5672245.jpg,33.00,2005-9-1,8.1,127,25,73,27,1,1,176,30,305,https://book.douban.com/subject/1445586/,科技
+最后一个人类,[爱尔兰]马克·奥康奈尔,https://img1.doubanio.com/view/subject/s/public/s30013768.jpg,79.90,2019-1,6.8,19,1,4,12,1,1,20,6,65,https://book.douban.com/subject/30434090/,科技
+滑动解锁,[美]帕斯·底特律,https://img1.doubanio.com/view/subject/s/public/s33457119.jpg,69,2019-8-20,7.4,86,34,28,22,1,1,89,14,188,https://book.douban.com/subject/34793613/,科技
+与孩子一起学编程,[美]桑德WarrenSande,https://img3.doubanio.com/view/subject/s/public/s4518521.jpg,65.00,2010-11,8.5,391,170,172,47,1,1,339,278,2736,https://book.douban.com/subject/5338024/,科技
+东京大学通识讲座2,（日）东京大学教养学部,https://img1.doubanio.com/view/subject/s/public/s28668009.jpg,42.00,2016-5,7.3,22,8,6,6,1,1,23,1,58,https://book.douban.com/subject/26781056/,科技
+治愈未来：数字困境的全球解决方案,林玮,https://img1.doubanio.com/view/subject/s/public/s30025719.jpg,58.00,2019-3,8.2,168,119,40,5,1,3,172,18,242,https://book.douban.com/subject/30460634/,科技
+爆发,[美]艾伯特-拉斯洛·巴拉巴西,https://img9.doubanio.com/view/subject/s/public/s10579445.jpg,59.90,2012-6,6.2,1330,133,298,586,234,79,1548,337,4403,https://book.douban.com/subject/10769712/,科技
+One Click,RichardL.Brandt,https://img1.doubanio.com/view/subject/s/public/s4723519.jpg,25.95,2011-10-27,7.2,58,7,31,16,3,1,69,16,236,https://book.douban.com/subject/6129537/,科技
+HTTP权威指南,DavidGourley,https://img1.doubanio.com/view/subject/s/public/s11329547.jpg,109.00,2012-9,8.6,1495,696,651,133,14,1,1482,895,4946,https://book.douban.com/subject/10746113/,科技
+The Science of Interstellar,KipThorne,https://img9.doubanio.com/view/subject/s/public/s27824536.jpg,24.95,2014-11-7,9.1,157,99,44,12,1,1,146,86,2029,https://book.douban.com/subject/26253662/,科技
+新黑暗时代,[英]詹姆斯·布莱德尔,https://img1.doubanio.com/view/subject/s/public/s32331468.jpg,79.8,2019-6,8.3,83,38,28,12,4,1,87,21,689,https://book.douban.com/subject/33408165/,科技
+硅谷钢铁侠,[美]阿什利·万斯,https://img9.doubanio.com/view/subject/s/public/s28571694.jpg,68.00,2016-4,8.1,7162,2185,3438,1404,114,21,7601,880,6963,https://book.douban.com/subject/26759508/,科技
+世界上最强大的思想,王兵,https://img9.doubanio.com/view/subject/s/public/s28920905.jpg,58.00,2016-6,8.2,37,13,12,9,2,1,40,22,748,https://book.douban.com/subject/26809340/,科技
+工程学之书,[美]马歇尔·布莱恩,https://img3.doubanio.com/view/subject/s/public/s29556433.jpg,88.00,2017-9-21,6.5,31,12,7,9,2,1,29,16,209,https://book.douban.com/subject/27150789/,科技
+IT不再重要,[美]尼古拉斯·卡尔,https://img1.doubanio.com/view/subject/s/public/s3259057.jpg,29.00,2008-10,7.5,627,114,285,199,23,6,778,123,2224,https://book.douban.com/subject/3215423/,科技
+什么是科学,吴国盛,https://img9.doubanio.com/view/subject/s/public/s28960634.jpg,49.80,2016-8,8.8,1067,575,386,89,8,9,1078,227,3007,https://book.douban.com/subject/26852425/,科技
+可穿戴设备：移动互联网新浪潮,陈根,https://img1.doubanio.com/view/subject/s/public/s27596317.jpg,49.00,2014-10-1,5.3,34,2,1,14,11,6,43,1,39,https://book.douban.com/subject/26108717/,科技
+中国科学技术史,李约瑟,https://img3.doubanio.com/view/subject/s/public/s4596262.jpg,19.60,1990.7,8.6,122,60,37,22,1,2,154,91,1904,https://book.douban.com/subject/2419991/,科技
+理解科学推理,RonaldN.Giere,https://img1.doubanio.com/view/subject/s/public/s4666909.jpg,56.00,2010-7,8.3,33,9,13,9,1,1,38,23,483,https://book.douban.com/subject/4882152/,科技
+Marissa Mayer and the Fight to Save Yahoo!,NicholasCarlson,https://img3.doubanio.com/view/subject/s/public/s27978562.jpg,30.00,2015-1-6,8.7,18,8,7,1,1,1,19,2,38,https://book.douban.com/subject/26296135/,科技
+量子力学的哲学基础,[德]H.赖欣巴哈,https://img9.doubanio.com/view/subject/s/public/s28072764.jpg,22.00,2015-4,8.6,22,10,8,2,1,1,30,16,247,https://book.douban.com/subject/26383884/,科技
+与机器赛跑,埃里克·布林约尔松,https://img9.doubanio.com/view/subject/s/public/s27458094.jpg,35.00,2014-9,7.2,100,14,45,32,7,2,118,17,182,https://book.douban.com/subject/25974789/,科技
+未来简史,[以色列]尤瓦尔·赫拉利,https://img3.doubanio.com/view/subject/s/public/s29287103.jpg,68.00,2017-2,8.4,39452,17736,15963,4887,630,236,42944,9724,71053,https://book.douban.com/subject/26943161/,科技
+网飞传奇,[美]吉娜·基廷,https://img1.doubanio.com/view/subject/s/public/s27214437.jpg,42,2014-1-1,6.8,231,21,72,99,36,3,253,38,371,https://book.douban.com/subject/25800025/,科技
+卓越未来,（美）R.U.希利乌斯,https://img9.doubanio.com/view/subject/s/public/s29212246.jpg,32,2016-12-20,8.0,226,73,87,59,5,2,218,71,757,https://book.douban.com/subject/26933447/,科技
+上帝的手术刀,王立铭,https://img3.doubanio.com/view/subject/s/public/s29431112.jpg,59.90,2017-5-1,8.7,1843,925,764,134,9,11,1999,274,8597,https://book.douban.com/subject/27025492/,科技
+Bold,PeterH.Diamandis,https://img3.doubanio.com/view/subject/s/public/s28008450.jpg,28.00,2015-2-3,8.1,14,4,7,1,1,1,14,3,97,https://book.douban.com/subject/26326498/,科技
+区块链革命,[加]唐塔普斯科特（DonTapscott）,https://img9.doubanio.com/view/subject/s/public/s29690715.jpg,69,2016-9,6.6,424,46,123,187,54,14,421,154,884,https://book.douban.com/subject/26871829/,科技
+How We Became Posthuman,N.KatherineHayles,https://img9.doubanio.com/view/subject/s/public/s33554415.jpg,22.50,1999-2-15,9.0,42,19,19,2,1,1,48,30,360,https://book.douban.com/subject/1386613/,科技
+虚拟现实,[美]吉姆·布拉斯科维奇,https://img1.doubanio.com/view/subject/s/public/s28338699.jpg,39.80,2014-11,7.2,70,8,31,25,5,1,89,10,455,https://book.douban.com/subject/26288821/,科技
+病毒星球,[美]卡尔·齐默,https://img9.doubanio.com/view/subject/s/public/s32294606.jpg,48.00,2019-4,8.2,3598,1032,2055,493,17,1,3860,328,6784,https://book.douban.com/subject/33408247/,科技
+Interactive Architecture,MichaelFox,https://img9.doubanio.com/view/subject/s/public/s6481944.jpg,50.00,20090901,8.3,34,14,12,6,1,1,41,23,113,https://book.douban.com/subject/4101914/,科技
+从哥白尼到牛顿,吴以义,https://img3.doubanio.com/view/subject/s/public/s30012043.jpg,68,2013-12,9.0,47,28,15,2,1,1,46,5,243,https://book.douban.com/subject/25809643/,科技
+Spring Cloud微服务：入门、实战与进阶,尹吉欢　著,https://img3.doubanio.com/view/subject/s/public/s33305372.jpg,89.00,2019-6-18,7.1,69,49,9,3,2,6,68,7,81,https://book.douban.com/subject/34441728/,科技
+数学之美,[美]吴军,https://img9.doubanio.com/view/subject/s/public/s9114855.jpg,45.00,2012-5-1,8.7,10396,5251,4086,956,83,20,11370,3667,33325,https://book.douban.com/subject/10750155/,科技
+时间简史,史蒂芬·霍金,https://img1.doubanio.com/view/subject/s/public/s1462627.jpg,4.30,1992-2,8.7,1417,696,543,164,7,7,1985,147,1062,https://book.douban.com/subject/1449356/,科技
+虚无,[英]杰里米·韦布,https://img3.doubanio.com/view/subject/s/public/s29846401.jpg,43.00,2018-6,7.8,42,7,23,10,1,1,48,14,373,https://book.douban.com/subject/27044683/,科技
+企业级业务架构设计：方法论与实践,付晓岩,https://img3.doubanio.com/view/subject/s/public/s33467230.jpg,69,2019-8-20,7.6,65,25,21,14,2,3,70,10,122,https://book.douban.com/subject/34801161/,科技
+下一站 火星：马斯克、贝佐斯和太空争夺战,[美]克里斯蒂安·达文波特,https://img3.doubanio.com/view/subject/s/public/s29929712.jpg,59.00,2018-12,8.1,203,46,119,34,3,1,202,42,656,https://book.douban.com/subject/30355229/,科技
+《金融科技：大数据、区块链和人工智能的应用与未来》,余丰慧,https://img3.doubanio.com/view/subject/s/public/s29708573.jpg,52.00,2018-3,5.9,30,1,7,11,8,3,32,2,17,https://book.douban.com/subject/30162688/,科技
+机器人科技,（日）日本机器人学会,https://img3.doubanio.com/view/subject/s/public/s27984542.jpg,69.00,2015-1,6.8,30,4,8,11,4,3,32,7,200,https://book.douban.com/subject/26302537/,科技
+智能的本质 人工智能与机器人领域的64个大问题,[美]皮埃罗·斯加鲁菲,https://img1.doubanio.com/view/subject/s/public/s29354627.jpg,55.00,2017-1-1,7.3,87,19,27,33,6,2,94,19,296,https://book.douban.com/subject/26978312/,科技
+科学革命的结构,[美]托马斯·库恩,https://img1.doubanio.com/view/subject/s/public/s24227318.jpg,29.00,2012-11,9.1,1394,868,419,90,9,8,1479,502,8829,https://book.douban.com/subject/20376550/,科技
+大产品—— 超级世界市场：窃意、创意与生意,IT经理世界,https://img3.doubanio.com/view/subject/s/public/s27831073.jpg,38.00,2014-11,6.8,25,4,10,8,2,1,25,4,49,https://book.douban.com/subject/26263873/,科技
+地球生命的历程,[英]理查德·穆迪,https://img3.doubanio.com/view/subject/s/public/s28760342.jpg,118.00,2016-5-1,8.5,65,34,25,4,1,1,55,37,406,https://book.douban.com/subject/26804140/,科技
+支付战争,埃里克•杰克逊,https://img3.doubanio.com/view/subject/s/public/s28061240.jpg,49.00,2015-5,8.0,2010,610,962,400,32,6,2201,248,4153,https://book.douban.com/subject/26324497/,科技
+生活中的运筹学,韩红梅,https://img1.doubanio.com/view/subject/s/public/s29756858.jpg,49.80,2017-7,6.6,18,1,5,10,1,1,16,4,18,https://book.douban.com/subject/30203182/,科技
+技术革命与金融资本,佩蕾丝；田,https://img9.doubanio.com/view/subject/s/public/s2782085.jpg,35.00,2007-1,8.6,136,63,44,26,2,1,146,48,925,https://book.douban.com/subject/2326852/,科技
+人类鉴定手册,英国《新科学家》杂志,https://img3.doubanio.com/view/subject/s/public/s29967451.jpg,128.00,2019-1,7.8,81,35,31,13,1,1,75,31,635,https://book.douban.com/subject/30336391/,科技
+文明的滴定,张卜天,https://img1.doubanio.com/view/subject/s/public/s29149408.jpg,59.00,2016-8,8.5,141,61,61,17,1,1,159,60,1290,https://book.douban.com/subject/26865821/,科技
+阿波罗是如何飞到月球的,W.DavidWoods,https://img9.doubanio.com/view/subject/s/public/s9030784.jpg,69.00,2012-3,9.1,43,28,11,2,1,1,48,7,393,https://book.douban.com/subject/10568054/,科技
+Permanent Record,EdwardSnowden,https://img3.doubanio.com/view/subject/s/public/s33489901.jpg,27.00,2019-9-14,8.8,818,445,291,76,5,1,842,202,1015,https://book.douban.com/subject/34841756/,科技
+暗趋势,王煜全,https://img3.doubanio.com/view/subject/s/public/s29961351.jpg,59,2019-1,7.6,74,13,30,29,1,1,79,24,327,https://book.douban.com/subject/30415786/,科技
+移动风暴,[美]弗雷德·沃格尔斯坦,https://img3.doubanio.com/view/subject/s/public/s27224602.jpg,39,2014-1-1,7.2,312,33,132,135,11,1,361,37,300,https://book.douban.com/subject/25800026/,科技
+图解密码技术（第3版）,[日]结城浩,https://img3.doubanio.com/view/subject/s/public/s28830003.jpg,89.00,2016-6,9.3,219,158,51,8,1,1,208,64,868,https://book.douban.com/subject/26822106/,科技
+酷科技,(英)克里斯·伍德福特//乔·伍德考克|译者,https://img1.doubanio.com/view/subject/s/public/s6232117.jpg,99.00,2010-8,6.7,15,2,2,8,2,1,19,2,11,https://book.douban.com/subject/5301481/,科技
+生命的壮阔,[美]斯蒂芬·杰·古尔德,https://img3.doubanio.com/view/subject/s/public/s1078511.jpg,15.00,2001-5,8.3,278,117,117,36,7,1,376,58,1863,https://book.douban.com/subject/1033086/,科技
+聚光灯下的明星科学家,（美）德克兰·费伊,https://img9.doubanio.com/view/subject/s/public/s29642765.jpg,68.00,2017-10-1,7.1,12,1,6,3,1,1,18,4,196,https://book.douban.com/subject/27195251/,科技
+完美理论,[英]佩德罗·G.费雷拉,https://img3.doubanio.com/view/subject/s/public/s28356122.jpg,45.00,2015-11-1,8.7,22,10,8,2,1,1,27,3,114,https://book.douban.com/subject/26679852/,科技
+计算社会学,[美]马修·萨尔加尼克（MatthewJ.Salganik）,https://img1.doubanio.com/view/subject/s/public/s32324647.jpg,69.00,2019-5,8.2,62,30,17,13,1,1,67,32,659,https://book.douban.com/subject/33416858/,科技
+特斯拉,[美]W.伯纳德·卡尔森（W.BernardCarlson）,https://img9.doubanio.com/view/subject/s/public/s28377866.jpg,69.00,2016-1,7.8,105,28,49,25,1,2,113,32,256,https://book.douban.com/subject/26701924/,科技
+为什么速度越快，时间越少,[美]马克·泰勒(MarkC.Taylor),https://img3.doubanio.com/view/subject/s/public/s29930751.jpg,69.00,2018-11,8.3,49,19,19,7,3,1,52,15,900,https://book.douban.com/subject/30386364/,科技
+无中生有的宇宙,刘仲敬,https://img9.doubanio.com/view/subject/s/public/s11362825.jpg,28.00,2012-9,6.9,106,20,26,42,7,11,113,32,677,https://book.douban.com/subject/17341557/,科技
+奇点临近,RayKurzweil,https://img3.doubanio.com/view/subject/s/public/s7645423.jpg,69.00,2011-10,7.6,1604,439,630,432,78,25,1676,689,8153,https://book.douban.com/subject/6855803/,科技
+火藥時代,TonioAndrade歐陽泰,https://img3.doubanio.com/view/subject/s/public/s29653813.jpg,580,2017-12-26,8.1,18,7,8,1,1,1,16,6,296,https://book.douban.com/subject/27187495/,科技
+爱彼迎传,[美]利·加拉格尔,https://img3.doubanio.com/view/subject/s/public/s32330732.jpg,69,2019-6-1,6.6,206,25,68,91,20,2,223,34,541,https://book.douban.com/subject/33435389/,科技
+费马大定理,西蒙·辛格,https://img1.doubanio.com/view/subject/s/public/s24562968.jpg,39.80,2013-1,9.2,2067,1420,552,91,2,2,2216,249,3876,https://book.douban.com/subject/20494401/,科技
+未來產業,AlecRoss,https://img1.doubanio.com/view/subject/s/public/s29281238.jpg,450,2016-5-30,7.7,15,3,5,5,1,1,14,5,44,https://book.douban.com/subject/26931547/,科技
+The Dark Net,JamieBartlett,https://img1.doubanio.com/view/subject/s/public/s27565748.jpg,20.00,2014-8-21,7.8,22,7,8,5,1,1,30,4,44,https://book.douban.com/subject/26078975/,科技
+A Matter of Degrees,GinoSegre,https://img3.doubanio.com/view/subject/s/public/s24923843.jpg,16.00,2003-7-1,8.5,15,6,6,1,1,1,13,5,114,https://book.douban.com/subject/2875223/,科技
+终极算法,[美]佩德罗·多明戈斯,https://img3.doubanio.com/view/subject/s/public/s29237441.jpg,68.00,2017-1-1,7.1,739,137,253,244,74,31,677,312,2260,https://book.douban.com/subject/26931905/,科技
+第二硅谷,[以色列]阿维·尤利诗AviJorisch,https://img1.doubanio.com/view/subject/s/public/s29947167.jpg,68,2018-11,8.2,12,6,1,3,1,1,14,2,10,https://book.douban.com/subject/30402261/,科技
+情报学基础教程,叶鹰、潘有能、潘卫,https://img9.doubanio.com/view/subject/s/public/s10076514.jpg,28.00,2006-10,6.8,23,2,10,8,2,1,32,8,121,https://book.douban.com/subject/1934290/,科技
+素数之恋,(美)约翰·德比希尔,https://img1.doubanio.com/view/subject/s/public/s28020607.jpg,67.00,2014-11-1,9.1,105,68,29,6,1,1,111,33,560,https://book.douban.com/subject/26293336/,科技
+机器人新时代,福尼(ForniA.),https://img1.doubanio.com/view/subject/s/public/s28486037.jpg,65.00,2016-2-15,5.6,13,1,2,5,4,1,12,1,21,https://book.douban.com/subject/26740005/,科技
+三体智能革命,胡虎,https://img1.doubanio.com/view/subject/s/public/s29039979.jpg,69.00,2016-9-9,7.1,20,6,6,6,1,1,22,7,51,https://book.douban.com/subject/26873446/,科技
+产品改变世界,诺曼·威纳尔斯基(NormanWinarsky),https://img3.doubanio.com/view/subject/s/public/s29401983.jpg,49.00,2017-3-1,7.3,91,27,26,30,6,2,102,12,166,https://book.douban.com/subject/26991984/,科技
+产品经理方法论,乔克•布苏蒂尔(JockBusuttil),https://img1.doubanio.com/view/subject/s/public/s28991677.jpg,45.00,2016-3-1,6.7,173,24,53,77,17,2,177,33,217,https://book.douban.com/subject/26720936/,科技
+100亿个明天,[英]布赖恩·克莱格（BrianClegg）,https://img9.doubanio.com/view/subject/s/public/s29498814.jpg,49.00,2017-6,7.7,31,10,10,9,1,1,34,8,108,https://book.douban.com/subject/27054089/,科技
+演化,[美]卡尔·齐默（CarlZimmer）,https://img3.doubanio.com/view/subject/s/public/s6851332.jpg,88.00,2011-12,9.2,606,409,163,29,4,1,686,194,5464,https://book.douban.com/subject/6750347/,科技
+未来战争,[美]罗伯特·H.拉蒂夫（RobertH.Latiff）,https://img9.doubanio.com/view/subject/s/public/s33300115.jpg,38.00,2019-7,7.8,24,4,8,10,1,1,25,6,206,https://book.douban.com/subject/33387419/,科技
+空间简史,[意]托马斯·马卡卡罗,https://img9.doubanio.com/view/subject/s/public/s29917795.jpg,39.80,2019-1-1,6.8,186,40,74,51,16,5,196,36,698,https://book.douban.com/subject/30356327/,科技
+发现的乐趣,（美）理查德·费曼,https://img9.doubanio.com/view/subject/s/public/s28650756.jpg,39.80,2016-5,8.4,1172,472,519,172,7,2,1243,290,7997,https://book.douban.com/subject/26776967/,科技
+大话5g,S2微沙龙,https://img1.doubanio.com/view/subject/s/public/s29730087.jpg,55.00,2017-5,5.1,15,1,1,5,5,3,20,2,12,https://book.douban.com/subject/27200453/,科技
+AI极简经济学,阿杰伊·阿格拉沃尔,https://img1.doubanio.com/view/subject/s/public/s29909578.jpg,58.00,2018-12,7.4,223,49,101,63,9,1,218,59,746,https://book.douban.com/subject/30416291/,科技
+爱无可忍,[英]伊恩·麦克尤恩,https://img9.doubanio.com/view/subject/s/public/s4653405.jpg,32.00,2011-3,7.9,1264,307,659,279,17,2,1578,247,4197,https://book.douban.com/subject/5366441/,科技
+我是怎样设计飞机的,[美]克拉伦斯·伦纳德·凯利·约翰逊,https://img9.doubanio.com/view/subject/s/public/s32276015.jpg,39.80,2019-5,7.9,101,26,52,20,2,1,111,17,677,https://book.douban.com/subject/33377948/,科技
+统计探源,【美】斯蒂格勒,https://img1.doubanio.com/view/subject/s/public/s28423578.jpg,49.8,2014-4,7.9,18,6,8,2,1,1,11,17,127,https://book.douban.com/subject/26311562/,科技
+超越人类,[美]伊芙·赫洛尔德,https://img1.doubanio.com/view/subject/s/public/s29614757.jpg,45.00,2017-12,6.7,41,4,17,18,1,1,38,11,223,https://book.douban.com/subject/27200474/,科技
+Stealing Fire,StevenKotler,https://img3.doubanio.com/view/subject/s/public/s29491021.jpg,27.99,2017-2-21,7.9,57,24,24,7,1,1,65,15,190,https://book.douban.com/subject/27084848/,科技
+浪潮之巅（第四版）（上下册）,吴军,https://img1.doubanio.com/view/subject/s/public/s32513229.jpg,139.00,2019-6,9.1,335,232,86,14,2,1,304,164,948,https://book.douban.com/subject/33474750/,科技
+科技之巅3,麻省理工科技评论,https://img3.doubanio.com/view/subject/s/public/s33298833.jpg,99.0,2019-7,6.0,42,5,17,13,6,1,40,14,90,https://book.douban.com/subject/34432806/,科技
+一网打尽,[美]布拉德·斯通,https://img9.doubanio.com/view/subject/s/public/s27132055.jpg,49.00,2014-1-15,7.4,1839,274,873,594,71,27,2028,314,3616,https://book.douban.com/subject/25766700/,科技
+爆裂,[美]伊藤穰一,https://img1.doubanio.com/view/subject/s/public/s29539567.jpg,65.00,2017-9-1,6.5,1758,244,458,761,232,63,1711,360,2188,https://book.douban.com/subject/27131703/,科技
+移动浪潮,邹韬,https://img1.doubanio.com/view/subject/s/public/s27637458.jpg,59.00,2013-1-1,6.6,429,55,132,178,57,7,504,77,659,https://book.douban.com/subject/20480821/,科技
+浪潮之巅（下册）,[美]吴军,https://img3.doubanio.com/view/subject/s/public/s28066582.jpg,45.00,2013-6,9.2,567,382,156,26,1,2,651,48,412,https://book.douban.com/subject/24740308/,科技
+古脊椎动物学（第四版）,MichaelJ.Benton,https://img3.doubanio.com/view/subject/s/public/s29472583.jpg,198.00,2017-3,8.9,23,16,4,1,1,1,15,18,237,https://book.douban.com/subject/27046794/,科技
+迷人的材料[精装珍藏版],马克·米奥多尼克,https://img1.doubanio.com/view/subject/s/public/s29721287.jpg,88,2018-3,8.8,59,23,30,4,1,1,64,13,178,https://book.douban.com/subject/30176651/,科技
+枪炮、病菌与钢铁,[美]贾雷德·戴蒙德,https://img3.doubanio.com/view/subject/s/public/s1738643.jpg,45.00,2006-4-1,8.8,29277,14947,11166,2784,293,87,32113,10731,82326,https://book.douban.com/subject/1813841/,科技
+技术的本质,布莱恩•阿瑟（BrianArthur）,https://img3.doubanio.com/view/subject/s/public/s27237790.jpg,62.90,2014-4-1,7.9,896,306,337,187,52,14,969,262,4442,https://book.douban.com/subject/25846075/,科技
+白金数据,[日]东野圭吾,https://img9.doubanio.com/view/subject/s/public/s29659546.jpg,42.00,2018-1,7.1,7530,1145,3276,2749,323,37,8183,332,1774,https://book.douban.com/subject/27173553/,科技
+大自然的常数,[英]约翰·D·巴罗,https://img3.doubanio.com/view/subject/s/public/s28686443.jpg,48.00,2016-4,6.9,15,2,3,8,1,1,18,5,81,https://book.douban.com/subject/26772625/,科技
+编码,[美]CharlesPetzold,https://img9.doubanio.com/view/subject/s/public/s4379914.jpg,55.00,2010,9.3,3118,2244,704,140,18,12,2900,1264,11919,https://book.douban.com/subject/4822685/,科技
+Jack,JackWelch,https://img1.doubanio.com/view/subject/s/public/s4253048.jpg,19.99,2003-10,8.5,139,56,62,19,1,1,124,61,200,https://book.douban.com/subject/1394385/,科技
+星期六,[英]伊恩·麦克尤恩,https://img9.doubanio.com/view/subject/s/public/s6784196.jpg,32.00,2011-7,7.9,533,143,253,118,16,3,663,93,552,https://book.douban.com/subject/6126819/,科技
+对苹果设计说不,戴维·波格等著,https://img3.doubanio.com/view/subject/s/public/s27306721.jpg,39.8,2014-5,6.5,55,4,16,27,5,3,64,6,60,https://book.douban.com/subject/25909315/,科技
+玻璃的世界,[英]艾伦·麦克法兰,https://img9.doubanio.com/view/subject/s/public/s5704676.jpg,18.00,2003-1,7.8,119,27,61,29,1,1,157,29,656,https://book.douban.com/subject/1153482/,科技
+趣学Python编程,JasonBriggs,https://img9.doubanio.com/view/subject/s/public/s29754755.jpg,45.00,2014-3,8.2,90,26,49,11,3,1,93,39,354,https://book.douban.com/subject/25837145/,科技
+创新者,[美]沃尔特·艾萨克森,https://img3.doubanio.com/view/subject/s/public/s28836650.jpg,88.00,2016-6,8.3,99,53,26,17,2,1,109,37,682,https://book.douban.com/subject/26823787/,科技
+Future Crimes,MarcGoodman,https://img1.doubanio.com/view/subject/s/public/s28011678.jpg,22.35,2015-2-24,8.3,13,3,6,2,1,1,14,10,78,https://book.douban.com/subject/26329383/,科技
+技术的报复,爱德华·特纳,https://img1.doubanio.com/view/subject/s/public/s5655609.jpg,29.40,2000-06,6.4,58,5,20,22,10,1,91,8,236,https://book.douban.com/subject/1080037/,科技
+技术的本质（经典版）,[美]布莱恩·阿瑟(W.BrianArthur),https://img1.doubanio.com/view/subject/s/public/s29779308.jpg,79.90,2018-6-1,7.8,112,29,58,22,2,1,118,36,653,https://book.douban.com/subject/30234043/,科技
+图解密码技术,[日]结城浩,https://img3.doubanio.com/view/subject/s/public/s27844440.jpg,79.00,2014-12,9.1,326,218,92,14,1,1,336,75,1785,https://book.douban.com/subject/26265544/,科技
+未来世界的幸存者,阮一峰,https://img3.doubanio.com/view/subject/s/public/s29804420.jpg,39.00,2018-6-1,7.7,618,162,294,147,14,1,633,63,666,https://book.douban.com/subject/30259509/,科技
+驯化,【英】艾丽丝·罗伯茨,https://img9.doubanio.com/view/subject/s/public/s30011126.jpg,79.00,2019-5,7.5,345,80,162,94,6,3,350,125,1778,https://book.douban.com/subject/30447356/,科技
+决战元素周期表,[美]大卫·S.亚伯拉罕,https://img9.doubanio.com/view/subject/s/public/s29870916.jpg,39.80,2018-9,8.3,101,34,48,16,2,1,121,15,832,https://book.douban.com/subject/30327385/,科技
+少数派报告,[美国]菲利普·迪克,https://img3.doubanio.com/view/subject/s/public/s29563532.jpg,42.00,2017-10,8.9,2039,1080,813,140,4,2,2213,188,2205,https://book.douban.com/subject/27041504/,科技
+二战解密,（英）保罗﹒肯尼迪,https://img9.doubanio.com/view/subject/s/public/s26561255.jpg,48.00,2013-5,8.2,21,8,8,2,2,1,27,1,143,https://book.douban.com/subject/24705776/,科技
+机器人时代,[美]马丁·福特,https://img9.doubanio.com/view/subject/s/public/s28123725.jpg,49.00,2015-6,7.3,300,44,128,114,8,6,329,54,609,https://book.douban.com/subject/26393046/,科技
+基因的分子生物学（第七版）,J.D.沃森,https://img9.doubanio.com/view/subject/s/public/s28066326.jpg,238.00,2015-3-1,9.6,34,27,4,1,1,1,21,20,239,https://book.douban.com/subject/26384150/,科技
+技术垄断,[美]尼尔•波斯曼（NeilPostman）,https://img3.doubanio.com/view/subject/s/public/s32271971.jpg,58.00,2019-4-1,8.1,462,133,236,84,8,1,477,140,4187,https://book.douban.com/subject/33385896/,科技
+下一步是什么,马克思.布鲁克曼编,https://img9.doubanio.com/view/subject/s/public/s27168314.jpg,20.00,2011-9,7.9,41,7,20,12,1,1,63,9,123,https://book.douban.com/subject/6968828/,科技
+文明之光（第二册）,[美]吴军,https://img1.doubanio.com/view/subject/s/public/s27307489.jpg,59.00,2014-6,8.9,2698,1650,850,183,10,5,2974,228,2481,https://book.douban.com/subject/25902222/,科技
+孔夫子与机器人,[法]常博逸著,https://img1.doubanio.com/view/subject/s/public/s29464599.jpg,38.00,2017-6-1,7.2,14,4,5,2,1,2,13,3,56,https://book.douban.com/subject/27058559/,科技
+数字乌托邦,[美]弗雷德·特纳,https://img3.doubanio.com/view/subject/s/public/s26379193.jpg,49.80,2013-5-1,7.7,259,63,108,72,12,4,310,116,2639,https://book.douban.com/subject/21632268/,科技
+病毒循环,亚当•潘恩伯格(AdamL.Penenberg),https://img3.doubanio.com/view/subject/s/public/s26008161.jpg,56.90,2013-5-1,6.5,246,19,79,108,35,5,283,53,673,https://book.douban.com/subject/22790103/,科技
+暗网,杰米·巴特利特,https://img9.doubanio.com/view/subject/s/public/s29769254.jpg,59.00,2018-7,6.3,1244,169,328,507,199,41,1316,215,1315,https://book.douban.com/subject/30187654/,科技
+数字乌托邦,尼古拉斯•卡尔,https://img1.doubanio.com/view/subject/s/public/s29752378.jpg,69.00,2018-5,7.0,97,29,38,24,2,4,95,24,441,https://book.douban.com/subject/30206801/,科技
+WTF?,TimO&#39;Reilly,https://img9.doubanio.com/view/subject/s/public/s29471844.jpg,32.99,2017-10-10,9.3,14,8,3,1,1,1,16,6,109,https://book.douban.com/subject/27066034/,科技
+深度学习入门,[日］斋藤康毅,https://img9.doubanio.com/view/subject/s/public/s29815955.jpg,59.00,2018-7,9.4,462,359,90,10,1,2,401,219,2778,https://book.douban.com/subject/30270959/,科技
+AI·未来,李开复,https://img9.doubanio.com/view/subject/s/public/s29872945.jpg,62,2018-9-1,7.2,1701,330,723,529,80,39,1741,181,1299,https://book.douban.com/subject/30305583/,科技
+苏-27研制历程·传奇的诞生,巴维尔·普鲁因斯基,https://img9.doubanio.com/view/subject/s/public/s29515764.jpg,180.00,2017-5-1,8.8,16,9,3,2,1,1,14,5,52,https://book.douban.com/subject/27094294/,科技
+创新的演化,[美]史蒂文·克莱珀,https://img3.doubanio.com/view/subject/s/public/s29812703.jpg,49.80,2018-8,7.9,17,5,4,6,1,1,19,3,166,https://book.douban.com/subject/30267387/,科技
+必然,凯文·凯利(KevinKelly),https://img1.doubanio.com/view/subject/s/public/s29402699.jpg,58,2016-1,8.4,1256,478,568,179,21,10,1279,308,1423,https://book.douban.com/subject/26653673/,科技
+微服务架构设计模式,[美]　克里斯?理查森（ChrisRichardson）,https://img1.doubanio.com/view/subject/s/public/s32303297.jpg,139,2019-5,9.1,167,111,45,9,1,1,135,122,1528,https://book.douban.com/subject/33425123/,科技
+打造Facebook,王淮,https://img3.doubanio.com/view/subject/s/public/s24581301.jpg,39.80,2013-2-1,7.5,2226,342,1115,685,64,20,2594,322,2883,https://book.douban.com/subject/20471120/,科技
+疯狂的独角兽,[美]丹·莱昂斯,https://img9.doubanio.com/view/subject/s/public/s29542864.jpg,42,2017-10,7.5,92,21,42,21,7,1,96,13,388,https://book.douban.com/subject/27139170/,科技
+呼吸,[美]特德·姜,https://img1.doubanio.com/view/subject/s/public/s33519539.jpg,42,2019-12,8.6,10101,4273,4344,1303,151,30,10052,2854,61686,https://book.douban.com/subject/34672176/,科技
+为什么,[美]朱迪亚·珀尔(JudeaPearl),https://img9.doubanio.com/view/subject/s/public/s33298015.jpg,69.00,2019-7-1,8.7,638,327,238,60,10,3,561,486,7487,https://book.douban.com/subject/33438811/,科技
+高铁风云录,高铁见闻,https://img3.doubanio.com/view/subject/s/public/s28328692.jpg,42.00,2015-10,7.8,903,275,372,213,26,17,959,85,1094,https://book.douban.com/subject/26644808/,科技
+埃隆·马斯克传,陆西,https://img9.doubanio.com/view/subject/s/public/s27362856.jpg,38.00,2014-7,7.1,267,72,102,76,12,5,286,40,613,https://book.douban.com/subject/25943598/,科技
+极客帝国,[英]安吉拉·萨伊尼,https://img3.doubanio.com/view/subject/s/public/s7031510.jpg,29.80,2011-12,6.8,15,1,5,7,1,1,22,2,26,https://book.douban.com/subject/10345012/,科技
+量子世界的发现之旅,[美]迈克尔·S.沃克,https://img9.doubanio.com/view/subject/s/public/s30004685.jpg,59,2019-1,7.3,25,6,7,10,1,1,24,12,80,https://book.douban.com/subject/30353747/,科技
+工具，还是武器？,【美】布拉德·史密斯,https://img9.doubanio.com/view/subject/s/public/s33583216.jpg,68,2020-2,8.6,46,13,17,14,1,1,48,23,694,https://book.douban.com/subject/34940580/,科技
+Creative Selection,KenKocienda,https://img1.doubanio.com/view/subject/s/public/s29831799.jpg,28.99,2018-9-4,7.7,48,7,30,9,1,1,49,24,435,https://book.douban.com/subject/30286685/,科技
+战争改变历史,石祥,https://img3.doubanio.com/view/subject/s/public/s6328220.jpg,68.00,2011-3,9.1,175,108,45,20,1,1,206,66,2054,https://book.douban.com/subject/6090958/,科技
+New Dark Age,JamesBridle,https://img9.doubanio.com/view/subject/s/public/s29797404.jpg,16.99,2018-7-17,8.4,18,8,6,2,1,1,17,8,72,https://book.douban.com/subject/27604064/,科技
+华为管理变革,吴晓波,https://img3.doubanio.com/view/subject/s/public/s29602090.jpg,62,2017-11,7.9,97,29,40,24,3,1,96,27,322,https://book.douban.com/subject/27192173/,科技
+自达尔文以来,[美]斯蒂芬·杰·古尔德,https://img9.doubanio.com/view/subject/s/public/s1231095.jpg,12.0,2003,8.3,243,100,102,35,5,1,315,69,1045,https://book.douban.com/subject/1084264/,科技
+机械宇宙,[美]爱德华·多尼克,https://img3.doubanio.com/view/subject/s/public/s28868710.jpg,65.00,2016-6-1,8.0,550,167,279,91,6,7,599,114,1061,https://book.douban.com/subject/26821965/,科技
+塑造世界经济的50项伟大发明,[英]蒂姆·哈福德,https://img3.doubanio.com/view/subject/s/public/s29737802.jpg,58,2018-4,7.0,205,24,97,73,7,4,219,36,343,https://book.douban.com/subject/30192587/,科技
+DK机械运转的秘密 动物园大逃亡！,大卫·麦考利(DavidMacaulay),https://img9.doubanio.com/view/subject/s/public/s29419886.jpg,138.00,2017-4-1,8.1,64,27,27,8,1,1,74,13,233,https://book.douban.com/subject/27014489/,科技
+计算机程序设计艺术,[美]DonaldKnuth,https://img9.doubanio.com/view/subject/s/public/s28357866.jpg,198,2016-1-1,9.5,30,24,3,1,1,1,30,36,887,https://book.douban.com/subject/26681685/,科技
+群体性孤独,[美]雪莉·特克尔,https://img3.doubanio.com/view/subject/s/public/s28991700.jpg,66.90,2014-3-1,6.9,813,102,285,338,80,8,854,184,3308,https://book.douban.com/subject/25848953/,科技
+与机器赛跑,[美]埃里克·布林约尔松（ErikBrynjolfsson）,https://img3.doubanio.com/view/subject/s/public/s24933920.jpg,6.00,2013-1-20,8.1,574,177,250,136,10,1,670,111,3707,https://book.douban.com/subject/21326266/,科技
+生活的物理,何定梁编,https://img1.doubanio.com/view/subject/s/public/s1285778.jpg,12.80,2000-01,8.1,49,12,32,3,1,1,69,2,36,https://book.douban.com/subject/1107521/,科技
+在线,王坚,https://img1.doubanio.com/view/subject/s/public/s29829569.jpg,59.00,2018-5-21,7.3,88,27,34,20,6,1,89,16,97,https://book.douban.com/subject/30273425/,科技
+创客学,菲尔·麦肯尼,https://img3.doubanio.com/view/subject/s/public/s26717653.jpg,48.00,2013-7,8.0,21,4,12,3,1,1,22,10,113,https://book.douban.com/subject/24738857/,科技
+IPFS 原理与实践,董天一,https://img9.doubanio.com/view/subject/s/public/s33444515.jpg,89,2019-7,8.9,22,11,8,1,1,1,18,7,30,https://book.douban.com/subject/34769292/,科技
+科技的狂欢,安德鲁·基恩(AndrewKeen),https://img3.doubanio.com/view/subject/s/public/s29819183.jpg,58.00,2018-6-1,6.8,35,10,7,10,7,1,39,9,90,https://book.douban.com/subject/30274143/,科技
+赛先生的梦魇,金观涛等,https://img9.doubanio.com/view/subject/s/public/s29934116.jpg,58.00,2019-2,8.2,51,19,19,10,2,1,56,16,420,https://book.douban.com/subject/30389352/,科技
+阿西莫夫最新科学指南（上下册）,[美]艾萨克·阿西莫夫,https://img9.doubanio.com/view/subject/s/public/s29657326.jpg,48.00,2000-08,9.1,389,247,105,35,1,1,559,230,4627,https://book.douban.com/subject/1016827/,科技
+宇宙逍遥,约翰·A·惠勒,https://img3.doubanio.com/view/subject/s/public/s2593763.jpg,34.00,4/1/2006,9.2,56,31,18,5,1,1,70,18,382,https://book.douban.com/subject/1787419/,科技
+5G时代,项立刚,https://img1.doubanio.com/view/subject/s/public/s33497438.jpg,69,2019-5,5.8,339,37,87,137,48,30,345,48,234,https://book.douban.com/subject/33425362/,科技
+老科技的全球史,大衛.艾傑頓(DavidEdgerton),https://img9.doubanio.com/view/subject/s/public/s29166964.jpg,520,2016-12,8.4,14,3,8,1,1,1,14,6,293,https://book.douban.com/subject/26880624/,科技
+算法帝国,[美]克里斯托弗·斯坦纳,https://img1.doubanio.com/view/subject/s/public/s27277427.jpg,49.00,2014-6,7.2,418,82,154,151,24,7,446,94,1911,https://book.douban.com/subject/25854872/,科技
+梦溪笔谈,沈括,https://img1.doubanio.com/view/subject/s/public/s27269887.jpg,22.00,2003-03,8.5,631,247,302,80,1,1,952,230,2037,https://book.douban.com/subject/1025808/,科技
+人月神话,[美]弗雷德里克·布鲁克斯,https://img9.doubanio.com/view/subject/s/public/s1086045.jpg,29.80,2002-11,8.4,3208,1272,1420,475,35,6,4390,966,8921,https://book.douban.com/subject/1102259/,科技
+现代操作系统（原书第4版）,[荷]AndrewS.Tanenbaum,https://img3.doubanio.com/view/subject/s/public/s29633301.jpg,89.00,2017-7,9.2,166,102,42,12,7,3,108,106,671,https://book.douban.com/subject/27096665/,科技
+智能时代,[美]吴军,https://img3.doubanio.com/view/subject/s/public/s29142393.jpg,68.00,2016-8,8.4,5797,2418,2470,794,75,40,5966,804,12597,https://book.douban.com/subject/26838557/,科技
+复活猛犸象,贝丝·夏匹罗,https://img1.doubanio.com/view/subject/s/public/s28847267.jpg,45.00,2016-4,7.8,16,4,7,3,1,1,17,3,113,https://book.douban.com/subject/26812775/,科技
+拿破仑的纽扣,潘妮.拉古德,https://img1.doubanio.com/view/subject/s/public/s5766087.jpg,19.80,2007-5,7.6,57,17,19,19,1,1,65,8,192,https://book.douban.com/subject/2059154/,科技
+钢铁、蒸汽与资本,[英]罗杰·奥斯本（RogerOsborne）,https://img3.doubanio.com/view/subject/s/public/s28611521.jpg,69.00,2016-4,8.1,45,14,21,8,1,1,53,22,739,https://book.douban.com/subject/26765971/,科技
+机器人叛乱,[加拿大]基思·斯坦诺维奇,https://img1.doubanio.com/view/subject/s/public/s28119179.jpg,69.00,2015-5,8.4,866,385,319,131,24,7,875,307,3922,https://book.douban.com/subject/26412113/,科技
+人工智慧來了,李開復,https://img9.doubanio.com/view/subject/s/public/s29485366.jpg,500,2017-4-28,6.6,18,1,7,8,1,1,16,0,6,https://book.douban.com/subject/27079723/,科技
+物理学的进化,[美]阿尔伯特·爱因斯坦,https://img9.doubanio.com/view/subject/s/public/s30023216.jpg,48.00,2019-3-1,8.8,61,32,20,7,1,1,62,35,270,https://book.douban.com/subject/30469078/,科技
+参与感,黎万强,https://img1.doubanio.com/view/subject/s/public/s27359667.jpg,56.00,2014-8,7.5,9237,1589,4231,3021,304,92,10447,859,8373,https://book.douban.com/subject/25942507/,科技
+宇宙的规则,胡先笙,https://img3.doubanio.com/view/subject/s/public/s32332701.jpg,58.00,2019-6,8.7,95,63,24,4,3,1,92,18,203,https://book.douban.com/subject/33459535/,科技
+归属感,[美]罗伯特·迪尔茨,https://img3.doubanio.com/view/subject/s/public/s28287992.jpg,49,2015-8-20,6.4,245,106,85,29,18,7,247,25,279,https://book.douban.com/subject/26604221/,科技
+约翰·惠勒自传,[美]约翰·阿奇博尔德·惠勒（JohnArchibaldWheeler）,https://img1.doubanio.com/view/subject/s/public/s29820369.jpg,88.00,2018-3,8.0,27,16,8,1,1,1,30,5,191,https://book.douban.com/subject/30187930/,科技
+遇见未来,《我是未来》节目组,https://img3.doubanio.com/view/subject/s/public/s29686022.jpg,58.00,2018-2-1,6.6,24,2,8,6,4,4,31,5,13,https://book.douban.com/subject/30140294/,科技
+双螺旋（插图注释本）,[美]詹姆斯·沃森,https://img1.doubanio.com/view/subject/s/public/s29216488.jpg,99.90,2017-1-1,8.0,45,22,14,7,1,1,47,18,137,https://book.douban.com/subject/26934470/,科技
+通信之道——从微积分到5G,杨学志编著,https://img3.doubanio.com/view/subject/s/public/s28504883.jpg,79,2016-2,8.5,130,79,32,13,1,5,110,72,869,https://book.douban.com/subject/26743649/,科技
+Lewin 基因X（中文版）,J.E.克雷布斯(JocelynE.Krebs),https://img1.doubanio.com/view/subject/s/public/s28066318.jpg,298.00,2013-2-1,8.9,40,27,8,3,1,1,25,42,339,https://book.douban.com/subject/20502437/,科技
+贴心设计,[美]JakobNielsen,https://img1.doubanio.com/view/subject/s/public/s26642799.jpg,59.00,2013-6,7.9,77,22,28,24,2,1,84,16,324,https://book.douban.com/subject/24720342/,科技
+天工开物译注,宋应星,https://img1.doubanio.com/view/subject/s/public/s3195609.jpg,36.00,2008-4,9.1,239,133,83,18,4,1,336,123,1349,https://book.douban.com/subject/3156435/,科技
+信息简史,[美]詹姆斯·格雷克,https://img1.doubanio.com/view/subject/s/public/s27237628.jpg,69.00,2013-10,8.7,2421,1175,865,312,50,19,2549,775,9164,https://book.douban.com/subject/25752043/,科技
+第四次工业革命,克劳斯·施瓦布,https://img3.doubanio.com/view/subject/s/public/s28771161.jpg,45.00,2016-6-5,6.2,508,54,144,242,57,11,532,89,516,https://book.douban.com/subject/26800364/,科技
+第三次浪潮,托夫勒,https://img3.doubanio.com/view/subject/s/public/s10040252.jpg,38.00,2006-6,8.4,808,324,353,119,8,4,1008,253,4615,https://book.douban.com/subject/1789444/,科技
+看见未来,余晨,https://img9.doubanio.com/view/subject/s/public/s28047534.jpg,59.00,2015-4-15,7.3,143,27,63,45,6,2,171,20,406,https://book.douban.com/subject/26361207/,科技
+第二次机器革命,【美】埃里克·布莱恩约弗森,https://img3.doubanio.com/view/subject/s/public/s29356943.jpg,49,2016-12,7.9,37,8,15,12,1,1,41,5,106,https://book.douban.com/subject/26941689/,科技
+特斯拉自传,[美]尼古拉·特斯拉,https://img3.doubanio.com/view/subject/s/public/s27321620.jpg,32.00,2014-10-1,7.7,489,148,179,142,18,2,522,61,586,https://book.douban.com/subject/25924949/,科技
+不可不知的经济真相,许树泽著,https://img3.doubanio.com/view/subject/s/public/s29037800.jpg,39,2016-10,7.8,395,92,189,88,21,5,402,63,427,https://book.douban.com/subject/26872427/,科技
+氢经济,杰瑞米·里夫金,https://img3.doubanio.com/view/subject/s/public/s1175241.jpg,32.00,2003-10,7.7,16,3,4,7,1,1,15,0,51,https://book.douban.com/subject/1065007/,科技
+达尔文的黑匣子,（美）迈克尔・J・贝希,https://img3.doubanio.com/view/subject/s/public/s2206110.jpg,29.00,1998-09,6.6,161,37,43,53,8,20,188,29,399,https://book.douban.com/subject/1081842/,科技
+Greenplum：从大数据战略到实现,冯雷,https://img3.doubanio.com/view/subject/s/public/s33467232.jpg,119,2019-7,8.9,27,17,7,1,1,1,23,6,88,https://book.douban.com/subject/34790654/,科技
+In The Plex,StevenLevy,https://img1.doubanio.com/view/subject/s/public/s5288419.jpg,29.95,2011-4-12,8.7,381,176,161,40,3,1,381,248,2274,https://book.douban.com/subject/4789228/,科技
+杰普逊航图教程,方学东,https://img3.doubanio.com/view/subject/s/public/s5883113.jpg,65.00,2008-1,8.4,24,14,4,4,1,1,23,9,46,https://book.douban.com/subject/3028232/,科技
+时间的形状,汪洁,https://img1.doubanio.com/view/subject/s/public/s8938179.jpg,29.80,2012-1-15,8.6,3413,1675,1286,378,54,20,3698,486,5538,https://book.douban.com/subject/7647487/,科技
+科技之巅2,麻省理工科技评论,https://img1.doubanio.com/view/subject/s/public/s29449558.jpg,88.00,2017-6-1,7.1,211,38,87,74,10,2,226,42,326,https://book.douban.com/subject/27043500/,科技
+天地九重,杨利伟,https://img1.doubanio.com/view/subject/s/public/s6135267.jpg,36.00,2010-1,8.9,279,187,69,21,1,1,267,61,698,https://book.douban.com/subject/4312477/,科技
+大教堂与集市,[美]EricS·Raymond,https://img9.doubanio.com/view/subject/s/public/s28026215.jpg,59.00,2014-5,8.4,789,312,348,120,6,3,881,145,2126,https://book.douban.com/subject/25881855/,科技
+未来之路,[美]维韦克•瓦德瓦（VivekWadwha）,https://img3.doubanio.com/view/subject/s/public/s29901501.jpg,59.00,2018-10-15,6.6,26,4,8,10,2,2,31,3,56,https://book.douban.com/subject/30357382/,科技
+机器人的未来,[意]多梅尼科·帕里西,https://img1.doubanio.com/view/subject/s/public/s28450957.jpg,98.00,2016-2,6.8,17,4,3,7,2,1,12,6,74,https://book.douban.com/subject/26733406/,科技
+数字城堡,[美]丹·布朗,https://img9.doubanio.com/view/subject/s/public/s2414085.jpg,25.00,2004-9,7.3,21981,3806,9242,8119,748,66,28491,418,2478,https://book.douban.com/subject/1057206/,科技
+硅谷百年史,阿伦·拉奥(ArunRao),https://img1.doubanio.com/view/subject/s/public/s29022298.jpg,173.00,2016-9-1,8.4,39,10,18,9,1,1,39,19,307,https://book.douban.com/subject/26866596/,科技
+Life 3.0,MaxTegmark,https://img1.doubanio.com/view/subject/s/public/s29547698.jpg,20.00,2017-8-29,8.5,35,17,15,1,1,1,30,32,172,https://book.douban.com/subject/27125405/,科技
+iPhone简史,[美]布莱恩•麦切特,https://img3.doubanio.com/view/subject/s/public/s29917553.jpg,68.00,2018-12-9,7.7,37,9,19,6,2,1,37,8,456,https://book.douban.com/subject/30373586/,科技
+解码宇宙,(美)塞费,https://img3.doubanio.com/view/subject/s/public/s4390290.jpg,26.00,2010-4,8.9,106,60,31,12,2,1,117,46,994,https://book.douban.com/subject/4263995/,科技
+上帝掷骰子吗？,曹天元,https://img3.doubanio.com/view/subject/s/public/s6475450.jpg,36.80,2011-4-1,9.2,6200,4277,1645,242,24,12,6349,1090,7356,https://book.douban.com/subject/6434486/,科技
+世界科学技术通史,麦克莱伦第三,https://img9.doubanio.com/view/subject/s/public/s2679815.jpg,48.00,2012-2,8.9,393,189,165,37,1,1,542,171,3274,https://book.douban.com/subject/2124111/,科技
+勇敢抉择（纪念版）,[美]卡莉·菲奥莉娜,https://img1.doubanio.com/view/subject/s/public/s27098879.jpg,52.00,2013-10,7.1,45,5,19,19,1,1,45,9,30,https://book.douban.com/subject/25749747/,科技
+蓝色虚拟空间,迪弗,https://img3.doubanio.com/view/subject/s/public/s1915861.jpg,22.60,2004年11月4日,8.4,211,105,68,35,2,1,255,5,172,https://book.douban.com/subject/1083761/,科技
+生命3.0,[美]迈克斯·泰格马克,https://img3.doubanio.com/view/subject/s/public/s29983520.jpg,99.90,2018-6,8.3,1462,646,599,189,20,8,1413,496,6164,https://book.douban.com/subject/30262617/,科技
+未来的序曲,(美)刘宇昆，保罗·巴奇加卢皮等著；(美)戴维·哈特威尔，帕特里克·海登编,https://img9.doubanio.com/view/subject/s/public/s28260834.jpg,79.00,2015-8,8.2,408,140,161,92,13,2,442,121,2327,https://book.douban.com/subject/26534892/,科技
+万物重构：智能社会来临前夜的思索,韦青,https://img1.doubanio.com/view/subject/s/public/s29845567.jpg,58.00,2018-8-1,4.7,47,7,7,18,12,3,46,7,24,https://book.douban.com/subject/30300023/,科技
+科技想要什么,凯文·凯利(KevinKelly),https://img3.doubanio.com/view/subject/s/public/s28484502.jpg,58.00,2016-1,7.8,283,78,125,64,12,4,295,90,476,https://book.douban.com/subject/26685018/,科技
+人工智能,李开复,https://img1.doubanio.com/view/subject/s/public/s29422117.jpg,55.00,2017-5-10,7.3,2116,328,955,720,84,29,2188,250,1291,https://book.douban.com/subject/27015112/,科技
+大型网站技术架构演进与性能优化,许令波,https://img1.doubanio.com/view/subject/s/public/s29797959.jpg,79,2018-6,6.8,37,6,15,12,1,3,42,17,151,https://book.douban.com/subject/30253246/,科技
+颠覆医疗,[美]埃里克·托普,https://img3.doubanio.com/view/subject/s/public/s27316753.jpg,55.00,2014-1-20,7.7,587,125,261,176,21,4,666,168,1955,https://book.douban.com/subject/25747269/,科技
+迷人的液体,【英】马克•米奥多尼克,https://img3.doubanio.com/view/subject/s/public/s33490323.jpg,68,2019-10,7.9,275,80,131,57,6,1,285,56,1504,https://book.douban.com/subject/34825764/,科技
+知的资本论,[日]增田宗昭,https://img3.doubanio.com/view/subject/s/public/s29400230.jpg,58.00,2017-3,7.9,1022,262,489,244,21,6,1095,117,1724,https://book.douban.com/subject/26996693/,科技
+果壳中的宇宙,[英]史蒂芬·霍金,https://img9.doubanio.com/view/subject/s/public/s1398106.jpg,42.00,2006-3,8.6,7931,3609,3276,944,71,31,9876,1297,9602,https://book.douban.com/subject/1034279/,科技
+加密资产,[美]克里斯·伯尼斯克（ChrisBurniske）,https://img3.doubanio.com/view/subject/s/public/s29987982.jpg,89.00,2018-12-1,7.6,26,8,11,5,1,1,26,11,116,https://book.douban.com/subject/30422010/,科技
+基因传,[美]悉达多·穆克吉,https://img1.doubanio.com/view/subject/s/public/s29632929.jpg,88.00,2018-1,8.7,3126,1600,1165,306,43,12,2920,1135,13283,https://book.douban.com/subject/27168433/,科技
+Super Pumped,MikeIsaac,https://img3.doubanio.com/view/subject/s/public/s33472251.jpg,21.49,2019-9-3,8.5,47,20,21,4,1,1,48,14,238,https://book.douban.com/subject/34817279/,科技
+智能语音时代：商业竞争、技术创新与虚拟永生,[美]詹姆斯·弗拉霍斯（JamesVlahos）,https://img9.doubanio.com/view/subject/s/public/s32317736.jpg,98.00,2019-5-1,6.9,155,56,80,16,1,2,157,20,196,https://book.douban.com/subject/33440451/,科技
+中关村笔记,宁肯,https://img3.doubanio.com/view/subject/s/public/s29476610.jpg,45.00,2017-4-1,7.4,112,25,51,27,6,3,126,14,296,https://book.douban.com/subject/27070539/,科技
+金融科技,张健,https://img1.doubanio.com/view/subject/s/public/s29522977.jpg,49.00,2017-8-1,6.5,52,9,22,15,5,1,59,8,96,https://book.douban.com/subject/27120300/,科技
+第一本无人驾驶技术书,刘少山,https://img1.doubanio.com/view/subject/s/public/s29444407.jpg,59,2017-5,6.8,74,12,25,32,4,1,80,17,109,https://book.douban.com/subject/27038410/,科技
+终极智能,[美]阿米尔·侯赛因（AmirHusain）,https://img3.doubanio.com/view/subject/s/public/s29812800.jpg,49.00,2018-6-30,7.0,19,1,12,4,1,1,28,5,64,https://book.douban.com/subject/30266499/,科技
+从1到N,尤尔根·梅菲特,https://img1.doubanio.com/view/subject/s/public/s29800299.jpg,68,2018-4-1,6.9,91,14,23,43,10,1,93,18,126,https://book.douban.com/subject/30255604/,科技
+编码的奥秘,CharlesPetzold,https://img3.doubanio.com/view/subject/s/public/s26535990.jpg,24.00,2000-9-1,9.3,1367,986,298,76,5,2,1549,463,8206,https://book.douban.com/subject/1024570/,科技
+决战第三屏,恰克•马丁(ChuckMartin),https://img1.doubanio.com/view/subject/s/public/s28498007.jpg,59.00,2012-8-1,6.5,57,5,16,22,12,2,75,17,310,https://book.douban.com/subject/11621963/,科技
+智能时代,JeffHawkins,https://img1.doubanio.com/view/subject/s/public/s27326199.jpg,42.00,2014-7-1,8.4,210,109,74,22,4,1,217,54,1129,https://book.douban.com/subject/25926823/,科技
+硅谷革命,AndyHertzfeld,https://img3.doubanio.com/view/subject/s/public/s29527741.jpg,89,2017-9-1,8.4,169,64,66,34,4,1,172,41,800,https://book.douban.com/subject/27124848/,科技
+The Singularity Is Near,RayKurzweil,https://img9.doubanio.com/view/subject/s/public/s4641016.jpg,29.95,2005-9-22,7.4,10,2,5,1,1,1,11,4,64,https://book.douban.com/subject/1449656/,科技
+电的旅程 探索人类驾驭电子的历史过程,张大凯,https://img9.doubanio.com/view/subject/s/public/s26241435.jpg,35.00,2013-1,8.8,83,45,31,5,1,1,80,17,251,https://book.douban.com/subject/21458724/,科技
+技术垄断,NeilPostman,https://img9.doubanio.com/view/subject/s/public/s2804535.jpg,22.00,2007-10,8.6,780,359,329,78,7,7,929,179,3535,https://book.douban.com/subject/2315287/,科技
+硅谷之谜,吴军,https://img1.doubanio.com/view/subject/s/public/s28341439.jpg,59.00,2015-12-1,8.4,2011,843,875,275,12,6,2138,230,3830,https://book.douban.com/subject/26665230/,科技
+宇宙,[美]卡尔·萨根(CarlSagan),https://img9.doubanio.com/view/subject/s/public/s29469165.jpg,68.00,2017-8,9.2,604,444,134,21,1,4,531,246,4029,https://book.douban.com/subject/26902370/,科技
+为数据而生,周涛,https://img9.doubanio.com/view/subject/s/public/s28671945.jpg,52.90,2016-4-30,7.3,125,24,50,46,4,1,132,15,186,https://book.douban.com/subject/26782387/,科技
+科学革命的结构,[美]托马斯·库恩,https://img9.doubanio.com/view/subject/s/public/s1097566.jpg,14.00,2004-1,8.8,1096,572,406,109,5,4,1405,316,6222,https://book.douban.com/subject/1123740/,科技
+The Entrepreneurial State,MarianaMazzucato,https://img1.doubanio.com/view/subject/s/public/s29442678.jpg,19.95,2013-6-10,6.7,14,1,4,7,1,1,16,5,41,https://book.douban.com/subject/20019150/,科技
+物联网开放平台,丁飞,https://img1.doubanio.com/view/subject/s/public/s29708819.jpg,68.00,2018-1-1,6.8,14,3,2,7,1,1,13,1,17,https://book.douban.com/subject/30163020/,科技
+消失的动物-古生物绝版图鉴,（法）戴维斯・西蒙,https://img1.doubanio.com/view/subject/s/public/s1010298.jpg,39.80,2003-11,7.9,140,41,67,30,1,1,177,35,187,https://book.douban.com/subject/1015359/,科技
+科技之巅,麻省理工科技评论,https://img9.doubanio.com/view/subject/s/public/s29092436.jpg,98.00,2016-10-1,7.8,443,115,193,114,16,5,461,98,1323,https://book.douban.com/subject/26891160/,科技
+云存储解析,张继平,https://img9.doubanio.com/view/subject/s/public/s26371564.jpg,55.00,2013-3,6.8,14,1,4,7,1,1,15,5,10,https://book.douban.com/subject/22704167/,科技
+自动驾驶改变未来,柴占祥,https://img3.doubanio.com/view/subject/s/public/s29616581.jpg,79.00,2017-11-14,8.0,22,6,12,2,1,1,22,8,67,https://book.douban.com/subject/27205053/,科技
+Raspberry Pi用户指南,EbenUpton,https://img9.doubanio.com/view/subject/s/public/s27036286.jpg,49,2013-8,6.8,19,1,8,8,1,1,21,0,41,https://book.douban.com/subject/25719760/,科技
+智能浪潮,布雷特·金(BrettKing),https://img1.doubanio.com/view/subject/s/public/s29546399.jpg,65.00,2017-9,7.2,81,13,30,34,3,1,81,17,206,https://book.douban.com/subject/27142376/,科技
+深度学习,[美]特伦斯·谢诺夫斯基（TerrenceSejnowski）,https://img9.doubanio.com/view/subject/s/public/s29971614.jpg,88,2019-2,7.6,430,80,203,122,19,6,410,189,1889,https://book.douban.com/subject/30425822/,科技
+诗意的宇宙,[奥]斯特凡·克莱因,https://img9.doubanio.com/view/subject/s/public/s33511724.jpg,48.00,2019-10,8.4,146,63,60,21,1,1,143,33,1328,https://book.douban.com/subject/34398024/,科技
+AI赋能：AI重新定义产品经理,连诗路,https://img9.doubanio.com/view/subject/s/public/s32338334.jpg,69.00,2019-6-1,6.9,15,7,3,1,3,1,21,4,88,https://book.douban.com/subject/30432831/,科技
+物理学与生活,W.托马斯.格瑞福斯(W.ThomasGriffith),https://img9.doubanio.com/view/subject/s/public/s28457965.jpg,68.00,2015-12-1,8.7,36,21,10,3,1,1,35,24,610,https://book.douban.com/subject/26734520/,科技
+独霸中东,[以色列]雅科夫•卡茨(YaakovKatz),https://img9.doubanio.com/view/subject/s/public/s33523084.jpg,69.00,2019-11-30,8.0,88,42,32,12,1,1,94,27,501,https://book.douban.com/subject/34866949/,科技
+The Glass Cage,NicholasCarr,https://img9.doubanio.com/view/subject/s/public/s28045935.jpg,26.95,2014-9-29,7.1,26,5,11,6,3,1,24,9,48,https://book.douban.com/subject/26007326/,科技
+谁设计了宇宙?,DavidWilcock,https://img3.doubanio.com/view/subject/s/public/s11180402.jpg,48.00,2012-8-31,7.6,187,77,47,35,12,16,199,66,1273,https://book.douban.com/subject/10557518/,科技
+科技考古学概论,赵丛苍,https://img1.doubanio.com/view/subject/s/public/s2368788.jpg,35.90,2006-5,7.1,42,8,20,12,1,1,58,14,36,https://book.douban.com/subject/2051208/,科技
+计算机:一部历史,[英]彼得·本特利,https://img3.doubanio.com/view/subject/s/public/s28068903.jpg,68.00,2015-3,7.6,53,14,25,12,1,1,56,10,97,https://book.douban.com/subject/26352544/,科技
+Elon Musk,AshleeVance,https://img9.doubanio.com/view/subject/s/public/s28351575.jpg,28.99,2015-5-19,8.5,1213,511,492,184,18,8,1230,397,1545,https://book.douban.com/subject/26372738/,科技
+文明之光,[美]吴军,https://img3.doubanio.com/view/subject/s/public/s28969893.jpg,177,2014-12,9.0,451,269,154,24,1,3,495,108,966,https://book.douban.com/subject/26839342/,科技
+游戏改变世界,[美]简·麦戈尼格尔,https://img3.doubanio.com/view/subject/s/public/s11136690.jpg,59.90,2012-9,7.9,4599,1334,2024,1048,161,32,4891,1190,17336,https://book.douban.com/subject/10828002/,科技
+灵魂机器的时代,[美]雷·库兹韦尔,https://img9.doubanio.com/view/subject/s/public/s1738626.jpg,37.00,2006-04-01,8.1,227,80,94,45,5,3,269,56,1723,https://book.douban.com/subject/1810352/,科技
+麦克斯韦方程直观,丹尼尔·弗雷希(DanielFleisch),https://img9.doubanio.com/view/subject/s/public/s27460914.jpg,29.00,2014-7-1,8.5,43,18,20,3,1,1,44,10,215,https://book.douban.com/subject/25980102/,科技
+机器70年,徐曦,https://img1.doubanio.com/view/subject/s/public/s29390507.jpg,55,2017-3-1,7.0,60,27,16,9,3,5,64,11,118,https://book.douban.com/subject/26992872/,科技
+坏血,[美]约翰·卡雷鲁（JohnCarreyrou）,https://img9.doubanio.com/view/subject/s/public/s32288675.jpg,49.80,2019-4,8.2,4557,1407,2323,710,81,36,4728,734,11408,https://book.douban.com/subject/30473907/,科技
+怎样解题,[美]G·波利亚,https://img9.doubanio.com/view/subject/s/public/s3308655.jpg,16.00,2007-5,8.8,1788,999,580,179,23,7,1960,780,11427,https://book.douban.com/subject/2124114/,科技
+人类存在的意义,[美]爱德华·威尔逊,https://img1.doubanio.com/view/subject/s/public/s29648577.jpg,69.90,2018-1,6.5,142,22,54,50,11,5,152,28,424,https://book.douban.com/subject/27179944/,科技
+深度学习与图像识别：原理与实践,魏溪含　涂铭　张修鹏　著,https://img9.doubanio.com/view/subject/s/public/s33439354.jpg,129.00,2019-7-10,9.2,35,20,10,2,2,1,31,15,180,https://book.douban.com/subject/34465535/,科技
+疯狂科学家大本营,BeiErFeiAoEr,https://img1.doubanio.com/view/subject/s/public/s9158208.jpg,48.00,2012-1-5,7.6,57,16,17,22,1,1,59,30,199,https://book.douban.com/subject/10749372/,科技
+差分机,[美]布鲁斯·斯特林,https://img9.doubanio.com/view/subject/s/public/s26339705.jpg,45,2013-5,7.4,1245,255,495,410,68,17,1385,374,5285,https://book.douban.com/subject/24153098/,科技
+宇宙索奇,张明昌,https://img3.doubanio.com/view/subject/s/public/s26334231.jpg,30.0,2000年04月,8.8,44,28,13,1,1,1,50,3,127,https://book.douban.com/subject/1720197/,科技
+云攻略,马克·贝尼奥夫,https://img3.doubanio.com/view/subject/s/public/s4410422.jpg,36.00,2010年8月,7.4,230,52,81,87,7,3,338,75,1054,https://book.douban.com/subject/3650828/,科技
+结构是什么,[英]J.E.戈登（J.E.Gordon）,https://img3.doubanio.com/view/subject/s/public/s33445271.jpg,59,2019-8-1,8.5,163,69,71,20,2,1,176,98,2222,https://book.douban.com/subject/34778204/,科技
+数学世界的探奇之旅,布赖恩·克莱格(BrianClegg),https://img9.doubanio.com/view/subject/s/public/s29587855.jpg,49.00,2017-10-1,7.8,55,16,23,14,1,1,58,28,224,https://book.douban.com/subject/27179289/,科技
+病者生存,[美]沙龙·莫勒姆（SharonMoalem）,https://img9.doubanio.com/view/subject/s/public/s29793336.jpg,48.00,2018-7-20,8.8,1070,574,409,78,7,2,1123,168,4203,https://book.douban.com/subject/30219713/,科技
+混合现实,ParagKhanna,https://img1.doubanio.com/view/subject/s/public/s26806687.jpg,6,2013-6-26,7.6,138,29,56,47,5,1,166,28,450,https://book.douban.com/subject/24828865/,科技
+我们如何走到今天,[美]史蒂文·约翰逊,https://img1.doubanio.com/view/subject/s/public/s29152937.jpg,68.00,2016-9-20,8.6,688,335,274,71,6,2,717,126,1876,https://book.douban.com/subject/26890863/,科技
+大数据时代的历史机遇——产业变革与数据科学,赵国栋,https://img1.doubanio.com/view/subject/s/public/s26690869.jpg,49,2013-7,7.5,132,36,45,34,13,4,148,41,694,https://book.douban.com/subject/24744419/,科技
+The Inevitable,[美]KevinKelly,https://img3.doubanio.com/view/subject/s/public/s28368043.jpg,28.00,2016-6-7,7.5,72,18,27,22,4,1,81,21,159,https://book.douban.com/subject/26673890/,科技
+超预测,菲利普•泰洛克（PhilipE.Tetlock）,https://img3.doubanio.com/view/subject/s/public/s28888812.jpg,59,2016-7,7.0,265,43,97,92,21,12,275,59,627,https://book.douban.com/subject/26835031/,科技
+人工智能的未来,[美]雷·库兹韦尔,https://img1.doubanio.com/view/subject/s/public/s28391178.jpg,79.90,2016-3,7.3,197,35,71,79,11,1,209,71,516,https://book.douban.com/subject/26716264/,科技
+今日简史,[以]尤瓦尔·赫拉利,https://img3.doubanio.com/view/subject/s/public/s29827660.jpg,68,2018-8,8.1,11826,4171,5199,2079,271,106,11921,2437,22429,https://book.douban.com/subject/30259720/,科技
+科技失控：用科技思维重新看懂未来,温德尔·瓦拉赫,https://img3.doubanio.com/view/subject/s/public/s29281352.jpg,39.80,2017-2-1,6.2,77,27,24,18,7,1,47,12,242,https://book.douban.com/subject/26954789/,科技
+煮酒论科学,［韩］姜锡基,https://img1.doubanio.com/view/subject/s/public/s28070209.jpg,39.00,2015-5,7.3,16,1,9,4,1,1,20,4,92,https://book.douban.com/subject/26387834/,科技
+人工智能,StuartJ.Russell,https://img3.doubanio.com/view/subject/s/public/s6829960.jpg,158.00,2011-7,9.3,99,69,23,5,1,1,80,102,1679,https://book.douban.com/subject/6730363/,科技
+物理是什么,[日]朝永振一郎,https://img3.doubanio.com/view/subject/s/public/s29470831.jpg,49.00,2017-6,8.4,64,25,25,12,1,1,68,19,630,https://book.douban.com/subject/27065026/,科技
+给未来人类的终极12问,让-米歇尔·贝尼耶,https://img1.doubanio.com/view/subject/s/public/s33466198.jpg,49.8,2019-8,7.6,35,3,18,12,1,1,37,8,210,https://book.douban.com/subject/34443588/,科技
+生命是什么,[奥地利]埃尔温·薛定谔,https://img3.doubanio.com/view/subject/s/public/s27997092.jpg,15.00,2014-12,8.9,538,332,164,36,3,3,606,124,3154,https://book.douban.com/subject/26309060/,科技
+创业的国度,&#34;[美]丹•塞诺（DanSenor）,https://img3.doubanio.com/view/subject/s/public/s4471740.jpg,35.00,2010,7.9,1411,335,690,356,25,5,1666,328,4299,https://book.douban.com/subject/5269192/,科技
+内容算法,闫泽华,https://img9.doubanio.com/view/subject/s/public/s29763584.jpg,58.00,2018-4-30,7.4,405,67,192,124,21,1,400,94,758,https://book.douban.com/subject/30199061/,科技
+分子,[英]菲利普·鲍尔,https://img3.doubanio.com/view/subject/s/public/s29358711.jpg,32.00,2017-3,8.4,36,14,13,7,1,1,47,12,267,https://book.douban.com/subject/26979909/,科技
+KK三部曲,[美]凯文·凯利,https://img9.doubanio.com/view/subject/s/public/s28385106.jpg,80.00,2015-12-12,8.3,129,50,55,20,3,1,106,138,590,https://book.douban.com/subject/26710297/,科技
+广告争夺战,（美）肯·奥莱塔,https://img9.doubanio.com/view/subject/s/public/s32301614.jpg,58,2019-4,7.6,30,6,6,16,1,1,26,10,95,https://book.douban.com/subject/33419988/,科技
+Y染色体与东亚族群演化,李辉,https://img1.doubanio.com/view/subject/s/public/s29075249.jpg,198.00,2015-10-1,8.2,34,14,15,3,1,1,42,14,384,https://book.douban.com/subject/26732448/,科技
+西方科学的起源,戴维·林德伯格,https://img3.doubanio.com/view/subject/s/public/s26739170.jpg,78.00,2013-5,9.3,81,57,18,4,1,1,89,46,2032,https://book.douban.com/subject/24749708/,科技
+史蒂夫·乔布斯传,[美]沃尔特·艾萨克森,https://img3.doubanio.com/view/subject/s/public/s6974202.jpg,68.00,2011-10-24,8.7,45422,22258,17897,4860,317,90,57958,12602,50603,https://book.douban.com/subject/6798611/,科技
+技术奇点,默里·沙纳汉,https://img1.doubanio.com/view/subject/s/public/s28715309.jpg,49,2016-6-1,7.0,153,24,42,72,14,1,172,24,206,https://book.douban.com/subject/26779085/,科技
+如何创造思维,[美]雷·库兹韦尔,https://img3.doubanio.com/view/subject/s/public/s27174090.jpg,62.00,2013-11-28,7.5,157,38,66,41,6,6,175,69,1020,https://book.douban.com/subject/25780470/,科技
+自私的基因,[英]理查德·道金斯,https://img9.doubanio.com/view/subject/s/public/s8892534.jpg,24.00,1998,8.6,6417,3087,2458,751,83,38,7492,2168,30773,https://book.douban.com/subject/1292405/,科技
+技术史(Ⅰ-Ⅶ),查尔斯·辛格,https://img3.doubanio.com/view/subject/s/public/s1721073.jpg,980.00,2004-12,8.7,100,63,22,9,3,3,157,86,1121,https://book.douban.com/subject/1322206/,科技
+现实不似你所见,[意]卡洛·罗韦利,https://img3.doubanio.com/view/subject/s/public/s29561691.jpg,49.00,2017-11,9.2,2555,1610,792,120,28,5,2608,585,14926,https://book.douban.com/subject/27156306/,科技
+刷新,[美]萨提亚·纳德拉,https://img1.doubanio.com/view/subject/s/public/s29650738.jpg,58,2018-1,7.5,1877,349,896,567,58,7,1964,289,3514,https://book.douban.com/subject/27614523/,科技
+技术的真相,[加拿大]厄休拉·M.富兰克林,https://img9.doubanio.com/view/subject/s/public/s33295746.jpg,49,2019-6,7.8,39,12,18,7,1,1,45,12,654,https://book.douban.com/subject/33437507/,科技
+联结,[英]詹姆斯·伯克,https://img3.doubanio.com/view/subject/s/public/s30019170.jpg,88,2019-3-1,7.9,242,66,114,53,8,1,240,74,1461,https://book.douban.com/subject/30390660/,科技
+从零开始做运营,张亮,https://img1.doubanio.com/view/subject/s/public/s28358339.jpg,49.00,2015-11-1,7.4,2823,441,1402,868,87,25,2930,608,3458,https://book.douban.com/subject/26682111/,科技
+海滩上的爱因斯坦,[法]马克·拉谢兹-雷伊,https://img9.doubanio.com/view/subject/s/public/s29582735.jpg,39.00,2017-11,7.6,117,24,56,34,2,1,121,38,570,https://book.douban.com/subject/27167268/,科技
+科技想要什么,[美]凯文·凯利,https://img3.doubanio.com/view/subject/s/public/s6999201.jpg,58.00,2011-11,8.2,2200,761,950,415,59,15,2527,833,9065,https://book.douban.com/subject/6965746/,科技
+幸运的宇宙,[澳]杰兰特•刘易斯,https://img9.doubanio.com/view/subject/s/public/s29786256.jpg,79,2018-5,7.8,25,6,13,4,1,1,25,13,234,https://book.douban.com/subject/30167231/,科技
+数学大师,埃里克·坦普尔·贝尔,https://img3.doubanio.com/view/subject/s/public/s24430613.jpg,88.00,2012-8,8.1,70,35,22,11,1,1,66,32,261,https://book.douban.com/subject/20326980/,科技
+思维风暴,问道//王非,https://img3.doubanio.com/view/subject/s/public/s4296950.jpg,29.80,2009-11,6.6,44,8,16,13,2,5,41,25,82,https://book.douban.com/subject/4104705/,科技
+人工智能,腾讯研究院,https://img9.doubanio.com/view/subject/s/public/s29588166.jpg,68.00,2017-10-25,7.1,278,33,94,115,26,10,286,48,379,https://book.douban.com/subject/27179562/,科技
+必然,[美]凯文·凯利,https://img9.doubanio.com/view/subject/s/public/s28377994.jpg,58.00,2016-1,8.4,5058,2051,2132,764,86,25,5122,1235,13648,https://book.douban.com/subject/26658379/,科技
+Chaos Monkeys,AntonioGarciaMartinez,https://img9.doubanio.com/view/subject/s/public/s28854156.jpg,29.99,2016-6-28,7.2,61,9,28,20,2,2,70,15,190,https://book.douban.com/subject/26827267/,科技
+技术批判理论,AndrewFeenberg,https://img1.doubanio.com/view/subject/s/public/s26703977.jpg,20.00,1991-10-17,7.7,23,4,12,4,2,1,41,16,216,https://book.douban.com/subject/1425752/,科技
+重新定义分享,谈婧,https://img3.doubanio.com/view/subject/s/public/s29189000.jpg,45.00,2016-12-1,6.9,86,11,29,33,9,4,101,15,110,https://book.douban.com/subject/26926355/,科技
+光电帝国,吉尔.琼斯,https://img1.doubanio.com/view/subject/s/public/s9113619.jpg,39.80,2006-1,7.9,212,54,103,53,1,1,357,64,1929,https://book.douban.com/subject/1476618/,科技
+自私的基因,[英]理查德·道金斯,https://img1.doubanio.com/view/subject/s/public/s29904968.jpg,68.00,2018-11-1,8.4,585,238,243,88,14,2,535,344,1837,https://book.douban.com/subject/30309613/,科技
+失控,[美]凯文·凯利,https://img3.doubanio.com/view/subject/s/public/s4554820.jpg,88.00,2010-12,8.7,14947,7796,4968,1780,269,134,14409,10909,69449,https://book.douban.com/subject/5375620/,科技
+人工智能时代,[美]杰瑞•卡普兰（JerryKaplan）,https://img3.doubanio.com/view/subject/s/public/s28659363.jpg,59.90,2016-4-1,7.6,506,102,204,163,26,11,561,79,1153,https://book.douban.com/subject/26776547/,科技
+智能革命,李彦宏等,https://img9.doubanio.com/view/subject/s/public/s29446445.jpg,68.00,2017-5-1,6.7,549,98,172,225,40,14,581,81,446,https://book.douban.com/subject/27017609/,科技
+战争的果实,[美]迈克尔·怀特,https://img3.doubanio.com/view/subject/s/public/s3843440.jpg,30.00,2009-6,7.3,303,54,138,100,10,1,428,84,801,https://book.douban.com/subject/3722960/,科技
+人工智能 （第2版）,[美]史蒂芬·卢奇（StephenLucci）,https://img3.doubanio.com/view/subject/s/public/s29831200.jpg,108,2018-8-1,8.8,33,13,12,6,1,1,27,36,299,https://book.douban.com/subject/30286131/,科技
+读首诗再睡觉,读睡工作室编,https://img3.doubanio.com/view/subject/s/public/s27362210.jpg,32.00,2014-8,8.1,211,63,89,50,7,2,254,43,594,https://book.douban.com/subject/25896087/,科技
+价值为纲,黄卫伟,https://img1.doubanio.com/view/subject/s/public/s29550917.jpg,68,2017-9,7.7,129,36,58,23,9,3,116,69,392,https://book.douban.com/subject/27146696/,科技
+18个未来进行时,【英】吉姆·阿尔-哈里里,https://img9.doubanio.com/view/subject/s/public/s33474145.jpg,49.8,2019-9,7.7,54,18,24,10,1,1,60,8,95,https://book.douban.com/subject/34672218/,科技
+从一到无穷大,[美]乔治·伽莫夫,https://img3.doubanio.com/view/subject/s/public/s2516920.jpg,29.00,2002-11,9.1,8950,5724,2575,590,44,17,11280,2810,39115,https://book.douban.com/subject/1102715/,科技
+暗知识：机器认知如何颠覆商业和社会,王维嘉,https://img9.doubanio.com/view/subject/s/public/s32271094.jpg,58,2019-3,7.5,184,34,89,57,3,1,202,39,401,https://book.douban.com/subject/33384854/,科技
+极客,姜洪军,https://img1.doubanio.com/view/subject/s/public/s26627428.jpg,48.00,2013-5,9.0,24,14,6,2,1,1,24,5,82,https://book.douban.com/subject/23744116/,科技
+像外行一样思考，像专家一样实践——科研成功之道,[日]金出武雄,https://img9.doubanio.com/view/subject/s/public/s2139766.jpg,25.0,2006-08-01,7.8,666,166,326,154,18,2,876,151,4872,https://book.douban.com/subject/1867455/,科技
+文明之光（第四册）,吴军,https://img3.doubanio.com/view/subject/s/public/s29385511.jpg,69.00,2017-3,8.8,837,460,328,47,1,1,893,102,1825,https://book.douban.com/subject/26989163/,科技
+耶鲁科学小历史,[英]威廉·拜伦姆,https://img3.doubanio.com/view/subject/s/public/s28382151.jpg,42.00,2015-11,7.6,125,24,56,41,3,1,137,34,349,https://book.douban.com/subject/26644962/,科技
+不可思议的e,陈仁政,https://img3.doubanio.com/view/subject/s/public/s9060091.jpg,27.00,2007-12,7.5,131,26,61,40,3,1,164,20,285,https://book.douban.com/subject/1311879/,科技
+全球风口：积木式创新与中国新机遇,王煜全,https://img3.doubanio.com/view/subject/s/public/s28369850.jpg,62.90,2016-1-1,7.8,329,72,161,86,9,1,350,60,710,https://book.douban.com/subject/26695045/,科技
+世界观（原书第2版）,[美]理查德·德威特,https://img9.doubanio.com/view/subject/s/public/s29923715.jpg,99.00,2018-11-15,8.9,1885,1107,618,135,16,9,1699,1019,18124,https://book.douban.com/subject/30379527/,科技
+信号与系统,(美)奥本海姆,https://img3.doubanio.com/view/subject/s/public/s4645330.jpg,69.00,2012-12,9.5,110,85,22,1,1,1,100,49,439,https://book.douban.com/subject/3759690/,科技
+科技前哨,王煜全主编,https://img3.doubanio.com/view/subject/s/public/s29740130.jpg,52.00,2018-4,6.7,48,3,14,21,9,1,50,6,72,https://book.douban.com/subject/30194652/,科技
+科技渴望社會,吳嘉苓,https://img1.doubanio.com/view/subject/s/public/s1378838.jpg,350,2004年11月01日,8.5,22,10,9,1,1,1,26,6,140,https://book.douban.com/subject/1339145/,科技
+理论地理学,（美〕威廉•邦奇,https://img3.doubanio.com/view/subject/s/public/s24220611.jpg,35.00,1991-01-01,8.5,21,4,12,3,1,1,28,10,136,https://book.douban.com/subject/2137827/,科技
+他们创造了美国,[美]哈罗德•埃文斯,https://img3.doubanio.com/view/subject/s/public/s26690843.jpg,98.00,2013-7-15,8.1,187,71,62,40,13,1,190,119,1601,https://book.douban.com/subject/24744410/,科技
+未来地图,[美]吴霁虹,https://img3.doubanio.com/view/subject/s/public/s29420663.jpg,68.00,2017-4-15,5.2,102,34,17,24,16,11,96,23,109,https://book.douban.com/subject/27015002/,科技
+区块链技术驱动金融,阿尔文德·纳拉亚南,https://img1.doubanio.com/view/subject/s/public/s29487148.jpg,79.00,2016-8-25,8.3,768,262,350,129,14,13,756,376,3944,https://book.douban.com/subject/26860970/,科技
+The Innovators,[美]沃尔特·艾萨克森,https://img3.doubanio.com/view/subject/s/public/s27577780.jpg,35.00,2014-10-7,8.2,117,45,45,22,3,2,129,60,681,https://book.douban.com/subject/25906749/,科技
+认识飞行,[美]D.F.安德森,https://img3.doubanio.com/view/subject/s/public/s33323823.jpg,68,2019-7,9.3,18,11,4,1,1,1,19,13,373,https://book.douban.com/subject/34438614/,科技
+耶鲁极简科学史,[英]威廉·拜纳姆,https://img3.doubanio.com/view/subject/s/public/s29973492.jpg,49,2019-1,8.0,63,16,35,8,3,1,60,21,437,https://book.douban.com/subject/30338777/,科技
+连线,加里·沃尔夫,https://img1.doubanio.com/view/subject/s/public/s1680899.jpg,29.80,2006-7,6.9,167,31,42,73,18,3,269,48,718,https://book.douban.com/subject/1812186/,科技
+未来版图,麻省理工科技评论,https://img9.doubanio.com/view/subject/s/public/s29802236.jpg,69.80,2018-5-1,6.9,185,73,65,35,8,4,192,38,699,https://book.douban.com/subject/30220058/,科技
+踏足火星：伊隆·马斯克传,达米安·达比,https://img1.doubanio.com/view/subject/s/public/s28279648.jpg,2.0,2014-4-27,4.6,15,1,1,7,3,3,18,0,9,https://book.douban.com/subject/26595701/,科技
+基因组,[英]马特·里德利,https://img9.doubanio.com/view/subject/s/public/s10310654.jpg,26.00,2003-1-1,8.9,791,477,234,72,7,1,957,209,4510,https://book.douban.com/subject/1062309/,科技
+文明之光 （第三册）,吴军,https://img1.doubanio.com/view/subject/s/public/s27913938.jpg,59,2015-1-1,8.9,2243,1348,722,154,11,8,2507,210,5384,https://book.douban.com/subject/26275177/,科技
+编程真好玩,[英]乔恩·伍德科克,https://img3.doubanio.com/view/subject/s/public/s29581560.jpg,88.00,2017-8-1,8.9,50,25,20,3,1,1,49,25,625,https://book.douban.com/subject/27116976/,科技
+逻辑的引擎,[美]马丁·戴维斯,https://img9.doubanio.com/view/subject/s/public/s2912176.jpg,20.00,2005-5,8.5,1295,506,607,154,23,5,1581,375,5428,https://book.douban.com/subject/1391740/,科技
+从封闭世界到无限宇宙,张卜天,https://img3.doubanio.com/view/subject/s/public/s5910043.jpg,29.00,2008-05-01,8.7,119,63,41,12,1,2,144,36,1031,https://book.douban.com/subject/1265963/,科技
+机器之心,雷·库兹韦尔,https://img1.doubanio.com/view/subject/s/public/s28744229.jpg,59,2016-4,7.7,232,51,98,78,4,1,251,70,583,https://book.douban.com/subject/26745150/,科技
+浪潮之巅（上册）,吴军,https://img3.doubanio.com/view/subject/s/public/s28066581.jpg,35.00,2013-5-1,9.1,781,490,248,38,3,2,851,63,297,https://book.douban.com/subject/24739213/,科技
+富足,彼得•戴曼迪斯(PeterH.Diamandis),https://img9.doubanio.com/view/subject/s/public/s27249636.jpg,79.90,2014-4-1,7.7,640,167,282,154,30,7,688,136,2130,https://book.douban.com/subject/25849758/,科技
+特斯拉传,哈米什•麦肯齐（HamishMcKenzie）,https://img9.doubanio.com/view/subject/s/public/s32288165.jpg,69,2019-5,6.9,214,31,67,85,27,4,225,41,359,https://book.douban.com/subject/33405128/,科技
+日本电子产业兴衰录,[日]西村吉雄,https://img9.doubanio.com/view/subject/s/public/s28777004.jpg,39.00,2016-6,7.6,114,24,49,37,3,1,122,16,476,https://book.douban.com/subject/26808257/,科技
+VR来了！,才华有限实验室,https://img3.doubanio.com/view/subject/s/public/s29118432.jpg,58,2017-4,7.1,52,11,18,18,4,1,51,18,190,https://book.douban.com/subject/26901394/,科技
+科学史十五讲（第二版）,江晓原,https://img3.doubanio.com/view/subject/s/public/s29096660.jpg,48.00,2016-9,8.1,22,5,10,5,1,1,21,4,44,https://book.douban.com/subject/26883030/,科技
+高铁出发了,曹慧思,https://img3.doubanio.com/view/subject/s/public/s29476123.jpg,39,2017-8,8.4,25,15,6,2,1,1,26,1,26,https://book.douban.com/subject/27070144/,科技
+迷人的材料,马克·米奥多尼克,https://img1.doubanio.com/view/subject/s/public/s28277258.jpg,49.80,2015-9,8.3,3525,1172,1716,575,52,10,3815,522,12542,https://book.douban.com/subject/26593084/,科技
+賈伯斯傳,WalterIsaacson,https://img9.doubanio.com/view/subject/s/public/s6987735.jpg,599,2011-10,9.0,244,147,83,12,1,1,241,71,148,https://book.douban.com/subject/6886097/,科技
+魔鬼物理学3：超级英雄故事里的物理学,[美]詹姆斯•卡卡里奥斯,https://img3.doubanio.com/view/subject/s/public/s29708950.jpg,59,2018-3,8.2,24,12,6,4,1,1,18,22,115,https://book.douban.com/subject/30163157/,科技
+大气,[美]加布里埃尔·沃克,https://img9.doubanio.com/view/subject/s/public/s29245345.jpg,35.00,2017-1,7.9,52,11,31,8,1,1,56,17,218,https://book.douban.com/subject/26942767/,科技
+超级版图,帕拉格·康纳,https://img3.doubanio.com/view/subject/s/public/s28837573.jpg,69,2016-5,7.8,954,237,452,228,28,9,934,303,3518,https://book.douban.com/subject/26786410/,科技
+银行4.0,[澳]布莱特·金,https://img1.doubanio.com/view/subject/s/public/s29973389.jpg,128,2018-12-30,7.1,67,10,28,21,6,2,65,35,372,https://book.douban.com/subject/30427895/,科技
+沃兹传,[美]吉娜·史密斯,https://img9.doubanio.com/view/subject/s/public/s26098864.jpg,49.00,2013-4,8.2,511,164,232,106,8,1,556,80,625,https://book.douban.com/subject/21966356/,科技
+视觉之旅 化学世界的分子奥秘,西奥多·格雷[著],https://img3.doubanio.com/view/subject/s/public/s28119041.jpg,68.00,2015-4-1,9.1,72,47,18,5,1,1,84,17,303,https://book.douban.com/subject/26353234/,科技
+微粒社会,[德]克里斯托夫·库克里克,https://img3.doubanio.com/view/subject/s/public/s29648983.jpg,49.00,2017-12-1,7.3,108,17,39,44,7,1,116,25,344,https://book.douban.com/subject/27604641/,科技
+1024·人与机器共同进化,东西文库,https://img9.doubanio.com/view/subject/s/public/s27188015.jpg,55,2013-12-20,8.1,250,84,104,57,3,2,295,82,1359,https://book.douban.com/subject/25784778/,科技
+皇帝新脑,罗杰・彭罗斯,https://img3.doubanio.com/view/subject/s/public/s2912170.jpg,38.00,2007-6-1,8.1,1491,553,600,252,58,28,1847,539,5940,https://book.douban.com/subject/1206206/,科技
+邂逅达·芬奇,[意]爱德华多·扎农（EdoardoZanon）,https://img9.doubanio.com/view/subject/s/public/s33441546.jpg,148.00,2019-6,8.6,11,6,2,1,1,1,9,2,99,https://book.douban.com/subject/34681578/,科技
+重新定义公司,[美]埃里克·施密特,https://img9.doubanio.com/view/subject/s/public/s28278604.jpg,49.00,2015-8,8.2,6313,2027,3037,1117,107,25,6712,1198,13564,https://book.douban.com/subject/26582822/,科技
+Hatching Twitter,NickBilton,https://img1.doubanio.com/view/subject/s/public/s27086329.jpg,28.95,2013-11-5,8.2,175,57,83,30,4,1,193,26,564,https://book.douban.com/subject/24661633/,科技
+浪潮之巅（第三版）（上下册）,[美]吴军,https://img1.doubanio.com/view/subject/s/public/s28718398.jpg,99.00,2016-5,9.2,1391,976,362,48,4,1,1344,326,2318,https://book.douban.com/subject/26792439/,科技
+星际唱片,[美]卡尔·萨根,https://img3.doubanio.com/view/subject/s/public/s29073641.jpg,168.00,2016-10,8.7,154,86,46,19,2,1,168,37,1266,https://book.douban.com/subject/26884205/,科技
+格局,吴军,https://img9.doubanio.com/view/subject/s/public/s33461495.jpg,69,2019-9,8.0,650,260,245,122,18,5,615,173,1538,https://book.douban.com/subject/34799998/,科技
+技术元素,[美]凯文·凯利,https://img9.doubanio.com/view/subject/s/public/s9042055.jpg,55.00,2012-5,7.9,1300,395,568,286,41,10,1437,591,5789,https://book.douban.com/subject/10588021/,科技
+强化学习：原理与Python实现,肖智清,https://img1.doubanio.com/view/subject/s/public/s33324937.jpg,89,2019-7-21,8.7,49,38,7,1,2,1,39,15,195,https://book.douban.com/subject/34478302/,科技
+互联网3.0,田丰,https://img3.doubanio.com/view/subject/s/public/s28430511.jpg,49.00,2016-2,6.5,20,1,4,11,3,1,20,2,31,https://book.douban.com/subject/26729514/,科技
+时间简史(普及版),[美]列纳德·蒙洛迪诺,https://img3.doubanio.com/view/subject/s/public/s1534820.jpg,38.00,2006-1,8.7,2986,1432,1207,325,17,5,3637,608,1731,https://book.douban.com/subject/1474050/,科技
+人工智能会取代人类吗？,[澳]托比·沃尔什,https://img9.doubanio.com/view/subject/s/public/s29787604.jpg,59.80,2018-6,7.4,66,30,23,10,2,1,69,7,123,https://book.douban.com/subject/30219695/,科技
+技术伦理学手册,[德]阿明·格伦瓦尔德,https://img1.doubanio.com/view/subject/s/public/s29441679.jpg,158.00,2017-4,8.9,43,28,11,2,1,1,44,41,848,https://book.douban.com/subject/27012303/,科技
+代码的未来,[日]松本行弘,https://img9.doubanio.com/view/subject/s/public/s26393136.jpg,79.00,2013-6,7.8,835,183,407,222,22,1,903,202,2039,https://book.douban.com/subject/24536403/,科技
+Hello World,HannahFry,https://img3.doubanio.com/view/subject/s/public/s29935363.jpg,18.99,2018-6-5,8.8,12,3,6,1,1,1,13,6,42,https://book.douban.com/subject/30390547/,科技
+3001：太空漫游,[英]阿瑟·克拉克,https://img9.doubanio.com/view/subject/s/public/s32320776.jpg,68.00,2019-5-30,8.0,490,163,215,104,5,3,560,24,246,https://book.douban.com/subject/30481000/,科技
+数字化生存,尼葛洛庞帝,https://img9.doubanio.com/view/subject/s/public/s11133355.jpg,16.80,1997-2,7.8,1042,262,501,257,16,6,1490,187,3668,https://book.douban.com/subject/1089508/,科技
+离线·开始游戏,李婷主编,https://img1.doubanio.com/view/subject/s/public/s27440387.jpg,45.00,2014-8-25,7.7,244,56,105,66,16,1,283,33,654,https://book.douban.com/subject/25971043/,科技
+5G时代：生活方式和商业模式的大变革,[日]龟井卓也,https://img9.doubanio.com/view/subject/s/public/s33512366.jpg,58.00,2020-1,6.2,64,8,14,30,11,1,73,5,20,https://book.douban.com/subject/34877489/,科技
+探索好奇,约翰·亨德里克斯,https://img9.doubanio.com/view/subject/s/public/s27283246.jpg,49,2014-4,7.7,30,7,14,7,1,1,29,14,86,https://book.douban.com/subject/25881174/,科技
+无穷的开始,[英]戴维·多伊奇,https://img3.doubanio.com/view/subject/s/public/s28775083.jpg,59.00,2014-11,8.4,365,150,140,61,12,2,382,216,4138,https://book.douban.com/subject/26184242/,科技
+Python深度学习,[美]弗朗索瓦•肖莱,https://img1.doubanio.com/view/subject/s/public/s29839337.jpg,119.00,2018-8,9.5,505,400,86,17,1,1,411,308,4867,https://book.douban.com/subject/30293801/,科技
+The Innovator&#39;s Dilemma,ClaytonM.Christensen,https://img9.doubanio.com/view/subject/s/public/s10433006.jpg,17.99,2011-10-4,8.9,39,23,10,4,1,1,38,10,139,https://book.douban.com/subject/6574069/,科技
+爱因斯坦传（精装珍藏版）,[美]沃尔特·艾萨克森,https://img3.doubanio.com/view/subject/s/public/s27988640.jpg,88.00,2014-11,9.1,183,124,49,8,1,1,186,70,627,https://book.douban.com/subject/26306618/,科技
+魔鬼出没的世界,[美]卡尔·萨根,https://img1.doubanio.com/view/subject/s/public/s27069249.jpg,28.50,1998-10,8.3,1240,508,468,216,31,17,1525,290,4623,https://book.douban.com/subject/1310188/,科技
+银行4.0,布莱特·金,https://img1.doubanio.com/view/subject/s/public/s29957047.jpg,500,2018-11,7.7,23,4,11,6,1,1,20,6,20,https://book.douban.com/subject/30411740/,科技
+最有人性的“人”,布莱恩•克里斯汀(BrianChristian),https://img1.doubanio.com/view/subject/s/public/s27996087.jpg,45.00,2012-10-1,8.9,47,21,18,6,1,1,54,11,499,https://book.douban.com/subject/19985902/,科技
+我的第一本编程书,［日］平山尚,https://img3.doubanio.com/view/subject/s/public/s28850730.jpg,79.00,2016-7,7.6,40,16,12,7,2,3,30,25,243,https://book.douban.com/subject/26826545/,科技
+Facebook效应,[美]大卫·柯克帕特里克,https://img9.doubanio.com/view/subject/s/public/s4528546.jpg,49.80,2010-10,7.9,4844,1195,2362,1152,111,24,5675,1515,12490,https://book.douban.com/subject/5313010/,科技
+当代弗兰肯斯坦,[法]莫奈特·瓦克安,https://img3.doubanio.com/view/subject/s/public/s29775901.jpg,59.00,2018-5,9.0,21,12,6,1,1,1,16,10,140,https://book.douban.com/subject/30168192/,科技
+推理的迷宫,[美]威廉姆·庞德斯通,https://img3.doubanio.com/view/subject/s/public/s1433523.jpg,22.00,2005-5,8.6,1799,902,666,192,27,12,1919,598,8701,https://book.douban.com/subject/1400030/,科技
+图解物联网,［日］NTTDATA集团,https://img3.doubanio.com/view/subject/s/public/s29421961.jpg,59.00,2017-4,8.0,164,34,94,32,3,1,178,49,524,https://book.douban.com/subject/27016248/,科技
+我们何以成为后人类,[美]N.凯瑟琳·海勒,https://img3.doubanio.com/view/subject/s/public/s29496901.jpg,59.00,2017-6,8.4,257,112,89,50,3,3,269,153,2736,https://book.douban.com/subject/26985049/,科技
+The Source Field Investigations,DavidWilcock,https://img3.doubanio.com/view/subject/s/public/s6899482.jpg,18.00,2011-8-13,9.0,22,15,4,1,1,1,18,19,99,https://book.douban.com/subject/6786602/,科技
+终极复制,李智勇,https://img1.doubanio.com/view/subject/s/public/s28994339.jpg,49.00,2016-8-11,7.8,49,18,16,11,3,1,54,6,62,https://book.douban.com/subject/26860302/,科技
+进击的局座：悄悄话2,张召忠,https://img3.doubanio.com/view/subject/s/public/s33485662.jpg,42.00,2017-8-1,8.0,206,79,84,38,4,1,225,18,174,https://book.douban.com/subject/27090330/,科技
+机器与人：埃森哲论新人工智能,【美】保罗•多尔蒂詹姆斯•威尔逊,https://img3.doubanio.com/view/subject/s/public/s29924061.jpg,49.00,2018-10-1,7.1,51,13,18,16,3,1,59,7,164,https://book.douban.com/subject/30338907/,科技
+史蒂夫·乔布斯传（修订版）,[美]沃尔特·艾萨克森,https://img3.doubanio.com/view/subject/s/public/s27207923.jpg,68.00,2014-1,9.1,2880,1894,815,155,11,5,2990,552,2683,https://book.douban.com/subject/25810506/,科技
+从元素到基本粒子,I·阿西摩夫,https://img3.doubanio.com/view/subject/s/public/s3977230.jpg,0.75,1977,9.7,43,36,4,1,1,1,45,7,208,https://book.douban.com/subject/2033484/,科技
+第二次机器革命,[美]埃里克·布莱恩约弗森,https://img3.doubanio.com/view/subject/s/public/s27413390.jpg,59.80,2014-9,7.9,416,118,185,98,14,1,452,86,1477,https://book.douban.com/subject/25953932/,科技
+正在爆发的互联网革命,西门柳上,https://img1.doubanio.com/view/subject/s/public/s6071149.jpg,33.00,2009-10,7.0,1393,272,518,448,104,51,1574,315,2447,https://book.douban.com/subject/4019512/,科技
+理解未来的7个原则,[美]丹尼尔·伯勒斯（DanielBurrus）,https://img9.doubanio.com/view/subject/s/public/s28920206.jpg,68.00,2016-7,8.1,745,258,317,128,27,15,780,169,5788,https://book.douban.com/subject/26816874/,科技
+车联网:决战第四屏,车云网,https://img1.doubanio.com/view/subject/s/public/s27270228.jpg,58.00,2014-5-1,5.3,38,2,9,19,5,3,40,10,52,https://book.douban.com/subject/25867895/,科技
+作死的发明,[英]安迪·莱利,https://img3.doubanio.com/view/subject/s/public/s27465931.jpg,32.00,2014-9,7.9,229,57,103,63,5,1,275,6,177,https://book.douban.com/subject/25961475/,科技
+海底两万里,[法]儒勒·凡尔纳,https://img9.doubanio.com/view/subject/s/public/s10159474.jpg,16.80,2010-2,8.0,55,21,23,9,1,1,58,6,9,https://book.douban.com/subject/4894199/,科技
+文明之光（第一册）,[美]吴军,https://img1.doubanio.com/view/subject/s/public/s27307487.jpg,59.00,2014-6-25,9.0,4268,2590,1337,299,21,21,4489,668,13698,https://book.douban.com/subject/25902942/,科技
+当自然赋予科技灵感,[法]玛特·富尼耶,https://img9.doubanio.com/view/subject/s/public/s29513795.jpg,128.00,2017-10,8.4,584,242,235,89,17,1,582,177,7527,https://book.douban.com/subject/27110281/,科技
+谁捉住了上帝粒子？,[法]大卫•卢阿普尔（DavidLouapre）/著,https://img9.doubanio.com/view/subject/s/public/s33535994.jpg,48.00,2019-12,8.4,26,7,15,2,1,1,29,9,775,https://book.douban.com/subject/34913558/,科技

@@ -1,0 +1,499 @@
+Web信息架构（第3版）,[美]PeterMorville,https://img9.doubanio.com/view/subject/s/public/s27132765.jpg,99.00,2013-10,7.3,35,10,13,10,1,1,45,30,314,https://book.douban.com/subject/25767572/,用户体验
+恶意,[日]东野圭吾,https://img9.doubanio.com/view/subject/s/public/s3814606.jpg,18.00,2009-6,8.4,185152,84700,79325,20016,926,185,223893,3597,65106,https://book.douban.com/subject/3646172/,用户体验
+点石成金,[美]史蒂夫·克鲁克,https://img9.doubanio.com/view/subject/s/public/s1723386.jpg,39.00,2006-8,8.5,6578,2612,2895,980,72,19,9125,1399,13351,https://book.douban.com/subject/1827702/,用户体验
+This Is Service Design Thinking,MarcStickdorn,https://img1.doubanio.com/view/subject/s/public/s29935267.jpg,253.00,2012-1-11,9.0,50,26,16,6,1,1,44,24,274,https://book.douban.com/subject/6915786/,用户体验
+产品经理的第一本书,林达·哥乔斯,https://img3.doubanio.com/view/subject/s/public/s1310030.jpg,39.80,2004-1,7.1,504,75,205,196,25,3,685,293,3182,https://book.douban.com/subject/1159373/,用户体验
+Usability Engineering,JakobNielsen,https://img3.doubanio.com/view/subject/s/public/s4377070.jpg,39.95,1993-07,8.5,16,7,4,3,1,1,21,6,55,https://book.douban.com/subject/1828658/,用户体验
+The User Experience Team of One,LeahBuley,https://img1.doubanio.com/view/subject/s/public/s26824908.jpg,39.00,2013-7-9,8.0,16,4,9,1,1,1,14,3,70,https://book.douban.com/subject/24851884/,用户体验
+Interaction Design,YvonneRogers,https://img9.doubanio.com/view/subject/s/public/s29621275.jpg,83.95,2011-6-7,8.9,23,14,6,1,1,1,34,16,143,https://book.douban.com/subject/6864501/,用户体验
+用户界面设计指南,EricButow,https://img3.doubanio.com/view/subject/s/public/s2879351.jpg,36.00,2008-01-10,5.9,54,1,16,23,9,5,88,13,102,https://book.douban.com/subject/2974299/,用户体验
+体验,特里・A・布里顿,https://img1.doubanio.com/view/subject/s/public/s1280659.jpg,19.00,2003-12,7.1,22,4,8,8,1,1,39,4,119,https://book.douban.com/subject/1085649/,用户体验
+网站情感化设计与内容策略,[美]沃尔特,https://img3.doubanio.com/view/subject/s/public/s27637143.jpg,39.00,2014-8-1,6.9,12,2,5,3,1,1,15,3,31,https://book.douban.com/subject/26148534/,用户体验
+高性能网站建设进阶指南,SteveSouders,https://img1.doubanio.com/view/subject/s/public/s4231089.jpg,49.80,2010年4月,8.9,398,217,142,37,1,1,609,146,2328,https://book.douban.com/subject/4719162/,用户体验
+自控力,[美]凯利·麦格尼格尔,https://img9.doubanio.com/view/subject/s/public/s10685385.jpg,39.80,2012-8,8.2,43426,16198,18283,7643,955,347,47971,13573,102517,https://book.douban.com/subject/10786473/,用户体验
+面向使用的软件设计,LarryL.Constantine,https://img1.doubanio.com/view/subject/s/public/s1219997.jpg,49.00,2004-5-1,7.6,84,31,23,28,1,1,177,64,159,https://book.douban.com/subject/1162546/,用户体验
+术与道 移动应用UI设计必修课,余振华,https://img9.doubanio.com/view/subject/s/public/s28638865.jpg,59,2016-4-1,7.6,208,64,56,63,17,8,215,45,240,https://book.douban.com/subject/26774688/,用户体验
+敏捷用户体验设计,DianaDeMarcoBrown,https://img1.doubanio.com/view/subject/s/public/s27226809.jpg,59.00,2014-1,6.4,14,4,1,5,3,1,16,2,58,https://book.douban.com/subject/25835233/,用户体验
+市场研究实务与方法,郑宗成,https://img3.doubanio.com/view/subject/s/public/s6942230.jpg,58.00,2011-8,8.6,56,21,31,2,1,1,60,32,439,https://book.douban.com/subject/6798700/,用户体验
+项目管理最佳实践方法,哈罗德·科兹纳,https://img1.doubanio.com/view/subject/s/public/s6628518.jpg,59.00,2007-8,7.5,21,5,10,4,1,1,17,13,171,https://book.douban.com/subject/2222618/,用户体验
+情绪心理学,孟昭兰,https://img3.doubanio.com/view/subject/s/public/s1422650.jpg,33.00,2005-3,6.7,121,13,44,55,8,1,164,31,327,https://book.douban.com/subject/1281892/,用户体验
+超体验：BAT格局下的京东崛起,张淼（笔名苏醒）,https://img3.doubanio.com/view/subject/s/public/s28058371.jpg,39.00,2015-4-23,6.5,13,2,2,7,1,1,16,1,6,https://book.douban.com/subject/26376117/,用户体验
+全景探秘游戏设计艺术,[美]JesseSchell,https://img1.doubanio.com/view/subject/s/public/s4399209.jpg,69.00,2010-6,9.0,449,285,119,40,4,1,444,199,3203,https://book.douban.com/subject/4837351/,用户体验
+顾客中心化,彼得·法德,https://img3.doubanio.com/view/subject/s/public/s26558603.jpg,28.00,2013-5,6.0,58,4,16,21,10,7,65,8,41,https://book.douban.com/subject/24307328/,用户体验
+体验经济,（美）B.约瑟夫·派恩（B.JosephPineⅡ）詹姆斯H.吉尔摩（JamesH.Gilmore）,https://img3.doubanio.com/view/subject/s/public/s8865770.jpg,48.00,2012-3,7.6,165,44,74,41,5,1,189,53,1062,https://book.douban.com/subject/10516877/,用户体验
+巴菲特教你读财报,MaryBuffett,https://img1.doubanio.com/view/subject/s/public/s24055437.jpg,30.00,2009-8,7.3,928,173,360,324,57,14,1069,231,2343,https://book.douban.com/subject/3591151/,用户体验
+情感与设计,[加]TrevorvanGorp,https://img3.doubanio.com/view/subject/s/public/s27175313.jpg,69.00,2014-1,7.5,45,25,10,8,1,1,50,9,153,https://book.douban.com/subject/25789530/,用户体验
+用户研究与体验设计,韩挺,https://img9.doubanio.com/view/subject/s/public/s28997916.jpg,58.00,2016-5,7.3,26,2,12,10,1,1,25,10,88,https://book.douban.com/subject/26861079/,用户体验
+JavaScript DOM编程艺术,[英]JeremyKeith,https://img3.doubanio.com/view/subject/s/public/s1958902.jpg,39.00,2006年12月,8.7,1148,560,440,140,3,5,1500,336,2090,https://book.douban.com/subject/1921890/,用户体验
+思考，快与慢,[美]丹尼尔·卡尼曼,https://img1.doubanio.com/view/subject/s/public/s10345719.jpg,69.00,2012-7,8.2,12616,4989,4850,2172,416,189,13090,7585,51969,https://book.douban.com/subject/10785583/,用户体验
+精益数据分析,[加]阿利斯泰尔·克罗尔,https://img1.doubanio.com/view/subject/s/public/s27943269.jpg,79.00,2014-12,8.3,1075,375,514,166,16,4,1085,531,5473,https://book.douban.com/subject/26278639/,用户体验
+怪诞行为学,[美]丹·艾瑞里,https://img3.doubanio.com/view/subject/s/public/s10909903.jpg,39.00,2008-10,8.1,14624,4172,7437,2796,190,29,17643,3593,30991,https://book.douban.com/subject/3223711/,用户体验
+人人都是产品经理,苏杰,https://img1.doubanio.com/view/subject/s/public/s27461357.jpg,45.00,2012-6,7.5,836,165,435,197,30,9,924,237,674,https://book.douban.com/subject/10785377/,用户体验
+设计心理学2,[美]唐纳德·A·诺曼,https://img1.doubanio.com/view/subject/s/public/s6860869.jpg,38.00,2011-8-1,7.9,816,187,405,202,19,3,949,261,1564,https://book.douban.com/subject/6750510/,用户体验
+The Mom Test,RobFitzpatrick,https://img3.doubanio.com/view/subject/s/public/s29717412.jpg,18.00,2013-9-10,8.7,20,11,6,1,1,1,18,5,47,https://book.douban.com/subject/26320572/,用户体验
+讓設計自然存在的新·設計教科書,後藤武,https://img3.doubanio.com/view/subject/s/public/s26250050.jpg,450,2012-9-11,8.5,13,4,6,1,1,1,16,6,145,https://book.douban.com/subject/23513683/,用户体验
+Designing Interfaces中文版,JeniferTidwell,https://img1.doubanio.com/view/subject/s/public/s2833569.jpg,80.00,2008-03-01,8.3,679,241,321,105,10,2,1002,395,4044,https://book.douban.com/subject/2365393/,用户体验
+iOS用户体验设计,TimothyWood,https://img1.doubanio.com/view/subject/s/public/s26385178.jpg,32.00,2013-5,6.2,16,1,4,6,4,1,25,6,83,https://book.douban.com/subject/24523385/,用户体验
+一线之间,哈特姆特·艾斯林格（HartmutEsslinger）[美],https://img1.doubanio.com/view/subject/s/public/s11174458.jpg,49.90,2012-8,7.3,192,41,68,60,19,4,231,88,1208,https://book.douban.com/subject/11594351/,用户体验
+商业秀,（美）斯科特·麦克凯恩,https://img3.doubanio.com/view/subject/s/public/s1231860.jpg,23.00,2003-12,7.7,204,56,83,51,12,2,272,85,2000,https://book.douban.com/subject/1085646/,用户体验
+游戏性是什么,（日）渡边修司,https://img3.doubanio.com/view/subject/s/public/s28147341.jpg,39.00,2015-7,6.6,77,6,18,43,8,2,93,20,332,https://book.douban.com/subject/26462756/,用户体验
+UX设计之道,[美]RussUnger,https://img3.doubanio.com/view/subject/s/public/s28112542.jpg,49.00,2015-4-1,6.2,20,1,4,12,2,1,26,6,38,https://book.douban.com/subject/26427505/,用户体验
+U一点·料,阿里巴巴集团1688用户体验设计部,https://img1.doubanio.com/view/subject/s/public/s28278247.jpg,79.00,2015-7-13,7.9,219,51,99,59,8,2,229,69,526,https://book.douban.com/subject/26594029/,用户体验
+形式感+：网页视觉设计创意拓展与快速表现,晋小彦,https://img3.doubanio.com/view/subject/s/public/s27184840.jpg,59.00,2014-1-1,8.2,450,147,203,87,10,3,498,83,1158,https://book.douban.com/subject/25795270/,用户体验
+感性商业,罗浩,https://img3.doubanio.com/view/subject/s/public/s33503710.jpg,89.00,2019-10-10,7.0,13,7,2,1,2,1,13,3,31,https://book.douban.com/subject/34854189/,用户体验
+游戏UI设计：修炼之道,师维,https://img9.doubanio.com/view/subject/s/public/s29680505.jpg,79.00,2018-1-1,7.7,33,15,8,8,1,1,30,10,127,https://book.douban.com/subject/30133192/,用户体验
+体验设计,电通体验设计工作室（ExperienceDesignStuio）,https://img1.doubanio.com/view/subject/s/public/s28601167.jpg,58,2015-7-15,7.0,74,8,30,32,3,1,86,4,74,https://book.douban.com/subject/26452775/,用户体验
+娱乐至死 童年的消逝,[美]尼尔·波兹曼,https://img9.doubanio.com/view/subject/s/public/s3764674.jpg,34.00,2009-5,8.7,8164,3849,3482,776,49,8,9577,2231,12434,https://book.douban.com/subject/3711709/,用户体验
+创新的艺术,汤姆・凯利,https://img9.doubanio.com/view/subject/s/public/s1316885.jpg,25.00,2004-1-1,8.1,252,78,122,47,4,1,378,106,2613,https://book.douban.com/subject/1143222/,用户体验
+认知与设计,JeffJohnson,https://img3.doubanio.com/view/subject/s/public/s28035813.jpg,59.00,2011-9-1,8.7,1525,684,624,201,12,4,1797,605,6426,https://book.douban.com/subject/6792322/,用户体验
+用户体验设计成功之道,[澳]JodieMoule,https://img9.doubanio.com/view/subject/s/public/s27224786.jpg,49,2014-2-1,5.6,17,1,5,5,5,1,17,5,36,https://book.douban.com/subject/25833190/,用户体验
+终极问题,佛雷德·赖克哈尔德,https://img1.doubanio.com/view/subject/s/public/s5889589.jpg,32.00,2008-4,7.0,35,1,20,12,1,1,38,6,97,https://book.douban.com/subject/3043853/,用户体验
+人人都是产品经理,苏杰,https://img1.doubanio.com/view/subject/s/public/s4241529.jpg,45.00,2010年4月,7.6,8131,1675,3879,2260,252,65,9330,2754,11446,https://book.douban.com/subject/4723970/,用户体验
+游戏设计艺术（第2版）,[美]JesseSchell,https://img3.doubanio.com/view/subject/s/public/s28710350.jpg,168.00,2016-4-1,9.2,366,258,90,16,1,1,308,223,3106,https://book.douban.com/subject/26791007/,用户体验
+触类旁通,[美]JoshClark,https://img1.doubanio.com/view/subject/s/public/s29433459.jpg,69.00,2017-4,8.3,41,13,19,7,1,1,46,9,284,https://book.douban.com/subject/27027629/,用户体验
+Designing Voice User Interfaces,CathyPearl,https://img3.doubanio.com/view/subject/s/public/s29249203.jpg,29.99,2016-12-29,8.4,16,4,7,3,1,1,16,12,63,https://book.douban.com/subject/26944798/,用户体验
+Eric Meyer谈CSS（卷1）,[美]EricMeyer,https://img9.doubanio.com/view/subject/s/public/s3040304.jpg,49.00,2008-2,7.5,167,126,26,10,4,1,185,18,115,https://book.douban.com/subject/2970072/,用户体验
+写给大家看的设计书,RobinWilliams,https://img9.doubanio.com/view/subject/s/public/s23947206.jpg,59.00,2010-5,8.2,800,276,360,147,14,3,914,219,4259,https://book.douban.com/subject/4837333/,用户体验
+顾客体验管理,贝恩特·施密特,https://img3.doubanio.com/view/subject/s/public/s1221392.jpg,20.00,2004-05-01,8.2,30,14,11,3,1,1,55,33,377,https://book.douban.com/subject/1159662/,用户体验
+交互设计及经典案例点评,陈根,https://img9.doubanio.com/view/subject/s/public/s29415644.jpg,69.00,2016-9,7.4,12,1,5,4,1,1,10,3,10,https://book.douban.com/subject/27010317/,用户体验
+用户故事与敏捷方法,MikeCohn,https://img3.doubanio.com/view/subject/s/public/s6159440.jpg,39.00,2010-4,8.0,484,149,241,88,5,1,555,161,1520,https://book.douban.com/subject/4743056/,用户体验
+可视化数据,弗莱,https://img1.doubanio.com/view/subject/s/public/s6005597.jpg,65.00,2009-3,7.6,120,36,42,36,5,1,138,63,1055,https://book.douban.com/subject/3661214/,用户体验
+Communicating Design中文版:高效设计沟通之道(原书第2版),DanM.Brown,https://img3.doubanio.com/view/subject/s/public/s6959743.jpg,59.00,2011-10-15,6.9,45,6,18,15,3,3,44,25,333,https://book.douban.com/subject/6872932/,用户体验
+无懈可击的Web设计,DanCederholm,https://img1.doubanio.com/view/subject/s/public/s1953759.jpg,49.80,2006,8.1,400,135,184,77,2,2,565,126,886,https://book.douban.com/subject/1937913/,用户体验
+视觉传达设计实践,靳埭强,https://img3.doubanio.com/view/subject/s/public/s28214642.jpg,99.00,2015-7,7.7,189,42,93,50,3,1,208,35,392,https://book.douban.com/subject/26530670/,用户体验
+情感化设计,[美]唐纳德·诺曼,https://img3.doubanio.com/view/subject/s/public/s2170151.jpg,36.00,2005-5,8.1,2242,626,1092,483,33,8,3593,805,8812,https://book.douban.com/subject/1314262/,用户体验
+精益设计,[美]JeffGothelf,https://img1.doubanio.com/view/subject/s/public/s29708068.jpg,49.00,2018-2,7.5,18,4,6,6,1,1,21,2,78,https://book.douban.com/subject/30162090/,用户体验
+Building Social Web Applications,GavinBell,https://img1.doubanio.com/view/subject/s/public/s7044177.jpg,34.99,2009-10-1,7.2,11,3,3,1,3,1,56,11,92,https://book.douban.com/subject/3433034/,用户体验
+About Face 3：交互设计精髓,[美]艾伦·库伯,https://img3.doubanio.com/view/subject/s/public/s28034473.jpg,98.00,2012-3-1,8.8,485,258,181,41,4,1,496,363,2273,https://book.douban.com/subject/10557282/,用户体验
+信息简史,[美]詹姆斯·格雷克,https://img1.doubanio.com/view/subject/s/public/s27237628.jpg,69.00,2013-10,8.7,2421,1175,865,312,50,19,2549,775,9164,https://book.douban.com/subject/25752043/,用户体验
+Value Proposition Design,AlexanderOsterwalder,https://img9.doubanio.com/view/subject/s/public/s29623865.jpg,35.00,2014-10-20,7.9,41,17,15,7,1,1,38,23,142,https://book.douban.com/subject/25984563/,用户体验
+赢在用户,[美]SteveMulder,https://img3.doubanio.com/view/subject/s/public/s25503752.jpg,29.00,2007-08-01,8.0,1162,324,549,270,17,2,1818,572,5952,https://book.douban.com/subject/2157554/,用户体验
+SQL必知必会,福达(BenForta),https://img9.doubanio.com/view/subject/s/public/s28341985.jpg,29.00,2013-5-1,8.5,1343,567,610,160,5,1,1365,332,2070,https://book.douban.com/subject/24250054/,用户体验
+Rework,JasonFried,https://img9.doubanio.com/view/subject/s/public/s4614545.jpg,22.00,2010-3-9,8.7,1975,916,790,241,23,5,2243,439,3751,https://book.douban.com/subject/3889178/,用户体验
+支付宝体验设计精髓,支付宝AUX团队,https://img1.doubanio.com/view/subject/s/public/s29138309.jpg,79,2016-10-1,7.1,136,17,52,56,6,5,140,25,179,https://book.douban.com/subject/26910220/,用户体验
+点石成金,[美]克鲁格(SteveKrug),https://img3.doubanio.com/view/subject/s/public/s27995593.jpg,59.00,2015-1-1,8.2,654,214,328,102,7,3,734,106,1202,https://book.douban.com/subject/26313852/,用户体验
+PhoneGap开发指南,鲁尼,https://img9.doubanio.com/view/subject/s/public/s26677895.jpg,49.00,2012-10,7.3,11,3,3,3,1,1,15,1,21,https://book.douban.com/subject/19952189/,用户体验
+争论点：用户体验设计师的交互指南,王争,https://img3.doubanio.com/view/subject/s/public/s32325711.jpg,99.90,2019-6,7.1,33,11,2,9,6,5,38,3,33,https://book.douban.com/subject/33454283/,用户体验
+One Click,RichardL.Brandt,https://img1.doubanio.com/view/subject/s/public/s4723519.jpg,25.95,2011-10-27,7.2,58,7,31,16,3,1,69,16,236,https://book.douban.com/subject/6129537/,用户体验
+Sketch+Xcode双剑合璧,静电,https://img9.doubanio.com/view/subject/s/public/s28379295.jpg,69.80,2015-11,7.4,55,10,18,24,2,1,63,16,83,https://book.douban.com/subject/26647794/,用户体验
+共鸣,克雷格·斯图尔,https://img3.doubanio.com/view/subject/s/public/s4150842.jpg,29.00,2009-3-1,6.9,61,22,16,18,4,1,79,20,65,https://book.douban.com/subject/3578151/,用户体验
+服务设计微日记2（全彩）,茶山,https://img9.doubanio.com/view/subject/s/public/s29478074.jpg,49,2017-7,7.1,30,3,12,11,3,1,34,9,33,https://book.douban.com/subject/27072001/,用户体验
+亲爱的界面,[瑞士]LukasMathis,https://img9.doubanio.com/view/subject/s/public/s23128765.jpg,49.00,2012-11,8.0,299,80,145,68,5,1,358,123,1539,https://book.douban.com/subject/20278578/,用户体验
+Human-Computer Interface Design人机界面设计,李乐山,https://img3.doubanio.com/view/subject/s/public/s8892110.jpg,35.00,2004-8,8.6,46,24,14,6,1,1,80,31,235,https://book.douban.com/subject/1669595/,用户体验
+安利,彭剑锋　主编,https://img9.doubanio.com/view/subject/s/public/s26837356.jpg,59.00,2013-8,6.2,26,8,4,8,4,2,34,12,61,https://book.douban.com/subject/24859493/,用户体验
+全面质量管理漫画读本,约翰・欧克兰德,https://img9.doubanio.com/view/subject/s/public/s1164006.jpg,28.00,2004-9,8.0,22,3,11,6,1,1,31,2,66,https://book.douban.com/subject/1083676/,用户体验
+一个APP的诞生,Carol炒炒,https://img1.doubanio.com/view/subject/s/public/s29017368.jpg,79,2016-7-1,6.3,100,16,34,36,10,4,120,11,187,https://book.douban.com/subject/26865230/,用户体验
+什么是网页设计,[英]麦克唐纳,https://img1.doubanio.com/view/subject/s/public/s1637028.jpg,78.00,2006-3,7.5,126,27,45,49,4,1,234,62,642,https://book.douban.com/subject/1765779/,用户体验
+這就是服務設計思考,MarcStickdorn,https://img3.doubanio.com/view/subject/s/public/s27305891.jpg,900,2013-3-1,8.1,74,24,26,20,3,1,81,30,557,https://book.douban.com/subject/25908518/,用户体验
+心理学与生活,[美]理查德·格里格,https://img3.doubanio.com/view/subject/s/public/s1068520.jpg,88.00,2003-10,8.8,15612,8275,5574,1545,156,62,17996,11359,95437,https://book.douban.com/subject/1032501/,用户体验
+情感設計,[美]唐纳德·诺曼,https://img3.doubanio.com/view/subject/s/public/s2080901.jpg,360,2005,8.4,60,28,23,7,1,1,82,29,404,https://book.douban.com/subject/1867943/,用户体验
+Android应用UI设计模式,纳德尔曼(GregNudelman),https://img1.doubanio.com/view/subject/s/public/s27979208.jpg,69.00,2013-12-1,7.3,39,7,12,18,1,1,48,20,281,https://book.douban.com/subject/25764505/,用户体验
+Gamestorming,DaveGray,https://img1.doubanio.com/view/subject/s/public/s4412467.jpg,29.99,2010-7-30,8.1,20,6,9,3,1,1,28,9,172,https://book.douban.com/subject/4729841/,用户体验
+体验设计白书,张玳,https://img1.doubanio.com/view/subject/s/public/s28984259.jpg,49.00,2016-8,8.6,108,53,38,13,3,1,114,24,641,https://book.douban.com/subject/26857698/,用户体验
+闲言碎语,周陟,https://img9.doubanio.com/view/subject/s/public/s33300065.jpg,69,2019-6-1,7.6,12,3,3,4,1,1,9,6,25,https://book.douban.com/subject/34433960/,用户体验
+枪与玫瑰的使用方法,果壳Guokr·com,https://img3.doubanio.com/view/subject/s/public/s27176722.jpg,32.8,2014-1-7,6.8,1242,115,382,649,79,17,1425,106,1626,https://book.douban.com/subject/25775846/,用户体验
+品类战略,张云,https://img3.doubanio.com/view/subject/s/public/s27185143.jpg,40.00,2014-1,7.8,137,39,43,46,6,3,151,14,190,https://book.douban.com/subject/25795601/,用户体验
+佐藤大：没有废弃方案,【日】佐藤大,https://img9.doubanio.com/view/subject/s/public/s32344376.jpg,58,2017-10,8.4,238,85,108,43,1,1,255,29,681,https://book.douban.com/subject/27613238/,用户体验
+固态阅读,李德庚,https://img9.doubanio.com/view/subject/s/public/s6457726.jpg,92.00,2008-11,8.2,119,39,57,20,2,1,188,33,547,https://book.douban.com/subject/3359508/,用户体验
+Getting Real,JasonFried,https://img9.doubanio.com/view/subject/s/public/s4126286.jpg,24.99,2009-11-18,9.1,955,564,312,77,1,1,1244,282,3731,https://book.douban.com/subject/3567853/,用户体验
+设计的125条通用法则（全本）,［美］威廉·立德威尔（WilliamLidwell）,https://img3.doubanio.com/view/subject/s/public/s32267102.jpg,168,2019-5,9.4,20,12,5,1,1,1,11,15,264,https://book.douban.com/subject/30475363/,用户体验
+Rapid Contextual Design,KarenHoltzblatt,https://img3.doubanio.com/view/subject/s/public/s4356100.jpg,59.95,2004-12-28,8.1,30,16,8,4,1,1,59,24,242,https://book.douban.com/subject/1997584/,用户体验
+下一站,杨艾祥,https://img9.doubanio.com/view/subject/s/public/s27273765.jpg,29.80,2012-7-1,5.6,30,3,6,13,7,1,33,8,15,https://book.douban.com/subject/11528906/,用户体验
+李彦宏的百度世界,CHENGDONGSHENG,https://img3.doubanio.com/view/subject/s/public/s4422790.jpg,42.00,2009-4,6.4,314,24,90,145,42,13,376,33,197,https://book.douban.com/subject/3685443/,用户体验
+设计心理学,[美]唐纳德·A·诺曼,https://img1.doubanio.com/view/subject/s/public/s9491387.jpg,30.00,2010-03,8.1,2966,939,1429,546,44,8,3489,1155,8455,https://book.douban.com/subject/4606471/,用户体验
+增长黑客,SeanEllis,https://img3.doubanio.com/view/subject/s/public/s29635861.jpg,59.00,2017-11-1,8.3,2348,934,1044,342,21,7,2353,801,8158,https://book.douban.com/subject/27593848/,用户体验
+Beautiful Evidence,EdwardRTufte,https://img1.doubanio.com/view/subject/s/public/s29896788.jpg,56.95,2006-1-1,8.8,66,31,31,2,1,1,77,45,721,https://book.douban.com/subject/1916758/,用户体验
+Eric Meyer谈CSS（卷2）,（美）迈耶,https://img1.doubanio.com/view/subject/s/public/s5885198.jpg,49.00,2008-4,7.8,142,111,21,8,1,1,164,11,116,https://book.douban.com/subject/3027550/,用户体验
+世界是平的,[美]托马斯·弗里德曼,https://img9.doubanio.com/view/subject/s/public/s1801825.jpg,56.00,2006-11,7.6,14140,3164,6315,4026,508,127,19501,4184,19782,https://book.douban.com/subject/1867642/,用户体验
+通用设计法则,WilliamLidwell,https://img3.doubanio.com/view/subject/s/public/s26852182.jpg,125.00,2013-9,8.2,234,89,97,42,4,2,258,118,1619,https://book.douban.com/subject/24869617/,用户体验
+Universal Methods of Design,BruceHanington,https://img1.doubanio.com/view/subject/s/public/s7059579.jpg,40.00,2012-2-1,8.8,62,34,22,4,1,1,75,24,213,https://book.douban.com/subject/10464036/,用户体验
+如何成為頂尖設計師,AdrianShaughnessy,https://img9.doubanio.com/view/subject/s/public/s1883745.jpg,350,2006 年 09 月 28 日,8.3,75,24,37,12,1,1,116,35,1297,https://book.douban.com/subject/1905141/,用户体验
+豆瓣，流行的秘密,黄修源,https://img1.doubanio.com/view/subject/s/public/s3947878.jpg,29.00,2009-9,5.4,1715,87,292,694,383,259,1911,256,2838,https://book.douban.com/subject/3908071/,用户体验
+美国视觉设计学院用书,[美]蒂莫西·萨马拉,https://img1.doubanio.com/view/subject/s/public/s24925448.jpg,89.00,2013-2-20,8.5,144,58,54,27,3,2,166,67,1327,https://book.douban.com/subject/21323329/,用户体验
+产品概念构思,戴维·布莱姆斯顿,https://img9.doubanio.com/view/subject/s/public/s3856604.jpg,59.00,2009-6,8.3,82,27,39,14,1,1,109,25,394,https://book.douban.com/subject/3768581/,用户体验
+精益创业实战,AshMaurya,https://img9.doubanio.com/view/subject/s/public/s24610736.jpg,39.00,2013-1,8.8,765,405,277,74,6,3,858,255,4257,https://book.douban.com/subject/20505765/,用户体验
+设计冲刺,[美]杰克·纳普,https://img9.doubanio.com/view/subject/s/public/s28977284.jpg,58.00,2016-8,8.2,596,204,285,97,8,2,630,161,1864,https://book.douban.com/subject/26837959/,用户体验
+The Visual Display of Quantitative Information,EdwardR.Tufte,https://img3.doubanio.com/view/subject/s/public/s3535412.jpg,40.00,2001-1,9.1,183,104,64,13,1,1,225,119,2176,https://book.douban.com/subject/1316642/,用户体验
+UX设计师要懂工业设计,[美]SimonKing,https://img9.doubanio.com/view/subject/s/public/s29705385.jpg,59.00,2018-3,7.3,12,1,6,3,1,1,13,0,48,https://book.douban.com/subject/30159232/,用户体验
+心流,[美]米哈里·契克森米哈赖,https://img9.doubanio.com/view/subject/s/public/s29595585.jpg,49.00,2017-11,8.3,5147,2116,2132,782,87,30,5169,1442,13648,https://book.douban.com/subject/27186106/,用户体验
+小巨人,保·伯林翰,https://img9.doubanio.com/view/subject/s/public/s6868216.jpg,38.00,2007-9,7.4,63,13,23,21,4,2,73,24,484,https://book.douban.com/subject/2246288/,用户体验
+交互设计之路,库帕,https://img9.doubanio.com/view/subject/s/public/s1517284.jpg,38.00,2006-3,7.9,1050,288,468,270,18,6,1711,388,5369,https://book.douban.com/subject/1493316/,用户体验
+需求,[美]亚德里安•斯莱沃斯基（AdrianJ.Slywotzky）,https://img3.doubanio.com/view/subject/s/public/s26592330.jpg,64.9,2013-6,7.7,884,224,376,250,24,10,1025,272,4152,https://book.douban.com/subject/22229485/,用户体验
+设计心理学,李彬彬,https://img1.doubanio.com/view/subject/s/public/s8448538.jpg,42.00,2005-1,6.0,23,1,4,16,1,1,34,6,26,https://book.douban.com/subject/1715386/,用户体验
+顾客要买什么,[美]迈克尔·西尔,https://img1.doubanio.com/view/subject/s/public/s26008528.jpg,38.00,2006-10,7.5,116,17,56,38,4,1,194,55,1016,https://book.douban.com/subject/1919363/,用户体验
+用户体验设计,[美]奎瑟贝利,https://img1.doubanio.com/view/subject/s/public/s27239097.jpg,69.00,2014-1-1,6.9,33,3,14,10,5,1,43,25,243,https://book.douban.com/subject/25847187/,用户体验
+版式设计原理,[日]佐佐木刚士,https://img3.doubanio.com/view/subject/s/public/s2703492.jpg,59.00,2007-8-1,8.4,3433,1224,1654,519,30,6,4299,1062,10512,https://book.douban.com/subject/2238320/,用户体验
+好设计不简单Ⅱ,［日］古贺直树,https://img3.doubanio.com/view/subject/s/public/s27327282.jpg,39.00,2014-8,6.1,59,4,13,31,7,4,61,8,81,https://book.douban.com/subject/25928776/,用户体验
+绝佳体验,布鲁斯·莱夫勒(BruceLoeffler),https://img1.doubanio.com/view/subject/s/public/s29858137.jpg,59.00,2018-8-1,6.4,53,9,15,21,7,1,54,14,169,https://book.douban.com/subject/30314713/,用户体验
+卓越服务，非凡利润,（美）莱昂纳多·因基莱里,https://img1.doubanio.com/view/subject/s/public/s11431099.jpg,26.00,2012-11,8.4,31,12,10,7,1,1,38,12,503,https://book.douban.com/subject/14336944/,用户体验
+好用型设计,[美]唐纳德·A·诺曼,https://img3.doubanio.com/view/subject/s/public/s26237520.jpg,36.00,2007-10,8.3,260,108,98,49,2,3,373,69,768,https://book.douban.com/subject/2262838/,用户体验
+Web视觉设计,PennyMcIntire,https://img9.doubanio.com/view/subject/s/public/s3254594.jpg,56.00,2008-08,6.9,61,14,12,27,7,1,91,41,122,https://book.douban.com/subject/3208401/,用户体验
+方寸有度,百度移动用户体验部,https://img1.doubanio.com/view/subject/s/public/s29368777.jpg,78.00,2017-2,7.0,66,10,30,20,5,1,63,14,117,https://book.douban.com/subject/26983881/,用户体验
+产品前线：48位一线互联网产品经理的智慧与实战,第八公社,https://img1.doubanio.com/view/subject/s/public/s28319469.jpg,69.00,2015-10-8,5.3,191,31,29,52,50,29,203,42,281,https://book.douban.com/subject/26644275/,用户体验
+信息设计,简·维索基·欧格雷迪(O＇Grady.J.V.),https://img3.doubanio.com/view/subject/s/public/s6131433.jpg,98.00,2009-12,8.5,224,94,81,47,1,1,307,120,1326,https://book.douban.com/subject/4308069/,用户体验
+鲜活的数据,[美]NathanYau,https://img1.doubanio.com/view/subject/s/public/s27254568.jpg,69.00,2012-10-1,7.4,348,67,143,122,11,5,385,120,1813,https://book.douban.com/subject/19952397/,用户体验
+增长黑客,范冰,https://img1.doubanio.com/view/subject/s/public/s28369197.jpg,59.00,2015-7-1,7.7,3647,831,1622,1031,127,36,3831,677,6101,https://book.douban.com/subject/26541801/,用户体验
+认知设计,JulieDirksen,https://img3.doubanio.com/view/subject/s/public/s26041560.jpg,69.00,2013-4,8.2,126,47,53,21,4,1,142,57,1170,https://book.douban.com/subject/23058339/,用户体验
+好产品坏产品,（美）詹姆斯L.亚当斯,https://img1.doubanio.com/view/subject/s/public/s27094479.jpg,39.00,2013-10,6.9,29,3,10,12,3,1,31,11,85,https://book.douban.com/subject/25747846/,用户体验
+创新十型,拉里•基利（LarryKeeley）,https://img9.doubanio.com/view/subject/s/public/s27414844.jpg,80.00,2014-9,8.1,78,33,24,16,4,1,85,29,342,https://book.douban.com/subject/25963553/,用户体验
+无界面交互,[美]GoldenKrishna,https://img9.doubanio.com/view/subject/s/public/s29259415.jpg,49.00,2017-1,7.0,174,27,63,61,19,4,184,15,402,https://book.douban.com/subject/26947799/,用户体验
+色彩设计的原理,悅知文化,https://img1.doubanio.com/view/subject/s/public/s7050039.jpg,45.00,2011-10,8.4,867,311,406,137,11,2,1006,239,5859,https://book.douban.com/subject/6790599/,用户体验
+写给大家看的Web设计书,RobinWilliams,https://img3.doubanio.com/view/subject/s/public/s4347391.jpg,69.00,201005,7.3,259,62,73,102,20,2,351,67,894,https://book.douban.com/subject/4820694/,用户体验
+胜于言传：Web内容创作与设计的艺术,罗婷,https://img9.doubanio.com/view/subject/s/public/s27137315.jpg,69.00,2013-11,8.0,17,7,4,4,1,1,22,6,111,https://book.douban.com/subject/25769796/,用户体验
+潮流,常丽,https://img9.doubanio.com/view/subject/s/public/s29059074.jpg,69.00,2015-5-1,6.9,75,38,10,17,5,5,79,17,93,https://book.douban.com/subject/26386615/,用户体验
+众妙之门,[德]Smashing，Magazine,https://img9.doubanio.com/view/subject/s/public/s27667655.jpg,39.00,2014-5-1,7.1,27,1,8,16,1,1,28,1,14,https://book.douban.com/subject/26177417/,用户体验
+网页设计与配色经典案例解析,旭日东升编,https://img9.doubanio.com/view/subject/s/public/s6464914.jpg,69.00,2011-3,7.3,14,5,3,4,1,1,15,11,51,https://book.douban.com/subject/5945545/,用户体验
+Web导航设计,JamesKalbach,https://img3.doubanio.com/view/subject/s/public/s3378240.jpg,69.80,2009 年3月,8.1,250,81,120,43,4,2,456,167,1571,https://book.douban.com/subject/3313897/,用户体验
+iPhone应用用户体验设计实战与案例,SuzanneGinsburg,https://img3.doubanio.com/view/subject/s/public/s6343852.jpg,79.00,2011-6,7.9,99,34,33,24,7,1,126,62,466,https://book.douban.com/subject/6398078/,用户体验
+Neuro Web Design,SusanM.Weinschenk,https://img3.doubanio.com/view/subject/s/public/s4262623.jpg,24.99,2009-01-02,8.1,53,19,18,14,1,1,63,52,77,https://book.douban.com/subject/3737316/,用户体验
+苹果的产品设计之道,JohnEdson,https://img3.doubanio.com/view/subject/s/public/s27081162.jpg,69.00,2013-8-1,7.4,73,13,31,25,3,1,90,15,274,https://book.douban.com/subject/24875583/,用户体验
+设计心理学3,[美]唐纳德·A·诺曼,https://img9.doubanio.com/view/subject/s/public/s28108494.jpg,38.00,2012-6-1,8.1,467,131,211,114,7,4,557,147,932,https://book.douban.com/subject/10550576/,用户体验
+行为设计学(打造峰值体验)(精),〔美〕奇普·希思,https://img1.doubanio.com/view/subject/s/public/s29865509.jpg,68.00,2018-8,7.9,587,165,284,119,14,5,611,130,1500,https://book.douban.com/subject/30322083/,用户体验
+SNS网站构建,GavinBell,https://img9.doubanio.com/view/subject/s/public/s4616894.jpg,69.00,2011-2,5.6,62,10,10,25,7,10,94,59,494,https://book.douban.com/subject/5954711/,用户体验
+SSA：用户搜索心理与行为分析,[美]罗森菲尔德（LouisRosenfeld）,https://img3.doubanio.com/view/subject/s/public/s27255322.jpg,59.00,2014-4-1,8.1,35,12,16,5,1,1,38,12,436,https://book.douban.com/subject/25861848/,用户体验
+破茧成蝶2,刘津,https://img3.doubanio.com/view/subject/s/public/s29821272.jpg,79,2018-8-1,8.4,234,110,83,31,6,4,225,83,529,https://book.douban.com/subject/30276274/,用户体验
+电商产品经理宝典：电商后台系统产品逻辑全解析,刘志远,https://img3.doubanio.com/view/subject/s/public/s29562842.jpg,49.00,2017-10-1,7.4,355,70,156,110,12,7,370,76,555,https://book.douban.com/subject/27157290/,用户体验
+黏住顾客,[美]卡迈恩·加洛,https://img1.doubanio.com/view/subject/s/public/s25668349.jpg,45.00,2013-1,6.2,22,4,7,8,2,1,32,6,112,https://book.douban.com/subject/20473413/,用户体验
+Producter 让产品从0到1,周楷雯,https://img3.doubanio.com/view/subject/s/public/s29249433.jpg,69.00,2016-12-25,7.5,92,28,22,32,5,5,99,24,241,https://book.douban.com/subject/1172442/,用户体验
+写给大家看的设计书（第3版）,[美]RobinWilliams,https://img9.doubanio.com/view/subject/s/public/s23486434.jpg,49.00,2009-1,8.6,11496,5140,4875,1379,80,22,13097,2543,26324,https://book.douban.com/subject/3323633/,用户体验
+Service Design,AndyPolaine,https://img3.doubanio.com/view/subject/s/public/s25968300.jpg,39.00,2013-3-13,8.3,28,10,10,6,1,1,25,15,204,https://book.douban.com/subject/22324479/,用户体验
+设计，在人人设计的时代,[意]埃佐·曼奇尼,https://img3.doubanio.com/view/subject/s/public/s28868700.jpg,59.00,2016-5,7.7,113,33,50,28,1,1,107,67,413,https://book.douban.com/subject/26792423/,用户体验
+Interviewing Users,StevePortigal,https://img9.doubanio.com/view/subject/s/public/s29772934.jpg,29.00,2013-5,6.8,20,4,6,8,1,1,21,11,89,https://book.douban.com/subject/24698817/,用户体验
+設計的方法,BruceHanington,https://img1.doubanio.com/view/subject/s/public/s24966007.jpg,650,2012-10,8.4,38,12,17,4,4,1,36,28,459,https://book.douban.com/subject/21348543/,用户体验
+精通Web Analytics 2.0,[美]AvinashKaushik,https://img3.doubanio.com/view/subject/s/public/s6366732.jpg,48.00,2011-4-26,8.5,339,134,158,42,3,2,379,204,1728,https://book.douban.com/subject/6414998/,用户体验
+Contextual Design,HughBeyer,https://img3.doubanio.com/view/subject/s/public/s4172131.jpg,85.95,1997-9-15,8.4,19,7,9,1,1,1,29,15,221,https://book.douban.com/subject/1484389/,用户体验
+Microsoft Windows 用户经验,邱淑清,https://img9.doubanio.com/view/subject/s/public/s9927695.jpg,49.00,2001-7-1,7.4,16,7,3,4,1,1,26,8,40,https://book.douban.com/subject/1196206/,用户体验
+至美用户：人本设计剖析,[美]EllenLupton,https://img1.doubanio.com/view/subject/s/public/s28583899.jpg,49.00,2016-4,6.7,14,1,2,9,1,1,12,2,62,https://book.douban.com/subject/26762103/,用户体验
+启示录,[美]MartyCagan,https://img3.doubanio.com/view/subject/s/public/s6474670.jpg,36.00,2011-5,8.5,6542,2768,2755,922,78,19,7539,1813,17911,https://book.douban.com/subject/5914587/,用户体验
+Web表单设计,CarolineJarrett,https://img3.doubanio.com/view/subject/s/public/s4614580.jpg,35.00,2011-3,7.3,70,16,27,20,6,1,123,44,364,https://book.douban.com/subject/5951504/,用户体验
+设计师谈网页风格构成,崔美善,https://img1.doubanio.com/view/subject/s/public/s10070879.jpg,49.8,2006-9,7.0,25,4,6,12,1,2,42,6,49,https://book.douban.com/subject/1928287/,用户体验
+关键设计报告,[美]比尔·莫格里奇,https://img1.doubanio.com/view/subject/s/public/s6537277.jpg,218.00,2011-6,8.4,255,111,99,35,5,5,297,170,2137,https://book.douban.com/subject/6024020/,用户体验
+微交互,塞弗(DanSaffer),https://img9.doubanio.com/view/subject/s/public/s27261016.jpg,35.00,2013-11-1,7.5,342,57,188,85,8,4,386,69,929,https://book.douban.com/subject/25744600/,用户体验
+赖声川的创意学,赖声川,https://img1.doubanio.com/view/subject/s/public/s1831989.jpg,36.00,2006-9,7.8,2818,758,1224,733,84,19,3965,687,6111,https://book.douban.com/subject/1889450/,用户体验
+设计这件事(回归原点的设计),(日)古平正义//平林奈绪美//水野学//山田英二|译者,https://img9.doubanio.com/view/subject/s/public/s29620176.jpg,108.0,2017-10-01,6.8,41,3,15,17,5,1,44,1,33,https://book.douban.com/subject/27590890/,用户体验
+决胜UX,[美]JaimeLevy,https://img3.doubanio.com/view/subject/s/public/s29114423.jpg,59.00,2016-11,8.0,68,24,25,15,3,1,74,26,517,https://book.douban.com/subject/26899670/,用户体验
+匠心体验,[法]艾米丽·布歇,https://img9.doubanio.com/view/subject/s/public/s29114414.jpg,69.00,2016-11,8.5,57,18,25,12,1,1,56,17,612,https://book.douban.com/subject/26899667/,用户体验
+众妙之门,SmashingMagazine,https://img1.doubanio.com/view/subject/s/public/s26678849.jpg,39.00,2013-1,7.6,21,8,6,4,2,1,28,7,43,https://book.douban.com/subject/21266843/,用户体验
+交互设计:设计思维与实践,由芳,https://img9.doubanio.com/view/subject/s/public/s29406456.jpg,69,2017-1,6.9,14,3,3,5,2,1,13,4,47,https://book.douban.com/subject/27001398/,用户体验
+决策与判断,[美]斯科特·普劳斯,https://img3.doubanio.com/view/subject/s/public/s5741461.jpg,28.00,2004-9,8.5,3312,1330,1486,451,39,6,3969,1487,22619,https://book.douban.com/subject/1193621/,用户体验
+Web界面设计,BillScott,https://img1.doubanio.com/view/subject/s/public/s3857678.jpg,80.00,2009年7月,8.7,614,265,227,112,6,4,925,386,4045,https://book.douban.com/subject/3821157/,用户体验
+设计心理学,柳沙,https://img3.doubanio.com/view/subject/s/public/s5981361.jpg,36.00,2009-1,6.6,46,3,19,22,1,1,59,14,57,https://book.douban.com/subject/3519877/,用户体验
+用户体验度量：收集、分析与呈现（第2版）（全彩）,【美】TOMTULLIS（汤姆图丽斯）,https://img3.doubanio.com/view/subject/s/public/s28385241.jpg,99.00,2016-2,8.8,87,36,40,8,1,2,82,54,904,https://book.douban.com/subject/26710486/,用户体验
+品味移动设计,赵大羽,https://img9.doubanio.com/view/subject/s/public/s27036095.jpg,69.00,2013-10,6.8,43,19,10,11,2,1,51,2,86,https://book.douban.com/subject/25719630/,用户体验
+终极问题2.0,弗雷德·赖克哈尔德,https://img1.doubanio.com/view/subject/s/public/s26542697.jpg,49,2013-5-1,7.7,73,21,31,18,2,1,73,24,304,https://book.douban.com/subject/24522275/,用户体验
+用户体验可视化指南,JamesKalbach,https://img3.doubanio.com/view/subject/s/public/s29726283.jpg,79.00,2018-1,8.6,61,30,19,10,1,1,44,45,448,https://book.douban.com/subject/30181078/,用户体验
+腾讯网UED体验设计之旅,任婕等,https://img3.doubanio.com/view/subject/s/public/s28041380.jpg,99.00,2015-4,6.9,200,20,55,99,21,5,223,56,634,https://book.douban.com/subject/26359327/,用户体验
+设计心理学4,[美]唐纳德·A·诺曼,https://img3.doubanio.com/view/subject/s/public/s28322883.jpg,42,2015-11,7.5,360,78,158,108,14,2,390,93,1081,https://book.douban.com/subject/26647363/,用户体验
+原型设计,[美]ToddZakiWarfel,https://img9.doubanio.com/view/subject/s/public/s24613724.jpg,59.00,2012-12-1,6.2,51,4,11,23,12,1,53,8,112,https://book.douban.com/subject/20516991/,用户体验
+设计思维,安布罗斯（英）,https://img3.doubanio.com/view/subject/s/public/s6227262.jpg,59.00,2010-9,8.2,144,49,58,32,4,1,187,55,1064,https://book.douban.com/subject/5248004/,用户体验
+长尾理论,[美]克里斯·安德森,https://img3.doubanio.com/view/subject/s/public/s1914890.jpg,35.00,2006-12,7.7,11925,2540,5677,3327,310,71,17066,2529,19977,https://book.douban.com/subject/1919072/,用户体验
+构建可扩展的Web站点,CalHenderson,https://img3.doubanio.com/view/subject/s/public/s2966683.jpg,58.00,2008,8.0,306,71,157,71,4,3,444,104,1288,https://book.douban.com/subject/3039216/,用户体验
+互联网思想十讲,段永朝,https://img9.doubanio.com/view/subject/s/public/s27844475.jpg,68.00,2014-10,8.8,139,75,50,12,1,1,149,42,1275,https://book.douban.com/subject/26253507/,用户体验
+网站蓝图,吕皓月,https://img9.doubanio.com/view/subject/s/public/s26677525.jpg,99.00,2012-7,7.1,139,24,55,43,10,7,138,78,295,https://book.douban.com/subject/10829320/,用户体验
+软件创新之路,[美]AlanCooper,https://img9.doubanio.com/view/subject/s/public/s1430015.jpg,28.00,2001-2,8.5,155,67,48,38,1,1,276,134,400,https://book.douban.com/subject/1237849/,用户体验
+完成设计,[美]蒂莫西·萨马拉,https://img3.doubanio.com/view/subject/s/public/s3491981.jpg,89.00,2008-12-1,8.6,597,247,260,81,8,1,726,276,2001,https://book.douban.com/subject/3336895/,用户体验
+用户体验度量,邵罗(JeffSauro),https://img3.doubanio.com/view/subject/s/public/s28102730.jpg,69.00,2014-4-1,7.8,46,15,14,13,3,1,43,21,211,https://book.douban.com/subject/26318425/,用户体验
+Change by Design,TimBrown,https://img9.doubanio.com/view/subject/s/public/s4245234.jpg,27.99,2009-10-1,7.8,82,23,40,17,1,1,98,53,577,https://book.douban.com/subject/3712207/,用户体验
+服务的细节,川岛蓉子,https://img9.doubanio.com/view/subject/s/public/s21566956.jpg,28.00,2012-8,5.4,13,1,4,4,3,1,18,2,40,https://book.douban.com/subject/11599208/,用户体验
+Competing Against Luck,ClaytonM.Christensen,https://img3.doubanio.com/view/subject/s/public/s29085473.jpg,29.99,2016-10-4,8.2,24,8,12,2,1,1,33,9,112,https://book.douban.com/subject/26888744/,用户体验
+HTTP,DavidGourley,https://img9.doubanio.com/view/subject/s/public/s29071876.jpg,54.99,2002-10-7,8.6,213,98,93,20,1,1,222,139,690,https://book.douban.com/subject/1440226/,用户体验
+设计搜索体验,罗素-罗丝(TonyRussell-Rose),https://img1.doubanio.com/view/subject/s/public/s27315887.jpg,59.00,2014-1-1,7.5,18,3,10,3,1,1,20,3,135,https://book.douban.com/subject/25919311/,用户体验
+Observing the User Experience,ElizabethGoodmanPh.D.SchoolofInformationUniversityofCaliforniaBerkeley,https://img3.doubanio.com/view/subject/s/public/s29549953.jpg,59.95,2012-9-21,8.7,16,9,4,1,1,1,15,10,74,https://book.douban.com/subject/11543181/,用户体验
+洞察用户：爆款产品来自对用户的深度研究,[英]斯蒂芬妮·马什,https://img1.doubanio.com/view/subject/s/public/s31200377.jpg,69,2019-3,6.9,14,4,1,7,1,1,13,1,67,https://book.douban.com/subject/32306901/,用户体验
+Defensive Design for the Web,37signals,https://img1.doubanio.com/view/subject/s/public/s4252747.jpg,18.99,2004-3-2,8.2,44,18,14,10,1,1,80,45,267,https://book.douban.com/subject/1440903/,用户体验
+移动设备交互设计,琼斯,https://img3.doubanio.com/view/subject/s/public/s3007472.jpg,59.80,2008,7.8,261,60,101,87,12,1,485,178,1313,https://book.douban.com/subject/3021037/,用户体验
+锦绣蓝图,[美]沃德科(ChristinaWodtke),https://img3.doubanio.com/view/subject/s/public/s4395753.jpg,59.00,2009-11-01,8.0,1041,285,488,250,13,5,1449,473,3594,https://book.douban.com/subject/4076216/,用户体验
+网页设计心理学,SusanM.Weinschenk,https://img3.doubanio.com/view/subject/s/public/s26241172.jpg,29.00,2013-2,7.3,84,26,32,16,8,2,100,11,208,https://book.douban.com/subject/21371288/,用户体验
+编剧的策略,[美]亚历克斯·爱泼斯坦,https://img3.doubanio.com/view/subject/s/public/s27497400.jpg,38.00,2014-11,7.9,186,46,84,49,6,1,218,56,2041,https://book.douban.com/subject/26012244/,用户体验
+软件观念革命,[美]AlanCooper,https://img9.doubanio.com/view/subject/s/public/s1554354.jpg,89.00,2005-05-01,8.7,456,205,174,68,5,4,749,249,2597,https://book.douban.com/subject/1392475/,用户体验
+请给我结果,姜汝祥,https://img3.doubanio.com/view/subject/s/public/s3839040.jpg,24.00,2009-5,6.3,547,77,140,199,76,55,616,117,382,https://book.douban.com/subject/3687077/,用户体验
+About Face 3 交互设计精髓,AlanCooper,https://img3.doubanio.com/view/subject/s/public/s3340712.jpg,72.00,2008-11,8.6,1312,619,518,156,14,5,1501,926,6956,https://book.douban.com/subject/3279105/,用户体验
+设计方法卡牌,罗莎等,https://img3.doubanio.com/view/subject/s/public/s29496900.jpg,79.00,2017-7,8.3,192,143,33,12,3,1,185,26,303,https://book.douban.com/subject/27091052/,用户体验
+Web表单设计,[美]LukeWroblewski,https://img9.doubanio.com/view/subject/s/public/s11230326.jpg,49.00,2010-6,8.6,610,266,235,104,4,1,950,230,2658,https://book.douban.com/subject/4886100/,用户体验
+设计心理学2,[美]唐纳德·A·诺曼,https://img1.doubanio.com/view/subject/s/public/s28109547.jpg,42.00,2015-6-5,7.8,500,112,248,126,12,2,550,111,716,https://book.douban.com/subject/26424608/,用户体验
+乔纳森传,[美]利恩德·卡尼,https://img1.doubanio.com/view/subject/s/public/s27185277.jpg,49.00,2014-1-1,7.3,1525,241,633,569,70,12,1657,268,1908,https://book.douban.com/subject/25786645/,用户体验
+Axure RP 6 Prototyping Essentials,EzraSchwartz,https://img1.doubanio.com/view/subject/s/public/s7057539.jpg,49.99,2012-2-16,7.3,12,2,4,4,1,1,15,12,115,https://book.douban.com/subject/6759480/,用户体验
+产品管理,[美]唐纳德·R.莱,https://img9.doubanio.com/view/subject/s/public/s5649934.jpg,58.00,2006-3,8.1,86,16,54,14,1,1,96,56,351,https://book.douban.com/subject/1805425/,用户体验
+黑客与画家,[美]保罗·格雷厄姆,https://img9.doubanio.com/view/subject/s/public/s4669554.jpg,49.00,2011-4,8.7,17929,8822,7011,1900,161,35,20795,3792,27221,https://book.douban.com/subject/6021440/,用户体验
+设计思维,托马斯·洛克伍德,https://img3.doubanio.com/view/subject/s/public/s11337071.jpg,49.00,2012-8,6.2,75,19,15,25,10,6,89,40,305,https://book.douban.com/subject/11526046/,用户体验
+如何做质性研究,大卫·希尔弗曼,https://img9.doubanio.com/view/subject/s/public/s4158275.jpg,58.00,2009-1,7.3,36,7,17,10,1,1,51,15,226,https://book.douban.com/subject/3529583/,用户体验
+The Icon Handbook,JonHicks,https://img3.doubanio.com/view/subject/s/public/s7059132.jpg,32.00,2012-1-30,8.6,21,9,9,1,1,1,22,11,123,https://book.douban.com/subject/10446392/,用户体验
+Interaction Design,HelenSharp,https://img1.doubanio.com/view/subject/s/public/s4244109.jpg,49.99,2007-1-12,8.1,81,40,25,14,1,1,116,25,244,https://book.douban.com/subject/2050858/,用户体验
+交往与空间,[丹麦]扬·盖尔,https://img9.doubanio.com/view/subject/s/public/s1398525.jpg,27.00,2002-10,8.7,3301,1602,1407,280,9,3,4289,684,6141,https://book.douban.com/subject/1393903/,用户体验
+Axure RP8 实战手册 网站和APP原型制作案例精粹,小楼一夜听春语,https://img3.doubanio.com/view/subject/s/public/s29043453.jpg,79,2016-9-1,7.5,39,6,18,12,2,1,30,22,112,https://book.douban.com/subject/26874796/,用户体验
+交互设计那些事儿,阿西UED,https://img3.doubanio.com/view/subject/s/public/s28825560.jpg,59.00,2016-7,5.7,62,2,15,20,18,7,62,9,47,https://book.douban.com/subject/26820877/,用户体验
+创意岛,约翰·佐雷尔,https://img3.doubanio.com/view/subject/s/public/s4371680.jpg,128.00,2010-4,8.0,43,11,19,11,1,1,56,3,58,https://book.douban.com/subject/4832021/,用户体验
+用户故事地图,JeffPatton,https://img3.doubanio.com/view/subject/s/public/s28576021.jpg,59.00,2016-4-1,7.4,288,61,135,71,15,6,299,94,1001,https://book.douban.com/subject/26760348/,用户体验
+用户体验与可用性测试,［日］樽本徹也,https://img1.doubanio.com/view/subject/s/public/s28022367.jpg,42.00,2015-3,7.7,137,28,71,35,2,1,156,38,548,https://book.douban.com/subject/26340381/,用户体验
+写给大家看的PPT设计书,[美]RobinWilliams,https://img9.doubanio.com/view/subject/s/public/s6339184.jpg,39.00,2011-6,7.5,652,132,256,239,22,3,780,87,1447,https://book.douban.com/subject/6392682/,用户体验
+设计未来,JonathanFollett,https://img1.doubanio.com/view/subject/s/public/s29105087.jpg,119.00,2016-1-1,7.4,38,9,18,7,2,2,44,10,256,https://book.douban.com/subject/26712707/,用户体验
+百度推广,百度营销研究院,https://img3.doubanio.com/view/subject/s/public/s26757743.jpg,59.00,2013-6,6.9,76,15,34,22,4,1,99,22,234,https://book.douban.com/subject/24715619/,用户体验
+社会研究方法,艾尔·巴比,https://img1.doubanio.com/view/subject/s/public/s1433168.jpg,68.00,2005-1,8.8,904,484,318,93,8,1,1184,311,2808,https://book.douban.com/subject/1399297/,用户体验
+当代设计研究理念,戴力农,https://img9.doubanio.com/view/subject/s/public/s5989795.jpg,28.00,2009-1,7.3,14,2,6,4,1,1,17,7,45,https://book.douban.com/subject/3525059/,用户体验
+Flex第一步,邱彦林（第1-15章）,https://img9.doubanio.com/view/subject/s/public/s6454976.jpg,68,2007,7.0,89,13,35,28,10,3,98,33,69,https://book.douban.com/subject/2307291/,用户体验
+顾客为什么购买,帕科•昂德希尔（PacoUnderhill）,https://img1.doubanio.com/view/subject/s/public/s1161599.jpg,22.00,2004-5-1,8.0,1266,397,559,281,26,3,1469,553,8160,https://book.douban.com/subject/1000900/,用户体验
+與設計向前行,[日]田中一光,https://img9.doubanio.com/view/subject/s/public/s3755435.jpg,550,2009-04-25,8.4,184,64,84,34,1,1,242,133,1613,https://book.douban.com/subject/3701687/,用户体验
+规模,杰弗里·韦斯特(GeoffreyWest),https://img3.doubanio.com/view/subject/s/public/s29809453.jpg,98.00,2018-6-1,8.1,1413,506,569,270,52,16,1345,657,9281,https://book.douban.com/subject/30244461/,用户体验
+服务设计,罗仕鉴,https://img9.doubanio.com/view/subject/s/public/s6641725.jpg,42.00,2011-6,6.8,40,8,8,17,5,2,43,15,98,https://book.douban.com/subject/6530187/,用户体验
+可用性工程,尼尔森,https://img3.doubanio.com/view/subject/s/public/s1607782.jpg,28.00,2004-1,8.1,321,94,150,69,7,1,587,139,1420,https://book.douban.com/subject/1185932/,用户体验
+移动应用UI设计模式（第2版）,田原,https://img3.doubanio.com/view/subject/s/public/s27979130.jpg,79.00,2015-1,8.1,217,71,102,36,7,1,233,66,1008,https://book.douban.com/subject/26296679/,用户体验
+在线为王,比尔·唐瑟尔,https://img1.doubanio.com/view/subject/s/public/s6009468.jpg,35.00,2009-4,6.4,187,17,51,89,23,7,194,54,389,https://book.douban.com/subject/3664621/,用户体验
+网站分析实战,王彦平吴盛峰編著,https://img9.doubanio.com/view/subject/s/public/s26657534.jpg,59.00,2013-1,8.1,246,78,116,42,9,1,264,116,1598,https://book.douban.com/subject/20497858/,用户体验
+交互设计,黄琦,https://img3.doubanio.com/view/subject/s/public/s22780901.jpg,45.00,2012-7,6.5,33,2,9,19,2,1,41,5,14,https://book.douban.com/subject/11608826/,用户体验
+图解力,木村博之(HiroyukiKimura),https://img3.doubanio.com/view/subject/s/public/s27529291.jpg,79.00,2013-6-1,7.7,385,77,202,97,8,1,425,130,1946,https://book.douban.com/subject/24719002/,用户体验
+触动人心,JoshClark,https://img1.doubanio.com/view/subject/s/public/s6951937.jpg,79.00,2011-10,8.4,1049,389,472,173,12,3,1242,427,4366,https://book.douban.com/subject/6864391/,用户体验
+软件设计的艺术,（美）威诺格拉德（Winograd/T.）等/韩柯等,https://img3.doubanio.com/view/subject/s/public/s6628173.jpg,39.00,2005-1,8.3,22,12,6,2,1,1,151,20,383,https://book.douban.com/subject/1244410/,用户体验
+游戏化实战,[美]Yu-kaiChou,https://img9.doubanio.com/view/subject/s/public/s29242946.jpg,59.00,2017-1,8.7,306,141,116,41,7,1,327,105,2124,https://book.douban.com/subject/26942707/,用户体验
+佐藤可士和的超整理术,[日]佐藤可士和,https://img3.doubanio.com/view/subject/s/public/s3753892.jpg,38.00,2009-6,7.6,8588,1812,3805,2646,283,42,10466,1836,13548,https://book.douban.com/subject/3682204/,用户体验
+Measuring the User Experience,ThomasTullis,https://img3.doubanio.com/view/subject/s/public/s3394431.jpg,49.95,2008-03-31,8.5,113,37,44,30,1,1,158,74,344,https://book.douban.com/subject/3326182/,用户体验
+The Design of Everyday Things,[美]唐纳德·诺曼,https://img3.doubanio.com/view/subject/s/public/s4363143.jpg,16.95,2002-9-17,8.7,348,180,129,35,3,1,457,224,2266,https://book.douban.com/subject/1365318/,用户体验
+Zen of Palm,Inc.PalmSource,https://img3.doubanio.com/view/subject/s/public/s3365393.jpg,14.99,2002-02,8.1,20,12,5,1,1,1,35,8,206,https://book.douban.com/subject/3302555/,用户体验
+精益设计,JeffGothelf,https://img9.doubanio.com/view/subject/s/public/s27081165.jpg,49.00,2013-8,7.8,147,28,75,36,7,1,182,38,787,https://book.douban.com/subject/24896848/,用户体验
+用户体验方法论,[美]卢克·米勒,https://img9.doubanio.com/view/subject/s/public/s28539365.jpg,45.00,2016-1-1,5.8,116,7,25,52,25,7,125,22,107,https://book.douban.com/subject/26753288/,用户体验
+IDEO，设计改变一切,蒂姆•布朗(TimBrown),https://img9.doubanio.com/view/subject/s/public/s6514475.jpg,45.00,2011-5-30,7.5,1109,250,444,351,47,17,1316,422,4370,https://book.douban.com/subject/6522698/,用户体验
+秩序之美,维恩,https://img3.doubanio.com/view/subject/s/public/s24410122.jpg,29.00,2012-10,7.7,36,6,13,13,3,1,40,7,80,https://book.douban.com/subject/20172479/,用户体验
+现代设计史,[美]瑞兹曼,https://img9.doubanio.com/view/subject/s/public/s2829175.jpg,148.00,2007-12-01,8.8,229,103,100,22,3,1,315,140,2904,https://book.douban.com/subject/2348880/,用户体验
+产品经理面试宝典,[美]GayleLaakmannMcDowell,https://img1.doubanio.com/view/subject/s/public/s28004617.jpg,59.00,2015-3,8.2,79,27,35,15,1,1,84,32,437,https://book.douban.com/subject/26322756/,用户体验
+Designing Social Interfaces,ChristianCrumlish,https://img3.doubanio.com/view/subject/s/public/s7113751.jpg,49.99,2009-10-8,7.9,26,4,17,3,1,1,57,29,166,https://book.douban.com/subject/3787852/,用户体验
+屏幕上的聪明决策,ShlomoBenartzi,https://img1.doubanio.com/view/subject/s/public/s29289678.jpg,56.90,2017-3,7.3,267,32,114,107,13,1,291,48,651,https://book.douban.com/subject/26956971/,用户体验
+企业文化建设实务,叶坪鑫,https://img3.doubanio.com/view/subject/s/public/s27739303.jpg,39.00,2014-10-13,8.0,51,31,9,9,1,1,40,17,83,https://book.douban.com/subject/26224767/,用户体验
+非同凡“想”,[美]卡迈恩·加洛,https://img1.doubanio.com/view/subject/s/public/s4654539.jpg,39.00,2011-1,7.3,359,74,158,105,16,6,424,93,729,https://book.douban.com/subject/5944705/,用户体验
+洞察人心,StevePortigal,https://img3.doubanio.com/view/subject/s/public/s29105101.jpg,65.00,2015-10,7.2,101,26,32,40,2,1,108,15,380,https://book.douban.com/subject/26642327/,用户体验
+零基础学UI,田海,https://img3.doubanio.com/view/subject/s/public/s29336223.jpg,132,2016-12,5.7,96,12,19,32,17,16,102,28,251,https://book.douban.com/subject/26972184/,用户体验
+The Power of Moments,ChipHeath,https://img1.doubanio.com/view/subject/s/public/s29561917.jpg,29.00,2017-10-3,9.0,72,48,14,8,1,1,72,30,578,https://book.douban.com/subject/27156550/,用户体验
+数据可视化之美,JulieSteele,https://img9.doubanio.com/view/subject/s/public/s6509546.jpg,89.00,2011-6,7.6,307,69,146,80,11,1,373,142,2172,https://book.douban.com/subject/6439420/,用户体验
+交互设计,［美］AndyPratt,https://img9.doubanio.com/view/subject/s/public/s28097925.jpg,78.00,2015-1,6.4,23,3,7,10,2,1,26,6,24,https://book.douban.com/subject/26415203/,用户体验
+服务设计驱动的革命：引发用户追随的秘密,黄蔚,https://img1.doubanio.com/view/subject/s/public/s32302388.jpg,69,2019-4,6.2,20,2,11,4,2,1,23,9,50,https://book.douban.com/subject/33424170/,用户体验
+Design for Hackers,DavidKadavy,https://img3.doubanio.com/view/subject/s/public/s6781711.jpg,39.99,2011-10-18,7.5,15,2,9,2,1,1,18,7,283,https://book.douban.com/subject/6727454/,用户体验
+俞军产品方法论,俞军,https://img1.doubanio.com/view/subject/s/public/s33543538.jpg,65,2019-12-1,7.9,1047,311,457,194,59,26,983,355,2798,https://book.douban.com/subject/34907971/,用户体验
+由内向外看世界,佐藤大,https://img9.doubanio.com/view/subject/s/public/s28030396.jpg,48,2015-3,8.3,863,307,393,155,6,2,949,110,1747,https://book.douban.com/subject/26348121/,用户体验
+哈佛最受歡迎的行銷課,揚米·穆恩,https://img1.doubanio.com/view/subject/s/public/s25793337.jpg,74.72,2011-4,8.6,21,8,10,1,1,1,22,6,112,https://book.douban.com/subject/6390881/,用户体验
+写给大家的Web和版式设计书,[美]RobinWilliams,https://img1.doubanio.com/view/subject/s/public/s3142329.jpg,49.00,出版日期：2008-06,7.8,111,30,41,37,1,2,155,61,289,https://book.douban.com/subject/3113639/,用户体验
+数字时代儿童产品设计,[美]DebraLevinGelman,https://img3.doubanio.com/view/subject/s/public/s29549120.jpg,72.80,2017-10-1,9.3,42,23,13,4,1,1,47,11,196,https://book.douban.com/subject/27144862/,用户体验
+国际经典交互设计教程:用户体验设计,GavinAllanwood,https://img1.doubanio.com/view/subject/s/public/s28321479.jpg,52.4,2015-8-1,5.1,32,2,5,13,9,3,35,13,57,https://book.douban.com/subject/26646243/,用户体验
+谷歌和亚马逊如何做产品,梅(ChrisVanderMey),https://img3.doubanio.com/view/subject/s/public/s27273771.jpg,49.00,2014-6-1,7.8,426,110,181,119,14,2,457,89,1295,https://book.douban.com/subject/25879027/,用户体验
+改变心理学的40项研究,[美]RogerRHock,https://img9.doubanio.com/view/subject/s/public/s1112394.jpg,26.00,2004-1-1,8.8,3071,1611,1163,273,18,6,3830,1023,15251,https://book.douban.com/subject/1147347/,用户体验
+可用性测试手册（第2版）,【美】JeffreyRubin（鲁宾）,https://img1.doubanio.com/view/subject/s/public/s29385437.jpg,59,2017-3,8.3,13,4,6,1,1,1,13,4,63,https://book.douban.com/subject/26990873/,用户体验
+用户体验的要素,JesseJamesGarrett,https://img1.doubanio.com/view/subject/s/public/s2923557.jpg,25.00,2007年10月,8.2,4133,1406,1972,690,57,8,5586,1045,10158,https://book.douban.com/subject/2297549/,用户体验
+微信营销360度指南,谭运猛,https://img1.doubanio.com/view/subject/s/public/s27202267.jpg,49.00,2014-1,6.1,91,17,37,29,7,1,99,9,143,https://book.douban.com/subject/25812149/,用户体验
+Designing with Web Standards (2nd Edition),[美]JeffreyZeldman,https://img3.doubanio.com/view/subject/s/public/s2621712.jpg,44.99,2006-07-06,8.3,26,11,7,6,1,1,37,25,81,https://book.douban.com/subject/1812358/,用户体验
+线下体验店,藤村正宏,https://img9.doubanio.com/view/subject/s/public/s27786696.jpg,32,2014-10,7.6,41,9,17,11,3,1,46,4,93,https://book.douban.com/subject/26256852/,用户体验
+设计心理学,唐纳德·A·诺曼,https://img3.doubanio.com/view/subject/s/public/s29343710.jpg,168.00,2015-12-1,8.6,637,285,278,70,3,1,493,476,3079,https://book.douban.com/subject/26742341/,用户体验
+设计中的设计,[日]原研哉,https://img3.doubanio.com/view/subject/s/public/s2165932.jpg,48.00,2006-11,8.6,28784,12551,12608,3396,172,57,38101,7162,54188,https://book.douban.com/subject/1941558/,用户体验
+基于用户体验的交互式信息服务,邓胜利,https://img3.doubanio.com/view/subject/s/public/s5947800.jpg,36.00,2008-8,6.6,11,2,2,5,1,1,11,5,35,https://book.douban.com/subject/3248414/,用户体验
+图表之美,恒盛杰资讯,https://img3.doubanio.com/view/subject/s/public/s11314301.jpg,39.00,2012-7,5.8,25,1,2,15,6,1,29,4,16,https://book.douban.com/subject/11498868/,用户体验
+社会研究方法,[美]艾尔·巴比,https://img9.doubanio.com/view/subject/s/public/s4108225.jpg,78.00,2009,8.7,750,368,287,85,9,1,802,300,1585,https://book.douban.com/subject/3518162/,用户体验
+Universal Principles of Design,WilliamLidwell,https://img3.doubanio.com/view/subject/s/public/s7047341.jpg,30.00,2010-1-1,8.5,44,16,22,4,1,1,48,19,137,https://book.douban.com/subject/3896073/,用户体验
+结网,王坚,https://img3.doubanio.com/view/subject/s/public/s4551081.jpg,59.00,2010-12-10,8.1,1560,448,776,309,18,9,1853,394,2155,https://book.douban.com/subject/5376384/,用户体验
+史玉柱自述,优米网,https://img9.doubanio.com/view/subject/s/public/s26538355.jpg,42.00,2013-6-1,8.0,4023,1192,1837,874,88,32,4711,559,6361,https://book.douban.com/subject/24541955/,用户体验
+设计师要懂沟通术,[美]TomGreever,https://img3.doubanio.com/view/subject/s/public/s29608421.jpg,59.00,2017-11,9.0,18,10,5,1,1,1,17,6,141,https://book.douban.com/subject/27197908/,用户体验
+人机界面设计,李乐山,https://img1.doubanio.com/view/subject/s/public/s4213157.jpg,36.00,2009-8,8.8,31,17,9,3,1,1,43,15,249,https://book.douban.com/subject/4002787/,用户体验
+工程心理学与人的作业,克里斯托弗D.威肯斯,https://img3.doubanio.com/view/subject/s/public/s27362810.jpg,85.00,2014-8-9,9.0,26,14,7,3,1,1,30,13,437,https://book.douban.com/subject/25943583/,用户体验
+无价,[美]威廉·庞德斯通,https://img3.doubanio.com/view/subject/s/public/s6284822.jpg,49.80,2011-1,7.9,3412,932,1587,764,102,27,3924,1324,13861,https://book.douban.com/subject/5914475/,用户体验
+统计数字会撒谎,[美]达莱尔·哈夫,https://img9.doubanio.com/view/subject/s/public/s3655875.jpg,28.00,2009-3,7.4,2412,354,1174,791,84,9,2801,453,7628,https://book.douban.com/subject/3595095/,用户体验
+交互的未来,[美]AmberCase,https://img3.doubanio.com/view/subject/s/public/s29537110.jpg,39.00,2017-9,7.3,41,7,15,12,6,1,37,11,143,https://book.douban.com/subject/27133266/,用户体验
+微革命,金错刀,https://img1.doubanio.com/view/subject/s/public/s6223559.jpg,28.00,2010-9,6.0,347,24,69,174,63,17,414,74,746,https://book.douban.com/subject/5290524/,用户体验
+Designing Interfaces,JeniferTidwell,https://img3.doubanio.com/view/subject/s/public/s4612133.jpg,49.99,2011-1-6,8.4,50,16,24,8,1,1,54,40,133,https://book.douban.com/subject/5948757/,用户体验
+Web标准设计,刘杰（嗷嗷）,https://img3.doubanio.com/view/subject/s/public/s3396721.jpg,75.00,2009-1,7.8,128,42,42,38,5,1,140,59,199,https://book.douban.com/subject/3327829/,用户体验
+用户体验面面观,[美]库涅夫斯基(MikeKuniavsky),https://img1.doubanio.com/view/subject/s/public/s4622577.jpg,69.00,2010-5,7.7,190,51,90,38,10,1,373,110,1437,https://book.douban.com/subject/4818690/,用户体验
+问卷统计分析实务,吴明隆,https://img3.doubanio.com/view/subject/s/public/s28787583.jpg,69.00,2010-5-1,9.2,149,95,47,5,1,1,145,85,1181,https://book.douban.com/subject/4886012/,用户体验
+Designing the Obvious,RobertHoekmanJr.,https://img3.doubanio.com/view/subject/s/public/s2985713.jpg,39.99,2006-10-22,8.7,16,6,7,1,1,1,43,11,122,https://book.douban.com/subject/1922035/,用户体验
+信息架构,[美]路易斯·罗森菲尔德,https://img9.doubanio.com/view/subject/s/public/s29680775.jpg,128.00,2016-5-1,8.0,136,36,64,28,7,1,132,73,768,https://book.douban.com/subject/26809374/,用户体验
+Axure RP 7 原型设计精髓,[美]EzraSchwartz,https://img1.doubanio.com/view/subject/s/public/s28275598.jpg,96.00,2015-9-1,8.9,44,23,11,8,1,1,42,25,343,https://book.douban.com/subject/26591499/,用户体验
+流量是蓝海,毕胜,https://img9.doubanio.com/view/subject/s/public/s33513335.jpg,65,2019-9,7.3,70,11,32,21,5,1,69,14,219,https://book.douban.com/subject/34878557/,用户体验
+人因工程学导论,（美）威肯斯,https://img3.doubanio.com/view/subject/s/public/s5835370.jpg,69.80,2007-07-01,8.3,63,21,35,5,1,1,65,29,315,https://book.douban.com/subject/2184961/,用户体验
+社会心理学,[以色列]巴伦,https://img1.doubanio.com/view/subject/s/public/s1330198.jpg,87.00,2004-12,8.1,250,74,128,43,4,1,312,102,1778,https://book.douban.com/subject/1021379/,用户体验
+UX权威指南,[美]雷克斯·哈特森(RexHartson),https://img9.doubanio.com/view/subject/s/public/s29468265.jpg,129,2017-2-1,6.4,11,2,1,5,2,1,7,9,60,https://book.douban.com/subject/27050689/,用户体验
+Designing the iPhone User Experience,SuzanneGinsburg,https://img3.doubanio.com/view/subject/s/public/s4384861.jpg,44.99,2010-08-23,7.6,18,5,6,5,1,1,25,24,62,https://book.douban.com/subject/4783322/,用户体验
+Designing Web Navigation,JamesKalbach,https://img9.doubanio.com/view/subject/s/public/s7715845.jpg,49.99,2007-8-15,8.1,27,6,15,4,1,1,44,24,220,https://book.douban.com/subject/2146224/,用户体验
+企业创新101设计法,[美]维杰•库玛,https://img3.doubanio.com/view/subject/s/public/s27259312.jpg,59.00,2014-3,8.0,27,13,8,4,1,1,24,15,223,https://book.douban.com/subject/25865988/,用户体验
+多设备体验设计,[美]MichalLevin,https://img3.doubanio.com/view/subject/s/public/s29092721.jpg,59.00,2016-10,6.9,17,2,5,7,2,1,17,6,101,https://book.douban.com/subject/26891252/,用户体验
+APP蓝图,吕皓月,https://img3.doubanio.com/view/subject/s/public/s28028741.jpg,69.00,2015-1-1,6.6,39,2,9,24,3,1,46,7,73,https://book.douban.com/subject/26346450/,用户体验
+X创新,[美]AdamRichardson,https://img3.doubanio.com/view/subject/s/public/s27520651.jpg,56.00,2014-11-20,8.2,40,17,12,9,1,1,44,12,466,https://book.douban.com/subject/26035304/,用户体验
+The Cathedral and the Bazaar,EricStevenRaymond,https://img1.doubanio.com/view/subject/s/public/s3762878.jpg,19.95,1999,8.6,159,72,69,16,1,1,192,25,442,https://book.douban.com/subject/3709579/,用户体验
+粉丝经济,叶开,https://img9.doubanio.com/view/subject/s/public/s27277494.jpg,42,2014-5,6.7,71,12,14,34,10,1,76,17,186,https://book.douban.com/subject/25882237/,用户体验
+我是设计师,刘　松,https://img1.doubanio.com/view/subject/s/public/s11102417.jpg,65.00,2012-8-4,7.0,135,16,48,56,11,4,140,37,297,https://book.douban.com/subject/11516311/,用户体验
+社交网站界面设计,ChristianCrumlish,https://img3.doubanio.com/view/subject/s/public/s4630990.jpg,69.00,2010-9-1,7.6,299,68,134,89,6,2,497,241,2006,https://book.douban.com/subject/4909176/,用户体验
+Web全栈工程师的自我修养,余果,https://img9.doubanio.com/view/subject/s/public/s28281864.jpg,49.00,2015-9-1,7.5,344,71,167,86,14,6,369,48,608,https://book.douban.com/subject/26598045/,用户体验
+众妙之门,德国Smashing杂志,https://img3.doubanio.com/view/subject/s/public/s27259912.jpg,49.00,2014-2-1,6.8,13,1,4,6,1,1,22,2,72,https://book.douban.com/subject/25866560/,用户体验
+设计师要懂心理学2,[美]SusanM.Weinschenk,https://img1.doubanio.com/view/subject/s/public/s28866307.jpg,59.00,2016-7,7.9,77,13,34,26,2,2,91,23,268,https://book.douban.com/subject/26830207/,用户体验
+影响力,[美]罗伯特·西奥迪尼,https://img9.doubanio.com/view/subject/s/public/s1657785.jpg,45.00,2006-5,8.6,37862,18023,14501,4733,454,151,46847,9780,87670,https://book.douban.com/subject/1786387/,用户体验
+设计师谈配色艺术,周钦华,https://img3.doubanio.com/view/subject/s/public/s1445791.jpg,38.00,2005-9,7.1,47,9,12,24,1,1,66,10,89,https://book.douban.com/subject/1431954/,用户体验
+假如迪士尼运营医院,弗莱德·李,https://img3.doubanio.com/view/subject/s/public/s29630283.jpg,78,2017-9,8.0,45,32,8,3,1,1,25,34,392,https://book.douban.com/subject/27598467/,用户体验
+众妙之门,[德]SmashingMagazine,https://img1.doubanio.com/view/subject/s/public/s26098878.jpg,35.00,2013-4,6.3,26,2,4,13,6,1,36,7,44,https://book.douban.com/subject/22704159/,用户体验
+基于信息理解的信息构建,周晓英,https://img1.doubanio.com/view/subject/s/public/s9975698.jpg,18.00,2005-7,6.5,26,1,6,17,1,1,50,6,182,https://book.douban.com/subject/1423423/,用户体验
+社交红利,徐志斌,https://img9.doubanio.com/view/subject/s/public/s26953414.jpg,42,2013-8,6.8,1027,165,305,451,80,26,1167,245,2175,https://book.douban.com/subject/24875857/,用户体验
+营销管理,[美]菲利普·科特勒,https://img1.doubanio.com/view/subject/s/public/s1871747.jpg,78.00,2006-9,9.0,1948,1180,600,140,15,13,2118,1503,18011,https://book.douban.com/subject/1894695/,用户体验
+以匠心，致设计：网易 UEDC 用户体验设计,网易用户体验设计中心,https://img3.doubanio.com/view/subject/s/public/s29847631.jpg,95.00,2018-8,7.9,116,29,57,27,2,1,122,30,344,https://book.douban.com/subject/30302327/,用户体验
+UX Strategy,JaimeLevy,https://img9.doubanio.com/view/subject/s/public/s28313494.jpg,27.99,2015-6,7.6,20,3,12,3,1,1,23,14,81,https://book.douban.com/subject/26638401/,用户体验
+用户体验设计指南：从方法论到产品设计实践,蔡贇、康佳美、王子娟,https://img9.doubanio.com/view/subject/s/public/s33525904.jpg,99,2019-11-20,8.5,47,40,1,2,3,1,43,10,55,https://book.douban.com/subject/34897704/,用户体验
+JavaScript and JQuery,JonDuckett,https://img3.doubanio.com/view/subject/s/public/s27740963.jpg,39.99,2014-1,8.6,46,25,14,4,2,1,42,18,114,https://book.douban.com/subject/20022383/,用户体验
+Human-Centered Design Toolkit,IDEO,https://img9.doubanio.com/view/subject/s/public/s11181216.jpg,21.99,2011-7-1,8.8,27,14,9,2,1,1,43,14,309,https://book.douban.com/subject/11600265/,用户体验
+设计几何学,金伯利·伊拉姆,https://img9.doubanio.com/view/subject/s/public/s1273224.jpg,40.00,2003-3,7.9,991,273,448,239,22,9,1344,223,3803,https://book.douban.com/subject/1276767/,用户体验
+推荐系统实践,项亮,https://img1.doubanio.com/view/subject/s/public/s10213357.jpg,49.00,2012-6-1,8.1,1778,539,888,306,35,10,1863,700,4814,https://book.douban.com/subject/10769749/,用户体验
+高性能网站建设指南,SteveSouders,https://img9.doubanio.com/view/subject/s/public/s5914296.jpg,35.00,2008年,8.5,976,408,442,124,1,1,1335,247,2743,https://book.douban.com/subject/3132277/,用户体验
+Lean Analytics,AlistairCroll,https://img9.doubanio.com/view/subject/s/public/s26544134.jpg,29.99,2013-3-18,8.3,77,22,42,11,1,1,82,46,365,https://book.douban.com/subject/19992844/,用户体验
+为真实的世界设计,[美]维克多·帕帕奈克,https://img3.doubanio.com/view/subject/s/public/s25807191.jpg,88.00,2012-11-30,8.7,502,242,187,65,7,1,491,283,3139,https://book.douban.com/subject/19912141/,用户体验
+Ajax on Rails,ScottRaymond,https://img1.doubanio.com/view/subject/s/public/s2405447.jpg,39.99,2007-01-03,7.2,109,102,1,4,1,1,111,5,17,https://book.douban.com/subject/1800544/,用户体验
+迪士尼体验：米奇王国的魔法服务之道,美国迪士尼学院,https://img3.doubanio.com/view/subject/s/public/s28806673.jpg,42.00,2016-6,7.4,181,36,86,47,10,2,193,21,509,https://book.douban.com/subject/26815802/,用户体验
+潜移默化,CennyddBowles,https://img1.doubanio.com/view/subject/s/public/s6401937.jpg,36.00,2011-6-10,7.9,111,25,54,30,1,1,147,52,541,https://book.douban.com/subject/6439419/,用户体验
+Facebook效应,[美]大卫·柯克帕特里克,https://img9.doubanio.com/view/subject/s/public/s4528546.jpg,49.80,2010-10,7.9,4844,1195,2362,1152,111,24,5675,1515,12490,https://book.douban.com/subject/5313010/,用户体验
+交互设计：原理与方法,顾振宇,https://img3.doubanio.com/view/subject/s/public/s32324032.jpg,88,2016-11-1,8.8,27,16,7,2,1,1,32,14,381,https://book.douban.com/subject/26978939/,用户体验
+交互设计指南,DanSaffer,https://img3.doubanio.com/view/subject/s/public/s4388772.jpg,33.00,2010年7月,7.7,283,60,133,84,5,1,402,142,1034,https://book.douban.com/subject/4881989/,用户体验
+不止情感设计,陈华,https://img9.doubanio.com/view/subject/s/public/s28077646.jpg,59.00,2015-5-21,6.1,14,1,4,2,6,1,15,3,31,https://book.douban.com/subject/26394924/,用户体验
+U一点·料2,阿里巴巴国际用户体验事业部,https://img9.doubanio.com/view/subject/s/public/s29775266.jpg,99,2018-3-27,7.4,43,6,19,16,1,1,42,13,94,https://book.douban.com/subject/30229901/,用户体验
+游戏化设计,[美]BrianBurke,https://img3.doubanio.com/view/subject/s/public/s29242940.jpg,36.00,2017-1,6.1,38,3,9,21,3,2,46,10,141,https://book.douban.com/subject/26942702/,用户体验
+认知心理学,R.L.Solso,https://img3.doubanio.com/view/subject/s/public/s3219080.jpg,58.00,2008-7,8.3,359,128,168,55,6,2,393,184,2199,https://book.douban.com/subject/3171969/,用户体验
+源于自然的设计,马克纳,https://img3.doubanio.com/view/subject/s/public/s26368640.jpg,99.00,2012-11,7.8,70,22,31,14,2,1,81,32,317,https://book.douban.com/subject/20275952/,用户体验
+Handbook of Usability Testing,JeffreyRubin,https://img1.doubanio.com/view/subject/s/public/s4233158.jpg,60.00,2008-5-12,9.0,64,43,13,6,1,1,76,39,228,https://book.douban.com/subject/3990626/,用户体验
+人本界面,（美）拉斯基,https://img1.doubanio.com/view/subject/s/public/s4635437.jpg,39.00,2011-2-10,7.4,29,6,11,9,2,1,39,19,139,https://book.douban.com/subject/5416997/,用户体验
+Living with Complexity,[美]唐纳德·诺曼,https://img3.doubanio.com/view/subject/s/public/s7003281.jpg,24.95,2010,7.9,47,14,19,12,1,1,61,30,333,https://book.douban.com/subject/4885215/,用户体验
+用户思维+：好产品让用户为自己尖叫,[美]KathySierra,https://img3.doubanio.com/view/subject/s/public/s29533203.jpg,69.00,2017-9,8.3,480,203,182,77,13,5,506,98,2484,https://book.douban.com/subject/27129563/,用户体验
+用户体验草图设计,巴克斯顿(BillBuxton),https://img9.doubanio.com/view/subject/s/public/s27979206.jpg,188.00,2012-3-1,7.9,81,25,29,22,4,1,97,41,468,https://book.douban.com/subject/10542579/,用户体验
+洞察用户体验,[美]古德曼(ElizabethGoodman),https://img1.doubanio.com/view/subject/s/public/s28315189.jpg,89.00,2015-5-1,7.3,77,13,35,25,2,2,72,46,473,https://book.douban.com/subject/26640058/,用户体验
+设计的思考,周陟,https://img3.doubanio.com/view/subject/s/public/s33308232.jpg,69,2019-6-1,8.2,35,11,16,6,1,1,34,14,88,https://book.douban.com/subject/34444463/,用户体验
+怦然心动——情感化交互设计指南（修订版）,[美]StephenP.Anderson,https://img1.doubanio.com/view/subject/s/public/s28023067.jpg,49.00,2015-3,6.7,49,5,21,18,4,1,62,12,226,https://book.douban.com/subject/26340963/,用户体验
+引爆点,[加拿大]马尔科姆·格拉德威尔,https://img3.doubanio.com/view/subject/s/public/s1532953.jpg,29.80,2006-1,7.8,2413,517,1166,647,67,16,3349,529,6356,https://book.douban.com/subject/1473323/,用户体验
+撬动地球的Google,张岩,https://img1.doubanio.com/view/subject/s/public/s1815418.jpg,35.00,2006-9,7.3,1082,174,449,423,31,5,1553,244,2318,https://book.douban.com/subject/1879670/,用户体验
+谁说菜鸟不会数据分析,张文霖,https://img3.doubanio.com/view/subject/s/public/s6973090.jpg,59.00,2011-7,7.4,1333,258,581,426,50,18,1477,531,4421,https://book.douban.com/subject/6434328/,用户体验
+结网@改变世界的互联网产品经理,王坚,https://img3.doubanio.com/view/subject/s/public/s26373622.jpg,69.00,2013-5-1,8.0,1356,350,715,263,23,5,1495,234,1858,https://book.douban.com/subject/24305938/,用户体验
+设计心理学1,李樯,https://img1.doubanio.com/view/subject/s/public/s28072517.jpg,42.00,2015-5-15,8.5,1250,509,540,185,10,6,1276,439,3378,https://book.douban.com/subject/26102860/,用户体验
+艺术与视知觉,[美]阿恩海姆,https://img9.doubanio.com/view/subject/s/public/s2169876.jpg,29.00,1998-03,8.6,1321,632,499,173,14,3,1643,881,6097,https://book.douban.com/subject/1068606/,用户体验
+场景革命,[埃及]吴声,https://img3.doubanio.com/view/subject/s/public/s28259102.jpg,59.00,2015-7-1,6.2,1227,191,297,467,175,97,1373,149,1572,https://book.douban.com/subject/26575141/,用户体验
+Designing For The Social Web,JoshuaPorter,https://img1.doubanio.com/view/subject/s/public/s4307019.jpg,40.00,2008-05-04,8.4,44,25,13,4,1,1,145,52,312,https://book.douban.com/subject/3059484/,用户体验
+设计心理学,DonaldNorman,https://img9.doubanio.com/view/subject/s/public/s1915036.jpg,23.00,2003-10-1,8.2,3781,1252,1770,688,56,15,5447,1539,20005,https://book.douban.com/subject/1288844/,用户体验
+社会心理学,E·Aronson,https://img3.doubanio.com/view/subject/s/public/s2223173.jpg,58.00,2007-1,9.1,503,286,184,31,1,1,587,228,3308,https://book.douban.com/subject/1930235/,用户体验
+101 Design Methods,VijayKumar,https://img1.doubanio.com/view/subject/s/public/s24635349.jpg,34.95,2012-10-9,8.8,64,33,25,4,1,1,63,52,605,https://book.douban.com/subject/11228565/,用户体验
+交互设计沉思录,JonKolko,https://img9.doubanio.com/view/subject/s/public/s17505146.jpg,49.00,2012-10-1,7.8,676,172,292,185,23,4,838,319,5446,https://book.douban.com/subject/19934344/,用户体验
+产品的视角：从热闹到门道,后显慧,https://img3.doubanio.com/view/subject/s/public/s28437221.jpg,69.00,2016-1-1,7.4,513,91,236,156,23,7,565,92,1211,https://book.douban.com/subject/26697007/,用户体验
+Web软件用户界面设计指南,林锐,https://img1.doubanio.com/view/subject/s/public/s1408328.jpg,20.00,2005-5-1,7.0,47,13,14,15,3,2,109,22,143,https://book.douban.com/subject/1246807/,用户体验
+设计心理学3,[美]唐纳德·A·诺曼,https://img3.doubanio.com/view/subject/s/public/s28109620.jpg,42.00,2015-6,7.8,505,131,243,111,17,3,547,126,858,https://book.douban.com/subject/26424688/,用户体验
+顾客也疯狂：客户服务的革命性方法,肯·布兰佳谢尔登·鲍尔斯,https://img3.doubanio.com/view/subject/s/public/s27311573.jpg,25.00,2002-09-01,6.8,24,6,4,12,1,1,26,1,24,https://book.douban.com/subject/1676574/,用户体验
+CSS网站布局实录,李超,https://img1.doubanio.com/view/subject/s/public/s1824067.jpg,32.0,2006-9,8.1,453,147,200,96,9,1,696,138,746,https://book.douban.com/subject/1873926/,用户体验
+通用设计方法,贝拉·马丁（BellaMartin）,https://img3.doubanio.com/view/subject/s/public/s26852183.jpg,100.00,2013-9,8.3,167,66,57,37,6,1,196,89,1366,https://book.douban.com/subject/24869618/,用户体验
+上瘾,[美]尼尔·埃亚尔,https://img3.doubanio.com/view/subject/s/public/s29436163.jpg,49.00,2017-5,7.4,2730,462,1337,839,82,10,2891,447,5450,https://book.douban.com/subject/27030507/,用户体验
+腾讯传,吴晓波,https://img9.doubanio.com/view/subject/s/public/s29653026.jpg,58.00,2017-1-1,7.8,13679,3037,7155,3160,259,68,14254,1261,9750,https://book.douban.com/subject/26929955/,用户体验
+视觉锤,[美]劳拉·里斯,https://img3.doubanio.com/view/subject/s/public/s24461990.jpg,49.00,2012-12,7.1,917,153,348,355,55,6,1023,122,1658,https://book.douban.com/subject/20413922/,用户体验
+自然用户界面设计,[加]DanielWigdor,https://img3.doubanio.com/view/subject/s/public/s22701380.jpg,49.00,2012-11-3,6.2,36,4,7,20,4,1,46,20,278,https://book.douban.com/subject/19961110/,用户体验
+SEO实战密码,昝辉Zac,https://img1.doubanio.com/view/subject/s/public/s28262067.jpg,69.00,2015-7,8.3,810,319,367,108,8,8,859,497,3278,https://book.douban.com/subject/5348144/,用户体验
+设计败道：来自著名用户体验案例的教训,【美】VictorLombardi（维克多•隆巴迪）,https://img3.doubanio.com/view/subject/s/public/s28692101.jpg,75.00,2016-4,7.3,17,2,8,4,2,1,15,3,89,https://book.douban.com/subject/26786776/,用户体验
+写给大家看的设计书,RobinWilliams,https://img3.doubanio.com/view/subject/s/public/s27256223.jpg,59.00,2012-9-1,7.8,12,6,1,2,2,1,15,2,35,https://book.douban.com/subject/11613711/,用户体验
+用户至上：用户研究方法与实践（原书第2版）,凯茜·巴克斯特,https://img9.doubanio.com/view/subject/s/public/s29480764.jpg,99,2017-5-1,7.6,30,4,20,4,1,1,25,15,286,https://book.douban.com/subject/27074670/,用户体验
+用户体验度量,[美]特里斯(Tullis.T.),https://img9.doubanio.com/view/subject/s/public/s4622614.jpg,49.00,2009-8,8.1,370,114,171,82,2,1,579,186,2048,https://book.douban.com/subject/4009856/,用户体验
+进化式运营：从互联网菜鸟到绝顶高手,李少加,https://img9.doubanio.com/view/subject/s/public/s29195996.jpg,59,2016-11,8.1,345,135,132,63,11,4,334,97,1931,https://book.douban.com/subject/26928395/,用户体验
+网站交互设计模式,杜月(DouglasK.VanDuyne),https://img9.doubanio.com/view/subject/s/public/s4078085.jpg,108.00,2009-10,7.2,155,38,58,53,4,2,235,139,968,https://book.douban.com/subject/3948372/,用户体验
+用户体验要素,JesseJamesGarrett,https://img1.doubanio.com/view/subject/s/public/s6519128.jpg,39.00,2011-7-1,8.3,2978,1164,1301,443,56,14,3436,537,5930,https://book.douban.com/subject/6523997/,用户体验
+Search Patterns,PeterMorville,https://img3.doubanio.com/view/subject/s/public/s4606590.jpg,39.99,2010-2-2,8.0,16,4,4,6,1,1,36,11,105,https://book.douban.com/subject/4016085/,用户体验
+移动设计,傅小贞,https://img3.doubanio.com/view/subject/s/public/s26714692.jpg,69.00,2013-7-1,7.7,489,121,218,115,18,17,507,176,1013,https://book.douban.com/subject/24753137/,用户体验
+设计反思,NathanShedroff,https://img3.doubanio.com/view/subject/s/public/s27239361.jpg,69.00,2011-6,7.8,27,8,12,5,1,1,27,15,257,https://book.douban.com/subject/6507216/,用户体验
+UCD火花集2,UCDChina,https://img9.doubanio.com/view/subject/s/public/s4707655.jpg,35.00,2011-4,6.9,525,61,201,218,35,10,734,189,1108,https://book.douban.com/subject/6114207/,用户体验
+设计师要懂心理学,[美]SusanWeinschenk,https://img9.doubanio.com/view/subject/s/public/s26251595.jpg,49.00,2013-5-1,7.6,1453,337,630,429,46,11,1632,372,5902,https://book.douban.com/subject/23708491/,用户体验
+价值主张设计,亚历山大·奥斯特瓦德(AlexanderOsterwalder),https://img1.doubanio.com/view/subject/s/public/s28356528.jpg,85.00,2015-11-1,7.6,147,30,71,40,5,1,164,61,675,https://book.douban.com/subject/26680145/,用户体验
+产品故事地图,唐娜·理查（DonnaLichaw）,https://img3.doubanio.com/view/subject/s/public/s29474750.jpg,49.9,2017-6,7.0,47,4,17,22,2,2,52,8,145,https://book.douban.com/subject/27068829/,用户体验
+众包,[美]杰夫·豪,https://img9.doubanio.com/view/subject/s/public/s3775575.jpg,36.00,2009-6,7.3,815,126,336,314,35,4,1034,233,2483,https://book.douban.com/subject/3717165/,用户体验
+Mobile First,[美]LukeWroblewski,https://img3.doubanio.com/view/subject/s/public/s6969573.jpg,18.00,2011-10-18,8.2,42,13,18,9,1,1,48,12,182,https://book.douban.com/subject/6892334/,用户体验
+圖解設計思考,艾琳•路佩登,https://img1.doubanio.com/view/subject/s/public/s23115328.jpg,110.00,2012-4-1,8.4,64,24,30,8,1,1,67,31,418,https://book.douban.com/subject/10779515/,用户体验
+互联网创业前奏曲第二部,黄亮新,https://img3.doubanio.com/view/subject/s/public/s6425713.jpg,39.00,2011-4,6.8,129,14,39,64,9,3,170,27,434,https://book.douban.com/subject/6431093/,用户体验
+用户至上,克里斯蒂娜·霍尔沃森,https://img3.doubanio.com/view/subject/s/public/s27006063.jpg,49,2013-6-1,6.6,14,3,4,5,1,1,14,3,25,https://book.douban.com/subject/25697491/,用户体验
+硅谷设计之道,王欣,https://img9.doubanio.com/view/subject/s/public/s31459876.jpg,119,2019-3-1,8.8,61,30,22,7,1,1,60,35,393,https://book.douban.com/subject/30774766/,用户体验
+设计是门好生意,[美]凯斯·格拉内,https://img9.doubanio.com/view/subject/s/public/s29658334.jpg,69.00,2018-1-1,6.7,29,15,7,5,1,1,27,5,132,https://book.douban.com/subject/27618299/,用户体验
+Landing Page优化权威指南,TimAsh,https://img1.doubanio.com/view/subject/s/public/s3906878.jpg,39.80,2009,7.0,50,8,19,16,6,1,143,30,307,https://book.douban.com/subject/3879806/,用户体验
+iOS App界面设计创意与实践,ShawnWelch,https://img1.doubanio.com/view/subject/s/public/s25137609.jpg,59.00,2012-12,6.8,13,3,1,7,1,1,16,1,44,https://book.douban.com/subject/20430315/,用户体验
+设计调查,李乐山,https://img9.doubanio.com/view/subject/s/public/s5831684.jpg,50.00,2007-6,7.5,59,21,22,12,3,1,75,33,277,https://book.douban.com/subject/2160962/,用户体验
+数学之美,[美]吴军,https://img9.doubanio.com/view/subject/s/public/s9114855.jpg,45.00,2012-5-1,8.7,10396,5251,4086,956,83,20,11370,3667,33325,https://book.douban.com/subject/10750155/,用户体验
+网站界面设计,马月,https://img3.doubanio.com/view/subject/s/public/s5785710.jpg,32.00,2006-8,6.8,28,9,9,6,3,1,73,21,165,https://book.douban.com/subject/1928289/,用户体验
+CSS禅意花园,[美]DaveShea,https://img9.doubanio.com/view/subject/s/public/s2406764.jpg,49.00,2007-6,8.4,1657,701,645,282,21,8,2268,480,3252,https://book.douban.com/subject/2052176/,用户体验
+精益创业,[美]埃里克·莱斯,https://img9.doubanio.com/view/subject/s/public/s11137256.jpg,49.00,2012-8,8.3,4816,1872,2050,760,101,33,5550,1525,18842,https://book.douban.com/subject/10945606/,用户体验
+用户体验设计,【美】RobertHoekmanJr.,https://img3.doubanio.com/view/subject/s/public/s29592690.jpg,40.00,2017-5,7.8,11,1,6,2,1,1,10,4,15,https://book.douban.com/subject/27183454/,用户体验
+Tapworthy,JoshClark,https://img3.doubanio.com/view/subject/s/public/s5543223.jpg,30.99,2010-6-25,8.5,41,13,22,4,1,1,63,21,182,https://book.douban.com/subject/4254166/,用户体验
+湿经济,（美）B.约瑟夫•派恩二世,https://img9.doubanio.com/view/subject/s/public/s11352026.jpg,49.00,2012-8,7.7,22,4,10,6,1,1,30,13,135,https://book.douban.com/subject/11599052/,用户体验
+用户界面设计,施奈德曼,https://img9.doubanio.com/view/subject/s/public/s1585014.jpg,49.00,2006-1,7.4,50,3,24,21,1,1,96,49,274,https://book.douban.com/subject/1504286/,用户体验
+好玩的设计：游戏化思维与用户体验设计,JohnFerrara,https://img1.doubanio.com/view/subject/s/public/s29422069.jpg,59.00,2017-4,7.3,31,5,14,9,2,1,33,13,319,https://book.douban.com/subject/27016343/,用户体验
+零售的哲学,[日]铃木敏文,https://img3.doubanio.com/view/subject/s/public/s27882050.jpg,36,2014-12-1,8.1,5740,1734,2813,1096,80,17,6313,430,7680,https://book.douban.com/subject/26270679/,用户体验
+市场研究与应用,刘德寰,https://img3.doubanio.com/view/subject/s/public/s5655983.jpg,30.00,2006-3,8.6,23,7,13,1,1,1,27,6,89,https://book.douban.com/subject/1799711/,用户体验
+结网,王坚,https://img3.doubanio.com/view/subject/s/public/s4254712.jpg,55.00,2010-4,7.9,3427,846,1695,777,75,34,4197,855,7182,https://book.douban.com/subject/4736118/,用户体验
+以用户为中心的软件设计,TravisLowdermilk,https://img3.doubanio.com/view/subject/s/public/s27270661.jpg,39.00,2014-4,6.1,46,6,7,28,4,1,52,7,47,https://book.douban.com/subject/25871898/,用户体验
+移动Web实现指南,莱昂,https://img1.doubanio.com/view/subject/s/public/s11108178.jpg,39.00,2012-8,6.5,21,2,8,6,4,1,27,5,45,https://book.douban.com/subject/11510723/,用户体验
+iOS Wow Factor,TimothyWood,https://img9.doubanio.com/view/subject/s/public/s7378745.jpg,24.99,2011-11-23,6.3,17,3,6,6,1,1,20,11,57,https://book.douban.com/subject/6908778/,用户体验
+引人入胜,LyndaFelder,https://img9.doubanio.com/view/subject/s/public/s11431215.jpg,59.00,2012-9,6.0,26,5,9,6,5,1,27,9,154,https://book.douban.com/subject/19933455/,用户体验
+国际经典交互设计教程:界面设计,DaveWood,https://img3.doubanio.com/view/subject/s/public/s28321480.jpg,52.4,2015-8,5.5,14,1,1,4,7,1,15,7,37,https://book.douban.com/subject/26646244/,用户体验
+在你身边，为你设计,腾讯公司用户研究与体验设计部,https://img1.doubanio.com/view/subject/s/public/s24522948.jpg,69.00,2013-1,7.2,1232,225,445,450,80,32,1416,371,3943,https://book.douban.com/subject/20471302/,用户体验
+众妙之门,SmashingMagazine,https://img3.doubanio.com/view/subject/s/public/s4539433.jpg,55.00,2010-11-01,7.9,337,98,144,89,4,2,485,156,1145,https://book.douban.com/subject/5351808/,用户体验
+黑客与画家,[美]保罗·格雷厄姆,https://img9.doubanio.com/view/subject/s/public/s27043406.jpg,69.00,2013-10,8.9,647,328,258,55,3,3,708,156,2209,https://book.douban.com/subject/25724948/,用户体验
+界面设计模式（第2版）,泰德维尔(JeniferTidwell),https://img9.doubanio.com/view/subject/s/public/s27979205.jpg,119.00,2013-9-1,8.5,121,49,53,17,1,1,136,57,1382,https://book.douban.com/subject/25716088/,用户体验
+写给大家看的CSS书,威克-史密斯,https://img3.doubanio.com/view/subject/s/public/s3550050.jpg,49.00,2009-2,7.9,174,46,85,41,1,1,187,50,288,https://book.douban.com/subject/3413615/,用户体验
+Designing for Emotion,AarronWalter,https://img1.doubanio.com/view/subject/s/public/s6969549.jpg,18.00,2011-10-18,7.5,15,2,7,4,1,1,17,7,115,https://book.douban.com/subject/6892312/,用户体验
+浪潮之巅,吴军,https://img9.doubanio.com/view/subject/s/public/s6807265.jpg,55.00,2011-8,9.0,25283,15449,8015,1618,126,75,29623,4916,52421,https://book.douban.com/subject/6709783/,用户体验
+視覺溝通的法則,[美]南希·杜瓦特,https://img1.doubanio.com/view/subject/s/public/s7030998.jpg,420,2011-10-13,8.8,56,31,16,7,1,1,57,31,548,https://book.douban.com/subject/10344023/,用户体验
+网页设计解析,周陟,https://img1.doubanio.com/view/subject/s/public/s3680719.jpg,62.00,2009-3,6.8,84,14,26,28,10,6,95,34,198,https://book.douban.com/subject/3618849/,用户体验
+瞬间之美,[美]Jr·RobertHoekman,https://img9.doubanio.com/view/subject/s/public/s4190255.jpg,45.00,2009-7,8.0,2112,558,1064,463,23,4,2721,580,4205,https://book.douban.com/subject/3886044/,用户体验
+简约至上,[英]GilesColborne,https://img1.doubanio.com/view/subject/s/public/s4592217.jpg,35.00,2011-1-1,8.4,5681,2125,2660,829,56,11,6824,1090,13231,https://book.douban.com/subject/5394309/,用户体验
+移动应用UI设计模式,[美]TheresaNeil,https://img9.doubanio.com/view/subject/s/public/s24230856.jpg,49.00,2013-1-1,7.3,364,51,157,136,16,4,438,125,1373,https://book.douban.com/subject/20381558/,用户体验
+有效制订年度经营计划,王磊,https://img1.doubanio.com/view/subject/s/public/s4469128.jpg,39.80,2010-1,7.3,81,54,19,6,1,1,81,9,58,https://book.douban.com/subject/4245187/,用户体验
+平面设计师职场调研手册,简·维索基·欧格雷蒂,https://img3.doubanio.com/view/subject/s/public/s5877461.jpg,88.00,2008-1,7.9,64,17,27,18,1,1,68,26,142,https://book.douban.com/subject/3003591/,用户体验
+细节决定体验(客户体验全流程设计),苑东明,https://img3.doubanio.com/view/subject/s/public/s29723021.jpg,50.3,2018-1-1,7.4,15,1,9,3,1,1,14,3,56,https://book.douban.com/subject/27665347/,用户体验
+Creative Workshop,DavidSherwin,https://img1.doubanio.com/view/subject/s/public/s22715518.jpg,25.00,2010-11-24,8.0,13,3,5,3,1,1,15,8,199,https://book.douban.com/subject/5386045/,用户体验
+设计原本,[美]Jr·FrederickP·Brooks,https://img9.doubanio.com/view/subject/s/public/s4571846.jpg,55.00,2011-1-1,7.7,383,97,160,102,18,6,456,257,2571,https://book.douban.com/subject/5406042/,用户体验
+Designing Interactions,BillMoggridge,https://img1.doubanio.com/view/subject/s/public/s7037768.jpg,30.95,2006-11-24,9.0,501,261,166,72,1,1,774,505,4391,https://book.douban.com/subject/1894206/,用户体验
+好设计不简单Ⅰ：100个网站架构的实用要点,［日］长谷川敦士,https://img3.doubanio.com/view/subject/s/public/s27281011.jpg,79.00,2014-6,7.2,47,23,9,13,1,1,45,16,171,https://book.douban.com/subject/25885293/,用户体验
+About Face 4: 交互设计精髓,[美]艾伦·库伯,https://img9.doubanio.com/view/subject/s/public/s29011584.jpg,118.00,2015-10,8.6,716,361,256,74,10,15,557,574,3019,https://book.douban.com/subject/26642302/,用户体验
+Mobile Interaction Design,MattJones,https://img1.doubanio.com/view/subject/s/public/s1807137.jpg,60.00,2006-02-10,8.1,18,6,7,3,1,1,21,9,62,https://book.douban.com/subject/1872483/,用户体验
+点击的奥秘：运用说服心理术提升在线影响力（全彩）,陈旭,https://img1.doubanio.com/view/subject/s/public/s27444288.jpg,75.00,2014-9-1,7.4,26,14,6,4,1,1,31,11,198,https://book.douban.com/subject/25972635/,用户体验
+触人心弦：设计更优秀的iPhone应用,包季真,https://img9.doubanio.com/view/subject/s/public/s29419056.jpg,79,2017-4,6.7,17,2,4,7,3,1,16,3,28,https://book.douban.com/subject/27013703/,用户体验
+咸鱼的滋味,陈升,https://img1.doubanio.com/view/subject/s/public/s10482498.jpg,32.80,2012-7,7.1,669,97,261,267,34,10,868,215,3326,https://book.douban.com/subject/10876106/,用户体验
+游戏情感设计,DavidFreeman,https://img1.doubanio.com/view/subject/s/public/s26262777.jpg,48.00,2005-2-1,7.9,74,25,32,11,5,1,83,22,603,https://book.douban.com/subject/1195337/,用户体验
+用户体验草图设计,比尔·巴克斯顿,https://img3.doubanio.com/view/subject/s/public/s4116660.jpg,168.00,2009-11,7.6,614,166,244,184,17,3,955,462,3821,https://book.douban.com/subject/4201552/,用户体验
+餐巾纸的背面,[美]丹·罗姆,https://img3.doubanio.com/view/subject/s/public/s22720141.jpg,49.00,2012-10,7.3,271,54,115,84,16,2,312,77,890,https://book.douban.com/subject/19912142/,用户体验
+体验经济（珍藏版）,（美）B.约瑟夫·派恩（B.JosephPineⅡ）,https://img1.doubanio.com/view/subject/s/public/s28851908.jpg,49.00,2016-6,6.7,50,5,22,17,5,1,48,14,142,https://book.douban.com/subject/26826943/,用户体验
+A Theory of Fun for Game Design,RaphKoster,https://img1.doubanio.com/view/subject/s/public/s27320898.jpg,24.99,2004-11-6,8.8,106,65,30,7,3,1,113,42,817,https://book.douban.com/subject/1921729/,用户体验
+卖什么都是卖体验,李·科克雷尔,https://img1.doubanio.com/view/subject/s/public/s27230679.jpg,36.00,2014-3-3,6.9,178,30,62,68,17,1,199,55,755,https://book.douban.com/subject/25839089/,用户体验
+JavaScript语言精粹,DouglasCrockford,https://img9.doubanio.com/view/subject/s/public/s3651235.jpg,35.00,2009-4,9.1,1831,1097,609,108,14,3,2041,606,3989,https://book.douban.com/subject/3590768/,用户体验
+专业主义,[日]大前研一,https://img3.doubanio.com/view/subject/s/public/s1666540.jpg,28.00,2006-6,7.5,2455,494,1057,777,93,34,3300,628,7144,https://book.douban.com/subject/1790456/,用户体验
+社会性动物,[美]埃利奥特·阿伦森,https://img3.doubanio.com/view/subject/s/public/s2783843.jpg,45.00,2007-12,9.1,7731,4853,2291,526,46,15,8243,3543,54950,https://book.douban.com/subject/2328458/,用户体验
+交互系统新概念设计(用户绩效和用户体验设计准则)/UI\UE系列丛书,阿维·法利赛(AviParush),https://img3.doubanio.com/view/subject/s/public/s29837501.jpg,79.00,2017-4-1,8.4,17,6,8,1,1,1,16,5,70,https://book.douban.com/subject/27023063/,用户体验
+更优秀的APP,白润华,https://img9.doubanio.com/view/subject/s/public/s27112236.jpg,89,2013-9-1,7.6,15,6,4,3,1,1,16,3,53,https://book.douban.com/subject/25756724/,用户体验
+破茧成蝶,刘津,https://img9.doubanio.com/view/subject/s/public/s27312255.jpg,69.00,2014-7,8.5,1578,640,725,184,20,9,1703,333,3324,https://book.douban.com/subject/25915629/,用户体验
+用户战略,【美】亚伦·夏皮罗,https://img3.doubanio.com/view/subject/s/public/s27287272.jpg,42.00,2014-5,7.4,30,5,9,14,1,1,33,9,168,https://book.douban.com/subject/25866259/,用户体验
+洞悉用户,胡飞,https://img1.doubanio.com/view/subject/s/public/s6229739.jpg,38.00,2010-8,6.5,40,7,12,16,3,2,51,18,81,https://book.douban.com/subject/5312371/,用户体验
+消费者王朝,C.K.普拉哈拉德,https://img1.doubanio.com/view/subject/s/public/s6049109.jpg,35.00,2005-6,6.7,20,4,7,7,1,1,35,7,227,https://book.douban.com/subject/1390644/,用户体验
+产品经理的第二本书,[美]哥乔斯,https://img3.doubanio.com/view/subject/s/public/s1226050.jpg,39.80,2004-4,7.5,256,50,105,95,5,1,373,160,1624,https://book.douban.com/subject/1082734/,用户体验
+众妙之门——网页排版设计制胜秘诀,[德]SmashingMagazine,https://img3.doubanio.com/view/subject/s/public/s27081033.jpg,39,2013-10,6.5,25,4,4,14,1,2,31,5,96,https://book.douban.com/subject/25741532/,用户体验
+创造突破性产品,JonathanCagan,https://img3.doubanio.com/view/subject/s/public/s5704921.jpg,35.00,2004-1,8.3,316,113,150,50,2,1,420,156,1889,https://book.douban.com/subject/1139356/,用户体验
+互联网的变革,汤代禄,https://img3.doubanio.com/view/subject/s/public/s10074233.jpg,50.00,2007-1,5.9,32,2,9,9,11,1,46,9,46,https://book.douban.com/subject/1943709/,用户体验
+社会心理学,[美]戴维·迈尔斯,https://img3.doubanio.com/view/subject/s/public/s1670932.jpg,68.00,2006-1,9.0,16268,9989,5076,1090,65,48,18495,10724,99112,https://book.douban.com/subject/1476651/,用户体验
+工程心理学与人的作业,C・D・威肯斯,https://img3.doubanio.com/view/subject/s/public/s1326191.jpg,66.00,2003-4,8.0,44,16,17,9,1,1,59,32,251,https://book.douban.com/subject/1277926/,用户体验
+设计方法与策略,[荷]代尔夫特理工大学工业设计工程学院,https://img3.doubanio.com/view/subject/s/public/s27325492.jpg,89.9,2014-8-25,8.3,350,162,123,55,8,2,362,161,1807,https://book.douban.com/subject/25927569/,用户体验
+设计调研,戴力农,https://img3.doubanio.com/view/subject/s/public/s27233680.jpg,49.00,2014-4,7.4,213,55,83,59,13,3,233,86,896,https://book.douban.com/subject/25842108/,用户体验
+Prioritizing Web Usability,JakobNielsen,https://img3.doubanio.com/view/subject/s/public/s4258061.jpg,55.00,2006-04-30,8.1,16,9,4,1,1,1,20,6,88,https://book.douban.com/subject/1812384/,用户体验
+无懈可击的Web设计II,孙亮,https://img3.doubanio.com/view/subject/s/public/s4454130.jpg,55.00,2010-8,8.3,46,16,20,8,1,1,53,4,69,https://book.douban.com/subject/4935289/,用户体验
+Inside Apple,AdamLashinsky,https://img9.doubanio.com/view/subject/s/public/s7047255.jpg,26.99,2012-1-25,7.0,64,8,25,28,2,1,68,28,270,https://book.douban.com/subject/6898444/,用户体验
+产品的诞生,（英）哈德森编著，刘硕译,https://img1.doubanio.com/view/subject/s/public/s4650689.jpg,89.00,2009-8,8.3,224,67,110,45,1,1,302,79,2330,https://book.douban.com/subject/3919668/,用户体验
+用户思维,【美】约翰·沃瑞劳,https://img9.doubanio.com/view/subject/s/public/s28337225.jpg,38.00,2015-10-10,6.5,96,16,24,42,12,2,96,15,108,https://book.douban.com/subject/26661710/,用户体验
+A Project Guide to UX Design,RussUnger,https://img9.doubanio.com/view/subject/s/public/s9028505.jpg,39.99,2012-3-19,8.6,18,7,7,2,1,1,14,11,99,https://book.douban.com/subject/7070644/,用户体验
+This Is Service Design Doing,MarcStickdorn,https://img1.doubanio.com/view/subject/s/public/s28912007.jpg,39.99,2016-11-25,9.2,23,13,7,1,1,1,14,20,104,https://book.douban.com/subject/26840634/,用户体验
+精益求精,罗旭祥,https://img9.doubanio.com/view/subject/s/public/s4440896.jpg,59.00,2010-09,7.1,251,151,38,41,15,6,316,54,450,https://book.douban.com/subject/4934629/,用户体验
+三双鞋,[美]谢家华,https://img1.doubanio.com/view/subject/s/public/s4499697.jpg,32.90,2011-1,8.3,2564,943,1110,456,38,17,3119,607,8073,https://book.douban.com/subject/5302113/,用户体验
+乐天传奇&#34;三无经营&#34;创造商业神话,河智海,https://img3.doubanio.com/view/subject/s/public/s26722703.jpg,35.00,2013-7,7.0,13,4,3,4,1,1,15,1,7,https://book.douban.com/subject/24722698/,用户体验
+设计之下,搜狐新闻客户端UED团队,https://img9.doubanio.com/view/subject/s/public/s27274164.jpg,69.00,2014-1-1,7.5,512,124,195,167,22,4,589,132,1401,https://book.douban.com/subject/25817190/,用户体验
+超预期,[美]莱昂纳多·因基莱里,https://img1.doubanio.com/view/subject/s/public/s29542828.jpg,45.00,2017-11,6.8,77,17,32,15,9,4,73,21,266,https://book.douban.com/subject/27139139/,用户体验
+Flow,MihalyCsikszentmihalyi,https://img3.doubanio.com/view/subject/s/public/s1431841.jpg,14.00,1991-03-13,8.9,126,74,36,14,1,1,144,67,1062,https://book.douban.com/subject/1419011/,用户体验
+妙手回春,[美]SteveKrug,https://img9.doubanio.com/view/subject/s/public/s4428826.jpg,39.00,2010-7,7.5,202,43,95,56,6,2,325,65,632,https://book.douban.com/subject/4926083/,用户体验
+用户体验设计,[瑞典]乔尔·马什,https://img1.doubanio.com/view/subject/s/public/s29767879.jpg,59.00,2018-5,7.6,25,7,12,4,1,1,25,11,179,https://book.douban.com/subject/30221659/,用户体验
+Web信息架构(第3版),PeterMorville,https://img9.doubanio.com/view/subject/s/public/s3431996.jpg,85.00,2008年8月,8.2,880,286,402,156,29,7,1146,576,4949,https://book.douban.com/subject/3169342/,用户体验
+网站搜索设计,[美]ShariThurow,https://img3.doubanio.com/view/subject/s/public/s4679873.jpg,35.00,2011-4,6.8,71,11,27,27,4,2,91,29,234,https://book.douban.com/subject/6041346/,用户体验
+幻想速写,3DTotal.com,https://img9.doubanio.com/view/subject/s/public/s29321195.jpg,118.00,2016-12-1,9.1,28,15,10,1,1,1,29,9,69,https://book.douban.com/subject/26966119/,用户体验
+情感驱动,[西班牙]哈维尔•桑切斯•拉米拉斯,https://img1.doubanio.com/view/subject/s/public/s29853069.jpg,58,2018-9,7.0,227,52,82,81,10,2,221,58,712,https://book.douban.com/subject/30309475/,用户体验
+Don&#39;t Make Me Think,[美]SteveKrug,https://img9.doubanio.com/view/subject/s/public/s1879564.jpg,35.00,2000-10-13,8.5,184,75,86,20,2,1,254,39,260,https://book.douban.com/subject/1901208/,用户体验
+用户体验多面手,LeahBuley,https://img3.doubanio.com/view/subject/s/public/s27668622.jpg,49.90,2014-11-20,7.8,136,36,63,32,4,1,154,28,933,https://book.douban.com/subject/26142616/,用户体验
+认知与设计,JeffJohnson,https://img1.doubanio.com/view/subject/s/public/s27338939.jpg,69.00,2014-8-1,8.8,414,219,149,43,1,2,441,105,1636,https://book.douban.com/subject/25932290/,用户体验
+Traction: A Startup Guide to Getting Customers,GabrielWeinberg,https://img9.doubanio.com/view/subject/s/public/s27453645.jpg,14.99,2014-8-25,8.8,22,9,8,3,1,1,25,4,174,https://book.douban.com/subject/25976281/,用户体验
+About Face,AlanCooper,https://img9.doubanio.com/view/subject/s/public/s28062524.jpg,50.00,2014-9-2,9.0,42,24,12,4,1,1,26,37,84,https://book.douban.com/subject/25983558/,用户体验
+和谐界面,[德]海姆,https://img3.doubanio.com/view/subject/s/public/s3183160.jpg,49.00,2008-5,7.3,69,16,22,28,2,1,110,36,172,https://book.douban.com/subject/3109564/,用户体验
+语音用户界面设计：对话式体验设计原则,【美】CathyPearl（凯瑟彼尔）,https://img9.doubanio.com/view/subject/s/public/s29597794.jpg,79.00,2017-10-1,7.7,80,14,46,17,2,1,90,31,330,https://book.douban.com/subject/27188306/,用户体验
+The Design of Everyday Things,DonNorman,https://img1.doubanio.com/view/subject/s/public/s27376718.jpg,17.99,2013-11-5,8.9,195,118,61,13,1,2,193,150,895,https://book.douban.com/subject/21983611/,用户体验
+Universal Principles of Design,WilliamLidwell,https://img1.doubanio.com/view/subject/s/public/s4256568.jpg,40.00,2003-10-01,9.0,72,37,24,9,1,1,98,33,493,https://book.douban.com/subject/1920714/,用户体验
+和谐界面,[德]海姆,https://img9.doubanio.com/view/subject/s/public/s2769255.jpg,69.50,2007-10,7.7,32,9,9,12,1,1,59,26,125,https://book.douban.com/subject/2306849/,用户体验
+飞利浦设计思想,[荷]斯丹法诺·马扎诺,https://img9.doubanio.com/view/subject/s/public/s1446005.jpg,68.00,2002-11,7.8,177,43,78,52,3,1,316,27,479,https://book.douban.com/subject/1432131/,用户体验
+格式塔心理学原理（上下）,[德]库尔特·考夫卡,https://img1.doubanio.com/view/subject/s/public/s6626867.jpg,32.00,1997-9,8.0,176,52,78,41,4,1,218,117,1497,https://book.douban.com/subject/1551550/,用户体验
+价值再定义(腾讯金融产品体验设计之道),腾讯FiTDesign,https://img3.doubanio.com/view/subject/s/public/s29870840.jpg,81.0,2018-08-01,6.4,18,6,3,7,1,1,21,4,27,https://book.douban.com/subject/30327279/,用户体验
+给设计以灵魂,喜多俊之,https://img1.doubanio.com/view/subject/s/public/s24408048.jpg,48.00,2012-9,7.3,177,30,73,68,5,1,204,33,361,https://book.douban.com/subject/11623718/,用户体验

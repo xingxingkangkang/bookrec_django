@@ -1,0 +1,426 @@
+多任务下的数据结构与算法,周伟明,https://img1.doubanio.com/view/subject/s/public/s5659428.jpg,58.00,2006-4,6.7,12,1,5,3,2,1,16,1,20,https://book.douban.com/subject/1799668/,算法
+算法竞赛进阶指南,李煜东,https://img1.doubanio.com/view/subject/s/public/s29682929.jpg,79.00,2018-1,9.1,35,29,1,3,1,1,28,22,158,https://book.douban.com/subject/30136932/,算法
+Purely Functional Data Structures,ChrisOkasaki,https://img1.doubanio.com/view/subject/s/public/s2413338.jpg,49.99,1999-6-13,9.6,34,26,4,2,1,1,49,34,835,https://book.douban.com/subject/1755557/,算法
+GPU精粹2,法尔,https://img9.doubanio.com/view/subject/s/public/s10131954.jpg,128.0,2007-5,8.4,40,17,15,6,1,1,46,38,138,https://book.douban.com/subject/2144796/,算法
+非线性系统手册,斯蒂伯,https://img9.doubanio.com/view/subject/s/public/s25797756.jpg,78.00,2013-1,8.7,14,5,5,2,1,1,12,1,32,https://book.douban.com/subject/21349851/,算法
+父与子的编程之旅,桑德(WarrenSande),https://img1.doubanio.com/view/subject/s/public/s27490779.jpg,69.00,2014-10-1,8.7,225,105,93,21,2,4,203,138,1154,https://book.douban.com/subject/26005639/,算法
+Python深度学习,[美]弗朗索瓦•肖莱,https://img1.doubanio.com/view/subject/s/public/s29839337.jpg,119.00,2018-8,9.5,505,400,86,17,1,1,411,308,4867,https://book.douban.com/subject/30293801/,算法
+利用Python进行数据分析,WesMcKinney,https://img3.doubanio.com/view/subject/s/public/s27275372.jpg,89.00,2013-11-18,8.6,1243,522,574,134,9,4,1163,696,6632,https://book.douban.com/subject/25779298/,算法
+算法竞赛入门经典,刘汝佳,https://img1.doubanio.com/view/subject/s/public/s6092408.jpg,24.00,2009-11,8.8,455,237,175,33,5,5,544,187,991,https://book.douban.com/subject/4138920/,算法
+信息检索导论,ChristopherD.Manning,https://img1.doubanio.com/view/subject/s/public/s4462767.jpg,69.00,2010-8,9.1,261,159,91,9,1,1,293,169,1224,https://book.douban.com/subject/5252170/,算法
+算法导论（原书第3版）,ThomasH.Cormen,https://img9.doubanio.com/view/subject/s/public/s25648004.jpg,128.00,2012-12,9.2,980,728,200,38,6,8,616,951,3717,https://book.douban.com/subject/20432061/,算法
+遗传算法的数学基础,张文修,https://img1.doubanio.com/view/subject/s/public/s10122568.jpg,18.00,2003-5,7.7,15,2,7,4,1,1,14,10,49,https://book.douban.com/subject/1230387/,算法
+强化学习：原理与Python实现,肖智清,https://img1.doubanio.com/view/subject/s/public/s33324937.jpg,89,2019-7-21,8.7,49,38,7,1,2,1,39,15,195,https://book.douban.com/subject/34478302/,算法
+数据结构与程序设计,RobertL.Kruse,https://img1.doubanio.com/view/subject/s/public/s8482579.jpg,39.00,2001-5,7.9,53,11,27,13,1,1,66,6,35,https://book.douban.com/subject/1215873/,算法
+被算法操控的生活,[瑞典]大卫•萨普特（DavidSumpter）,https://img3.doubanio.com/view/subject/s/public/s33568351.jpg,59.8,2020-1,7.0,16,6,6,2,1,1,19,8,1049,https://book.douban.com/subject/34927752/,算法
+计算广告,刘鹏,https://img9.doubanio.com/view/subject/s/public/s28280564.jpg,69.00,2015-9-1,8.7,1018,492,386,123,13,4,973,486,3769,https://book.douban.com/subject/26596778/,算法
+Discrete Mathematics and Its Applications,KennethHRosen,https://img1.doubanio.com/view/subject/s/public/s1657577.jpg,132.81,2003-04-22,8.6,39,16,19,2,1,1,42,25,108,https://book.douban.com/subject/1786209/,算法
+Java数据结构和算法,拉佛,https://img9.doubanio.com/view/subject/s/public/s9853525.jpg,55.00,2004-02-01,8.3,167,68,75,21,1,2,208,79,405,https://book.douban.com/subject/1144007/,算法
+算法（第5部分）,塞奇威克,https://img3.doubanio.com/view/subject/s/public/s8488132.jpg,59.00,2010-1,8.6,33,13,17,1,1,1,91,12,228,https://book.douban.com/subject/4191525/,算法
+程序员修炼之道,AndrewHunt,https://img9.doubanio.com/view/subject/s/public/s3957204.jpg,48.00,2005-1,8.6,2262,1051,931,256,15,9,2652,826,8972,https://book.douban.com/subject/1152111/,算法
+信息论、推理与学习算法,[英]DavidJ.C.MacKay,https://img1.doubanio.com/view/subject/s/public/s5777677.jpg,59.00,2006-7,8.9,54,33,16,3,1,1,42,49,900,https://book.douban.com/subject/1893050/,算法
+挑战程序设计竞赛,[日]秋叶拓哉,https://img1.doubanio.com/view/subject/s/public/s29048069.jpg,79.00,2013-7-1,9.0,275,191,67,15,1,1,213,231,1909,https://book.douban.com/subject/24749842/,算法
+程序员的数学,结城浩,https://img3.doubanio.com/view/subject/s/public/s20811702.jpg,49.00,2012-10,7.3,1051,204,447,335,45,20,1165,291,4832,https://book.douban.com/subject/19949020/,算法
+算法技术手册,GeorgeT.Heineman,https://img1.doubanio.com/view/subject/s/public/s6144917.jpg,55.00,2010-3,8.1,150,48,67,31,3,1,204,120,564,https://book.douban.com/subject/4317573/,算法
+并行程序设计,BarryWilkinson,https://img3.doubanio.com/view/subject/s/public/s5747193.jpg,48.00,2005-5-1,7.9,17,7,4,4,1,1,28,21,153,https://book.douban.com/subject/1318220/,算法
+极简算法史：从数学到机器的故事,[法]吕克•德•布拉班迪尔,https://img1.doubanio.com/view/subject/s/public/s29956837.jpg,39.00,2019-1,6.2,80,6,15,40,15,4,88,15,190,https://book.douban.com/subject/30411520/,算法
+应用组合数学,AlanTucker,https://img3.doubanio.com/view/subject/s/public/s5997352.jpg,65.00,2009-3,8.7,16,8,4,2,1,1,14,20,108,https://book.douban.com/subject/3592243/,算法
+高效程序的奥秘,沃瑞恩,https://img9.doubanio.com/view/subject/s/public/s1119156.jpg,28.00,2004-5,8.6,205,82,91,29,1,2,308,106,1519,https://book.douban.com/subject/1159177/,算法
+零基础学算法,戴艳,https://img3.doubanio.com/view/subject/s/public/s27252582.jpg,69.00,2012-3-1,7.2,15,3,4,6,1,1,22,5,21,https://book.douban.com/subject/10554193/,算法
+生物信息学算法导论,N.C.琼斯,https://img1.doubanio.com/view/subject/s/public/s2648629.jpg,45.0,2007-7,8.6,53,23,21,7,1,1,66,40,342,https://book.douban.com/subject/2183420/,算法
+人工智能,（美）卢格尔（Luger，G.F.）,https://img9.doubanio.com/view/subject/s/public/s5788526.jpg,75.00,2006-10,8.3,106,41,53,10,1,1,131,73,722,https://book.douban.com/subject/1933034/,算法
+数据结构与算法：python语言实现,迈克尔.·T·古德里奇,https://img3.doubanio.com/view/subject/s/public/s29867312.jpg,109.00,2018-9,5.6,34,7,10,4,6,7,29,22,119,https://book.douban.com/subject/30323938/,算法
+区块链核心算法解析,【瑞士】RogerWattenhofer（罗格.瓦唐霍费尔）,https://img9.doubanio.com/view/subject/s/public/s29486955.jpg,59.00,2017-8,7.7,50,11,17,14,5,3,45,44,606,https://book.douban.com/subject/27081206/,算法
+Web数据挖掘,刘兵,https://img3.doubanio.com/view/subject/s/public/s4208563.jpg,49.00,2009-4,7.7,104,18,49,35,1,1,120,61,306,https://book.douban.com/subject/3639345/,算法
+算法统治世界——智能经济的隐形秩序,徐恪,https://img1.doubanio.com/view/subject/s/public/s29619877.jpg,69.00,2017-11-15,7.4,16,3,8,2,2,1,16,6,67,https://book.douban.com/subject/27590623/,算法
+算法笔记上机训练实战指南,胡凡,https://img1.doubanio.com/view/subject/s/public/s29708738.jpg,57,2016-7,9.7,50,39,8,1,1,1,39,21,142,https://book.douban.com/subject/30162908/,算法
+机器视觉算法与应用,杨少荣,https://img3.doubanio.com/view/subject/s/public/s5960862.jpg,69.00,2008-11,8.7,45,23,13,7,1,1,43,27,195,https://book.douban.com/subject/3301233/,算法
+TensorFlow：实战Google深度学习框架（第2版）,顾思宇,https://img3.doubanio.com/view/subject/s/public/s29683030.jpg,89,2018-2-1,8.4,132,47,51,20,3,11,121,70,401,https://book.douban.com/subject/30137062/,算法
+具体数学（英文版第2版）,[美]RonaldL.Graham,https://img9.doubanio.com/view/subject/s/public/s24396506.jpg,49.00,2002-8,9.5,834,653,143,34,1,3,750,737,4725,https://book.douban.com/subject/1231910/,算法
+Computational Geometry,MarkdeBerg,https://img9.doubanio.com/view/subject/s/public/s4297524.jpg,49.95,2008-4-16,8.5,37,22,10,3,1,1,28,32,141,https://book.douban.com/subject/3217620/,算法
+数学模型选谈,华罗庚//王元,https://img1.doubanio.com/view/subject/s/public/s6970507.jpg,25.00,2011-5,9.3,14,9,2,1,1,1,32,4,270,https://book.douban.com/subject/6751237/,算法
+Algorithms Unlocked,[美]ThomasH·Cormen,https://img3.doubanio.com/view/subject/s/public/s24978283.jpg,25.00,2013-3-1,8.8,36,19,12,3,1,1,28,22,228,https://book.douban.com/subject/20421419/,算法
+数据挖掘概念与技术,(加)JiaweiHan;MichelineKamber,https://img1.doubanio.com/view/subject/s/public/s5759247.jpg,55.00,2007-3,7.7,522,113,258,116,23,12,557,312,1662,https://book.douban.com/subject/2038599/,算法
+算法艺术与信息学竞赛,刘汝佳,https://img9.doubanio.com/view/subject/s/public/s5693985.jpg,45.00,2004-1,8.5,670,295,279,86,4,6,792,236,1124,https://book.douban.com/subject/1154204/,算法
+深度学习轻松学,冯超,https://img9.doubanio.com/view/subject/s/public/s29480805.jpg,79.00,2017-7,6.9,15,3,5,5,1,1,18,6,50,https://book.douban.com/subject/27074813/,算法
+算法设计与分析基础,Ananylevitin,https://img3.doubanio.com/view/subject/s/public/s2019521.jpg,49.00,2007-1-1,8.4,182,83,70,27,1,1,187,101,812,https://book.douban.com/subject/1968704/,算法
+算法之美,[美]布莱恩·克里斯汀,https://img9.doubanio.com/view/subject/s/public/s29762735.jpg,59.00,2018-5-20,7.5,571,128,228,174,32,9,555,233,1907,https://book.douban.com/subject/30155731/,算法
+Introduction to Semi-Supervised Learning,XiaojinZhu,https://img9.doubanio.com/view/subject/s/public/s3991745.jpg,40.00,2009-6-29,8.5,21,6,12,1,1,1,21,7,119,https://book.douban.com/subject/3916225/,算法
+什么是数学,[美]R·柯朗H·罗宾著,https://img3.doubanio.com/view/subject/s/public/s1802550.jpg,37.00,2005-5,9.1,3593,2333,992,237,17,14,3531,2559,25570,https://book.douban.com/subject/1320282/,算法
+操作系统概念(第六版 影印版),沙茨,https://img9.doubanio.com/view/subject/s/public/s1462854.jpg,55.00,2002-05-01,8.3,126,46,65,13,1,1,183,20,125,https://book.douban.com/subject/1231833/,算法
+数据结构与算法图解,[美]杰伊•温格罗,https://img9.doubanio.com/view/subject/s/public/s32265576.jpg,49.00,2019-4,8.9,39,19,15,3,1,1,37,21,249,https://book.douban.com/subject/33377417/,算法
+C程序设计语言,（美）BrianW.Kernighan,https://img9.doubanio.com/view/subject/s/public/s1106934.jpg,30.00,2004-1,9.4,4467,3352,911,174,13,17,5304,1740,10262,https://book.douban.com/subject/1139336/,算法
+剑指Offer：名企面试官精讲典型编程题（第2版）,何海涛,https://img3.doubanio.com/view/subject/s/public/s29413793.jpg,65.00,2017-5,8.9,213,136,62,13,1,1,213,106,679,https://book.douban.com/subject/27008702/,算法
+计算机视觉,SimonJ.D.Prince,https://img3.doubanio.com/view/subject/s/public/s29611053.jpg,119.00,2017-6,7.0,16,5,3,2,5,1,8,16,48,https://book.douban.com/subject/27088947/,算法
+数据结构习题解析（第3版）,邓俊辉,https://img3.doubanio.com/view/subject/s/public/s28047740.jpg,29.00,2013-9-1,9.7,15,11,1,1,1,1,11,8,35,https://book.douban.com/subject/26365845/,算法
+Python科学计算(第2版),张若愚,https://img3.doubanio.com/view/subject/s/public/s28746611.jpg,118,2016-4-29,8.7,41,15,15,4,6,1,33,26,120,https://book.douban.com/subject/26784317/,算法
+编译原理,AlfredV.Aho,https://img3.doubanio.com/view/subject/s/public/s3392161.jpg,89.00,2008年12月,9.1,901,580,249,55,7,10,806,633,4819,https://book.douban.com/subject/3296317/,算法
+数据结构与STL,[美]WilliamJ.Collins,https://img1.doubanio.com/view/subject/s/public/s8858369.jpg,49.00,2004-1,8.5,35,15,12,6,1,1,41,15,99,https://book.douban.com/subject/1152139/,算法
+推荐系统,[奥地利]DietmarJannach,https://img3.doubanio.com/view/subject/s/public/s26707013.jpg,59.00,2013-6-25,7.7,199,58,80,48,8,5,215,96,1065,https://book.douban.com/subject/24746415/,算法
+最优化导论,桑达拉姆,https://img9.doubanio.com/view/subject/s/public/s5885644.jpg,59.00,2008-4,8.6,14,6,4,2,1,1,12,9,85,https://book.douban.com/subject/3061693/,算法
+高级编译器设计与实现,（美）马其尼克/赵克佳/沈志宇,https://img9.doubanio.com/view/subject/s/public/s23713135.jpg,75.00,2005-01-01,9.1,43,25,12,4,1,1,51,33,921,https://book.douban.com/subject/1400374/,算法
+机器学习,(美)TomMitchell,https://img9.doubanio.com/view/subject/s/public/s1986925.jpg,35.00,2008-3,8.4,789,309,338,123,15,4,814,499,3678,https://book.douban.com/subject/1102235/,算法
+Flash ActionScript 3.0 动画高级教程,KeithPeters,https://img3.doubanio.com/view/subject/s/public/s6104912.jpg,65.00,2010-1,9.1,89,58,26,3,1,1,74,58,306,https://book.douban.com/subject/4175538/,算法
+Advanced Data Structures,PeterBrass,https://img9.doubanio.com/view/subject/s/public/s4271834.jpg,80.00,2008-9-8,8.8,22,6,8,6,1,1,23,19,294,https://book.douban.com/subject/3328585/,算法
+分布式机器学习：算法、理论与实践,刘铁岩,https://img9.doubanio.com/view/subject/s/public/s32282155.jpg,89.00,2018-10-20,8.4,72,36,23,10,2,1,64,41,529,https://book.douban.com/subject/30360968/,算法
+图解密码技术（第3版）,[日]结城浩,https://img3.doubanio.com/view/subject/s/public/s28830003.jpg,89.00,2016-6,9.3,219,158,51,8,1,1,208,64,868,https://book.douban.com/subject/26822106/,算法
+程序员代码面试指南：IT名企算法与数据结构题目最优解,左程云,https://img3.doubanio.com/view/subject/s/public/s28313721.jpg,79.00,2015-9,8.8,128,92,27,7,1,1,102,95,865,https://book.douban.com/subject/26638586/,算法
+自动机理论、语言和计算导论（原书第2版）,JohnE.Hopcroft,https://img3.doubanio.com/view/subject/s/public/s1124850.jpg,39.00,2004-6-1,8.4,51,13,31,5,1,1,67,17,239,https://book.douban.com/subject/1170939/,算法
+Distributed Algorithms,NancyA.Lynch,https://img9.doubanio.com/view/subject/s/public/s7524045.jpg,155.00,1996-3-15,9.2,21,12,6,1,1,1,64,17,273,https://book.douban.com/subject/1891912/,算法
+图论导引,[美]韦斯特,https://img1.doubanio.com/view/subject/s/public/s1542749.jpg,65.00,2006-2,8.9,62,26,29,5,1,1,83,39,527,https://book.douban.com/subject/1740461/,算法
+矩阵计算,GeneH.Golub,https://img3.doubanio.com/view/subject/s/public/s3793860.jpg,89.00,2009,9.5,48,28,12,6,1,1,47,51,465,https://book.douban.com/subject/3745369/,算法
+人工智能,PeterNorvig,https://img1.doubanio.com/view/subject/s/public/s26237337.jpg,85.00,2004-6,8.8,224,134,65,22,2,1,262,141,2373,https://book.douban.com/subject/1230487/,算法
+深度学习入门,[日］斋藤康毅,https://img9.doubanio.com/view/subject/s/public/s29815955.jpg,59.00,2018-7,9.4,462,359,90,10,1,2,401,219,2778,https://book.douban.com/subject/30270959/,算法
+矩阵计算,GeneH.Golub,https://img1.doubanio.com/view/subject/s/public/s4632689.jpg,89.00,2011-3-1,9.3,43,27,12,2,1,1,39,23,507,https://book.douban.com/subject/5975393/,算法
+应用密码学：协议、算法与C源程序（原书第2版）,（美）BruceSchneier,https://img9.doubanio.com/view/subject/s/public/s27141346.jpg,79.00,2014-1,8.3,40,23,11,4,1,1,32,35,408,https://book.douban.com/subject/25772389/,算法
+数据结构与算法经典问题解析,纳拉辛哈·卡鲁曼希,https://img9.doubanio.com/view/subject/s/public/s29160305.jpg,79.00,2016-6-1,8.6,27,9,15,1,1,1,20,21,205,https://book.douban.com/subject/26834485/,算法
+计算机科学中的数学,[美]EricLehman,https://img9.doubanio.com/view/subject/s/public/s32281074.jpg,168.00,2018-4,8.3,23,16,4,1,1,1,11,33,431,https://book.douban.com/subject/33396340/,算法
+经典密码学与现代密码学,(美)斯皮尔曼,https://img3.doubanio.com/view/subject/s/public/s1519181.jpg,35.0,2005-7,8.0,73,21,38,12,1,1,89,29,611,https://book.douban.com/subject/1400420/,算法
+Introduction to Algorithms,ThomasH.Cormen,https://img1.doubanio.com/view/subject/s/public/s1501439.jpg,85.00,2001-9-1,9.4,360,272,73,12,2,1,374,179,647,https://book.douban.com/subject/1433399/,算法
+Modern Information Retrieval,RicardoBaeza-Yates,https://img3.doubanio.com/view/subject/s/public/s7042150.jpg,56.80,1999-5-15,7.9,26,4,8,12,1,1,29,5,82,https://book.douban.com/subject/1782632/,算法
+Automating Inequality,VirginiaEubanks,https://img1.doubanio.com/view/subject/s/public/s29679128.jpg,17.70,2018-1-23,6.5,11,1,2,6,1,1,12,4,74,https://book.douban.com/subject/30131926/,算法
+数据结构与算法分析,[美]MarkAllenWeiss,https://img3.doubanio.com/view/subject/s/public/s28015501.jpg,35.00,2004-1-1,8.9,1883,1082,629,139,20,13,1882,1144,7407,https://book.douban.com/subject/1139426/,算法
+算法竞赛入门经典（第2版）,刘汝佳,https://img9.doubanio.com/view/subject/s/public/s28393836.jpg,49.80,2014-6-1,8.8,266,169,86,9,1,1,184,177,773,https://book.douban.com/subject/25902102/,算法
+数据结构基础,[美]EllisHorowitz霍罗维兹,https://img9.doubanio.com/view/subject/s/public/s3866176.jpg,49.00,2009-3,7.1,40,7,20,6,3,4,36,16,67,https://book.douban.com/subject/3629448/,算法
+Dependency Parsing,SandraKubler,https://img3.doubanio.com/view/subject/s/public/s3686710.jpg,40.00,2009-1-23,8.4,14,8,2,2,1,1,12,3,40,https://book.douban.com/subject/3625400/,算法
+数学世纪,皮耶尔乔治·奥迪弗雷迪,https://img1.doubanio.com/view/subject/s/public/s24400798.jpg,28.00,2012-1,9.1,56,33,18,3,1,1,67,18,619,https://book.douban.com/subject/10471912/,算法
+算法导论（原书第2版）,[美]ThomasH.Cormen,https://img1.doubanio.com/view/subject/s/public/s1959967.jpg,85.00,2006-9,9.3,4951,3621,1089,208,19,14,4578,3664,12539,https://book.douban.com/subject/1885170/,算法
+The Pragmatic Programmer,AndrewHunt,https://img3.doubanio.com/view/subject/s/public/s4091153.jpg,49.99,1999-10-30,8.9,324,185,107,25,6,1,352,125,1713,https://book.douban.com/subject/1417047/,算法
+计算机程序设计艺术,[美]DonaldKnuth,https://img9.doubanio.com/view/subject/s/public/s8841025.jpg,45.00,2006-4,9.5,26,20,3,1,1,1,24,27,426,https://book.douban.com/subject/1757982/,算法
+Practical Statistics for Data Scientists,Bruce,https://img3.doubanio.com/view/subject/s/public/s29650613.jpg,33.99,2016-12-25,9.3,36,17,12,5,1,1,38,27,326,https://book.douban.com/subject/26857653/,算法
+Randomized Algorithms,RajeevMotwani,https://img3.doubanio.com/view/subject/s/public/s4530403.jpg,94.99,1995-8-25,8.8,43,23,16,2,1,1,62,38,247,https://book.douban.com/subject/1856070/,算法
+Data Structures and Algorithms in Java,MichaelT.Goodrich,https://img1.doubanio.com/view/subject/s/public/s4297707.jpg,177.41,2010-01-26,8.0,18,4,9,3,1,1,19,9,27,https://book.douban.com/subject/4682912/,算法
+ACM程序设计培训教程,吴昊,https://img1.doubanio.com/view/subject/s/public/s9219428.jpg,28.0,2007-8,7.0,11,2,3,4,1,1,16,5,30,https://book.douban.com/subject/2314690/,算法
+Hacker&#39;s Delight,HenryS.Warren,https://img9.doubanio.com/view/subject/s/public/s24937624.jpg,59.99,2012-10-5,8.9,21,9,9,1,1,1,9,24,406,https://book.douban.com/subject/10756419/,算法
+矩阵分析,（美）合恩（Horn/R.A.）等/杨奇,https://img1.doubanio.com/view/subject/s/public/s1939327.jpg,45.0,2005-01-01,9.1,88,47,24,11,3,3,102,76,710,https://book.douban.com/subject/1281543/,算法
+编程的修炼（中英双语）,[荷]EdsgerW.Dijkstra,https://img1.doubanio.com/view/subject/s/public/s27059638.jpg,79.00,2013-7,9.3,30,22,5,1,1,1,25,25,586,https://book.douban.com/subject/24841112/,算法
+光线跟踪算法技术,萨芬,https://img9.doubanio.com/view/subject/s/public/s6306416.jpg,98.00,2011-3,6.1,27,2,10,12,1,2,25,30,57,https://book.douban.com/subject/6028258/,算法
+数据结构与算法分析,[美]MarkAllenWeiss,https://img1.doubanio.com/view/subject/s/public/s2210957.jpg,49.00,2007年,8.5,293,120,138,30,4,1,305,144,719,https://book.douban.com/subject/1971825/,算法
+算法概论,SanjoyDasgupta,https://img1.doubanio.com/view/subject/s/public/s29864468.jpg,39.99,2008-7,9.0,229,139,66,21,2,1,226,133,1131,https://book.douban.com/subject/3155710/,算法
+Introduction to Linear Optimization,DimitrisBertsimas,https://img3.doubanio.com/view/subject/s/public/s4106840.jpg,89.00,1997-02-01,9.1,70,52,14,2,1,1,71,37,243,https://book.douban.com/subject/2157943/,算法
+枕边算法书,[韩]林栢濬,https://img3.doubanio.com/view/subject/s/public/s29708822.jpg,45.00,2018-3,6.0,25,4,5,13,2,1,29,7,94,https://book.douban.com/subject/30163021/,算法
+现代密码学理论与实践,毛文波,https://img9.doubanio.com/view/subject/s/public/s1125646.jpg,49.0,2004-1,9.0,26,11,12,1,1,1,29,22,164,https://book.douban.com/subject/1172109/,算法
+Algorithms to Live By,BrianChristian,https://img1.doubanio.com/view/subject/s/public/s28679027.jpg,30.00,2016-4-19,8.3,256,95,107,48,5,1,249,132,1406,https://book.douban.com/subject/26783732/,算法
+计算的本质,[英]TomStuart,https://img9.doubanio.com/view/subject/s/public/s27637475.jpg,69.00,2014-11,8.6,180,101,58,18,1,2,172,112,1977,https://book.douban.com/subject/26148763/,算法
+组合数学,（美）RichardA.Brualdi,https://img3.doubanio.com/view/subject/s/public/s9064013.jpg,69.00,2012-5,9.2,78,49,25,2,1,1,73,42,472,https://book.douban.com/subject/10606626/,算法
+算法概论,SanjoyDasgupta,https://img3.doubanio.com/view/subject/s/public/s5978262.jpg,55.00,2009-1,9.0,127,81,36,8,1,1,146,68,524,https://book.douban.com/subject/3425827/,算法
+Numerical Linear Algebra,LloydN.Trefethen,https://img9.doubanio.com/view/subject/s/public/s4000214.jpg,61.00,1997-06-01,8.8,45,26,15,2,1,1,53,12,124,https://book.douban.com/subject/3638826/,算法
+Grokking Algorithms,AdityaBhargava,https://img9.doubanio.com/view/subject/s/public/s28284924.jpg,44.99,2015-12-31,9.0,87,53,27,5,1,1,73,36,263,https://book.douban.com/subject/26366784/,算法
+Algorithmic Trading,ErnieChan,https://img3.doubanio.com/view/subject/s/public/s25811852.jpg,75.00,2013-5-28,8.4,43,19,14,8,1,1,46,14,266,https://book.douban.com/subject/20559989/,算法
+算法设计手册,斯基恩纳,https://img1.doubanio.com/view/subject/s/public/s6078239.jpg,69.00,2009-9,9.1,45,28,13,2,1,1,34,50,817,https://book.douban.com/subject/4048566/,算法
+Programming Pearls,[美]JonBentley,https://img1.doubanio.com/view/subject/s/public/s27160437.jpg,44.99,1999-10-7,9.5,162,117,37,6,1,1,180,84,674,https://book.douban.com/subject/1484451/,算法
+Deep Learning,IanGoodfellow,https://img3.doubanio.com/view/subject/s/public/s29133163.jpg,72.00,2016-11-11,9.3,489,347,119,16,2,5,324,448,2157,https://book.douban.com/subject/26883982/,算法
+具体数学,RonaldL.Graham,https://img3.doubanio.com/view/subject/s/public/s26372180.jpg,99.00,2013-4-1,9.6,306,239,53,12,1,1,169,382,4530,https://book.douban.com/subject/21323941/,算法
+Introduction to Programming in Java,RobertSedgewick,https://img9.doubanio.com/view/subject/s/public/s3189664.jpg,89.00,2007-7-27,8.8,23,13,7,1,1,1,20,9,61,https://book.douban.com/subject/3152176/,算法
+如何求解问题,ZbigniewMichalewicz,https://img1.doubanio.com/view/subject/s/public/s1408357.jpg,35.00,2003-2-1,8.7,359,170,128,52,6,3,487,240,3863,https://book.douban.com/subject/1232071/,算法
+数据挖掘导论,Pang-NingTan,https://img1.doubanio.com/view/subject/s/public/s4548758.jpg,69.00,2010-12-10,8.1,513,182,239,78,7,7,466,359,2040,https://book.douban.com/subject/5377669/,算法
+搜索引擎,W.BruceCroft,https://img3.doubanio.com/view/subject/s/public/s6176453.jpg,56.00,2010-6-1,8.5,119,41,61,14,1,2,135,64,744,https://book.douban.com/subject/4861766/,算法
+Cracking the Coding Interview,GayleLaakmannMcDowell,https://img3.doubanio.com/view/subject/s/public/s23009623.jpg,39.95,2011-8-22,9.0,229,139,69,18,2,1,237,138,910,https://book.douban.com/subject/10436668/,算法
+算法之美,左飞,https://img3.doubanio.com/view/subject/s/public/s28388200.jpg,79.00,2016-3,8.0,17,6,3,4,3,1,16,10,109,https://book.douban.com/subject/26713270/,算法
+在线社交网络分析,方滨兴,https://img3.doubanio.com/view/subject/s/public/s27968471.jpg,79.00,2014-11-1,5.9,18,1,6,3,1,7,16,3,26,https://book.douban.com/subject/26286154/,算法
+从祖先到算法,[美]亚历克斯·本特利,https://img3.doubanio.com/view/subject/s/public/s33444472.jpg,58,2019-7-1,6.9,35,1,19,12,2,1,39,4,69,https://book.douban.com/subject/34261986/,算法
+Geometric Tools for Computer Graphics,PhilipSchneider,https://img1.doubanio.com/view/subject/s/public/s6773197.jpg,123.00,2002-10-10,8.6,17,7,3,5,1,1,17,23,65,https://book.douban.com/subject/2170925/,算法
+美团机器学习实践,美团算法团队,https://img1.doubanio.com/view/subject/s/public/s29841559.jpg,79.00,2018-8-1,8.3,130,36,67,23,3,1,126,57,670,https://book.douban.com/subject/30243136/,算法
+精通正则表达式,[美]JeffreyE·F·Friedl,https://img9.doubanio.com/view/subject/s/public/s2697984.jpg,75,2007,8.9,1068,611,349,96,7,5,1102,575,3571,https://book.douban.com/subject/2154713/,算法
+数据结构（C语言版 第2版）,严蔚敏,https://img1.doubanio.com/view/subject/s/public/s29157269.jpg,35.00,2015-2-1,7.6,20,4,8,4,2,2,18,8,16,https://book.douban.com/subject/26713328/,算法
+集体智慧编程,TobySegaran,https://img1.doubanio.com/view/subject/s/public/s28031189.jpg,79.00,2015-3,8.7,84,42,30,8,2,2,73,56,461,https://book.douban.com/subject/26348921/,算法
+算法设计与分析,王红梅,https://img3.doubanio.com/view/subject/s/public/s5776282.jpg,23.00,2006-7,6.2,12,1,3,4,3,1,14,2,5,https://book.douban.com/subject/1842439/,算法
+机器学习算法原理与编程实践,郑捷,https://img3.doubanio.com/view/subject/s/public/s28380753.jpg,88.00,2015-11,5.6,17,1,3,4,3,6,18,12,41,https://book.douban.com/subject/26667987/,算法
+学习JavaScript数据结构与算法,[巴西]格罗纳（LoianeGroner）,https://img9.doubanio.com/view/subject/s/public/s28314494.jpg,39.00,2015-10-1,7.9,126,36,66,21,2,1,124,43,326,https://book.douban.com/subject/26639401/,算法
+我的第一本算法书,[日]石田保辉,https://img3.doubanio.com/view/subject/s/public/s29901301.jpg,69.00,2018-10,7.2,178,66,72,36,3,1,195,43,506,https://book.douban.com/subject/30357170/,算法
+数据结构与算法分析,维斯,https://img1.doubanio.com/view/subject/s/public/s1827958.jpg,40.00,2004-8,7.4,22,4,8,8,1,1,23,11,28,https://book.douban.com/subject/1178140/,算法
+The Master Algorithm,PedroDomingos,https://img9.doubanio.com/view/subject/s/public/s28259686.jpg,29.99,2015-9-22,8.3,73,31,23,17,1,1,75,53,422,https://book.douban.com/subject/26575738/,算法
+机器学习,周志华,https://img1.doubanio.com/view/subject/s/public/s28735609.jpg,88.00,2016-1-1,8.7,2377,1194,852,268,42,21,1815,1690,8343,https://book.douban.com/subject/26708119/,算法
+线性代数及其应用（原书第5版）,[美]戴维C.雷,https://img1.doubanio.com/view/subject/s/public/s29854268.jpg,79.00,2018-7,9.2,45,34,7,2,1,1,30,43,297,https://book.douban.com/subject/30310517/,算法
+推荐系统算法实践,黄美灵著,https://img9.doubanio.com/view/subject/s/public/s33471236.jpg,89.00,2019-9,7.2,14,1,4,3,5,1,10,3,12,https://book.douban.com/subject/34809692/,算法
+Python Algorithms,MagnusLieHetland,https://img3.doubanio.com/view/subject/s/public/s6999960.jpg,49.99,2010-11-24,8.9,78,36,30,10,1,1,89,81,785,https://book.douban.com/subject/4915945/,算法
+计算机程序设计艺术（第3卷）,[美]DonaldKnuth,https://img9.doubanio.com/view/subject/s/public/s26278395.jpg,98.00,2002-9,9.9,47,39,5,1,1,1,86,32,566,https://book.douban.com/subject/1241037/,算法
+傅立叶分析导论,斯坦恩(EliasM.Stein),https://img3.doubanio.com/view/subject/s/public/s27435531.jpg,59.00,2013-1-1,9.8,34,28,3,1,1,1,26,22,157,https://book.douban.com/subject/20435906/,算法
+编程珠玑,JonBentley,https://img3.doubanio.com/view/subject/s/public/s4687321.jpg,39.00,2008-10,9.1,2057,1315,613,111,12,6,2145,1255,8727,https://book.douban.com/subject/3227098/,算法
+C++数值算法（第二版),WilliamT.Vetterling,https://img3.doubanio.com/view/subject/s/public/s1166212.jpg,68.00,2005年01月,8.7,15,7,4,2,1,1,29,7,63,https://book.douban.com/subject/1220122/,算法
+Mastering Algorithms with C,KyleLoudon,https://img3.doubanio.com/view/subject/s/public/s3568152.jpg,39.95,1999-08-05,8.3,36,12,19,3,1,1,32,32,100,https://book.douban.com/subject/1762507/,算法
+Out of their Minds,DennisShasha,https://img1.doubanio.com/view/subject/s/public/s4272267.jpg,16.00,1998-07-02,8.8,17,10,4,1,1,1,20,6,175,https://book.douban.com/subject/1439611/,算法
+算法图解,[美]AdityaBhargava,https://img9.doubanio.com/view/subject/s/public/s29358625.jpg,49.00,2017-3,8.4,1602,694,703,190,11,4,1553,474,2818,https://book.douban.com/subject/26979890/,算法
+Elements of Programming Interviews,AdnanAziz,https://img9.doubanio.com/view/subject/s/public/s29274025.jpg,39.95,2012-10-11,9.5,35,26,5,2,1,1,30,34,340,https://book.douban.com/subject/20962468/,算法
+算法帝国,[美]克里斯托弗·斯坦纳,https://img1.doubanio.com/view/subject/s/public/s27277427.jpg,49.00,2014-6,7.2,418,82,154,151,24,7,446,94,1911,https://book.douban.com/subject/25854872/,算法
+C语言名题精选百则技巧篇,冼镜光,https://img1.doubanio.com/view/subject/s/public/s26597278.jpg,44.00,2005-7,9.0,51,34,12,3,1,1,69,47,499,https://book.douban.com/subject/1400498/,算法
+数据结构（C语言版）,严蔚敏,https://img3.doubanio.com/view/subject/s/public/s26540471.jpg,29.00,2012-5,6.4,240,31,62,72,40,35,245,60,161,https://book.douban.com/subject/24699581/,算法
+统计学习基础(第2版)(英文),TrevorHastie,https://img3.doubanio.com/view/subject/s/public/s27939722.jpg,102.80,2015-1-1,9.3,57,42,12,1,1,1,40,65,485,https://book.douban.com/subject/26278331/,算法
+计算机算法基础,余祥宣、崔国华、邹海明,https://img1.doubanio.com/view/subject/s/public/s8819979.jpg,29.80,2006-4,3.8,28,1,1,5,2,19,29,5,4,https://book.douban.com/subject/1815995/,算法
+深入理解OpenCV,[巴西]DanielLelisBaggio,https://img1.doubanio.com/view/subject/s/public/s27513439.jpg,59,2014-9,6.6,14,3,6,3,1,1,17,8,64,https://book.douban.com/subject/26028176/,算法
+算法引论,[美]乌迪·曼博(UdiManber),https://img1.doubanio.com/view/subject/s/public/s4230097.jpg,36.00,2010-1,8.8,46,18,24,2,1,1,37,25,554,https://book.douban.com/subject/4178907/,算法
+算法设计指南,斯蒂文·斯金纳,https://img1.doubanio.com/view/subject/s/public/s29498317.jpg,69.00,2017-7-1,7.2,15,5,5,3,1,1,14,14,122,https://book.douban.com/subject/27092363/,算法
+程序设计实践,[美]BrianW.Kernighan,https://img3.doubanio.com/view/subject/s/public/s24431930.jpg,20.00,2000-8,9.1,473,295,144,32,1,1,576,145,2950,https://book.douban.com/subject/1173548/,算法
+Python Machine Learning,SebastianRaschka,https://img9.doubanio.com/view/subject/s/public/s28303775.jpg,44.99,2015-9,8.1,59,25,22,9,2,1,55,28,247,https://book.douban.com/subject/26629312/,算法
+python学习手册（原书第5版）,马克·卢茨,https://img1.doubanio.com/view/subject/s/public/s29908749.jpg,219,2018-10,8.4,37,18,14,3,1,1,22,32,201,https://book.douban.com/subject/30364619/,算法
+大话数据结构,程杰,https://img3.doubanio.com/view/subject/s/public/s6382631.jpg,59.00,2011-6,7.9,1249,391,560,224,48,26,1267,526,2029,https://book.douban.com/subject/6424904/,算法
+C语言接口与实现,(美)DavidR.Hanson,https://img1.doubanio.com/view/subject/s/public/s4429737.jpg,79.00,2010-8,8.9,54,30,17,5,1,1,50,40,388,https://book.douban.com/subject/4908227/,算法
+Data Structures and Algorithms Using Python,RanceD.Necaise,https://img9.doubanio.com/view/subject/s/public/s6862286.jpg,730.00,2010-12-21,7.1,47,12,12,21,1,1,46,32,98,https://book.douban.com/subject/6789516/,算法
+终极算法,[美]佩德罗·多明戈斯,https://img3.doubanio.com/view/subject/s/public/s29237441.jpg,68.00,2017-1-1,7.1,739,137,253,244,74,31,677,312,2260,https://book.douban.com/subject/26931905/,算法
+程序员的数学3,[日]平冈和幸,https://img9.doubanio.com/view/subject/s/public/s28487645.jpg,79.00,2016-3,8.5,162,67,69,22,3,1,139,132,1193,https://book.douban.com/subject/26740548/,算法
+离散数学及其应用(原书第4版),[美]KennethH·Rosen,https://img1.doubanio.com/view/subject/s/public/s1198109.jpg,75.00,2002-1-1,9.3,39,22,12,3,1,1,53,23,94,https://book.douban.com/subject/1231690/,算法
+数学建模算法与应用,司守奎,https://img9.doubanio.com/view/subject/s/public/s7640736.jpg,49.00,2011-8,8.2,43,19,18,4,1,1,52,11,232,https://book.douban.com/subject/6828678/,算法
+剑指Offer,何海涛,https://img9.doubanio.com/view/subject/s/public/s7038106.jpg,45.00,2012-1,8.3,754,328,329,91,3,3,815,255,1668,https://book.douban.com/subject/6966465/,算法
+算法问题实战策略,[韩]具宗万,https://img1.doubanio.com/view/subject/s/public/s27997297.jpg,119.00,2015-2,9.1,20,11,4,3,1,1,14,20,330,https://book.douban.com/subject/26315483/,算法
+Introduction to the Theory of Computation,MichaelSipser,https://img9.doubanio.com/view/subject/s/public/s27993644.jpg,271.95,2012-6-27,9.2,40,28,9,1,1,1,41,16,133,https://book.douban.com/subject/12986396/,算法
+组合数学,布鲁迪,https://img3.doubanio.com/view/subject/s/public/s6324602.jpg,45.00,2005-2,8.7,317,128,155,32,1,1,375,138,883,https://book.douban.com/subject/1231452/,算法
+数学之美 （第二版）,吴军,https://img1.doubanio.com/view/subject/s/public/s29961188.jpg,49.00,2014-11,8.9,3566,1998,1284,256,21,7,3367,1278,7831,https://book.douban.com/subject/26163454/,算法
+OpenCV计算机视觉编程攻略（第2版）,[加]RobertLaganière,https://img1.doubanio.com/view/subject/s/public/s28278007.jpg,59.00,2015-9,7.5,14,3,6,3,1,1,11,4,25,https://book.douban.com/subject/26593810/,算法
+计算机考研,王道论坛组编,https://img1.doubanio.com/view/subject/s/public/s33548477.jpg,36,2014-1,8.6,14,6,4,2,1,1,13,3,16,https://book.douban.com/subject/25828595/,算法
+From Mathematics to Generic Programming,AlexanderA.Stepanov,https://img9.doubanio.com/view/subject/s/public/s27767454.jpg,39.99,2011-9-13,8.1,22,12,6,2,1,1,24,15,361,https://book.douban.com/subject/25882201/,算法
+Google&#39;s PageRank and Beyond,AmyN.Langville,https://img1.doubanio.com/view/subject/s/public/s4227237.jpg,57.50,2006-7-23,9.3,22,15,4,1,1,1,26,10,139,https://book.douban.com/subject/1484710/,算法
+数学拾遗,加黑蒂,https://img3.doubanio.com/view/subject/s/public/s5710990.jpg,49.00,2004-8,8.6,31,15,9,5,1,1,40,19,451,https://book.douban.com/subject/1256358/,算法
+C++ Primer 中文版（第 4 版）,StanleyB.Lippman,https://img9.doubanio.com/view/subject/s/public/s1638975.jpg,99.00,2006,9.2,4283,2859,1185,205,17,17,4676,1900,5053,https://book.douban.com/subject/1767741/,算法
+编程之美,《编程之美》小组编,https://img3.doubanio.com/view/subject/s/public/s2992671.jpg,40.00,2008-3,8.4,3153,1123,1559,422,34,15,3404,1637,8513,https://book.douban.com/subject/3004255/,算法
+学习JavaScript数据结构与算法（第3版）,[巴西]洛伊安妮·格罗纳,https://img1.doubanio.com/view/subject/s/public/s32315839.jpg,69.00,2019-5,8.5,17,8,4,2,2,1,13,9,43,https://book.douban.com/subject/33441631/,算法
+Python算法教程,[挪威]MagnusLieHetland赫特兰,https://img1.doubanio.com/view/subject/s/public/s28385297.jpg,69.00,2016-1-1,7.8,71,15,25,13,13,5,62,44,305,https://book.douban.com/subject/26699412/,算法
+机器学习实践指南,麦好,https://img1.doubanio.com/view/subject/s/public/s27310317.jpg,69.00,2014-4-1,6.1,43,19,8,9,5,2,45,13,71,https://book.douban.com/subject/25879705/,算法
+Data Structures and Algorithms with JavaScript,MichaelMcMillan,https://img1.doubanio.com/view/subject/s/public/s27177628.jpg,28.51,2014-2-22,7.4,16,1,3,10,1,1,19,3,66,https://book.douban.com/subject/25790981/,算法
+计算智能导论,英吉布雷切特,https://img3.doubanio.com/view/subject/s/public/s6188053.jpg,59.00,2010-6,7.4,14,4,3,5,1,1,14,11,60,https://book.douban.com/subject/4898375/,算法
+Recommender Systems,DietmarJannach,https://img1.doubanio.com/view/subject/s/public/s29054979.jpg,79.99,2010-9-30,8.1,27,12,8,5,1,1,30,21,255,https://book.douban.com/subject/5410320/,算法
+计算机真实感图形的算法基础,彭群生,https://img1.doubanio.com/view/subject/s/public/s6460348.jpg,45.00,1999-6,7.0,17,2,8,5,1,1,18,7,30,https://book.douban.com/subject/1553557/,算法
+数据结构与算法分析,[美]MarkAllenWeiss,https://img9.doubanio.com/view/subject/s/public/s29177195.jpg,89.00,2016-8,6.4,17,5,3,3,1,5,7,19,18,https://book.douban.com/subject/26910665/,算法
+AI极简经济学,阿杰伊·阿格拉沃尔,https://img1.doubanio.com/view/subject/s/public/s29909578.jpg,58.00,2018-12,7.4,223,49,101,63,9,1,218,59,746,https://book.douban.com/subject/30416291/,算法
+阿里巴巴Java开发手册,杨冠宝,https://img3.doubanio.com/view/subject/s/public/s29640312.jpg,35,2018-1,8.5,155,68,73,12,1,1,176,36,280,https://book.douban.com/subject/27605355/,算法
+怎样解题,[美]G·波利亚,https://img9.doubanio.com/view/subject/s/public/s3308655.jpg,16.00,2007-5,8.8,1788,999,580,179,23,7,1960,780,11427,https://book.douban.com/subject/2124114/,算法
+深入浅出强化学习：原理入门,郭宪,https://img3.doubanio.com/view/subject/s/public/s29660191.jpg,79,2018-1,5.0,39,1,7,11,12,8,43,9,32,https://book.douban.com/subject/27624485/,算法
+组合数学,卢开澄,https://img9.doubanio.com/view/subject/s/public/s1827556.jpg,19.8,2002-7-1,7.6,91,26,36,23,3,3,105,23,57,https://book.douban.com/subject/1229715/,算法
+计算机图形学原理及实践:C语言描述(原书第2版) (平装),福利,https://img3.doubanio.com/view/subject/s/public/s9865582.jpg,95.0,2004-3,8.1,13,3,7,1,1,1,23,14,240,https://book.douban.com/subject/1230412/,算法
+数据结构与算法,卓滋德克,https://img9.doubanio.com/view/subject/s/public/s1089885.jpg,69.00,2003-4-1,7.7,15,1,10,2,1,1,24,3,20,https://book.douban.com/subject/1106837/,算法
+Cracking the Coding Interview,GayleLaakmannMcDowell,https://img9.doubanio.com/view/subject/s/public/s29498936.jpg,39.95,2015-7-1,8.9,67,35,25,5,1,1,72,76,236,https://book.douban.com/subject/26570695/,算法
+Hacker&#39;s Delight,HenryS.WarrenJr.,https://img3.doubanio.com/view/subject/s/public/s2405972.jpg,59.99,2002-7-27,9.3,61,42,15,2,1,1,58,52,1404,https://book.douban.com/subject/1784887/,算法
+Concrete Mathematics,RonaldL.Graham,https://img3.doubanio.com/view/subject/s/public/s3224520.jpg,89.99,1994-3-10,9.8,137,117,14,4,1,1,97,117,737,https://book.douban.com/subject/1390010/,算法
+知识图谱：方法、实践与应用,王昊奋,https://img3.doubanio.com/view/subject/s/public/s33453083.jpg,118.00,2019-8,7.4,25,3,7,12,2,1,21,17,136,https://book.douban.com/subject/34788903/,算法
+计算机程序的构造和解释,HaroldAbelson,https://img9.doubanio.com/view/subject/s/public/s1113106.jpg,45.00,2004-2,9.5,2306,1816,385,90,6,9,1683,2185,16344,https://book.douban.com/subject/1148282/,算法
+Pearls of Functional Algorithm Design,RichardBird,https://img3.doubanio.com/view/subject/s/public/s4483683.jpg,68.00,2010-11-1,9.2,27,12,9,4,1,1,34,26,233,https://book.douban.com/subject/5290339/,算法
+Bayesian Methods for Hackers,CameronDavidson-Pilon,https://img3.doubanio.com/view/subject/s/public/s27967092.jpg,39.99,2015-5-10,8.5,20,6,9,3,1,1,25,15,108,https://book.douban.com/subject/26284941/,算法
+深度学习,[美]伊恩·古德费洛,https://img1.doubanio.com/view/subject/s/public/s29518349.jpg,168,2017-7-1,8.4,873,435,280,105,26,27,542,854,4650,https://book.douban.com/subject/27087503/,算法
+算法导论,[美]ThomasH.Cormen,https://img1.doubanio.com/view/subject/s/public/s1770428.jpg,68.00,2002-5,9.5,909,707,167,31,1,3,920,468,2474,https://book.douban.com/subject/1152912/,算法
+信息学奥林匹克教程·提高篇,吴耀斌,https://img1.doubanio.com/view/subject/s/public/s9086219.jpg,24.00,2003-1,6.9,17,3,3,7,3,1,18,2,17,https://book.douban.com/subject/1123537/,算法
+The Probabilistic Method,NogaAlon,https://img1.doubanio.com/view/subject/s/public/s9009788.jpg,137.00,2008-8-11,9.8,27,21,2,2,1,1,13,19,97,https://book.douban.com/subject/3177211/,算法
+算法技术手册(原书第2版),GeorgeT.Heineman,https://img1.doubanio.com/view/subject/s/public/s29561947.jpg,89.00,2017-8-1,7.6,14,4,6,1,2,1,8,8,34,https://book.douban.com/subject/27123062/,算法
+算法设计,JonKleinberg,https://img1.doubanio.com/view/subject/s/public/s2349297.jpg,75.00,2007-3-1,8.4,175,60,80,26,7,2,212,101,752,https://book.douban.com/subject/2035809/,算法
+STL源码剖析,侯捷,https://img9.doubanio.com/view/subject/s/public/s1092076.jpg,68.00,2002-6,8.7,1312,702,470,127,6,7,1503,534,2969,https://book.douban.com/subject/1110934/,算法
+计算机程序设计艺术,[美]DonaldKnuth,https://img9.doubanio.com/view/subject/s/public/s28357866.jpg,198,2016-1-1,9.5,30,24,3,1,1,1,30,36,887,https://book.douban.com/subject/26681685/,算法
+计算机程序设计艺术卷1：基本算法(英文版.第3版),[美]DonaldKnuth,https://img9.doubanio.com/view/subject/s/public/s4466066.jpg,119.00,2010-10,9.6,33,26,4,1,1,1,29,49,342,https://book.douban.com/subject/5258931/,算法
+人月神话,[美]弗雷德里克·布鲁克斯,https://img9.doubanio.com/view/subject/s/public/s1086045.jpg,29.80,2002-11,8.4,3208,1272,1420,475,35,6,4390,966,8921,https://book.douban.com/subject/1102259/,算法
+计算几何,邓俊辉,https://img9.doubanio.com/view/subject/s/public/s6052714.jpg,49.00,2009-6,8.9,48,18,22,6,1,1,55,51,543,https://book.douban.com/subject/3893574/,算法
+统计自然语言处理,宗成庆,https://img9.doubanio.com/view/subject/s/public/s3394465.jpg,66.00,2008-5,8.0,115,30,56,27,1,1,127,47,435,https://book.douban.com/subject/3076996/,算法
+迷茫的旅行商,[美]WilliamJ.Cook,https://img1.doubanio.com/view/subject/s/public/s27028577.jpg,49.00,2013-10-1,8.2,207,69,99,35,3,1,218,65,903,https://book.douban.com/subject/25713498/,算法
+MATLAB智能算法30个案例分析,史峰,https://img9.doubanio.com/view/subject/s/public/s27252585.jpg,39.00,2011-7-1,8.0,43,14,18,7,1,3,47,25,196,https://book.douban.com/subject/6793652/,算法
+Computer Age Statistical Inference,BradleyEfron,https://img1.doubanio.com/view/subject/s/public/s28952268.jpg,74.99,2016-7-21,8.9,23,12,8,1,1,1,13,29,243,https://book.douban.com/subject/26797864/,算法
+趣学算法,陈小玉,https://img9.doubanio.com/view/subject/s/public/s29513356.jpg,89.00,2017-7-1,9.0,32,16,13,1,1,1,20,26,185,https://book.douban.com/subject/27109832/,算法
+深入理解计算机系统（原书第2版）,（美）RandalE.Bryant,https://img9.doubanio.com/view/subject/s/public/s4510534.jpg,99.00,2011-1-1,9.7,2478,2136,302,37,2,1,1870,1849,10154,https://book.douban.com/subject/5333562/,算法
+垃圾收集,琼斯,https://img3.doubanio.com/view/subject/s/public/s9874573.jpg,45.00,2004-4-1,8.6,58,25,22,9,1,1,69,20,581,https://book.douban.com/subject/1157908/,算法
+Tensorflow：实战Google深度学习框架,郑泽宇,https://img3.doubanio.com/view/subject/s/public/s29349250.jpg,79,2017-2-10,8.0,264,80,105,62,8,9,250,122,722,https://book.douban.com/subject/26976457/,算法
+神经网络设计,戴葵,https://img3.doubanio.com/view/subject/s/public/s1581911.jpg,49.0,2007-09-01,8.9,151,81,51,17,1,1,198,121,1252,https://book.douban.com/subject/1115600/,算法
+数据结构与算法,许卓群,https://img9.doubanio.com/view/subject/s/public/s27047085.jpg,29.50,2004-1,7.8,40,10,15,12,2,1,58,22,44,https://book.douban.com/subject/1682925/,算法
+深度学习核心技术与实践,猿辅导研究团队,https://img1.doubanio.com/view/subject/s/public/s29705589.jpg,119.00,2018-2,6.6,19,6,4,4,4,1,15,7,61,https://book.douban.com/subject/30159603/,算法
+Data Structures and Algorithm Analysis in Java,MarkA.Weiss,https://img9.doubanio.com/view/subject/s/public/s29772486.jpg,129.99,2011-11-18,8.9,22,10,8,2,1,1,16,18,61,https://book.douban.com/subject/10530466/,算法
+Theory of Distributions for Locally Compact Spaces,L.Ehrenpreis,https://img3.doubanio.com/view/subject/s/public/s24524883.jpg,23.95,1956-12-30,9.6,49,40,6,1,1,1,33,36,451,https://book.douban.com/subject/20472991/,算法
+Spark大数据分析实战,高彦杰,https://img3.doubanio.com/view/subject/s/public/s28980852.jpg,59.00,2016-1-1,5.9,16,4,1,5,2,4,18,2,9,https://book.douban.com/subject/26856583/,算法
+Data Structures and Algorithm Analysis in C (2nd Edition),[美]MarkAllenWeiss,https://img1.doubanio.com/view/subject/s/public/s3597187.jpg,95.00,1996-09-19,8.7,76,45,23,6,1,1,63,52,239,https://book.douban.com/subject/1237002/,算法
+The Art of Concurrency,ClayBreshears,https://img9.doubanio.com/view/subject/s/public/s7042244.jpg,44.99,2009-5-22,7.0,16,2,2,10,1,1,15,10,69,https://book.douban.com/subject/3572912/,算法
+算法引论,[美]UdiManber,https://img9.doubanio.com/view/subject/s/public/s1755236.jpg,35.00,2005-9-1,9.1,194,118,58,15,2,1,296,112,1504,https://book.douban.com/subject/1436134/,算法
+数据结构算法与应用,塞尼,https://img9.doubanio.com/view/subject/s/public/s1082996.jpg,49.00,1999-3,7.4,11,2,5,2,1,1,12,6,10,https://book.douban.com/subject/1071598/,算法
+算法精解,KyleLoudon,https://img9.doubanio.com/view/subject/s/public/s11351454.jpg,79.00,2012-8,8.0,134,53,53,24,3,1,130,102,614,https://book.douban.com/subject/14267904/,算法
+凸优化,StephenBoyd,https://img9.doubanio.com/view/subject/s/public/s33318114.jpg,99.00,2013-1,9.4,173,124,39,8,1,1,122,173,1168,https://book.douban.com/subject/21249088/,算法
+Data Structures and Algorithms in Java,RobertLafore,https://img3.doubanio.com/view/subject/s/public/s1681741.jpg,64.99,2002-11-06,8.7,23,10,10,1,1,1,23,13,46,https://book.douban.com/subject/1610337/,算法
+基于开源工具的数据分析,PhilippK.Janert,https://img1.doubanio.com/view/subject/s/public/s6709327.jpg,82.00,2011-5,6.9,17,3,6,6,1,1,13,20,254,https://book.douban.com/subject/6524001/,算法
+统计学习方法,李航,https://img3.doubanio.com/view/subject/s/public/s9108113.jpg,38.00,2012-3,9.0,2048,1278,627,127,12,4,1858,1117,8047,https://book.douban.com/subject/10590856/,算法
+组合数学教程,范林特,https://img3.doubanio.com/view/subject/s/public/s2382871.jpg,49.00,2007-4,9.0,45,22,16,5,1,1,40,26,217,https://book.douban.com/subject/2044626/,算法
+Data Structures and Algorithms in Python,MichaelT.Goodrich,https://img3.doubanio.com/view/subject/s/public/s26262212.jpg,121.23,2013-7-5,9.5,74,54,17,1,1,1,56,92,727,https://book.douban.com/subject/10607365/,算法
+你也能看得懂的Python算法书,王硕，董文馨，张舒行，张洁著,https://img1.doubanio.com/view/subject/s/public/s29917368.jpg,59.00,2018-11-1,6.7,22,11,1,5,4,1,24,13,46,https://book.douban.com/subject/30373386/,算法
+Algorithm Design,JonKleinberg,https://img3.doubanio.com/view/subject/s/public/s4252063.jpg,144.20,2005-3-26,9.0,204,127,58,15,3,1,239,112,611,https://book.douban.com/subject/1475870/,算法
+Java算法,塞奇威克,https://img1.doubanio.com/view/subject/s/public/s9893857.jpg,59.0,2004-06-01,7.8,21,8,7,4,1,1,27,15,42,https://book.douban.com/subject/1173416/,算法
+Secrets of Mental Math,ArthurBenjamin,https://img3.doubanio.com/view/subject/s/public/s2665771.jpg,14.00,2006-8-8,9.6,27,17,6,2,1,1,36,17,53,https://book.douban.com/subject/2223004/,算法
+算法之道(第2版),邹恒明,https://img3.doubanio.com/view/subject/s/public/s8995423.jpg,59.00,2012-4-20,8.8,26,10,8,6,1,1,30,16,102,https://book.douban.com/subject/10564644/,算法
+数据结构与算法分析,韦斯(MarkAllenWeiss),https://img3.doubanio.com/view/subject/s/public/s28318872.jpg,55.00,2009-1-1,8.4,257,107,94,49,5,2,251,218,918,https://book.douban.com/subject/3351237/,算法
+机器学习系统设计,[德]WilliRichert,https://img3.doubanio.com/view/subject/s/public/s27296520.jpg,49.00,2014-7-1,7.5,97,18,48,29,1,1,92,47,469,https://book.douban.com/subject/25899625/,算法
+应用随机过程教程及在算法和智能计算中的随机模型,龚光鲁,https://img9.doubanio.com/view/subject/s/public/s9866904.jpg,42.00,2004-3,6.8,18,3,4,6,4,1,22,6,22,https://book.douban.com/subject/1230423/,算法
+深入浅出密码学,ChristofPaar,https://img9.doubanio.com/view/subject/s/public/s24951306.jpg,59.00,2012-9,8.8,36,16,15,3,1,1,44,22,347,https://book.douban.com/subject/19986936/,算法
+机器学习导论,［美］米罗斯拉夫·库巴特,https://img9.doubanio.com/view/subject/s/public/s29221575.jpg,79.00,2016-11-1,6.7,17,3,5,5,3,1,15,12,20,https://book.douban.com/subject/26936258/,算法
+计算机图形学几何工具算法详解,史奈德,https://img3.doubanio.com/view/subject/s/public/s1301313.jpg,89.00,2005-1-1,8.3,32,12,14,4,1,1,31,25,288,https://book.douban.com/subject/1224798/,算法
+组合数学,RichardA.Brualdi,https://img9.doubanio.com/view/subject/s/public/s6394036.jpg,49.00,2009-3,8.9,39,21,13,3,1,1,46,31,155,https://book.douban.com/subject/3651403/,算法
+计算机程序设计艺术（第1卷）,[美]DonaldKnuth,https://img3.doubanio.com/view/subject/s/public/s9773641.jpg,80.00,2002-9,9.4,472,344,86,40,1,1,490,424,5513,https://book.douban.com/subject/1130500/,算法
+计算理论基础,HarryR.Lewis,https://img9.doubanio.com/view/subject/s/public/s5777015.jpg,29.00,2006-7,8.7,38,15,13,6,3,1,63,19,146,https://book.douban.com/subject/1896758/,算法
+Programming Computer Vision with Python,JanErikSolem,https://img3.doubanio.com/view/subject/s/public/s9040411.jpg,39.99,2012-6-22,8.7,22,10,8,2,1,1,23,11,87,https://book.douban.com/subject/10574101/,算法
+12堂趣味逻辑课,高洁,https://img9.doubanio.com/view/subject/s/public/s33313085.jpg,49,2019-7-15,5.3,64,7,7,28,18,4,67,11,458,https://book.douban.com/subject/34451555/,算法
+Nine Algorithms That Changed the Future,JohnMacCormick,https://img9.doubanio.com/view/subject/s/public/s7118015.jpg,19.95,2011-12-27,8.5,68,27,28,11,1,1,71,29,543,https://book.douban.com/subject/6905019/,算法
+算法笔记,胡凡,https://img1.doubanio.com/view/subject/s/public/s29460367.jpg,65,2016-7,9.3,201,149,44,6,1,1,140,110,548,https://book.douban.com/subject/26827295/,算法
+Professional Android 4 Application Development,RetoMeier,https://img1.doubanio.com/view/subject/s/public/s9064518.jpg,44.99,2012-5-1,7.3,19,5,7,5,1,1,13,19,28,https://book.douban.com/subject/6915691/,算法
+白话大数据与机器学习,高扬,https://img9.doubanio.com/view/subject/s/public/s28878966.jpg,69,2016-6,7.3,216,37,102,66,8,3,196,77,350,https://book.douban.com/subject/26832701/,算法
+永恒的图灵：20位科学家对图灵思想的解构与超越,[美]S.巴里·库珀（S.BarryCooper）安德鲁·霍奇斯,https://img1.doubanio.com/view/subject/s/public/s29759837.jpg,119.00,2018-4-1,9.5,17,12,2,1,1,1,13,19,473,https://book.douban.com/subject/30213638/,算法
+Artificial Intelligence,StuartRussell,https://img3.doubanio.com/view/subject/s/public/s2788512.jpg,132.00,2002-12-30,8.9,82,43,32,5,1,1,88,18,370,https://book.douban.com/subject/1229949/,算法
+合适,[日]坂井丰贵,https://img9.doubanio.com/view/subject/s/public/s29052664.jpg,38.00,2016-10,7.8,1022,278,463,235,33,13,1054,240,10345,https://book.douban.com/subject/26877827/,算法
+植物的算法美,（加）普鲁辛凯维奇，（加）林德梅叶,https://img9.doubanio.com/view/subject/s/public/s5910214.jpg,48.00,2008-5,7.7,14,7,4,1,1,1,34,3,172,https://book.douban.com/subject/3117569/,算法
+Thirty-three Miniatures,JiříMatoušek,https://img1.doubanio.com/view/subject/s/public/s6387969.jpg,24.60,2010-6-18,9.1,18,12,2,2,1,1,13,7,57,https://book.douban.com/subject/4887757/,算法
+数学与泛型编程,［美］亚历山大A.斯捷潘诺夫（AlexanderA.Stepanov）,https://img9.doubanio.com/view/subject/s/public/s29519335.jpg,79,2017-8,9.2,32,17,6,6,2,1,34,17,544,https://book.douban.com/subject/27116151/,算法
+离散数学及其应用（原书第5版）,[美]KennethH·Rosen,https://img1.doubanio.com/view/subject/s/public/s10355117.jpg,79.00,2007-6,9.1,623,393,187,41,1,1,679,343,4824,https://book.douban.com/subject/2130743/,算法
+白话机器学习算法,[新加坡]黄莉婷,https://img1.doubanio.com/view/subject/s/public/s29987058.jpg,49.00,2019-2,6.6,43,6,16,16,4,1,45,7,95,https://book.douban.com/subject/30442187/,算法
+编程珠玑,[美]JonBentley,https://img9.doubanio.com/view/subject/s/public/s2170174.jpg,28.0,2006-11,9.2,403,265,120,16,1,1,417,174,1334,https://book.douban.com/subject/1910326/,算法
+Uberland,AlexRosenblat,https://img1.doubanio.com/view/subject/s/public/s29903987.jpg,21.00,2018-11-19,7.4,12,1,5,4,1,1,13,6,164,https://book.douban.com/subject/30360103/,算法
+统计思维：程序员数学之概率统计,AllenB.Downey,https://img1.doubanio.com/view/subject/s/public/s26539958.jpg,29.00,2013-5,6.7,156,11,48,66,28,3,165,64,727,https://book.douban.com/subject/24381562/,算法
+剑指Offer,何海涛,https://img9.doubanio.com/view/subject/s/public/s27991506.jpg,55.00,2014-6-1,9.2,188,115,63,8,1,1,193,76,540,https://book.douban.com/subject/25910559/,算法
+算法基础,[美]托马斯H.科尔曼（ThomasH.Cormen）,https://img9.doubanio.com/view/subject/s/public/s28372014.jpg,59.00,2015-12,8.1,42,13,17,10,1,1,35,33,147,https://book.douban.com/subject/26696971/,算法
+数据结构与算法JavaScript描述,[美]MichaelMcMillan,https://img1.doubanio.com/view/subject/s/public/s27371758.jpg,49.00,2014-8,6.5,132,11,28,61,19,13,132,60,206,https://book.douban.com/subject/25945449/,算法
+编程原本,AlexanderStepanov,https://img3.doubanio.com/view/subject/s/public/s7027640.jpg,59.00,2012-1-10,8.6,77,33,33,9,1,1,71,76,1351,https://book.douban.com/subject/7564093/,算法
+程序设计抽象思想,EricS.Roberts,https://img1.doubanio.com/view/subject/s/public/s7617437.jpg,78.00,2005-6,8.9,27,13,10,2,1,1,28,20,243,https://book.douban.com/subject/1391000/,算法
+The Culture of Connectivity,JosevanDijck,https://img1.doubanio.com/view/subject/s/public/s27771428.jpg,24.95,2013-1-30,7.8,16,3,7,4,1,1,24,5,107,https://book.douban.com/subject/20014879/,算法
+统计学习理论,VladimirN.Vapnik,https://img9.doubanio.com/view/subject/s/public/s28075064.jpg,99.00,2015-4-1,8.9,16,7,6,1,1,1,13,12,107,https://book.douban.com/subject/26392541/,算法
+妙趣横生的算法,杨峰,https://img1.doubanio.com/view/subject/s/public/s6147677.jpg,49.00,2010-4,7.6,47,9,20,13,3,2,72,13,151,https://book.douban.com/subject/4710825/,算法
+Understanding Machine Learning,ShaiShalev-Shwartz,https://img3.doubanio.com/view/subject/s/public/s27236380.jpg,48.51,2014,8.3,43,27,10,4,1,1,27,64,310,https://book.douban.com/subject/25737750/,算法
+Computers and Intractability,MRGarey,https://img3.doubanio.com/view/subject/s/public/s4263233.jpg,53.99,1979-4-26,9.6,37,32,2,1,1,1,28,17,221,https://book.douban.com/subject/2330824/,算法
+强化学习精要,冯超,https://img3.doubanio.com/view/subject/s/public/s29760871.jpg,80,2018-6,6.7,16,1,1,12,1,1,11,13,41,https://book.douban.com/subject/30214611/,算法
+数据结构,殷人昆,https://img9.doubanio.com/view/subject/s/public/s22791934.jpg,39.00,2007-6,6.2,115,17,24,43,14,17,133,20,64,https://book.douban.com/subject/2162035/,算法
+编程珠玑（续）（修订版）,【美】JonBentley乔恩•本特利,https://img9.doubanio.com/view/subject/s/public/s28355225.jpg,35.00,2015-2,8.5,30,12,9,3,5,1,27,22,157,https://book.douban.com/subject/26302596/,算法
+统计学习方法（第2版）,李航,https://img9.doubanio.com/view/subject/s/public/s32312905.jpg,98.00,2019-5-1,9.1,151,102,38,9,1,1,84,155,772,https://book.douban.com/subject/33437381/,算法
+ACM程序设计,曾棕根,https://img1.doubanio.com/view/subject/s/public/s6637387.jpg,34.00,2011-4,7.0,17,1,5,9,1,1,19,5,14,https://book.douban.com/subject/6379918/,算法
+Beautiful Code,GregWilson,https://img9.doubanio.com/view/subject/s/public/s2653286.jpg,35.99,2007-7-6,8.0,120,30,66,18,5,1,136,115,756,https://book.douban.com/subject/2023370/,算法
+大数据日知录,张俊林,https://img9.doubanio.com/view/subject/s/public/s27464965.jpg,69.00,2014-9,8.2,257,89,116,44,5,3,256,105,1247,https://book.douban.com/subject/25984046/,算法
+算法与数据结构,张乃孝,https://img9.doubanio.com/view/subject/s/public/s6236175.jpg,31.00,2006-1,6.9,43,6,12,22,2,1,45,3,31,https://book.douban.com/subject/1728541/,算法
+机器学习实战：基于Scikit-Learn和TensorFlow,AurélienGéron,https://img3.doubanio.com/view/subject/s/public/s29881150.jpg,119.00,2018-8,8.5,96,48,31,7,6,4,71,85,407,https://book.douban.com/subject/30317874/,算法
+密码学概论(中文版),wadetrappe,https://img1.doubanio.com/view/subject/s/public/s9889659.jpg,38.00,2004-6-1,8.2,27,8,15,2,1,1,29,8,173,https://book.douban.com/subject/1170091/,算法
+运筹学导论,HamdyA.Taha,https://img1.doubanio.com/view/subject/s/public/s3403817.jpg,69.00,2008-7-15,8.9,51,16,26,7,1,1,50,30,498,https://book.douban.com/subject/3151792/,算法
+算法,RobertSedgewick,https://img1.doubanio.com/view/subject/s/public/s8938479.jpg,99.00,2012-3-5,9.3,682,512,151,15,2,2,447,618,3654,https://book.douban.com/subject/10432347/,算法
+编程珠玑（第2版•修订版）,[美]JonBentley乔恩•本特利,https://img1.doubanio.com/view/subject/s/public/s27984539.jpg,39,2014-12,8.4,212,81,107,19,4,1,171,173,546,https://book.douban.com/subject/26302533/,算法
+数学女孩4,结城浩,https://img9.doubanio.com/view/subject/s/public/s32318236.jpg,69.00,2019-5,8.1,30,16,8,4,1,1,25,11,121,https://book.douban.com/subject/33444625/,算法
+ODPS权威指南,李妹芳,https://img1.doubanio.com/view/subject/s/public/s27966837.jpg,69,2014-12,7.4,37,6,13,12,5,1,44,7,70,https://book.douban.com/subject/26284706/,算法
+Python Cookbook 中文版，第 3 版,DavidM.Beazley,https://img3.doubanio.com/view/subject/s/public/s28259942.jpg,108.00,2015-5-1,9.3,258,170,76,9,2,1,210,188,1338,https://book.douban.com/subject/26381341/,算法
+计算机程序设计艺术：第4卷 第4册（双语版）,DonaldE.Knuth,https://img3.doubanio.com/view/subject/s/public/s5765813.jpg,42.00,2007-4,8.4,26,21,2,1,1,1,56,21,511,https://book.douban.com/subject/2057924/,算法
+高等应用数学问题的MATLAB求解,薛定宇,https://img9.doubanio.com/view/subject/s/public/s3380616.jpg,49.00,2008-10,9.2,128,81,35,10,1,1,125,71,738,https://book.douban.com/subject/3248794/,算法
+文本上的算法——深入浅出自然语言处理,路彦雄,https://img3.doubanio.com/view/subject/s/public/s29718260.jpg,69.00,2018-3-1,6.9,31,6,10,9,5,1,32,10,116,https://book.douban.com/subject/30173624/,算法
+How to Design Programs,MatthiasFelleisen,https://img9.doubanio.com/view/subject/s/public/s2577325.jpg,71.00,2001-2-12,9.1,144,88,44,10,1,1,138,102,1218,https://book.douban.com/subject/1787103/,算法
+Rationality for Mortals,GerdGigerenzer,https://img1.doubanio.com/view/subject/s/public/s3242348.jpg,65.00,2008-05-02,8.2,22,8,6,6,1,1,26,16,294,https://book.douban.com/subject/3199621/,算法
+进军硅谷,陈东锋,https://img1.doubanio.com/view/subject/s/public/s27850868.jpg,55.00,2014-3-1,2.5,96,9,3,5,2,77,98,8,81,https://book.douban.com/subject/25844586/,算法
+算法交易与套利交易,赵胜民,https://img3.doubanio.com/view/subject/s/public/s6233443.jpg,35.00,2010-9,6.0,12,1,1,6,3,1,14,16,83,https://book.douban.com/subject/5339429/,算法
+代码大全（第2版）,[美]史蒂夫·迈克康奈尔,https://img1.doubanio.com/view/subject/s/public/s1495029.jpg,128.00,2006-3,9.3,3802,2708,874,186,19,15,4034,2464,14681,https://book.douban.com/subject/1477390/,算法
+Introduction to the Design and Analysis of Algorithms,AnanyLevitin,https://img1.doubanio.com/view/subject/s/public/s6944177.jpg,117.00,2011-10-10,7.6,12,1,5,4,1,1,13,10,32,https://book.douban.com/subject/6853975/,算法
+程序语言的奥妙,杉浦贤,https://img1.doubanio.com/view/subject/s/public/s11276427.jpg,32.00,2012-7,7.3,32,8,12,10,1,1,33,8,67,https://book.douban.com/subject/10798975/,算法
+数据结构与算法分析,维斯,https://img9.doubanio.com/view/subject/s/public/s1998785.jpg,59.00,2006-10,9.2,78,43,29,4,1,1,82,43,281,https://book.douban.com/subject/1909336/,算法
+离散数学及其应用（原书第7版）,KennethH.Rosen,https://img3.doubanio.com/view/subject/s/public/s28001321.jpg,129,2015-1-1,8.4,166,81,58,22,2,3,123,90,689,https://book.douban.com/subject/26316200/,算法
+遗传算法原理及应用,周明,https://img1.doubanio.com/view/subject/s/public/s6818247.jpg,18.0,1999-6,8.9,19,12,4,1,1,1,23,11,58,https://book.douban.com/subject/1237247/,算法
+算法：C语言实现,塞奇威克,https://img3.doubanio.com/view/subject/s/public/s24397133.jpg,49.00,2006-9,8.6,18,9,5,2,1,1,30,12,118,https://book.douban.com/subject/1896663/,算法
+C专家编程,PeterVanDerLinden,https://img9.doubanio.com/view/subject/s/public/s5886086.jpg,45.00,2008-2,9.2,1945,1251,591,89,9,5,2205,560,3522,https://book.douban.com/subject/2377310/,算法
+Algorithms,SanjoyDasgupta,https://img9.doubanio.com/view/subject/s/public/s4242595.jpg,30.99,2006-10-16,9.4,377,259,86,30,1,1,460,294,2578,https://book.douban.com/subject/1996256/,算法
+百面机器学习,葫芦娃,https://img3.doubanio.com/view/subject/s/public/s29848440.jpg,89.00,2018-8-1,8.6,211,110,83,15,2,1,154,147,837,https://book.douban.com/subject/30285146/,算法
+计算机算法设计与分析,王晓东,https://img3.doubanio.com/view/subject/s/public/s8926973.jpg,38.00,2012-2,3.1,58,3,4,7,7,37,59,8,19,https://book.douban.com/subject/10532384/,算法
+程序员的数学2,平冈和幸,https://img3.doubanio.com/view/subject/s/public/s28340170.jpg,79.00,2015-8-1,8.6,180,78,70,22,8,2,164,131,1413,https://book.douban.com/subject/26593822/,算法
+数据结构与算法分析,韦斯(MarkAllenWeiss),https://img9.doubanio.com/view/subject/s/public/s29130656.jpg,69.00,2016-3-1,8.7,59,27,21,6,3,2,50,54,252,https://book.douban.com/subject/26745780/,算法
+网络流,拉文德拉K.阿胡亚　托马斯L.马南提　詹姆斯B.沃林,https://img1.doubanio.com/view/subject/s/public/s1536588.jpg,108.0,2005-5,9.6,46,30,13,1,1,1,72,28,405,https://book.douban.com/subject/1316052/,算法
+营销三大算法,刘学林,https://img3.doubanio.com/view/subject/s/public/s29667650.jpg,88.00,2018-1-31,7.8,14,6,2,4,1,1,10,7,70,https://book.douban.com/subject/27667425/,算法
+计算机算法的设计与分析,AlfredV.Aho(阿霍),https://img3.doubanio.com/view/subject/s/public/s2657821.jpg,49.00,2007-7-1,8.0,28,10,10,6,1,1,52,31,388,https://book.douban.com/subject/2208525/,算法
+UNIX环境高级编程,W.RichardStevens,https://img3.doubanio.com/view/subject/s/public/s4436543.jpg,99.00,2006年,9.4,2259,1710,470,76,1,2,2242,1415,5309,https://book.douban.com/subject/1788421/,算法
+Collective Intelligence实战,阿拉克,https://img3.doubanio.com/view/subject/s/public/s6219972.jpg,58.00,2010-9,7.3,22,2,9,9,1,1,19,12,57,https://book.douban.com/subject/5273954/,算法
+统计模拟,（美）SheldonM.Ross,https://img3.doubanio.com/view/subject/s/public/s26376843.jpg,59.00,2013-5,8.7,18,8,6,2,1,1,17,8,66,https://book.douban.com/subject/24321451/,算法
+算法的乐趣,王晓华,https://img1.doubanio.com/view/subject/s/public/s28033547.jpg,79.00,2015-4,7.7,108,23,60,19,5,1,92,93,678,https://book.douban.com/subject/26351257/,算法
+程序员面试金典（第5版）,[美]GayleLaakmannMcDowell,https://img3.doubanio.com/view/subject/s/public/s27105842.jpg,59.00,2013-11,8.9,236,135,83,16,1,1,238,134,1488,https://book.douban.com/subject/25753386/,算法
+Introduction to Graph Theory,DouglasB.West,https://img1.doubanio.com/view/subject/s/public/s3220679.jpg,140.00,2000-9-1,8.7,19,8,8,1,1,1,19,14,87,https://book.douban.com/subject/1949169/,算法
+数据结构与问题求解,维斯,https://img1.doubanio.com/view/subject/s/public/s2392299.jpg,86.00,2005-8,7.2,16,4,4,4,3,1,19,5,28,https://book.douban.com/subject/1434837/,算法
+思考的乐趣,顾森,https://img3.doubanio.com/view/subject/s/public/s10323913.jpg,45.00,2012-6,8.2,1778,661,769,318,23,7,1843,849,12551,https://book.douban.com/subject/10779597/,算法
+精通数据科学：从线性回归到深度学习,唐亘,https://img3.doubanio.com/view/subject/s/public/s32332172.jpg,99.00,2018-5-8,7.1,98,57,23,7,3,8,69,39,272,https://book.douban.com/subject/30217266/,算法
+内容算法,闫泽华,https://img9.doubanio.com/view/subject/s/public/s29763584.jpg,58.00,2018-4-30,7.4,405,67,192,124,21,1,400,94,758,https://book.douban.com/subject/30199061/,算法
+C++数据结构与程序设计,克鲁斯,https://img3.doubanio.com/view/subject/s/public/s2819633.jpg,59.00,2007-6,7.9,13,5,5,1,1,1,14,2,13,https://book.douban.com/subject/1149480/,算法
+算法的陷阱,阿里尔•扎拉奇(ArielEzrachi),https://img1.doubanio.com/view/subject/s/public/s29782439.jpg,69.00,2018-5-1,7.5,110,21,44,38,6,1,129,43,456,https://book.douban.com/subject/1676578/,算法
+计算统计,GeofH.Givens,https://img3.doubanio.com/view/subject/s/public/s3998831.jpg,59.00,2009-09-01,7.6,14,6,3,3,1,1,18,9,92,https://book.douban.com/subject/4037536/,算法
+算法设计,[美]克菜因伯格,https://img3.doubanio.com/view/subject/s/public/s5645883.jpg,68.00,2006-1,9.0,106,78,17,9,1,1,139,51,586,https://book.douban.com/subject/1737661/,算法
+编程珠玑（续）,[美]JonBentley,https://img9.doubanio.com/view/subject/s/public/s4721666.jpg,35.00,2011-5,8.2,146,49,67,28,1,1,162,69,436,https://book.douban.com/subject/6124333/,算法
+算法详解（卷1）——算法基础,[美]蒂姆·拉夫加登（TimRoughgarden）,https://img9.doubanio.com/view/subject/s/public/s29970325.jpg,49,2019-1-1,8.8,14,5,6,1,1,1,8,11,98,https://book.douban.com/subject/30424415/,算法
+现代编译原理,(美)安佩尔,https://img9.doubanio.com/view/subject/s/public/s1852496.jpg,45.00,2006-4,8.5,130,57,52,17,3,1,152,95,1052,https://book.douban.com/subject/1806974/,算法
+零基础学数据结构,陈锐,https://img1.doubanio.com/view/subject/s/public/s6110638.jpg,58.00,2010-1,7.9,12,3,5,1,2,1,13,9,29,https://book.douban.com/subject/4200848/,算法
+Scala编程（第3版）,【德】MartinOdersky（马丁.奥德斯基）,https://img3.doubanio.com/view/subject/s/public/s29620622.jpg,144.00,2018-1-1,9.5,56,39,14,1,1,1,40,39,191,https://book.douban.com/subject/27591387/,算法
+How to Solve It,G.Polya,https://img3.doubanio.com/view/subject/s/public/s3903361.jpg,18.95,2004-04-05,9.0,188,118,52,16,1,1,237,121,2340,https://book.douban.com/subject/1456890/,算法
+最优化导论,EdwinK.P.Chong,https://img3.doubanio.com/view/subject/s/public/s28447473.jpg,89.00,2015-10,9.5,37,25,9,1,1,1,32,29,457,https://book.douban.com/subject/26732914/,算法
+计算机程序设计艺术（第1卷）,[美]唐纳德·E.克努特,https://img9.doubanio.com/view/subject/s/public/s9055036.jpg,98.00,2002-9,9.5,172,133,29,8,1,1,129,141,1441,https://book.douban.com/subject/1231933/,算法
+算法神探,[美]杰瑞米·库比卡,https://img9.doubanio.com/view/subject/s/public/s29418944.jpg,65,2017-2,6.5,162,11,40,89,19,3,172,30,578,https://book.douban.com/subject/26945096/,算法
+Multiagent Systems,YoavShoham,https://img3.doubanio.com/view/subject/s/public/s3600610.jpg,65.00,2008-12-15,9.4,20,12,5,1,1,1,17,11,71,https://book.douban.com/subject/3307739/,算法
+计算机程序设计艺术（第2卷）,DonaldE.Knuth,https://img9.doubanio.com/view/subject/s/public/s1973465.jpg,98.00,2002-8,9.8,72,56,11,3,1,1,149,48,908,https://book.douban.com/subject/1231891/,算法
+信用风险评分卡研究,马杜姆.雷法特,https://img9.doubanio.com/view/subject/s/public/s27202684.jpg,58.00,2013-7,8.5,55,31,19,3,1,1,61,29,424,https://book.douban.com/subject/25812550/,算法
+垃圾回收的算法与实现,中村成洋,https://img9.doubanio.com/view/subject/s/public/s28830934.jpg,99.00,2016-7-1,8.2,121,50,54,14,2,1,104,75,896,https://book.douban.com/subject/26821357/,算法
+机器学习实战,PeterHarrington,https://img3.doubanio.com/view/subject/s/public/s26696371.jpg,69.00,2013-6,8.1,1127,381,497,212,23,14,1015,735,3409,https://book.douban.com/subject/24703171/,算法
+应用密码学,BruceSchneier,https://img1.doubanio.com/view/subject/s/public/s1151069.jpg,49.00,2000-1-1,8.9,170,103,51,13,2,1,194,95,966,https://book.douban.com/subject/1088180/,算法
+算法小时代,SergeAbiteboul,https://img3.doubanio.com/view/subject/s/public/s29603562.jpg,39.00,2017-10-1,6.6,42,4,13,23,1,1,49,4,136,https://book.douban.com/subject/27187175/,算法
+数据结构,严蔚敏,https://img1.doubanio.com/view/subject/s/public/s2332049.jpg,30.0,2007-3-1,7.0,1309,238,470,430,94,77,1620,280,721,https://book.douban.com/subject/2024655/,算法
+遗传算法与工程优化,程润伟,https://img3.doubanio.com/view/subject/s/public/s5694761.jpg,39.00,2004-1,7.8,15,2,9,2,1,1,17,10,32,https://book.douban.com/subject/1154376/,算法
+矩阵论,方保镕,https://img9.doubanio.com/view/subject/s/public/s5675744.jpg,39.00,2004-1,8.5,34,11,18,3,1,1,40,16,157,https://book.douban.com/subject/1231268/,算法
+Probability and Computing,MichaelMitzenmacher,https://img3.doubanio.com/view/subject/s/public/s4261510.jpg,66.00,2005-01-31,9.5,50,36,10,2,1,1,51,32,371,https://book.douban.com/subject/2030668/,算法
+你不可不知的50个数学知识,TonyCrilly,https://img9.doubanio.com/view/subject/s/public/s4462775.jpg,29.00,2010-9,7.9,170,44,76,46,3,1,270,74,832,https://book.douban.com/subject/5253771/,算法
+算法交易：制胜策略与原理,［美］欧内斯特·陈（ErnestP.Chan）,https://img9.doubanio.com/view/subject/s/public/s29272586.jpg,49.00,2017-1-1,6.5,25,2,10,6,3,4,25,12,100,https://book.douban.com/subject/26951842/,算法
+图解密码技术,[日]结城浩,https://img3.doubanio.com/view/subject/s/public/s27844440.jpg,79.00,2014-12,9.1,326,218,92,14,1,1,336,75,1785,https://book.douban.com/subject/26265544/,算法
+The Psychology of Invention in the Mathematical Field,JacquesHadamard,https://img9.doubanio.com/view/subject/s/public/s4345496.jpg,8.95,1954-6-1,7.8,19,7,8,2,1,1,19,10,475,https://book.douban.com/subject/1770012/,算法
+算法设计与分析,屈婉玲,https://img3.doubanio.com/view/subject/s/public/s24506201.jpg,25.00,2011-5,8.1,36,13,12,6,3,2,37,9,74,https://book.douban.com/subject/6434299/,算法
+图解设计模式,[日]结城浩,https://img3.doubanio.com/view/subject/s/public/s29317811.jpg,79.00,2017-1-1,8.7,127,55,53,17,1,1,106,58,751,https://book.douban.com/subject/26933281/,算法
+PC游戏编程,王小春,https://img1.doubanio.com/view/subject/s/public/s26379808.jpg,38.00,2002-6-1,8.3,37,14,15,6,1,1,45,13,138,https://book.douban.com/subject/1231902/,算法
+改变未来的九大算法,[美]约翰.麦考密克,https://img3.doubanio.com/view/subject/s/public/s27271263.jpg,39.00,2013-6,7.8,353,77,176,90,8,2,377,74,801,https://book.douban.com/subject/24529132/,算法
+学习OpenCV（中文版）,GaryBradski,https://img3.doubanio.com/view/subject/s/public/s4018970.jpg,75.00,2009-10-1,8.1,259,91,115,39,12,2,242,156,504,https://book.douban.com/subject/4033320/,算法
+数学与生活（修订版）,[日]远山启,https://img1.doubanio.com/view/subject/s/public/s27637447.jpg,42.00,2014-10,7.9,138,58,57,19,3,1,128,56,726,https://book.douban.com/subject/26148739/,算法
+这就是搜索引擎,张俊林,https://img3.doubanio.com/view/subject/s/public/s28631260.jpg,45.00,2012-1-1,8.0,514,168,246,89,9,2,559,236,2053,https://book.douban.com/subject/7006719/,算法
+推荐系统实践,项亮,https://img1.doubanio.com/view/subject/s/public/s10213357.jpg,49.00,2012-6-1,8.1,1778,539,888,306,35,10,1863,700,4814,https://book.douban.com/subject/10769749/,算法
+遗传算法,王小平,https://img1.doubanio.com/view/subject/s/public/s28267338.jpg,40.00,2002-1,7.0,14,1,7,4,1,1,13,8,68,https://book.douban.com/subject/1231767/,算法
+算法（第4版）,塞奇威克(RobertSedgewick),https://img9.doubanio.com/view/subject/s/public/s28322244.jpg,99.00,2012-10-1,9.4,1178,882,244,40,9,3,841,1022,6616,https://book.douban.com/subject/19952400/,算法
+编码的奥秘,CharlesPetzold,https://img3.doubanio.com/view/subject/s/public/s26535990.jpg,24.00,2000-9-1,9.3,1367,986,298,76,5,2,1549,463,8206,https://book.douban.com/subject/1024570/,算法
+Data Structures and Algorithm Analysis in Java,MarkA.Weiss,https://img3.doubanio.com/view/subject/s/public/s4067942.jpg,143.00,2006-3-3,7.7,31,8,12,9,1,1,35,18,16,https://book.douban.com/subject/1787239/,算法
+计算智能,RussellC.Eberhart,https://img1.doubanio.com/view/subject/s/public/s5976677.jpg,69.00,2009-2,7.6,13,6,3,2,1,1,68,12,86,https://book.douban.com/subject/3409655/,算法
+C++标准程序库,[德]NicolaiM·Josuttis,https://img1.doubanio.com/view/subject/s/public/s1092079.jpg,108.00,2002-9,8.9,638,356,220,54,5,3,750,211,1406,https://book.douban.com/subject/1110941/,算法
+游戏核心算法编程内幕,DanielSanchez-Crespo,https://img3.doubanio.com/view/subject/s/public/s2358982.jpg,58.00,2004-1,7.2,19,4,6,6,2,1,25,19,72,https://book.douban.com/subject/1231265/,算法
+数学之美,[美]吴军,https://img9.doubanio.com/view/subject/s/public/s9114855.jpg,45.00,2012-5-1,8.7,10396,5251,4086,956,83,20,11370,3667,33325,https://book.douban.com/subject/10750155/,算法
+啊哈!算法,啊哈磊,https://img9.doubanio.com/view/subject/s/public/s27345094.jpg,45.00,2014-6-1,7.7,477,172,192,92,13,8,475,175,1117,https://book.douban.com/subject/25894685/,算法
+Numerical Optimization,JorgeNocedal,https://img3.doubanio.com/view/subject/s/public/s29632772.jpg,79.95,2006-7-27,9.4,86,68,15,1,1,1,64,79,405,https://book.douban.com/subject/2870337/,算法
+漫画算法：小灰的算法之旅,魏梦舒,https://img3.doubanio.com/view/subject/s/public/s32299271.jpg,79.00,2019-5,8.6,173,99,57,15,1,1,149,86,503,https://book.douban.com/subject/33420587/,算法
+被统治的艺术,[加]宋怡明,https://img9.doubanio.com/view/subject/s/public/s33519906.jpg,78.00,2019-12,8.6,928,323,497,101,3,4,887,358,21031,https://book.douban.com/subject/34869500/,算法
+五子连珠必胜法,新井华石,https://img3.doubanio.com/view/subject/s/public/s10909320.jpg,12.00,1997-10,8.8,50,29,14,3,3,1,45,35,603,https://book.douban.com/subject/1089783/,算法
+Algorithms,RobertSedgewick,https://img9.doubanio.com/view/subject/s/public/s4656875.jpg,89.99,2011-3-19,9.3,252,181,57,12,1,1,200,217,756,https://book.douban.com/subject/4854123/,算法
+数据挖掘,（美）JiaweiHan,https://img3.doubanio.com/view/subject/s/public/s11277471.jpg,79.00,2012-8,8.0,173,53,85,26,5,4,163,124,775,https://book.douban.com/subject/11542972/,算法
+国际大学生程序设计竞赛例题解,郭嵩山,https://img9.doubanio.com/view/subject/s/public/s1820235.jpg,32.0,2006-5,7.0,17,1,7,5,3,1,21,11,24,https://book.douban.com/subject/1801266/,算法
+Python机器学习,[美]MichaelBowles,https://img9.doubanio.com/view/subject/s/public/s29205314.jpg,69.00,2016-12,6.2,30,3,11,11,3,2,31,16,127,https://book.douban.com/subject/26931280/,算法
+群体智能,JamesKennedy,https://img3.doubanio.com/view/subject/s/public/s3942342.jpg,75.00,2009-2-1,8.7,30,15,8,5,1,1,27,32,189,https://book.douban.com/subject/3430776/,算法
+算法霸权,[美]凯西·奥尼尔,https://img3.doubanio.com/view/subject/s/public/s29889150.jpg,69.00,2018-9-1,7.1,156,21,72,53,8,2,174,24,897,https://book.douban.com/subject/30295861/,算法
+可能与不可能的边界,[美]LanceFortnow,https://img9.doubanio.com/view/subject/s/public/s27157735.jpg,39.00,2014-1,7.5,235,37,126,63,5,4,270,39,481,https://book.douban.com/subject/25779326/,算法
+The Algorithm Design Manual,StevenSSkiena,https://img3.doubanio.com/view/subject/s/public/s29702221.jpg,55.07,2011-11-14,9.0,112,61,34,14,2,1,115,110,913,https://book.douban.com/subject/3072383/,算法
+数据结构与算法分析(C++版)(第3版),CliffordA.Shaffer,https://img9.doubanio.com/view/subject/s/public/s27399735.jpg,59.00,2013,7.8,20,6,7,5,1,1,18,5,27,https://book.douban.com/subject/25956449/,算法
+算法设计与分析基础,（美）莱维丁（Levitin/A.）/潘彦,https://img1.doubanio.com/view/subject/s/public/s9894507.jpg,45.00,2004年1月1日,8.7,75,28,34,11,1,1,109,18,245,https://book.douban.com/subject/1173877/,算法
+改变未来的九大算法,【美】约翰·麦考密克(JohnMacCormick),https://img3.doubanio.com/view/subject/s/public/s32273181.jpg,68.00,2019-2,7.9,41,14,14,11,1,1,39,18,72,https://book.douban.com/subject/30547794/,算法
+信息学奥林匹克竞赛指导--组合数学的算法与程序设计PASCAL版/信息学奥林匹克竞赛指导丛书,林生编,https://img3.doubanio.com/view/subject/s/public/s9849423.jpg,19.00,2002-8,7.0,24,3,7,12,1,1,37,7,39,https://book.douban.com/subject/1141262/,算法
+Machine Learning in Action,PeterHarrington,https://img3.doubanio.com/view/subject/s/public/s9015252.jpg,29.99,2012-4-19,8.5,194,68,90,31,4,1,182,189,837,https://book.douban.com/subject/6962285/,算法
+Algorithms Illuminated,TimRoughgarden,https://img3.doubanio.com/view/subject/s/public/s29585300.jpg,17.99,2017-9-27,9.5,13,7,3,1,1,1,13,7,34,https://book.douban.com/subject/27176836/,算法
+并行计算导论,AnanthGrama,https://img9.doubanio.com/view/subject/s/public/s1165156.jpg,49.00,2005-1-1,7.6,24,4,10,8,1,1,27,14,126,https://book.douban.com/subject/1194821/,算法
+图论导引,[美]DouglasB.West,https://img3.doubanio.com/view/subject/s/public/s7654162.jpg,59.00,2004-10,8.9,22,13,6,1,1,1,23,15,238,https://book.douban.com/subject/1188923/,算法
+数据结构与算法：Python语言描述,裘宗燕,https://img3.doubanio.com/view/subject/s/public/s28388882.jpg,45.00,2016-1,7.5,96,28,34,15,9,10,89,44,379,https://book.douban.com/subject/26702568/,算法
+C语言接口与实现,DavidR.Hanson,https://img3.doubanio.com/view/subject/s/public/s7640301.jpg,75.00,2011-9,9.1,121,75,36,8,1,1,103,71,865,https://book.douban.com/subject/6801697/,算法
+数据结构与算法分析,韦斯,https://img3.doubanio.com/view/subject/s/public/s21253022.jpg,55.00,2007-1,7.5,25,6,10,7,1,1,26,12,43,https://book.douban.com/subject/1929049/,算法
+学习JavaScript数据结构与算法（第2版）,[巴西]LoianeGroner,https://img3.doubanio.com/view/subject/s/public/s29532960.jpg,49.00,2017-9,7.4,27,8,9,8,1,1,29,15,58,https://book.douban.com/subject/27129352/,算法
+概率,[俄]施利亚耶夫,https://img9.doubanio.com/view/subject/s/public/s5873245.jpg,48.00,2008-1,9.3,37,27,6,2,1,1,44,18,274,https://book.douban.com/subject/3008042/,算法
+计算机算法,Baase,https://img3.doubanio.com/view/subject/s/public/s5687571.jpg,39.5,2001-7-1,9.1,30,16,8,4,1,1,49,24,149,https://book.douban.com/subject/1116431/,算法
+An Introduction to Bioinformatics Algorithms,NeilC.Jones,https://img1.doubanio.com/view/subject/s/public/s6420167.jpg,71.00,2004-8-6,8.4,28,6,19,1,1,1,28,15,59,https://book.douban.com/subject/1770852/,算法
+面向数据科学家的实用统计学,[美]彼得·布鲁斯,https://img3.doubanio.com/view/subject/s/public/s33518111.jpg,89.00,2018-10-1,8.0,31,9,14,6,1,1,23,23,170,https://book.douban.com/subject/30354581/,算法
+算法基础（第5版）,[美]RichardE.Neapolitan,https://img3.doubanio.com/view/subject/s/public/s28491492.jpg,99.00,2016-3,7.5,14,2,6,4,1,1,8,5,61,https://book.douban.com/subject/26741083/,算法
+程序设计导论,罗伯特·塞奇威克(RobertSedgewick),https://img3.doubanio.com/view/subject/s/public/s29193691.jpg,79.00,2016-11-1,8.8,18,10,3,3,1,1,16,6,77,https://book.douban.com/subject/26927659/,算法
+Elements of Information Theory,ThomasM.Cover,https://img3.doubanio.com/view/subject/s/public/s4242490.jpg,76.50,2006-7,8.9,100,56,40,2,1,1,94,75,382,https://book.douban.com/subject/1822197/,算法
+数据挖掘中的新方法：支持向量机,邓乃扬,https://img9.doubanio.com/view/subject/s/public/s9892496.jpg,53.00,2004-6-10,8.0,43,15,19,6,1,2,53,18,222,https://book.douban.com/subject/1172178/,算法
+随机算法,RajeevMotwani,https://img9.doubanio.com/view/subject/s/public/s3823246.jpg,48.00,2008.10,6.8,20,6,10,2,1,1,23,13,205,https://book.douban.com/subject/3269796/,算法
+GPU精粹,费尔南多,https://img1.doubanio.com/view/subject/s/public/s1497909.jpg,78.00,2006-1,7.9,53,19,21,11,1,1,68,46,134,https://book.douban.com/subject/1480239/,算法
+数据结构与算法分析,奈霍夫,https://img9.doubanio.com/view/subject/s/public/s5792146.jpg,98.00,2006-11,7.0,28,5,16,5,1,1,29,5,27,https://book.douban.com/subject/1954443/,算法
+神经网络原理(原书第2版),SimonHaykin,https://img9.doubanio.com/view/subject/s/public/s1695376.jpg,69.00,2004-1,7.3,53,15,25,11,1,1,110,54,503,https://book.douban.com/subject/1138922/,算法
+算法：C语言实现,塞奇威克,https://img9.doubanio.com/view/subject/s/public/s6083105.jpg,79.00,2009-10,8.8,194,107,59,15,7,6,205,137,1206,https://book.douban.com/subject/4065258/,算法
+Web安全攻防：渗透测试实战指南,徐焱,https://img1.doubanio.com/view/subject/s/public/s29825669.jpg,89.00,2018-7,7.5,20,9,5,2,1,3,17,8,51,https://book.douban.com/subject/30280378/,算法
+Probabilistic Graphical Models,DaphneKoller,https://img3.doubanio.com/view/subject/s/public/s4019053.jpg,120.00,2009-7-31,9.0,142,89,43,7,2,1,82,171,1041,https://book.douban.com/subject/4007200/,算法
+人工智能 （第2版）,[美]史蒂芬·卢奇（StephenLucci）,https://img3.doubanio.com/view/subject/s/public/s29831200.jpg,108,2018-8-1,8.8,33,13,12,6,1,1,27,36,299,https://book.douban.com/subject/30286131/,算法
+复杂性思考,AllenB.Downey,https://img3.doubanio.com/view/subject/s/public/s26523313.jpg,49.00,2013-5,7.6,100,21,45,26,4,4,92,59,701,https://book.douban.com/subject/24530461/,算法
+脑中魅影,[美]V.S.拉马钱德兰,https://img3.doubanio.com/view/subject/s/public/s29715632.jpg,69.00,2018-1,8.9,122,81,34,5,1,1,126,43,1923,https://book.douban.com/subject/30171324/,算法
+集体智慧编程,TobySegaran,https://img3.doubanio.com/view/subject/s/public/s3350961.jpg,59.80,2009-1,9.0,1468,843,506,110,8,1,1439,932,9489,https://book.douban.com/subject/3288908/,算法
+Designing Data-Intensive Applications,MartinKleppmann,https://img1.doubanio.com/view/subject/s/public/s29419939.jpg,44.99,2017-4-2,9.7,633,552,71,8,1,1,459,414,2247,https://book.douban.com/subject/26197294/,算法
+编译原理,AlfredV.Aho,https://img1.doubanio.com/view/subject/s/public/s1157679.jpg,55.00,2003-8,8.9,208,103,77,26,1,1,282,124,751,https://book.douban.com/subject/1134994/,算法
+计算机自然语言处理,王晓龙,https://img1.doubanio.com/view/subject/s/public/s2404499.jpg,23.0,2005年4月1日,7.0,16,1,7,6,1,1,17,12,78,https://book.douban.com/subject/1730823/,算法
+The Elements of Statistical Learning,TrevorHastie,https://img3.doubanio.com/view/subject/s/public/s7004243.jpg,62.99,2009-10-1,9.4,631,497,117,15,1,1,417,738,3215,https://book.douban.com/subject/3294335/,算法
+特别版MATHEMATICA全书,[美]斯蒂芬·沃尔夫雷,https://img3.doubanio.com/view/subject/s/public/s3325572.jpg,60.00,2002-1,8.8,31,15,11,3,1,1,35,20,87,https://book.douban.com/subject/1241357/,算法
+同伦方法纵横谈,王则柯,https://img9.doubanio.com/view/subject/s/public/s8889735.jpg,25.00,2011-5,8.8,15,6,6,1,1,1,16,6,95,https://book.douban.com/subject/6751241/,算法
+深入浅出数据分析,[美]MichaelMilton,https://img9.doubanio.com/view/subject/s/public/s6227164.jpg,88.00,2009,7.5,1743,359,764,532,71,17,1831,660,7502,https://book.douban.com/subject/5257905/,算法
+大数据技术原理与应用（第2版）,林子雨,https://img1.doubanio.com/view/subject/s/public/s29642219.jpg,49.80,2017-2,8.8,53,30,17,4,1,1,45,33,282,https://book.douban.com/subject/27606713/,算法
+MATLAB数值计算,莫勒(CleveB.Moler),https://img1.doubanio.com/view/subject/s/public/s28066049.jpg,52.00,2015-1-1,9.0,27,16,8,1,1,1,18,16,109,https://book.douban.com/subject/26383785/,算法
+Effective STL中文版,[美]ScottMeyers,https://img3.doubanio.com/view/subject/s/public/s26658612.jpg,59.00,2013-5,8.6,93,46,39,6,1,1,99,23,234,https://book.douban.com/subject/24534868/,算法
+统计推断,GeorgeCasella,https://img9.doubanio.com/view/subject/s/public/s4126604.jpg,66.00,2010-1,9.0,109,63,35,6,4,1,94,87,786,https://book.douban.com/subject/4214656/,算法
+程序员面试攻略,蒙干,https://img1.doubanio.com/view/subject/s/public/s2833948.jpg,29.00,2007-12,7.6,97,19,47,25,5,1,120,18,161,https://book.douban.com/subject/2348812/,算法
+写给大家看的算法书,【日】杉浦贤,https://img3.doubanio.com/view/subject/s/public/s28827840.jpg,59.00,2016-6,7.6,64,8,28,26,1,1,71,13,213,https://book.douban.com/subject/26821588/,算法
+Introduction to Computation and Programming Using Python,JohnV.Guttag,https://img9.doubanio.com/view/subject/s/public/s27119476.jpg,25.00,2013-7,8.5,35,19,12,2,1,1,36,27,109,https://book.douban.com/subject/22925199/,算法
+算法设计与分析基础,AnanyLevitin,https://img3.doubanio.com/view/subject/s/public/s28019832.jpg,69.00,2015-2-1,8.7,80,35,35,8,1,1,57,81,505,https://book.douban.com/subject/26337727/,算法
+Introduction to Information Retrieval,ChristopherD.Manning,https://img9.doubanio.com/view/subject/s/public/s27994785.jpg,74.99,2008-7-7,9.1,225,132,75,15,2,1,212,137,730,https://book.douban.com/subject/3059637/,算法

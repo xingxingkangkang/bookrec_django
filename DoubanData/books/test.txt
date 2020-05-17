@@ -1,0 +1,5 @@
+围城,钱钟书,https://img3.doubanio.com/view/subject/s/public/s1070222.jpg,19.00,1991-2,8.9,350019,200911,123207,24501,1050,350,463593,25203,174205,https://book.douban.com/subject/1008145/,中国文学
+许三观卖血记,余华,https://img3.doubanio.com/view/subject/s/public/s1074291.jpg,16.80,1998-9,8.8,176991,100986,65907,9744,354,0,234987,3119,67525,https://book.douban.com/subject/1029791/,中国文学
+活着,余华,https://img3.doubanio.com/view/subject/s/public/s29053580.jpg,20.00,2012-8-1,9.4,423322,319082,94072,9322,423,423,680268,24691,235029,https://book.douban.com/subject/4913064/,中国文学
+平凡的世界（全三部）,路遥,https://img3.doubanio.com/view/subject/s/public/s1144911.jpg,64.00,2005-1,9.0,231652,153355,62315,13435,1621,926,298003,17876,148860,https://book.douban.com/subject/1200840/,中国文学
+骆驼祥子,老舍,https://img3.doubanio.com/view/subject/s/public/s1146040.jpg,12.00,2000-3-1,8.4,138715,59093,66029,13039,416,138,206152,1752,23928,https://book.douban.com/subject/1043815/,中国文学

@@ -1,0 +1,172 @@
+About Face,AlanCooper,https://img9.doubanio.com/view/subject/s/public/s28062524.jpg,50.00,2014-9-2,9.0,42,24,12,4,1,1,26,37,84,https://book.douban.com/subject/25983558/,UE
+蔣道設計,蔣友柏,https://img1.doubanio.com/view/subject/s/public/s6772518.jpg,380,2011-7,7.5,67,15,32,15,4,1,83,28,350,https://book.douban.com/subject/6721974/,UE
+Designing Interfaces,JeniferTidwell,https://img3.doubanio.com/view/subject/s/public/s4612133.jpg,49.99,2011-1-6,8.4,50,16,24,8,1,1,54,40,133,https://book.douban.com/subject/5948757/,UE
+锦绣蓝图,[美]沃德科(ChristinaWodtke),https://img3.doubanio.com/view/subject/s/public/s4395753.jpg,59.00,2009-11-01,8.0,1041,285,488,250,13,5,1449,473,3594,https://book.douban.com/subject/4076216/,UE
+简约至上,[英]GilesColborne,https://img1.doubanio.com/view/subject/s/public/s4592217.jpg,35.00,2011-1-1,8.4,5681,2125,2660,829,56,11,6824,1090,13231,https://book.douban.com/subject/5394309/,UE
+软件开发的创新思维,库伯,https://img9.doubanio.com/view/subject/s/public/s1679595.jpg,30.0,2003-1,8.6,39,15,19,3,1,1,117,15,106,https://book.douban.com/subject/1241266/,UE
+网站界面设计,马月,https://img3.doubanio.com/view/subject/s/public/s5785710.jpg,32.00,2006-8,6.8,28,9,9,6,3,1,73,21,165,https://book.douban.com/subject/1928289/,UE
+The User Is Always Right,SteveMulder,https://img3.doubanio.com/view/subject/s/public/s4316821.jpg,55.00,2006-8-31,8.1,99,34,35,28,1,1,202,70,230,https://book.douban.com/subject/1907341/,UE
+Designing Social Interfaces,ChristianCrumlish,https://img3.doubanio.com/view/subject/s/public/s7113751.jpg,49.99,2009-10-8,7.9,26,4,17,3,1,1,57,29,166,https://book.douban.com/subject/3787852/,UE
+胜于言传,[英]瑞蒂希(Redish.J.),https://img1.doubanio.com/view/subject/s/public/s3825019.jpg,65.00,2009-5,8.3,145,53,56,32,3,1,351,71,679,https://book.douban.com/subject/3742366/,UE
+Web可用性设计,JakobNielsen,https://img3.doubanio.com/view/subject/s/public/s2303730.jpg,68.0,2000-11-01,7.3,100,36,25,37,1,1,311,97,543,https://book.douban.com/subject/1087502/,UE
+JavaScript高级程序设计,[美]尼古拉斯·泽卡斯,https://img1.doubanio.com/view/subject/s/public/s1888787.jpg,59.00,2006年9月,8.6,981,445,427,102,6,1,1315,403,1418,https://book.douban.com/subject/1869705/,UE
+设计中的视觉思维,维尔,https://img3.doubanio.com/view/subject/s/public/s4046782.jpg,39.00,2009-9,7.8,76,26,23,21,5,1,112,27,420,https://book.douban.com/subject/4020885/,UE
+至关重要的设计,[美]罗伯特·布伦纳,https://img9.doubanio.com/view/subject/s/public/s8912484.jpg,45.00,2012-4-1,7.0,458,70,156,170,51,11,533,161,3323,https://book.douban.com/subject/10530232/,UE
+Web信息架构(第3版),PeterMorville,https://img9.doubanio.com/view/subject/s/public/s3431996.jpg,85.00,2008年8月,8.2,880,286,402,156,29,7,1146,576,4949,https://book.douban.com/subject/3169342/,UE
+包容的智慧,星云大师,https://img9.doubanio.com/view/subject/s/public/s5869714.jpg,28.00,2007年,8.0,892,269,401,204,17,1,1148,243,1086,https://book.douban.com/subject/2972658/,UE
+Web界面设计,BillScott,https://img1.doubanio.com/view/subject/s/public/s3857678.jpg,80.00,2009年7月,8.7,614,265,227,112,6,4,925,386,4045,https://book.douban.com/subject/3821157/,UE
+用户体验设计,[美]奎瑟贝利,https://img1.doubanio.com/view/subject/s/public/s27239097.jpg,69.00,2014-1-1,6.9,33,3,14,10,5,1,43,25,243,https://book.douban.com/subject/25847187/,UE
+交互设计之路,库帕,https://img9.doubanio.com/view/subject/s/public/s1517284.jpg,38.00,2006-3,7.9,1050,288,468,270,18,6,1711,388,5369,https://book.douban.com/subject/1493316/,UE
+点石成金,[美]克鲁格(SteveKrug),https://img3.doubanio.com/view/subject/s/public/s27995593.jpg,59.00,2015-1-1,8.2,654,214,328,102,7,3,734,106,1202,https://book.douban.com/subject/26313852/,UE
+Sketching User Experiences,BillBuxton,https://img3.doubanio.com/view/subject/s/public/s4356540.jpg,49.95,2007-4-11,8.1,88,21,50,15,1,1,113,72,645,https://book.douban.com/subject/2079208/,UE
+UX设计之道,[美]昴格尔,https://img3.doubanio.com/view/subject/s/public/s4335093.jpg,35.00,2010-4,6.9,134,36,38,51,8,1,218,48,285,https://book.douban.com/subject/4727021/,UE
+Microsoft Windows 用户经验,邱淑清,https://img9.doubanio.com/view/subject/s/public/s9927695.jpg,49.00,2001-7-1,7.4,16,7,3,4,1,1,26,8,40,https://book.douban.com/subject/1196206/,UE
+Designing Interfaces中文版,JeniferTidwell,https://img1.doubanio.com/view/subject/s/public/s2833569.jpg,80.00,2008-03-01,8.3,679,241,321,105,10,2,1002,395,4044,https://book.douban.com/subject/2365393/,UE
+在你身边，为你设计,腾讯公司用户研究与体验设计部,https://img1.doubanio.com/view/subject/s/public/s24522948.jpg,69.00,2013-1,7.2,1232,225,445,450,80,32,1416,371,3943,https://book.douban.com/subject/20471302/,UE
+用户体验的要素,JesseJamesGarrett,https://img1.doubanio.com/view/subject/s/public/s2923557.jpg,25.00,2007年10月,8.2,4133,1406,1972,690,57,8,5586,1045,10158,https://book.douban.com/subject/2297549/,UE
+触类旁通,[美]JoshClark,https://img1.doubanio.com/view/subject/s/public/s29433459.jpg,69.00,2017-4,8.3,41,13,19,7,1,1,46,9,284,https://book.douban.com/subject/27027629/,UE
+七日掌握设计配色基础,[日]视觉设计研究所,https://img3.doubanio.com/view/subject/s/public/s1462221.jpg,48.0,2004年1月 第1版,8.2,610,221,265,103,14,7,769,262,6256,https://book.douban.com/subject/1291969/,UE
+Web表单设计,[美]LukeWroblewski,https://img9.doubanio.com/view/subject/s/public/s11230326.jpg,49.00,2010-6,8.6,610,266,235,104,4,1,950,230,2658,https://book.douban.com/subject/4886100/,UE
+设计心理学3,[美]唐纳德·A·诺曼,https://img9.doubanio.com/view/subject/s/public/s28108494.jpg,38.00,2012-6-1,8.1,467,131,211,114,7,4,557,147,932,https://book.douban.com/subject/10550576/,UE
+浪潮之巅,吴军,https://img9.doubanio.com/view/subject/s/public/s6807265.jpg,55.00,2011-8,9.0,25283,15449,8015,1618,126,75,29623,4916,52423,https://book.douban.com/subject/6709783/,UE
+社交网站界面设计,ChristianCrumlish,https://img3.doubanio.com/view/subject/s/public/s4630990.jpg,69.00,2010-9-1,7.6,299,68,134,89,6,2,497,241,2006,https://book.douban.com/subject/4909176/,UE
+精益设计,JeffGothelf,https://img9.doubanio.com/view/subject/s/public/s27081165.jpg,49.00,2013-8,7.8,147,28,75,36,7,1,182,38,787,https://book.douban.com/subject/24896848/,UE
+和谐界面,[德]海姆,https://img9.doubanio.com/view/subject/s/public/s2769255.jpg,69.50,2007-10,7.7,32,9,9,12,1,1,59,26,125,https://book.douban.com/subject/2306849/,UE
+版式设计原理,[日]佐佐木刚士,https://img3.doubanio.com/view/subject/s/public/s2703492.jpg,59.00,2007-8-1,8.4,3433,1224,1654,519,30,6,4299,1062,10512,https://book.douban.com/subject/2238320/,UE
+GUI设计禁忌2.0,JeffJohnson,https://img9.doubanio.com/view/subject/s/public/s3321524.jpg,49.00,2008,7.7,220,59,91,64,5,1,355,116,828,https://book.douban.com/subject/3263946/,UE
+当用户体验设计遇上敏捷,LindsayRatcliffe,https://img9.doubanio.com/view/subject/s/public/s26262715.jpg,49.00,2013-4,5.3,18,3,3,6,3,3,26,9,88,https://book.douban.com/subject/23008818/,UE
+UCD火花集,UCDChina,https://img3.doubanio.com/view/subject/s/public/s3726853.jpg,25.00,2009,7.4,1360,234,570,494,53,9,1835,534,2611,https://book.douban.com/subject/3670867/,UE
+Designing Web Navigation,JamesKalbach,https://img9.doubanio.com/view/subject/s/public/s7715845.jpg,49.99,2007-8-15,8.1,27,6,15,4,1,1,44,24,220,https://book.douban.com/subject/2146224/,UE
+人人都是产品经理,苏杰,https://img1.doubanio.com/view/subject/s/public/s4241529.jpg,45.00,2010年4月,7.6,8131,1675,3879,2260,252,65,9330,2754,11446,https://book.douban.com/subject/4723970/,UE
+A Project Guide to UX Design,RussUnger,https://img1.doubanio.com/view/subject/s/public/s4255069.jpg,39.99,2009-3-23,8.9,34,14,14,4,1,1,88,46,305,https://book.douban.com/subject/3421275/,UE
+交互广告学,梁峰,https://img9.doubanio.com/view/subject/s/public/s5847785.jpg,46.00,2008-1,7.2,16,1,7,6,1,1,27,22,35,https://book.douban.com/subject/2364721/,UE
+Building Social Web Applications,GavinBell,https://img1.doubanio.com/view/subject/s/public/s7044177.jpg,34.99,2009-10-1,7.2,11,3,3,1,3,1,56,11,92,https://book.douban.com/subject/3433034/,UE
+Designing For The Social Web,JoshuaPorter,https://img1.doubanio.com/view/subject/s/public/s4307019.jpg,40.00,2008-05-04,8.4,44,25,13,4,1,1,145,52,312,https://book.douban.com/subject/3059484/,UE
+超越CSS,AndyClarke,https://img3.doubanio.com/view/subject/s/public/s2806690.jpg,69.00,2007,8.4,442,178,191,64,8,1,533,126,1474,https://book.douban.com/subject/2345964/,UE
+Designing with the Mind in Mind,JeffJohnson,https://img3.doubanio.com/view/subject/s/public/s7665012.jpg,30.99,2010-06-09,8.9,89,41,30,16,1,1,102,50,259,https://book.douban.com/subject/4741480/,UE
+交互设计,.,https://img9.doubanio.com/view/subject/s/public/s1352204.jpg,39.00,2003-6,7.6,205,50,68,77,8,2,522,112,976,https://book.douban.com/subject/1229926/,UE
+设计之下,搜狐新闻客户端UED团队,https://img9.doubanio.com/view/subject/s/public/s27274164.jpg,69.00,2014-1-1,7.5,512,124,195,167,22,4,589,132,1401,https://book.douban.com/subject/25817190/,UE
+网站交互设计模式,杜月(DouglasK.VanDuyne),https://img9.doubanio.com/view/subject/s/public/s4078085.jpg,108.00,2009-10,7.2,155,38,58,53,4,2,235,139,968,https://book.douban.com/subject/3948372/,UE
+大巧不工,赖定清,https://img9.doubanio.com/view/subject/s/public/s4440116.jpg,59.00,2010-9,7.2,192,46,60,70,13,3,347,57,323,https://book.douban.com/subject/4914146/,UE
+The Design of Everyday Things,[美]唐纳德·诺曼,https://img3.doubanio.com/view/subject/s/public/s4363143.jpg,16.95,2002-9-17,8.7,348,180,129,35,3,1,457,224,2266,https://book.douban.com/subject/1365318/,UE
+Designing for Interaction,DanSaffer,https://img9.doubanio.com/view/subject/s/public/s4672035.jpg,45.00,2006-7-28,8.3,61,20,27,12,1,1,171,53,729,https://book.douban.com/subject/1868081/,UE
+软件设计的艺术,（美）威诺格拉德（Winograd/T.）等/韩柯等,https://img3.doubanio.com/view/subject/s/public/s6628173.jpg,39.00,2005-1,8.3,22,12,6,2,1,1,151,20,383,https://book.douban.com/subject/1244410/,UE
+妙手回春 网站可用性测试及优化指南（修订版）,[美]SteveKrug,https://img1.doubanio.com/view/subject/s/public/s27251229.jpg,39,2014-4,7.9,44,9,14,19,1,1,50,5,199,https://book.douban.com/subject/25858031/,UE
+Designing for Small Screens Studio,CarolaZwick,https://img3.doubanio.com/view/subject/s/public/s1953122.jpg,29.95,2006-04,7.9,60,23,20,15,1,1,89,69,106,https://book.douban.com/subject/1946247/,UE
+亲爱的界面,[瑞士]LukasMathis,https://img9.doubanio.com/view/subject/s/public/s23128765.jpg,49.00,2012-11,8.0,299,80,145,68,5,1,358,123,1539,https://book.douban.com/subject/20278578/,UE
+用户界面设计,施奈德曼,https://img9.doubanio.com/view/subject/s/public/s1585014.jpg,49.00,2006-1,7.4,50,3,24,21,1,1,96,49,274,https://book.douban.com/subject/1504286/,UE
+Change by Design,TimBrown,https://img9.doubanio.com/view/subject/s/public/s4245234.jpg,27.99,2009-10-1,7.8,82,23,40,17,1,1,98,53,577,https://book.douban.com/subject/3712207/,UE
+GUI设计禁忌,约翰逊,https://img9.doubanio.com/view/subject/s/public/s1403365.jpg,49.00,2005-2-1,7.3,209,36,89,73,10,1,567,127,1176,https://book.douban.com/subject/1268619/,UE
+設計思考改造世界,TimBrown,https://img1.doubanio.com/view/subject/s/public/s4468217.jpg,360,2010-09-01,8.9,41,24,12,3,1,1,54,32,809,https://book.douban.com/subject/5263559/,UE
+好用型设计,[美]唐纳德·A·诺曼,https://img3.doubanio.com/view/subject/s/public/s26237520.jpg,36.00,2007-10,8.3,260,108,98,49,2,3,373,69,768,https://book.douban.com/subject/2262838/,UE
+Designing with Web Standards (2nd Edition),[美]JeffreyZeldman,https://img3.doubanio.com/view/subject/s/public/s2621712.jpg,44.99,2006-07-06,8.3,26,11,7,6,1,1,37,25,81,https://book.douban.com/subject/1812358/,UE
+写给大家看的设计书（第3版）,[美]RobinWilliams,https://img9.doubanio.com/view/subject/s/public/s23486434.jpg,49.00,2009-1,8.6,11496,5140,4875,1379,80,22,13097,2543,26324,https://book.douban.com/subject/3323633/,UE
+交互设计沉思录,JonKolko,https://img9.doubanio.com/view/subject/s/public/s17505146.jpg,49.00,2012-10-1,7.8,676,172,292,185,23,4,838,319,5446,https://book.douban.com/subject/19934344/,UE
+精通Web Analytics,(美国)(AvinashKaushik)卡希克,https://img3.doubanio.com/view/subject/s/public/s3336660.jpg,48.00,2008,7.4,263,61,103,82,11,6,349,173,1435,https://book.douban.com/subject/3260737/,UE
+一目了然,[美]Jr·RobertHoekman,https://img3.doubanio.com/view/subject/s/public/s8933811.jpg,59.00,2012-3-19,7.8,81,19,40,20,1,1,86,26,368,https://book.douban.com/subject/10537875/,UE
+什么是网页设计,[英]麦克唐纳,https://img1.doubanio.com/view/subject/s/public/s1637028.jpg,78.00,2006-3,7.5,126,27,45,49,4,1,234,62,642,https://book.douban.com/subject/1765779/,UE
+秩序之美,Vinh,https://img3.doubanio.com/view/subject/s/public/s6508251.jpg,35.00,2011-5,7.7,195,51,76,60,7,1,219,57,499,https://book.douban.com/subject/6393626/,UE
+Getting Started with OAuth 2.0,RyanBoyd,https://img3.doubanio.com/view/subject/s/public/s8704321.jpg,22.99,2012-2-29,7.1,18,1,6,9,1,1,21,5,49,https://book.douban.com/subject/7906793/,UE
+精通CSS,[英]AndyBudd,https://img3.doubanio.com/view/subject/s/public/s1876251.jpg,39.00,2006,8.4,939,371,414,139,13,2,1336,260,1167,https://book.douban.com/subject/1898098/,UE
+Designing Interfaces,JeniferTidwell,https://img3.doubanio.com/view/subject/s/public/s7411251.jpg,49.95,2005-11-28,8.7,95,39,45,9,1,1,183,42,319,https://book.douban.com/subject/1455616/,UE
+设计网事,千鸟,https://img3.doubanio.com/view/subject/s/public/s4368013.jpg,38.00,2010-1,7.6,433,106,174,135,12,6,619,176,1209,https://book.douban.com/subject/4233474/,UE
+用户体验要素,JesseJamesGarrett,https://img1.doubanio.com/view/subject/s/public/s6519128.jpg,39.00,2011-7-1,8.3,2978,1164,1301,443,56,14,3436,537,5931,https://book.douban.com/subject/6523997/,UE
+IDEO，设计改变一切,蒂姆•布朗(TimBrown),https://img9.doubanio.com/view/subject/s/public/s6514475.jpg,45.00,2011-5-30,7.5,1109,250,444,351,47,17,1316,422,4370,https://book.douban.com/subject/6522698/,UE
+体验经济,（美）B.约瑟夫·派恩（B.JosephPineⅡ）詹姆斯H.吉尔摩（JamesH.Gilmore）,https://img3.doubanio.com/view/subject/s/public/s8865770.jpg,48.00,2012-3,7.6,165,44,74,41,5,1,189,53,1062,https://book.douban.com/subject/10516877/,UE
+下一站,杨艾祥,https://img9.doubanio.com/view/subject/s/public/s6461354.jpg,28.00,2010-4,5.6,138,10,34,58,19,17,183,50,109,https://book.douban.com/subject/4841570/,UE
+Designing the Obvious,RobertHoekmanJr.,https://img3.doubanio.com/view/subject/s/public/s2985713.jpg,39.99,2006-10-22,8.7,16,6,7,1,1,1,43,11,122,https://book.douban.com/subject/1922035/,UE
+胜于言传：Web内容创作与设计的艺术,罗婷,https://img9.doubanio.com/view/subject/s/public/s27137315.jpg,69.00,2013-11,8.0,17,7,4,4,1,1,22,6,111,https://book.douban.com/subject/25769796/,UE
+众妙之门,SmashingMagazine,https://img3.doubanio.com/view/subject/s/public/s4539433.jpg,55.00,2010-11-01,7.9,337,98,144,89,4,2,485,156,1145,https://book.douban.com/subject/5351808/,UE
+系统化思维导论（银年纪念版）,[美]杰拉尔德·温伯格,https://img9.doubanio.com/view/subject/s/public/s9842795.jpg,29.80,2003-1,8.5,353,164,133,42,13,1,447,185,4116,https://book.douban.com/subject/1137278/,UE
+认知与设计,JeffJohnson,https://img1.doubanio.com/view/subject/s/public/s27338939.jpg,69.00,2014-8-1,8.8,414,219,149,43,1,2,441,105,1636,https://book.douban.com/subject/25932290/,UE
+最好的UI设计师,颜伟,https://img3.doubanio.com/view/subject/s/public/s29770023.jpg,79.00,2018-6-1,8.0,35,14,16,2,2,1,38,6,71,https://book.douban.com/subject/30224253/,UE
+精通JavaScript,JohnResig,https://img3.doubanio.com/view/subject/s/public/s25000520.jpg,49.00,2008-4-1,8.6,412,177,185,45,4,1,598,167,921,https://book.douban.com/subject/3007076/,UE
+计较，是贫穷的开始,周春明,https://img3.doubanio.com/view/subject/s/public/s6124933.jpg,22.80,2010-2,7.6,194,53,71,60,7,3,225,47,492,https://book.douban.com/subject/4254789/,UE
+用户体验多面手,LeahBuley,https://img3.doubanio.com/view/subject/s/public/s27668622.jpg,49.90,2014-11-20,7.8,136,36,63,32,4,1,154,28,933,https://book.douban.com/subject/26142616/,UE
+设计心理学2,[美]唐纳德·A·诺曼,https://img1.doubanio.com/view/subject/s/public/s6860869.jpg,38.00,2011-8-1,7.9,816,187,405,202,19,3,949,261,1564,https://book.douban.com/subject/6750510/,UE
+黑客与画家,[美]保罗·格雷厄姆,https://img9.doubanio.com/view/subject/s/public/s4669554.jpg,49.00,2011-4,8.7,17929,8822,7011,1900,161,35,20796,3792,27223,https://book.douban.com/subject/6021440/,UE
+Web导航设计,JamesKalbach,https://img3.doubanio.com/view/subject/s/public/s3378240.jpg,69.80,2009 年3月,8.1,250,81,120,43,4,2,456,167,1571,https://book.douban.com/subject/3313897/,UE
+卡片分类,[澳]唐纳·斯宾塞(DonnaSpencer),https://img1.doubanio.com/view/subject/s/public/s4595649.jpg,39.00,2010-9,7.1,96,14,34,44,3,1,115,32,339,https://book.douban.com/subject/5271603/,UE
+腾讯网UED体验设计之旅,任婕等,https://img3.doubanio.com/view/subject/s/public/s28041380.jpg,99.00,2015-4,6.9,200,20,55,99,21,5,223,56,634,https://book.douban.com/subject/26359327/,UE
+设计心理学,[美]唐纳德·A·诺曼,https://img1.doubanio.com/view/subject/s/public/s9491387.jpg,30.00,2010-03,8.1,2966,939,1429,546,44,8,3489,1155,8455,https://book.douban.com/subject/4606471/,UE
+人机交互,董建明,https://img9.doubanio.com/view/subject/s/public/s2529925.jpg,29.0,2007-5,6.8,104,23,28,42,9,2,193,42,223,https://book.douban.com/subject/2115239/,UE
+认知与设计,JeffJohnson,https://img3.doubanio.com/view/subject/s/public/s28035813.jpg,59.00,2011-9-1,8.7,1527,686,625,200,12,4,1798,605,6425,https://book.douban.com/subject/6792322/,UE
+About Face 2.0,AlanCooper,https://img3.doubanio.com/view/subject/s/public/s1319831.jpg,35.00,2003-3-17,8.9,92,40,39,11,1,1,148,68,476,https://book.douban.com/subject/1313472/,UE
+About Face 4: 交互设计精髓,[美]艾伦·库伯,https://img9.doubanio.com/view/subject/s/public/s29011584.jpg,118.00,2015-10,8.6,716,361,256,74,10,15,557,574,3019,https://book.douban.com/subject/26642302/,UE
+失控,[美]凯文·凯利,https://img3.doubanio.com/view/subject/s/public/s4554820.jpg,88.00,2010-12,8.7,14947,7796,4968,1780,269,134,14409,10909,69449,https://book.douban.com/subject/5375620/,UE
+妙手回春,[美]SteveKrug,https://img9.doubanio.com/view/subject/s/public/s4428826.jpg,39.00,2010-7,7.5,202,43,95,56,6,2,325,65,632,https://book.douban.com/subject/4926083/,UE
+众妙之门,SmashingMagazine,https://img9.doubanio.com/view/subject/s/public/s26040266.jpg,59.00,2013-4,8.1,56,20,21,13,1,1,72,25,293,https://book.douban.com/subject/23008807/,UE
+Understanding Your Users,CatherineCourage,https://img3.doubanio.com/view/subject/s/public/s1663670.jpg,59.95,2004-12-28,8.3,97,35,38,22,1,1,207,120,238,https://book.douban.com/subject/1793267/,UE
+将心注入,[美]霍华德·舒尔茨,https://img9.doubanio.com/view/subject/s/public/s2006174.jpg,25.00,2010-03,8.3,2186,790,1001,363,30,2,2723,477,6102,https://book.douban.com/subject/1499783/,UE
+随意搜寻,[美]PeterMorville,https://img1.doubanio.com/view/subject/s/public/s27091978.jpg,68.00,2013-10-1,8.2,223,90,81,45,6,1,251,61,2205,https://book.douban.com/subject/25746680/,UE
+Google API大全,《GoogleAPI大全》编委会编,https://img3.doubanio.com/view/subject/s/public/s6029162.jpg,69.80,2009-6,7.3,97,31,28,27,9,2,132,63,719,https://book.douban.com/subject/3764948/,UE
+Web表单设计,CarolineJarrett,https://img3.doubanio.com/view/subject/s/public/s4614580.jpg,35.00,2011-3,7.3,70,16,27,20,6,1,123,44,364,https://book.douban.com/subject/5951504/,UE
+娱乐至死 童年的消逝,[美]尼尔·波兹曼,https://img9.doubanio.com/view/subject/s/public/s3764674.jpg,34.00,2009-5,8.7,8164,3849,3482,776,49,8,9577,2231,12434,https://book.douban.com/subject/3711709/,UE
+瞬间之美,[美]Jr·RobertHoekman,https://img9.doubanio.com/view/subject/s/public/s4190255.jpg,45.00,2009-7,8.0,2112,558,1064,463,23,4,2721,580,4205,https://book.douban.com/subject/3886044/,UE
+潜移默化,CennyddBowles,https://img1.doubanio.com/view/subject/s/public/s6401937.jpg,36.00,2011-6-10,7.9,111,25,54,30,1,1,147,52,541,https://book.douban.com/subject/6439419/,UE
+软件观念革命,[美]AlanCooper,https://img9.doubanio.com/view/subject/s/public/s1554354.jpg,89.00,2005-05-01,8.7,456,205,174,68,5,4,749,249,2597,https://book.douban.com/subject/1392475/,UE
+iPhone用户界面设计典型实例,[美]DavidBarnard,https://img9.doubanio.com/view/subject/s/public/s6484834.jpg,45.00,2011-6,6.9,54,7,20,22,4,1,81,38,142,https://book.douban.com/subject/6435579/,UE
+Information Architecture for the World Wide Web,PeterMorville,https://img3.doubanio.com/view/subject/s/public/s7113771.jpg,39.99,2006-12-4,8.3,78,29,36,10,2,1,178,45,382,https://book.douban.com/subject/1878625/,UE
+About Face 3：交互设计精髓,[美]艾伦·库伯,https://img3.doubanio.com/view/subject/s/public/s28034473.jpg,98.00,2012-3-1,8.8,485,258,181,41,4,1,496,363,2273,https://book.douban.com/subject/10557282/,UE
+网站重构,[美]JeffreyZeldman,https://img9.doubanio.com/view/subject/s/public/s2162724.jpg,38.00,2005-4,7.8,834,236,355,220,20,3,1503,202,1229,https://book.douban.com/subject/1230451/,UE
+软件创新之路,[美]AlanCooper,https://img9.doubanio.com/view/subject/s/public/s1430015.jpg,28.00,2001-2,8.5,155,67,48,38,1,1,276,134,400,https://book.douban.com/subject/1237849/,UE
+About Face 3 交互设计精髓,AlanCooper,https://img3.doubanio.com/view/subject/s/public/s3340712.jpg,72.00,2008-11,8.6,1312,619,518,156,14,5,1501,926,6956,https://book.douban.com/subject/3279105/,UE
+工程心理学与人的作业,C・D・威肯斯,https://img3.doubanio.com/view/subject/s/public/s1326191.jpg,66.00,2003-4,8.0,44,16,17,9,1,1,59,32,251,https://book.douban.com/subject/1277926/,UE
+Flex程序设计,CharlesEBrown,https://img1.doubanio.com/view/subject/s/public/s2981347.jpg,55.00,2008,7.0,21,2,6,11,1,1,26,2,30,https://book.douban.com/subject/3021255/,UE
+设计心理学,DonaldNorman,https://img9.doubanio.com/view/subject/s/public/s1915036.jpg,23.00,2003-10-1,8.2,3781,1252,1770,688,56,15,5447,1539,20005,https://book.douban.com/subject/1288844/,UE
+不止情感设计,陈华,https://img9.doubanio.com/view/subject/s/public/s28077646.jpg,59.00,2015-5-21,6.1,14,1,4,2,6,1,15,3,31,https://book.douban.com/subject/26394924/,UE
+Observing the User Experience,MikeKuniavsky,https://img9.doubanio.com/view/subject/s/public/s8721704.jpg,42.99,2003-5-22,8.5,34,15,12,5,1,1,80,25,364,https://book.douban.com/subject/1441403/,UE
+用户体验草图设计,比尔·巴克斯顿,https://img3.doubanio.com/view/subject/s/public/s4116660.jpg,168.00,2009-11,7.6,614,166,244,184,17,3,955,462,3821,https://book.douban.com/subject/4201552/,UE
+设计师要懂心理学,[美]SusanWeinschenk,https://img9.doubanio.com/view/subject/s/public/s26251595.jpg,49.00,2013-5-1,7.6,1453,337,630,429,46,11,1632,372,5902,https://book.douban.com/subject/23708491/,UE
+众妙之门,SmashingMagazine网站,https://img3.doubanio.com/view/subject/s/public/s9071823.jpg,59.00,2012-4,7.7,97,22,38,30,6,1,122,65,426,https://book.douban.com/subject/10575920/,UE
+平面设计师职场调研手册,简·维索基·欧格雷蒂,https://img3.doubanio.com/view/subject/s/public/s5877461.jpg,88.00,2008-1,7.9,64,17,27,18,1,1,68,26,142,https://book.douban.com/subject/3003591/,UE
+天生是个审美的人,何多苓,https://img3.doubanio.com/view/subject/s/public/s7006912.jpg,39.00,2011-10,8.3,168,45,97,23,2,1,228,34,1292,https://book.douban.com/subject/6967955/,UE
+无懈可击的Web设计,DanCederholm,https://img1.doubanio.com/view/subject/s/public/s1953759.jpg,49.80,2006,8.1,400,135,184,77,2,2,565,126,886,https://book.douban.com/subject/1937913/,UE
+Designing Web Interfaces,BillScott,https://img3.doubanio.com/view/subject/s/public/s3563593.jpg,49.99,2009,8.6,52,23,20,7,1,1,94,28,228,https://book.douban.com/subject/3436963/,UE
+认知与设计,JeffJohnson,https://img3.doubanio.com/view/subject/s/public/s28035813.jpg,59.00,2011-9-1,8.7,1525,684,624,201,12,4,1797,605,6426,https://book.douban.com/subject/6792322/,UE
+可用性工程,尼尔森,https://img3.doubanio.com/view/subject/s/public/s1607782.jpg,28.00,2004-1,8.1,321,94,150,69,7,1,587,139,1420,https://book.douban.com/subject/1185932/,UE
+Mental Models,IndiYoung,https://img3.doubanio.com/view/subject/s/public/s7617870.jpg,39.00,2008-2-15,6.6,68,15,19,32,1,1,69,52,221,https://book.douban.com/subject/3052851/,UE
+网页设计解析,周陟,https://img1.doubanio.com/view/subject/s/public/s3680719.jpg,62.00,2009-3,6.8,84,14,26,28,10,6,95,34,198,https://book.douban.com/subject/3618849/,UE
+身体语言密码,（英）皮斯　等著，王甜甜黄佼　译,https://img3.doubanio.com/view/subject/s/public/s2830253.jpg,39.00,2007-12,7.9,2309,610,1093,566,34,6,2753,691,5933,https://book.douban.com/subject/2341848/,UE
+点石成金,[美]史蒂夫·克鲁克,https://img9.doubanio.com/view/subject/s/public/s1723386.jpg,39.00,2006-8,8.5,6578,2612,2895,980,72,19,9125,1399,13352,https://book.douban.com/subject/1827702/,UE
+Designing Interactions,BillMoggridge,https://img1.doubanio.com/view/subject/s/public/s7037768.jpg,30.95,2006-11-24,9.0,501,261,166,72,1,1,774,505,4391,https://book.douban.com/subject/1894206/,UE
+人本界面,（美）拉斯基（JefRaskin）,https://img3.doubanio.com/view/subject/s/public/s1106501.jpg,28.0,2004-1-1,7.9,154,51,61,36,4,2,377,88,1074,https://book.douban.com/subject/1138771/,UE
+触动人心,JoshClark,https://img1.doubanio.com/view/subject/s/public/s6951937.jpg,79.00,2011-10,8.4,1049,389,472,173,12,3,1242,427,4366,https://book.douban.com/subject/6864391/,UE
+微交互,塞弗(DanSaffer),https://img9.doubanio.com/view/subject/s/public/s27261016.jpg,35.00,2013-11-1,7.5,342,57,188,85,8,4,386,69,929,https://book.douban.com/subject/25744600/,UE
+Web设计禁忌,JeffJohnson,https://img3.doubanio.com/view/subject/s/public/s1550840.jpg,38.00,2006-2,7.0,200,33,65,90,10,2,491,127,806,https://book.douban.com/subject/1737592/,UE
+移动设计,傅小贞,https://img3.doubanio.com/view/subject/s/public/s26714692.jpg,69.00,2013-7-1,7.7,489,121,218,115,18,17,507,176,1013,https://book.douban.com/subject/24753137/,UE
+交互设计指南,DanSaffer,https://img3.doubanio.com/view/subject/s/public/s4388772.jpg,33.00,2010年7月,7.7,283,60,133,84,5,1,402,142,1034,https://book.douban.com/subject/4881989/,UE
+设计调研,戴力农,https://img3.doubanio.com/view/subject/s/public/s27233680.jpg,49.00,2014-4,7.4,213,55,83,59,13,3,233,86,896,https://book.douban.com/subject/25842108/,UE
+用户体验草图设计,巴克斯顿(BillBuxton),https://img9.doubanio.com/view/subject/s/public/s27979206.jpg,188.00,2012-3-1,7.9,81,25,29,22,4,1,97,41,468,https://book.douban.com/subject/10542579/,UE
+JavaScript DOM编程艺术,[英]JeremyKeith,https://img3.doubanio.com/view/subject/s/public/s1958902.jpg,39.00,2006年12月,8.7,1148,560,440,140,3,5,1500,336,2090,https://book.douban.com/subject/1921890/,UE
+移动应用UI设计模式,[美]TheresaNeil,https://img9.doubanio.com/view/subject/s/public/s24230856.jpg,49.00,2013-1-1,7.3,364,51,157,136,16,4,438,125,1373,https://book.douban.com/subject/20381558/,UE
+iPhone应用用户体验设计实战与案例,SuzanneGinsburg,https://img3.doubanio.com/view/subject/s/public/s6343852.jpg,79.00,2011-6,7.9,99,34,33,24,7,1,126,62,466,https://book.douban.com/subject/6398078/,UE
+重来,[美]贾森·弗里德,https://img3.doubanio.com/view/subject/s/public/s4502451.jpg,36.00,2010-10,8.3,7023,2613,2915,1292,154,49,8310,1278,14733,https://book.douban.com/subject/5320866/,UE
+User-Centered Web Design,JohnCato,https://img9.doubanio.com/view/subject/s/public/s1995286.jpg,39.99,2001,7.5,35,7,14,12,1,1,169,44,29,https://book.douban.com/subject/1967469/,UE
+设计中的设计,[日]原研哉,https://img3.doubanio.com/view/subject/s/public/s2165932.jpg,48.00,2006-11,8.6,28785,12551,12609,3396,172,57,38101,7163,54190,https://book.douban.com/subject/1941558/,UE
+细节决定交互设计的成败,张亮,https://img1.doubanio.com/view/subject/s/public/s3720349.jpg,49.00,2009-3,7.1,106,23,31,45,6,1,232,50,345,https://book.douban.com/subject/3639503/,UE
+就这么简单,向怡宁,https://img1.doubanio.com/view/subject/s/public/s3146709.jpg,79.00,2008-06-01,7.5,249,58,107,72,11,1,441,76,648,https://book.douban.com/subject/3118374/,UE
+重塑用户体验,[美]威尔森,https://img1.doubanio.com/view/subject/s/public/s4405329.jpg,49.00,2010-7,7.9,72,18,33,18,2,1,213,55,514,https://book.douban.com/subject/4903260/,UE
+赢在设计,[美]洛芙迪(LanceLoveday),https://img3.doubanio.com/view/subject/s/public/s4428821.jpg,55.00,2010-8,8.0,117,36,49,27,4,1,311,65,575,https://book.douban.com/subject/4924293/,UE
+Now You See It,StephenFew,https://img1.doubanio.com/view/subject/s/public/s4241928.jpg,45.00,2009-4-1,7.6,23,10,4,7,1,1,36,14,173,https://book.douban.com/subject/3815834/,UE
+Measuring the User Experience,ThomasTullis,https://img3.doubanio.com/view/subject/s/public/s3394431.jpg,49.95,2008-03-31,8.5,113,37,44,30,1,1,158,74,344,https://book.douban.com/subject/3326182/,UE
+Web软件用户界面设计指南,林锐,https://img1.doubanio.com/view/subject/s/public/s1408328.jpg,20.00,2005-5-1,7.0,47,13,14,15,3,2,109,22,143,https://book.douban.com/subject/1246807/,UE
+赢在用户,[美]SteveMulder,https://img3.doubanio.com/view/subject/s/public/s25503752.jpg,29.00,2007-08-01,8.0,1162,324,549,270,17,2,1818,572,5952,https://book.douban.com/subject/2157554/,UE
+方寸指间,无线工坊,https://img3.doubanio.com/view/subject/s/public/s27216062.jpg,48,2014-3,7.9,291,79,123,68,19,2,332,44,584,https://book.douban.com/subject/25817261/,UE
+高性能网站建设指南,SteveSouders,https://img9.doubanio.com/view/subject/s/public/s5914296.jpg,35.00,2008年,8.5,976,408,442,124,1,1,1335,247,2743,https://book.douban.com/subject/3132277/,UE
+怦然心动——情感化交互设计指南（修订版）,[美]StephenP.Anderson,https://img1.doubanio.com/view/subject/s/public/s28023067.jpg,49.00,2015-3,6.7,49,5,21,18,4,1,62,12,226,https://book.douban.com/subject/26340963/,UE
+The Humane Interface,JefRaskin,https://img9.doubanio.com/view/subject/s/public/s4244115.jpg,49.99,2000-4-8,7.5,13,3,2,6,1,1,24,8,161,https://book.douban.com/subject/1467740/,UE
+社会心理学,阿伦森,https://img9.doubanio.com/view/subject/s/public/s1669876.jpg,65.00,2005-8,9.1,202,128,60,12,1,1,252,52,1459,https://book.douban.com/subject/1483907/,UE
+设计调研（第2版）,戴力农,https://img3.doubanio.com/view/subject/s/public/s28914463.jpg,69.00,2016-8,7.2,35,10,15,6,3,1,39,19,148,https://book.douban.com/subject/26841181/,UE
+构建可扩展的Web站点,CalHenderson,https://img3.doubanio.com/view/subject/s/public/s2966683.jpg,58.00,2008,8.0,306,71,157,71,4,3,444,104,1288,https://book.douban.com/subject/3039216/,UE
+Web Form Design,[美]LukeWroblewski,https://img9.doubanio.com/view/subject/s/public/s6828305.jpg,25.00,2008-5-2,8.7,65,22,33,8,1,1,90,34,285,https://book.douban.com/subject/3063496/,UE
+UCD火花集2,UCDChina,https://img9.doubanio.com/view/subject/s/public/s4707655.jpg,35.00,2011-4,6.9,525,61,201,218,35,10,734,189,1108,https://book.douban.com/subject/6114207/,UE
+系统化思维导论（银年纪念版）,[美]杰拉尔德·温伯格,https://img9.doubanio.com/view/subject/s/public/s9842795.jpg,29.80,2003-1,8.5,353,164,133,42,13,1,447,185,4115,https://book.douban.com/subject/1137278/,UE
+结网,王坚,https://img3.doubanio.com/view/subject/s/public/s4551081.jpg,59.00,2010-12-10,8.1,1560,448,776,309,18,9,1853,394,2155,https://book.douban.com/subject/5376384/,UE
+破茧成蝶,刘津,https://img9.doubanio.com/view/subject/s/public/s27312255.jpg,69.00,2014-7,8.5,1578,640,725,184,20,9,1703,333,3324,https://book.douban.com/subject/25915629/,UE
+电子商务大赢家,唐纳休,https://img3.doubanio.com/view/subject/s/public/s1881793.jpg,28.00,2006-7,6.6,40,10,6,18,5,1,79,15,165,https://book.douban.com/subject/1845594/,UE
+CSS网站布局实录,李超,https://img1.doubanio.com/view/subject/s/public/s1824067.jpg,32.0,2006-9,8.1,453,147,200,96,9,1,696,138,746,https://book.douban.com/subject/1873926/,UE
+启示录,[美]MartyCagan,https://img3.doubanio.com/view/subject/s/public/s6474670.jpg,36.00,2011-5,8.5,6542,2768,2755,922,78,19,7539,1813,17912,https://book.douban.com/subject/5914587/,UE
+The Visual Display of Quantitative Information,EdwardR.Tufte,https://img3.doubanio.com/view/subject/s/public/s3535412.jpg,40.00,2001-1,9.1,183,104,64,13,1,1,225,119,2176,https://book.douban.com/subject/1316642/,UE
+应需而变,PeterMerholz,https://img3.doubanio.com/view/subject/s/public/s3722651.jpg,29.00,2009,7.6,341,66,159,108,6,2,513,138,1630,https://book.douban.com/subject/3665205/,UE
+体验设计白书,张玳,https://img1.doubanio.com/view/subject/s/public/s28984259.jpg,49.00,2016-8,8.6,108,53,38,13,3,1,114,24,641,https://book.douban.com/subject/26857698/,UE
