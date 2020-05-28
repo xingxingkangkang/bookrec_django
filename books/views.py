@@ -5,6 +5,7 @@ from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
 from sklearn.externals import joblib
 import numpy as np
+from django.db.models import Count
 from books.models import Book, History
 from django.utils import timezone
 
@@ -153,6 +154,67 @@ def history(request):
                 "code": 400,
                 "message": "您还未登录，请先登录后才可以查看"
             })
+
+
+@csrf_exempt
+def count(request):
+    if request.method == 'GET':
+        username = request.GET.get('username')
+        users = History.objects.filter(name=username)
+        readall = len(users)
+        now = timezone.datetime.now()
+        start = now - timezone.timedelta(hours=23, minutes=59, seconds=59)
+        us = History.objects.filter(name=username).filter(time__gt=start)
+        read = len(us)
+        return JsonResponse({
+            "code": 200,
+            "read": read,
+            "readall": readall
+        })
+
+
+@csrf_exempt
+def hot(request):
+    now = timezone.datetime.now()
+    start = now - timezone.timedelta(hours=23, minutes=59, seconds=59)
+    us = History.objects.filter(time__gt=start)
+    print(len(us))
+    # tmp = History.objects.filter(time__gt=start).annotate(click=Count("img")).order_by("click")
+    tmp = History.objects.filter(time__gt=start).values("img").annotate(click=Count("img")).order_by("-click")
+    res = dict()
+    res['code'] = 200
+    # res['size'] = books.count()
+    res['book_detail'] = dict()
+    cnt = 0
+    for i in tmp:
+        img = i["img"]
+        book = Book.objects.filter(img=img)[0]
+        res['book_detail'][cnt] = dict()
+        res['book_detail'][cnt]['click'] = i["click"]
+        res['book_detail'][cnt]['id'] = book.id
+        res['book_detail'][cnt]['name'] = book.name
+        res['book_detail'][cnt]['author'] = book.author
+        res['book_detail'][cnt]['img'] = book.img
+        res['book_detail'][cnt]['price'] = book.price
+        res['book_detail'][cnt]['score'] = book.score
+        res['book_detail'][cnt]['publish_time'] = book.publish_time
+        res['book_detail'][cnt]['judge'] = book.judge
+        res['book_detail'][cnt]['rec_most'] = book.rec_most
+        res['book_detail'][cnt]['rec_more'] = book.rec_more
+        res['book_detail'][cnt]['rec_normal'] = book.rec_normal
+        res['book_detail'][cnt]['rec_bad'] = book.rec_bad
+        res['book_detail'][cnt]['rec_morebad'] = book.rec_morebad
+        res['book_detail'][cnt]['readed'] = book.readed
+        res['book_detail'][cnt]['reading'] = book.reading
+        res['book_detail'][cnt]['readup'] = book.readup
+        res['book_detail'][cnt]['mess'] = book.mess
+        cnt = cnt + 1
+    res['size'] = cnt
+    return JsonResponse({
+        "code": 200,
+        "data": res,
+        "size": cnt
+    })
 
 
 @csrf_exempt
