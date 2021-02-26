@@ -1,5 +1,5 @@
 aiocontextvars==0.2.2
-aiohttp==3.6.2
+aiohttp==3.7.4
 alabaster==0.7.10
 anaconda-client==1.6.9
 anaconda-navigator==1.7.0
