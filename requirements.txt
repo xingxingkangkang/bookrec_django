@@ -139,7 +139,7 @@ ply==3.10
 prompt-toolkit==1.0.15
 Protego==0.1.16
 psutil==5.4.3
-py==1.5.2
+py==1.10.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
 pycodestyle==2.3.1
